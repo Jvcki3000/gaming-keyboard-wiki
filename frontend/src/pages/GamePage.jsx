@@ -1,11 +1,14 @@
+import { useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import { PageHeader, StarRating, TagChip } from '../components/Ui';
+import Markdown from '../components/Markdown';
 import { gameById, productById } from '../lib/data';
 
 export default function GamePage() {
   const { gameId } = useParams();
   const game = gameById.get(gameId);
+  const [sortBy, setSortBy] = useState('brand');
 
   if (!game) {
     return (
@@ -18,11 +21,18 @@ export default function GamePage() {
     );
   }
 
-  const rows = game.related.map((item) => ({
-    product: productById.get(item.productId),
-    rating: item.rating,
-    note: item.note,
-  })).filter((row) => row.product);
+  const rows = game.related
+    .map((item) => ({
+      product: productById.get(item.productId),
+      rating: item.rating,
+      note: item.note,
+    }))
+    .filter((row) => row.product);
+  const sortedRows = [...rows].sort((a, b) =>
+    sortBy === 'rating'
+      ? b.rating - a.rating
+      : a.product.brand.localeCompare(b.product.brand, 'zh') || a.product.title.localeCompare(b.product.title, 'zh'),
+  );
 
   return (
     <div className="page container">
@@ -36,15 +46,30 @@ export default function GamePage() {
           <TagChip key="count">{game.related.length} 个适配产品</TagChip>,
         ]}
       />
+      {game.content ? (
+        <section className="wiki-section">
+          <Markdown>{game.content}</Markdown>
+        </section>
+      ) : null}
       <div className="page-section">
         <div className="section-head">
           <div>
             <div className="section-eyebrow">适配产品</div>
             <h2>产品评分与说明</h2>
           </div>
-          <span className="result-count">平均 {game.avg ? game.avg.toFixed(1) : '—'} / 5</span>
+          <div className="section-head-actions">
+            <span className="result-count">平均 {game.avg ? game.avg.toFixed(1) : '—'} / 5</span>
+            <div className="sort-seg" role="group" aria-label="排序方式">
+              <button type="button" className={sortBy === 'brand' ? 'is-active' : ''} onClick={() => setSortBy('brand')}>
+                按品牌
+              </button>
+              <button type="button" className={sortBy === 'rating' ? 'is-active' : ''} onClick={() => setSortBy('rating')}>
+                按评分
+              </button>
+            </div>
+          </div>
         </div>
-        {rows.length > 0 ? (
+        {sortedRows.length > 0 ? (
           <div className="related-table">
             <div className="related-row is-head">
               <span>产品</span>
@@ -52,7 +77,7 @@ export default function GamePage() {
               <span>适配评分</span>
               <span>说明</span>
             </div>
-            {rows.map((row) => (
+            {sortedRows.map((row) => (
               <Link className="related-row" to={`/keyboards/${row.product.id}`} key={row.product.id}>
                 <span className="related-row-title">
                   {row.product.title} <ArrowUpRight size={14} />

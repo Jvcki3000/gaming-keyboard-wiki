@@ -1,6 +1,7 @@
 import { Link, useParams } from 'react-router-dom';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import { PageHeader, StarRating, TagChip } from '../components/Ui';
+import Markdown from '../components/Markdown';
 import { productById, techById } from '../lib/data';
 
 export default function TechPage() {
@@ -28,6 +29,11 @@ export default function TechPage() {
         description={term.description}
         actions={<TagChip tone="orange">{term.category}</TagChip>}
       />
+      {term.content ? (
+        <section className="wiki-section">
+          <Markdown>{term.content}</Markdown>
+        </section>
+      ) : null}
       <div className="page-section">
         <div className="section-head">
           <div>

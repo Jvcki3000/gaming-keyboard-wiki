@@ -5,6 +5,7 @@
   "category": "FPS",
   "priority": "P0",
   "description": "FPS 代表作，职业选手设备数据丰富；Rapid Trigger 与急停优化在该游戏中的收益最直观。",
+  "content": "## 游戏特点\n\nValorant 是回合制战术射击游戏，对**急停、瞄准与身法操作**并重。玩家需要频繁进行 A/D 反方向切换（Counter-Strafing），因此键盘的重置速度与响应稳定性直接影响操作质量。\n\n## 键盘需求\n\n| 需求 | 说明 |\n| --- | --- |\n| 急停响应 | Rapid Trigger 可将按键重置缩短到 1–2ms 量级 |\n| 配列 | 60% / 65% / TKL 为职业选手主流选择 |\n| 轴体 | 磁轴 / 光轴等模拟轴体更有利于可调触发与快速重置 |\n| 回报率 | 8000Hz 高端键盘在响应上更具优势 |\n\n## 职业赛场装备观察\n\n- Wooting 60HE+ 是 Valorant 职业选手中使用率最高的键盘之一\n- Razer Huntsman V3 Pro TKL 在 2024 年 12 月被 Prosettings.net 评为职业选手使用率第一的键盘\n- 磁轴 + Rapid Trigger 在职业赛场渗透率持续上升\n\n## 推荐产品\n\n优先关注下方「适配产品」中评分 ★★★★★ 的磁轴 / 光轴键盘，如 Wooting 60HE+、Razer Huntsman V3 Pro TKL、SteelSeries Apex Pro Gen 3。",
   "related": [
    {
     "productId": "wooting--wooting-60he",
@@ -303,6 +304,7 @@
   "category": "FPS",
   "priority": "P0",
   "description": "FPS 代表作，急停、连射与身法操作高度依赖键盘重置速度，磁轴键盘在职业赛场渗透率持续上升。",
+  "content": "## 游戏特点\n\nCounter-Strike 2 是回合制战术射击游戏，核心操作包括**急停（Counter-Strafing）、连射与身法**。急停要求松开 A 的同时按下 D 并立即稳定准星，键盘的重置速度直接影响这一过程。\n\n## 键盘需求\n\n| 需求 | 说明 |\n| --- | --- |\n| 重置速度 | Rapid Trigger 让急停重置接近瞬时 |\n| 连射稳定性 | 高回报率与低延迟保证连续输入一致 |\n| 配列 | TKL / 60% 为职业赛场主流，为鼠标留出空间 |\n| 轴体 | 磁轴方案（Lekker、OmniPoint、HFX、MGX 等）表现突出 |\n\n## 职业赛场装备观察\n\n- Wooting 60HE+ 是 CS2 职业赛场主流选择之一\n- Logitech G PRO X TKL 在 2024 年成为 CS2 职业赛场上使用率最高的无线键盘之一\n- Razer Huntsman V3 Pro TKL 长期位列职业选手高使用率键盘\n\n## 推荐产品\n\n优先关注下方「适配产品」中评分 ★★★★★ 的键盘，如 Wooting 60HE+、Wooting 80HE、Logitech G PRO X TKL、Razer Huntsman V3 Pro TKL。",
   "related": [
    {
     "productId": "wooting--wooting-60he",

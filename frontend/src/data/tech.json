@@ -10,6 +10,7 @@
    "快速触发",
    "RT"
   ],
+  "content": "## 技术原理\n\nRapid Trigger（快速触发）将按键的触发与重置都绑定到按键的**动态行程**上：按键触发后，只要检测到按键向上移动（手指开始松开），键盘立即完成重置，无需等待按键回到固定重置点。这使得连续触发间隔从传统键盘的 20–30ms 缩短到 1–2ms 量级。\n\n## 核心参数\n\n| 参数 | 说明 |\n| --- | --- |\n| 可调触发点 | 常见范围 0.1mm – 4.0mm，逐键可调 |\n| RT 精度 | 高端磁轴可达 0.001mm – 0.01mm |\n| 回报率 | 1000Hz – 16KHz，配合低延迟主控 |\n| 扫描率 | 高端方案可达 256KHz |\n\n## 适用场景\n\n- **FPS 急停（Counter-Strafing）**：松开 A 的同时按下 D，Rapid Trigger 让重置速度接近瞬时，急停更稳定\n- **连续射击**：快速连射类武器可显著提高射速\n- **身法操作**：连跳、滑铲等高频按键操作受益明显\n\n## 厂商实现\n\n| 厂商 | 实现名称 |\n| --- | --- |\n| Wooting | Rapid Trigger（首创） |\n| Razer | Rapid Trigger Mode |\n| SteelSeries | Rapid Trigger |\n| ASUS ROG | Rapid Trigger |\n| Corsair | Rapid Trigger |\n| MCHOSE | 狂暴模式 / RT 模式 |\n| ATK | RT 模式 |\n\n## 代表产品\n\nWooting 60HE+、Wooting 80HE、Razer Huntsman V3 Pro TKL、SteelSeries Apex Pro Gen 3、ASUS ROG 魔导士 Ace HFX、Corsair K70 PRO TKL、MCHOSE Ace 68 Turbo、ATK RS7 Turbo、VGN 闪电68。",
   "related": [
    {
     "id": "wooting--wooting-60he",
@@ -246,6 +247,7 @@
    "HFX",
    "MGX"
   ],
+  "content": "## 技术原理\n\n霍尔效应轴体由**磁铁**与**霍尔传感器**组成：按键按下时，磁铁靠近传感器，磁场强度发生变化，传感器据此输出与行程对应的模拟信号。由于采用非接触式触发，没有金属触点氧化与磨损问题，理论寿命极长。\n\n## 核心参数\n\n| 参数 | 说明 |\n| --- | --- |\n| 触发方式 | 非接触式磁场检测 |\n| 可调触发点 | 常见 0.1mm – 4.0mm |\n| 模拟输入 | 可感知完整行程，支持模拟输出 |\n| 轴体寿命 | 常见 1 亿次级别 |\n\n## 主要轴体家族\n\n| 品牌 | 轴体 / 方案 |\n| --- | --- |\n| Wooting | Lekker（L45 / L60 / Tikken / V2） |\n| SteelSeries | OmniPoint 3.0 |\n| ASUS ROG | HFX / HFX V2 |\n| Corsair | MGX Hyperdrive / MGX V2 |\n| MCHOSE | 天问方案磁轴、泰山磁轴 GT 等 |\n| ATK | 烈风 ULTRA 磁轴方案 |\n| Logitech G | TMR（穿隧磁阻）磁轴，同属磁轴技术族 |\n\n## 应用场景\n\n- 磁轴电竞键盘：Rapid Trigger、SOCD 等竞技功能的基础\n- 模拟输入：赛车游戏油门 / 刹车、动态键程等\n- 可调手感：逐键设置触发点，兼顾游戏与打字\n\n## 代表产品\n\nWooting 60HE+、SteelSeries Apex Pro Gen 3、ASUS ROG 魔导士 Ace HFX、ASUS ROG 夜魔 98 HE、Corsair K70 PRO TKL、MCHOSE Ace 68 Turbo、ATK RS7 V2、Logitech G G512 X。",
   "related": [
    {
     "id": "wooting--wooting-60he",
@@ -478,6 +480,7 @@
    "Rapid Tap",
    "FlashTap"
   ],
+  "content": "## 技术原理\n\nSOCD（Simultaneous Opposite Cardinal Directions）处理**相反方向按键同时输入**时的冲突。默认采用 Last Input Wins（最后输入优先）等策略：当 A 与 D 同时按下时，系统自动优先最近一次按下的方向，减少急停失误。\n\n## 厂商实现\n\n| 厂商 | 实现名称 |\n| --- | --- |\n| Razer | Snap Tap |\n| SteelSeries | Rapid Tap |\n| Corsair | FlashTap |\n| Wooting | Rappy Snappy / SOCD |\n| ASUS ROG | Speed Tap |\n| ATK | SOCD |\n\n## 适用场景\n\n- **FPS 急停**：Valorant、CS2 中松开 A 按 D 的急停操作更稳定\n- **身法操作**：移动切换更顺滑\n- **赛事注意**：部分电竞赛事对 SOCD 类功能有限制，参赛前需确认规则\n\n## 代表产品\n\nRazer Huntsman V3 Pro TKL、SteelSeries Apex Pro Gen 3、Corsair K70 PRO TKL、Wooting 60HE+、ASUS ROG 魔导士 Ace HFX、ATK RS7 Turbo。",
   "related": [
    {
     "id": "wooting--wooting-60he",

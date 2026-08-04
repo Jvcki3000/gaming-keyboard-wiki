@@ -559,9 +559,98 @@ function parseBrands() {
 
 function buildTechTerms(products) {
   const seeds = [
-    { id: 'rapid-trigger', name: 'Rapid Trigger', category: '输入技术', priority: 'P0', description: '将按键触发与重置绑定到动态行程，手指开始抬起即完成重置，实现极速连续触发，是磁轴键盘的核心竞技功能。', keywords: ['Rapid Trigger', '快速触发', 'RT'] },
-    { id: 'hall-effect', name: 'Hall Effect（霍尔效应）', category: '轴体技术', priority: 'P0', description: '通过磁铁与霍尔传感器实现非接触触发，可感知完整按键行程并输出模拟信号，是磁轴键盘的技术基础。', keywords: ['Hall Effect', '霍尔效应', '磁轴', 'Magnetic', 'Lekker', 'OmniPoint', 'HFX', 'MGX'] },
-    { id: 'socd', name: 'SOCD', category: '输入技术', priority: 'P0', description: '处理相反方向按键同时输入时的冲突，支持 Last Input Wins 等策略，帮助 FPS 玩家实现更稳定的急停操作。', keywords: ['SOCD', 'Snap Tap', 'Rapid Tap', 'FlashTap'] },
+    { id: 'rapid-trigger', name: 'Rapid Trigger', category: '输入技术', priority: 'P0', description: '将按键触发与重置绑定到动态行程，手指开始抬起即完成重置，实现极速连续触发，是磁轴键盘的核心竞技功能。', keywords: ['Rapid Trigger', '快速触发', 'RT'], content: `## 技术原理
+
+Rapid Trigger（快速触发）将按键的触发与重置都绑定到按键的**动态行程**上：按键触发后，只要检测到按键向上移动（手指开始松开），键盘立即完成重置，无需等待按键回到固定重置点。这使得连续触发间隔从传统键盘的 20–30ms 缩短到 1–2ms 量级。
+
+## 核心参数
+
+| 参数 | 说明 |
+| --- | --- |
+| 可调触发点 | 常见范围 0.1mm – 4.0mm，逐键可调 |
+| RT 精度 | 高端磁轴可达 0.001mm – 0.01mm |
+| 回报率 | 1000Hz – 16KHz，配合低延迟主控 |
+| 扫描率 | 高端方案可达 256KHz |
+
+## 适用场景
+
+- **FPS 急停（Counter-Strafing）**：松开 A 的同时按下 D，Rapid Trigger 让重置速度接近瞬时，急停更稳定
+- **连续射击**：快速连射类武器可显著提高射速
+- **身法操作**：连跳、滑铲等高频按键操作受益明显
+
+## 厂商实现
+
+| 厂商 | 实现名称 |
+| --- | --- |
+| Wooting | Rapid Trigger（首创） |
+| Razer | Rapid Trigger Mode |
+| SteelSeries | Rapid Trigger |
+| ASUS ROG | Rapid Trigger |
+| Corsair | Rapid Trigger |
+| MCHOSE | 狂暴模式 / RT 模式 |
+| ATK | RT 模式 |
+
+## 代表产品
+
+Wooting 60HE+、Wooting 80HE、Razer Huntsman V3 Pro TKL、SteelSeries Apex Pro Gen 3、ASUS ROG 魔导士 Ace HFX、Corsair K70 PRO TKL、MCHOSE Ace 68 Turbo、ATK RS7 Turbo、VGN 闪电68。` },
+    { id: 'hall-effect', name: 'Hall Effect（霍尔效应）', category: '轴体技术', priority: 'P0', description: '通过磁铁与霍尔传感器实现非接触触发，可感知完整按键行程并输出模拟信号，是磁轴键盘的技术基础。', keywords: ['Hall Effect', '霍尔效应', '磁轴', 'Magnetic', 'Lekker', 'OmniPoint', 'HFX', 'MGX'], content: `## 技术原理
+
+霍尔效应轴体由**磁铁**与**霍尔传感器**组成：按键按下时，磁铁靠近传感器，磁场强度发生变化，传感器据此输出与行程对应的模拟信号。由于采用非接触式触发，没有金属触点氧化与磨损问题，理论寿命极长。
+
+## 核心参数
+
+| 参数 | 说明 |
+| --- | --- |
+| 触发方式 | 非接触式磁场检测 |
+| 可调触发点 | 常见 0.1mm – 4.0mm |
+| 模拟输入 | 可感知完整行程，支持模拟输出 |
+| 轴体寿命 | 常见 1 亿次级别 |
+
+## 主要轴体家族
+
+| 品牌 | 轴体 / 方案 |
+| --- | --- |
+| Wooting | Lekker（L45 / L60 / Tikken / V2） |
+| SteelSeries | OmniPoint 3.0 |
+| ASUS ROG | HFX / HFX V2 |
+| Corsair | MGX Hyperdrive / MGX V2 |
+| MCHOSE | 天问方案磁轴、泰山磁轴 GT 等 |
+| ATK | 烈风 ULTRA 磁轴方案 |
+| Logitech G | TMR（穿隧磁阻）磁轴，同属磁轴技术族 |
+
+## 应用场景
+
+- 磁轴电竞键盘：Rapid Trigger、SOCD 等竞技功能的基础
+- 模拟输入：赛车游戏油门 / 刹车、动态键程等
+- 可调手感：逐键设置触发点，兼顾游戏与打字
+
+## 代表产品
+
+Wooting 60HE+、SteelSeries Apex Pro Gen 3、ASUS ROG 魔导士 Ace HFX、ASUS ROG 夜魔 98 HE、Corsair K70 PRO TKL、MCHOSE Ace 68 Turbo、ATK RS7 V2、Logitech G G512 X。` },
+    { id: 'socd', name: 'SOCD', category: '输入技术', priority: 'P0', description: '处理相反方向按键同时输入时的冲突，支持 Last Input Wins 等策略，帮助 FPS 玩家实现更稳定的急停操作。', keywords: ['SOCD', 'Snap Tap', 'Rapid Tap', 'FlashTap'], content: `## 技术原理
+
+SOCD（Simultaneous Opposite Cardinal Directions）处理**相反方向按键同时输入**时的冲突。默认采用 Last Input Wins（最后输入优先）等策略：当 A 与 D 同时按下时，系统自动优先最近一次按下的方向，减少急停失误。
+
+## 厂商实现
+
+| 厂商 | 实现名称 |
+| --- | --- |
+| Razer | Snap Tap |
+| SteelSeries | Rapid Tap |
+| Corsair | FlashTap |
+| Wooting | Rappy Snappy / SOCD |
+| ASUS ROG | Speed Tap |
+| ATK | SOCD |
+
+## 适用场景
+
+- **FPS 急停**：Valorant、CS2 中松开 A 按 D 的急停操作更稳定
+- **身法操作**：移动切换更顺滑
+- **赛事注意**：部分电竞赛事对 SOCD 类功能有限制，参赛前需确认规则
+
+## 代表产品
+
+Razer Huntsman V3 Pro TKL、SteelSeries Apex Pro Gen 3、Corsair K70 PRO TKL、Wooting 60HE+、ASUS ROG 魔导士 Ace HFX、ATK RS7 Turbo。` },
     { id: 'snap-tap', name: 'Snap Tap', category: '输入技术', priority: 'P1', description: 'Razer 的相反按键冲突处理方案，自动优先最近一次按下的方向输入，减少急停失误。', keywords: ['Snap Tap', 'Rapid Tap', 'Razer'] },
     { id: 'omni-point', name: 'OmniPoint', category: '轴体技术', priority: 'P1', description: 'SteelSeries 的可调磁轴方案，支持逐键调节触发点与双重触发功能。', keywords: ['OmniPoint', 'Apex Pro'] },
     { id: 'lightspeed', name: 'LIGHTSPEED', category: '无线技术', priority: 'P1', description: 'Logitech G 的低延迟 2.4GHz 无线传输技术，主打接近有线的稳定性与响应速度。', keywords: ['LIGHTSPEED', 'Logitech G'] },
@@ -581,8 +670,50 @@ function buildTechTerms(products) {
 
 function buildGames(products) {
   const seeds = [
-    { id: 'valorant', name: 'Valorant', category: 'FPS', priority: 'P0', description: 'FPS 代表作，职业选手设备数据丰富；Rapid Trigger 与急停优化在该游戏中的收益最直观。' },
-    { id: 'cs2', name: 'Counter-Strike 2', category: 'FPS', priority: 'P0', description: 'FPS 代表作，急停、连射与身法操作高度依赖键盘重置速度，磁轴键盘在职业赛场渗透率持续上升。' },
+    { id: 'valorant', name: 'Valorant', category: 'FPS', priority: 'P0', description: 'FPS 代表作，职业选手设备数据丰富；Rapid Trigger 与急停优化在该游戏中的收益最直观。', content: `## 游戏特点
+
+Valorant 是回合制战术射击游戏，对**急停、瞄准与身法操作**并重。玩家需要频繁进行 A/D 反方向切换（Counter-Strafing），因此键盘的重置速度与响应稳定性直接影响操作质量。
+
+## 键盘需求
+
+| 需求 | 说明 |
+| --- | --- |
+| 急停响应 | Rapid Trigger 可将按键重置缩短到 1–2ms 量级 |
+| 配列 | 60% / 65% / TKL 为职业选手主流选择 |
+| 轴体 | 磁轴 / 光轴等模拟轴体更有利于可调触发与快速重置 |
+| 回报率 | 8000Hz 高端键盘在响应上更具优势 |
+
+## 职业赛场装备观察
+
+- Wooting 60HE+ 是 Valorant 职业选手中使用率最高的键盘之一
+- Razer Huntsman V3 Pro TKL 在 2024 年 12 月被 Prosettings.net 评为职业选手使用率第一的键盘
+- 磁轴 + Rapid Trigger 在职业赛场渗透率持续上升
+
+## 推荐产品
+
+优先关注下方「适配产品」中评分 ★★★★★ 的磁轴 / 光轴键盘，如 Wooting 60HE+、Razer Huntsman V3 Pro TKL、SteelSeries Apex Pro Gen 3。` },
+    { id: 'cs2', name: 'Counter-Strike 2', category: 'FPS', priority: 'P0', description: 'FPS 代表作，急停、连射与身法操作高度依赖键盘重置速度，磁轴键盘在职业赛场渗透率持续上升。', content: `## 游戏特点
+
+Counter-Strike 2 是回合制战术射击游戏，核心操作包括**急停（Counter-Strafing）、连射与身法**。急停要求松开 A 的同时按下 D 并立即稳定准星，键盘的重置速度直接影响这一过程。
+
+## 键盘需求
+
+| 需求 | 说明 |
+| --- | --- |
+| 重置速度 | Rapid Trigger 让急停重置接近瞬时 |
+| 连射稳定性 | 高回报率与低延迟保证连续输入一致 |
+| 配列 | TKL / 60% 为职业赛场主流，为鼠标留出空间 |
+| 轴体 | 磁轴方案（Lekker、OmniPoint、HFX、MGX 等）表现突出 |
+
+## 职业赛场装备观察
+
+- Wooting 60HE+ 是 CS2 职业赛场主流选择之一
+- Logitech G PRO X TKL 在 2024 年成为 CS2 职业赛场上使用率最高的无线键盘之一
+- Razer Huntsman V3 Pro TKL 长期位列职业选手高使用率键盘
+
+## 推荐产品
+
+优先关注下方「适配产品」中评分 ★★★★★ 的键盘，如 Wooting 60HE+、Wooting 80HE、Logitech G PRO X TKL、Razer Huntsman V3 Pro TKL。` },
     { id: 'apex-legends', name: 'Apex Legends', category: 'FPS', priority: 'P1', description: '快速移动与连射对键盘响应有一定要求，但对键盘专用功能的依赖低于 Valorant / CS2。' },
     { id: 'league-of-legends', name: 'League of Legends', category: 'MOBA', priority: 'P1', description: 'MOBA 代表作，技能输入与宏指令更受关注，配列和快捷键布局比极限响应速度更重要。' },
     { id: 'fortnite', name: 'Fortnite', category: '竞技游戏', priority: 'P2', description: '快速建造与切换结构需要高频按键，部分玩家使用 SOCD 类功能辅助操作。' },

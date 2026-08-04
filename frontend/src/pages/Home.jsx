@@ -195,7 +195,10 @@ export default function Home() {
           </div>
           <div className="contribute-meta">
             <span>来源文件：brand.md · product.md · 工作报告.md</span>
-            <Link className="btn btn-primary" to="/tech">浏览技术词条 <ArrowRight size={15} /></Link>
+            <div className="contribute-btns">
+              <Link className="btn btn-outline" to="/contribute">参与编辑</Link>
+              <Link className="btn btn-primary" to="/tech">浏览技术词条 <ArrowRight size={15} /></Link>
+            </div>
           </div>
         </div>
         </section>

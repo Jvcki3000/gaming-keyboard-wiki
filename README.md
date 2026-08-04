@@ -38,6 +38,14 @@ pnpm build
 
 构建产物在 `dist/`，由于使用 HashRouter 与相对资源路径，可直接通过静态服务器或双击 `dist/index.html` 打开。
 
+## 部署上线
+
+项目使用 HashRouter 与相对资源路径，任意静态托管均可直接运行，部署根目录为 `frontend/`。
+
+- Vercel：导入仓库时选择根目录 `frontend/`，已内置 `frontend/vercel.json`（Vite 框架、`pnpm build`、输出 `dist/`）
+- Netlify / Cloudflare Pages：构建命令 `pnpm build`，输出目录 `dist/`
+- GitHub Pages / 任意静态服务器：上传 `frontend/dist/` 即可
+
 ## 数据维护
 
 - 品牌档案维护在 `backend/data/brand.md`

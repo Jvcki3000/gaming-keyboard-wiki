@@ -10,6 +10,7 @@ import TechIndex from './pages/TechIndex';
 import TechPage from './pages/TechPage';
 import GamesIndex from './pages/GamesIndex';
 import GamePage from './pages/GamePage';
+import ContributePage from './pages/ContributePage';
 import EsportsPage from './pages/EsportsPage';
 import RankingsPage from './pages/RankingsPage';
 import ComparePage from './pages/ComparePage';
@@ -39,6 +40,7 @@ export default function App() {
           <Route path="tech/:termId" element={<TechPage />} />
           <Route path="games" element={<GamesIndex />} />
           <Route path="games/:gameId" element={<GamePage />} />
+          <Route path="contribute" element={<ContributePage />} />
           <Route path="esports" element={<EsportsPage />} />
           <Route path="rankings" element={<RankingsPage />} />
           <Route path="compare" element={<ComparePage />} />

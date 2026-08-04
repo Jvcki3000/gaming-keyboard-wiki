@@ -247,6 +247,7 @@ export default function Layout() {
             <Link to="/keyboards">键盘数据库</Link>
             <Link to="/tech">技术百科</Link>
             <Link to="/games">游戏适配</Link>
+            <Link to="/contribute">参与编辑</Link>
           </div>
           <div className="footer-col">
             <div className="footer-heading">数据与工具</div>
