@@ -1,8 +1,9 @@
 import { useMemo } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
-import { ArrowUpRight, Search } from 'lucide-react';
+import { ArrowUpRight, Lightbulb, Search } from 'lucide-react';
 import { PageHeader, StarRating, TagChip } from '../components/Ui';
 import { brands, games, products, techTerms } from '../lib/data';
+import { guessSuggestions } from '../lib/fuzzy';
 
 function Highlight({ text, query }) {
   if (!query) return text;
@@ -33,6 +34,7 @@ export default function SearchPage() {
   }, [keyword]);
 
   const total = result.products.length + result.brands.length + result.tech.length + result.games.length;
+  const suggestions = total === 0 ? guessSuggestions(keyword) : [];
 
   return (
     <div className="page container">
@@ -54,6 +56,25 @@ export default function SearchPage() {
         </div>
       ) : (
         <div className="search-results">
+          {suggestions.length > 0 ? (
+            <section className="search-suggestion">
+              <div className="search-suggestion-head">
+                <Lightbulb size={17} />
+                <strong>猜你所想</strong>
+              </div>
+              <p>没有找到「{query}」的完全匹配，你可能想找：</p>
+              <div className="search-suggestion-list">
+                {suggestions.map(({ entry, kindLabel: label }) => (
+                  <Link className="search-suggestion-item" key={`${entry.type}-${entry.id}`} to={entry.route}>
+                    <span className="search-suggestion-kind">{label}</span>
+                    <span className="search-suggestion-title">{entry.title}</span>
+                    <ArrowUpRight size={15} />
+                  </Link>
+                ))}
+              </div>
+            </section>
+          ) : null}
+
           {result.products.length > 0 ? (
             <section className="search-group">
               <h2>产品 / 系列 <span>{result.products.length}</span></h2>

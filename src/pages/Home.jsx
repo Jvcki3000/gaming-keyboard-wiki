@@ -14,7 +14,8 @@ import {
   Trophy,
 } from 'lucide-react';
 import ProductCard from '../components/ProductCard';
-import { TagChip } from '../components/Ui';
+import FloatingTagBubbles from '../components/FloatingTagBubbles';
+import ScrollRevealHero from '../components/ScrollRevealHero';
 import { featuredProducts, meta, products } from '../lib/data';
 
 const CATEGORIES = [
@@ -34,8 +35,9 @@ export default function Home() {
   const newest = [...products].sort((a, b) => b.title.localeCompare(a.title, 'zh')).slice(0, 6);
 
   return (
-    <>
-      <section className="home-hero">
+    <ScrollRevealHero
+      hero={
+        <section className="home-hero">
         <div className="container">
           <div className="home-hero-grid">
             <div className="home-hero-copy">
@@ -63,11 +65,6 @@ export default function Home() {
                 />
                 <button type="submit" className="btn btn-primary">搜索</button>
               </form>
-              <div className="hero-quicklinks">
-                <Link to="/keyboards?category=磁轴">磁轴键盘 <ArrowRight size={13} /></Link>
-                <Link to="/tech">技术百科 <ArrowRight size={13} /></Link>
-                <Link to="/rankings">排行榜 <ArrowRight size={13} /></Link>
-              </div>
             </div>
             <div className="hero-stats">
               <div className="hero-stat">
@@ -94,8 +91,9 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-      <section className="section section-categories">
+      }
+    >
+        <section className="section section-categories">
         <div className="container">
           <div className="section-head">
             <div>
@@ -117,9 +115,9 @@ export default function Home() {
             ))}
           </div>
         </div>
-      </section>
+        </section>
 
-      <section className="section section-featured">
+        <section className="section section-featured">
         <div className="container">
           <div className="section-head">
             <div>
@@ -134,20 +132,14 @@ export default function Home() {
             ))}
           </div>
         </div>
-      </section>
+        </section>
 
-      <section className="section section-updates">
+        <section className="section section-updates">
         <div className="container two-col">
           <div>
             <div className="section-eyebrow">热门标签</div>
             <h2>热门标签云</h2>
-            <div className="tag-cloud">
-              {meta.hotTags.map((tag) => (
-                <TagChip key={tag} to={`/search?q=${encodeURIComponent(tag)}`} tone="orange">
-                  {tag}
-                </TagChip>
-              ))}
-            </div>
+            <FloatingTagBubbles tags={meta.hotTags} />
           </div>
           <div>
             <div className="section-eyebrow">最新收录</div>
@@ -168,9 +160,9 @@ export default function Home() {
             </div>
           </div>
         </div>
-      </section>
+        </section>
 
-      <section className="section section-contribute">
+        <section className="section section-contribute">
         <div className="container contribute-band">
           <div className="contribute-copy">
             <span className="contribute-icon"><PencilLine size={22} /></span>
@@ -184,9 +176,9 @@ export default function Home() {
             <Link className="btn btn-primary" to="/tech">浏览技术词条 <ArrowRight size={15} /></Link>
           </div>
         </div>
-      </section>
+        </section>
 
-      <section className="section section-milestones">
+        <section className="section section-milestones">
         <div className="container">
           <div className="section-head">
             <div>
@@ -205,7 +197,7 @@ export default function Home() {
             ))}
           </div>
         </div>
-      </section>
-    </>
+        </section>
+    </ScrollRevealHero>
   );
 }

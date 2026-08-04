@@ -154,6 +154,17 @@ export default function ProductPage() {
             </div>
           ) : null}
 
+          {product.meta.switchTags?.length > 0 ? (
+            <div className="side-card">
+              <div className="side-card-title">轴体标签</div>
+              <div className="tech-chip-list">
+                {product.meta.switchTags.map((tag) => (
+                  <TagChip key={tag} tone="orange">{tag}</TagChip>
+                ))}
+              </div>
+            </div>
+          ) : null}
+
           {related.length > 0 ? (
             <div className="side-card">
               <div className="side-card-title">相关产品</div>

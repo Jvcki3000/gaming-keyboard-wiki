@@ -137,6 +137,9 @@
    "layout": "60%",
    "layoutGroup": "60%",
    "switchText": "Lekker Hall Effect Switch（L45 / L60）",
+   "switchTags": [
+    "Lekker 磁轴"
+   ],
    "pollingHz": 1000,
    "pollingText": "1000Hz",
    "release": "2022 年首发 / 2024 年升级版",
@@ -249,7 +252,7 @@
     "Gaming Keyboard > Magnetic Keyboard > Hall Effect Keyboard"
    ]
   },
-  "searchText": "wooting wooting 60he+ undefined hall effect rapid trigger analog input adjustable actuation magnetic #halleffect #rapidtrigger #analog #60% #wired #fps #esports #premium #wooting"
+  "searchText": "wooting wooting 60he+ undefined hall effect rapid trigger analog input adjustable actuation magnetic #halleffect #rapidtrigger #analog #60% #wired #fps #esports #premium #wooting lekker 磁轴"
  },
  {
   "brand": "Wooting",
@@ -393,6 +396,10 @@
    "layout": "60%（61 键）",
    "layoutGroup": "60%",
    "switchText": "Lekker Tikken（Hall Effect）",
+   "switchTags": [
+    "Lekker Tikken",
+    "Lekker 磁轴"
+   ],
    "pollingHz": 8000,
    "pollingText": "8000Hz（真 8KHz）",
    "release": "2025 年 Q4（铝壳版 12 月发货，塑料版 2026 年 4 月）",
@@ -488,7 +495,7 @@
     "Gaming Keyboard > Magnetic Keyboard > Hall Effect Keyboard"
    ]
   },
-  "searchText": "wooting wooting 60he v2 undefined hall effect rapid trigger analog input adjustable actuation magnetic #halleffect #rapidtrigger #analog #60% #wired #fps #esports #premium #wooting #8khz"
+  "searchText": "wooting wooting 60he v2 undefined hall effect rapid trigger analog input adjustable actuation magnetic #halleffect #rapidtrigger #analog #60% #wired #fps #esports #premium #wooting #8khz lekker tikken lekker 磁轴"
  },
  {
   "brand": "Wooting",
@@ -632,6 +639,11 @@
    "layout": "80%（TKL，约 87 键）",
    "layoutGroup": "TKL",
    "switchText": "Lekker L45 V2 / L60 V2（Hall Effect）",
+   "switchTags": [
+    "Lekker V2 磁轴",
+    "Lekker 磁轴",
+    "Gateron HE 磁轴"
+   ],
    "pollingHz": 8000,
    "pollingText": "8000Hz（真 8KHz）",
    "release": "2024 年 3 月 14 日开启创始者活动，2024 年 8 月起发货",
@@ -729,7 +741,7 @@
     "Gaming Keyboard > Magnetic Keyboard > Hall Effect Keyboard > TKL Keyboard"
    ]
   },
-  "searchText": "wooting wooting 80he undefined hall effect rapid trigger rappy snappy socd analog input adjustable actuation magnetic #halleffect #rapidtrigger #rappysnappy #analog #tkl #80% #wired #fps #esports #premium #wooting #8khz"
+  "searchText": "wooting wooting 80he undefined hall effect rapid trigger rappy snappy socd analog input adjustable actuation magnetic #halleffect #rapidtrigger #rappysnappy #analog #tkl #80% #wired #fps #esports #premium #wooting #8khz lekker v2 磁轴 lekker 磁轴 gateron he 磁轴"
  },
  {
   "brand": "Logitech G",
@@ -869,6 +881,9 @@
    "layout": "TKL（87 键）",
    "layoutGroup": "TKL",
    "switchText": "GX Red / GX Brown / GX Blue（机械轴）",
+   "switchTags": [
+    "GX 机械轴"
+   ],
    "pollingHz": 1000,
    "pollingText": "1000Hz（有线 / 无线）",
    "release": "2023 年 10 月",
@@ -953,7 +968,7 @@
     "Gaming Keyboard > Mechanical Keyboard > Wireless Keyboard"
    ]
   },
-  "searchText": "logitech g logitech g pro x tkl undefined lightspeed gx mechanical switches lightsync rgb mechanical #wireless #tkl #fps #moba #esports #premium #international #logitechg"
+  "searchText": "logitech g logitech g pro x tkl undefined lightspeed gx mechanical switches lightsync rgb mechanical #wireless #tkl #fps #moba #esports #premium #international #logitechg gx 机械轴"
  },
  {
   "brand": "Logitech G",
@@ -1093,6 +1108,10 @@
    "layout": "75% / 98%",
    "layoutGroup": "75%",
    "switchText": "出厂预装机械轴（线性 / 段落可选），兼容 TMR 磁轴与标准 3/5 脚机械轴",
+   "switchTags": [
+    "Gateron KS-20 TMR 磁轴",
+    "TMR 磁轴"
+   ],
    "pollingHz": 8000,
    "pollingText": "真 8KHz（0.125ms 延迟）",
    "release": "2026 年 4 月 28 日（中国台湾首发）/ 2026 年 5 月 22 日（中国大陆）",
@@ -1181,7 +1200,7 @@
     "Gaming Keyboard > Hybrid Keyboard > TMR Analog Keyboard"
    ]
   },
-  "searchText": "logitech g logitech g g512 x (75 / 98) undefined dual swap tmr sensor rapid trigger socd sapp rings lightspeed lightsync rgb logitechg #hybrid #tmr #magnetic #rapidtrigger #socd #8khz #gasket #hotswap #75% #98% #fps #esports #premium #wired"
+  "searchText": "logitech g logitech g g512 x (75 / 98) undefined dual swap tmr sensor rapid trigger socd sapp rings lightspeed lightsync rgb logitechg #hybrid #tmr #magnetic #rapidtrigger #socd #8khz #gasket #hotswap #75% #98% #fps #esports #premium #wired gateron ks-20 tmr 磁轴 tmr 磁轴"
  },
  {
   "brand": "Razer",
@@ -1325,13 +1344,16 @@
    "layout": "TKL（80%，87键）",
    "layoutGroup": "TKL",
    "switchText": "Razer™ 第2代类比式光轴（Analog Optical Switches Gen-2）",
+   "switchTags": [
+    "Razer 类比式光轴"
+   ],
    "pollingHz": 8000,
    "pollingText": "8000Hz（HyperPolling 技术）",
-   "release": "",
-   "connection": "",
-   "price": "",
+   "release": "2023年9月",
+   "connection": "有线（USB-C 可拆卸）",
+   "price": "黑色 $219.99 / 白色 $229.99 / 电竞绿 $249.99",
    "discontinued": "否",
-   "software": "",
+   "software": "Razer Synapse 4",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -1421,7 +1443,7 @@
     "Gaming Keyboard > Optical Keyboard > Analog Keyboard"
    ]
   },
-  "searchText": "razer razer huntsman v3 pro tkl undefined razer analog optical switches rapid trigger razer snap tap adjustable actuation hyperpolling razer #huntsman #optical #analog #rapidtrigger #snaptap #8khz #tkl #fps #esports #premium #wired"
+  "searchText": "razer razer huntsman v3 pro tkl undefined razer analog optical switches rapid trigger razer snap tap adjustable actuation hyperpolling razer #huntsman #optical #analog #rapidtrigger #snaptap #8khz #tkl #fps #esports #premium #wired razer 类比式光轴"
  },
  {
   "brand": "Razer",
@@ -1517,6 +1539,9 @@
    "layout": "",
    "layoutGroup": "其他",
    "switchText": "",
+   "switchTags": [
+    "Razer 机械轴"
+   ],
    "pollingHz": 0,
    "pollingText": "",
    "release": "",
@@ -1542,7 +1567,7 @@
     "Gaming Keyboard > Mechanical Keyboard > Razer Keyboards"
    ]
   },
-  "searchText": "razer razer blackwidow 系列 undefined razer mechanical switches razer chroma rgb hyperpolling hot swap gasket mount razer snap tap razer #blackwidow #mechanical #hotswap #rgb #esports #premium #international #tkl #75% #fullsize"
+  "searchText": "razer razer blackwidow 系列 undefined razer mechanical switches razer chroma rgb hyperpolling hot swap gasket mount razer snap tap razer #blackwidow #mechanical #hotswap #rgb #esports #premium #international #tkl #75% #fullsize razer 机械轴"
  },
  {
   "brand": "Razer",
@@ -1638,6 +1663,9 @@
    "layout": "",
    "layoutGroup": "其他",
    "switchText": "",
+   "switchTags": [
+    "Razer 光学矮轴"
+   ],
    "pollingHz": 0,
    "pollingText": "",
    "release": "",
@@ -1661,7 +1689,7 @@
     "Gaming Keyboard > Optical Keyboard > Low-Profile Keyboard"
    ]
   },
-  "searchText": "razer razer deathstalker 系列 undefined razer low-profile optical switches razer hyperspeed wireless razer chroma rgb razer synapse 4 razer #deathstalker #噬魂金蝎 #optical #lowprofile #slim #wireless #rgb #esports #premium #international #tkl #fullsize"
+  "searchText": "razer razer deathstalker 系列 undefined razer low-profile optical switches razer hyperspeed wireless razer chroma rgb razer synapse 4 razer #deathstalker #噬魂金蝎 #optical #lowprofile #slim #wireless #rgb #esports #premium #international #tkl #fullsize razer 光学矮轴"
  },
  {
   "brand": "SteelSeries",
@@ -1800,18 +1828,22 @@
   ],
   "excerpt": "SteelSeries Apex Pro Gen 3 是赛睿旗舰 Apex Pro 系列的第三代产品，搭载 OmniPoint 3.0 可调节磁轴，配备行业首创的第三代霍尔效应传感器。自 2019 年初代 Apex Pro 首次引入可调节触发键程以来，该系列便以革命性的创新成为职业玩家的必备装备。 Gen 3 在上一代的基础上进行了全面升级：OmniPoin…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "Magnetic Gaming Keyboard（磁轴游戏键盘）",
+   "layout": "全尺寸 / TKL / 60% (Mini)",
+   "layoutGroup": "60%",
+   "switchText": "OmniPoint 3.0 Adjustable HyperMagnetic Switches（可调磁轴）",
+   "switchTags": [
+    "OmniPoint 3.0 磁轴",
+    "OmniPoint 磁轴"
+   ],
    "pollingHz": 1000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "1000Hz",
+   "release": "2024年9月26日开放预购，2024年10月29日正式发售",
+   "connection": "有线 (USB-C)；TKL 竞技无线版支持三模（2.4GHz + 蓝牙 + 有线）",
+   "price": "有线版 $240 / TKL 竞技无线版 $270；国行：TKL 竞技无线版 ¥2699 / 全尺寸 ¥2399 / TKL 竞技版 ¥2099",
+   "discontinued": "No（在售）",
+   "software": "SteelSeries GG",
    "games": [
     {
      "name": "Fortnite",
@@ -1892,7 +1924,7 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "steelseries steelseries apex pro gen 3 undefined  "
+  "searchText": "steelseries steelseries apex pro gen 3 undefined   omnipoint 3.0 磁轴 omnipoint 磁轴"
  },
  {
   "brand": "SteelSeries",
@@ -2039,18 +2071,22 @@
   ],
   "excerpt": "SteelSeries Apex Pro Mini Gen 3 是赛睿旗舰 Apex Pro Gen 3 系列在 2025 年推出的 60% 配列紧凑版本，搭载 OmniPoint 3.0 可调节磁轴与第三代霍尔效应传感器，将旗舰级性能浓缩于小巧机身之中。 Apex Pro Mini Gen 3 继承了该系列标志性的技术优势：0.1mm 至 4.0mm 的…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "Magnetic Gaming Keyboard（磁轴游戏键盘）",
+   "layout": "60% (61键)",
+   "layoutGroup": "60%",
+   "switchText": "OmniPoint 3.0 Adjustable HyperMagnetic Switches",
+   "switchTags": [
+    "OmniPoint 3.0 磁轴",
+    "OmniPoint 磁轴"
+   ],
    "pollingHz": 1000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "1000Hz",
+   "release": "2025年3月25日发布，2025年4月10日上市",
+   "connection": "有线 (USB-C 可拆卸)",
+   "price": "美国 $199.99 / 亚太 $229.99 / 国行 ¥1999",
+   "discontinued": "No（在售）",
+   "software": "SteelSeries GG",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -2125,13 +2161,18 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "steelseries steelseries apex pro mini gen 3 undefined  "
+  "searchText": "steelseries steelseries apex pro mini gen 3 undefined   omnipoint 3.0 磁轴 omnipoint 磁轴"
  },
  {
   "brand": "SteelSeries",
   "brandId": "steelseries",
   "name": "SteelSeries Apex 5",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = SteelSeries  \n| Model = Apex 5  \n| Image =  \n| Category = Hybrid Mechanical Gaming Keyboard  \n| Switch = SteelSeries Hybrid Mechanical RGB Switch (Blue tactile)  \n| Layout = 全尺寸 (104键，美式ANSI / ISO可选)  \n| Release Date = 2020年1月21日  \n| Connection = 有线 (USB固定线缆，不可分离)  \n| Software = SteelSeries Engine 3  \n| OLED Display = 1.2英寸 OLED 智能显示屏  \n| Polling Rate = 1000Hz  \n| Key Rollover = 24键无冲  \n| MSRP = 发布时 $99.99 / 国行参考价 ¥999  \n| Discontinued = 已停产 (2023年起逐步被新系列取代)  "
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -2195,21 +2236,78 @@
   ],
   "title": "SteelSeries Apex 5",
   "id": "steelseries--steelseries-apex-5",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "SteelSeries"
+   },
+   {
+    "label": "Model",
+    "value": "Apex 5"
+   },
+   {
+    "label": "Category",
+    "value": "Hybrid Mechanical Gaming Keyboard"
+   },
+   {
+    "label": "Switch",
+    "value": "SteelSeries Hybrid Mechanical RGB Switch (Blue tactile)"
+   },
+   {
+    "label": "Layout",
+    "value": "全尺寸 (104键，美式ANSI / ISO可选)"
+   },
+   {
+    "label": "Release Date",
+    "value": "2020年1月21日"
+   },
+   {
+    "label": "Connection",
+    "value": "有线 (USB固定线缆，不可分离)"
+   },
+   {
+    "label": "Software",
+    "value": "SteelSeries Engine 3"
+   },
+   {
+    "label": "OLED Display",
+    "value": "1.2英寸 OLED 智能显示屏"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "1000Hz"
+   },
+   {
+    "label": "Key Rollover",
+    "value": "24键无冲"
+   },
+   {
+    "label": "MSRP",
+    "value": "发布时 $99.99 / 国行参考价 ¥999"
+   },
+   {
+    "label": "Discontinued",
+    "value": "已停产 (2023年起逐步被新系列取代)"
+   }
+  ],
   "excerpt": "SteelSeries Apex 5 是赛睿于 2020 年 1 月推出的中端游戏键盘，定位介于旗舰 Apex Pro / Apex 7 与入门 Apex 3 之间。Apex 5 最大的特色是搭载了 Hybrid Mechanical 混合机械轴——一种结合了薄膜键盘顺滑手感与青轴机械开关清脆触感和耐用性的全新轴体。 Apex 5 在外观设计、材质用料和核心…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "混合",
+   "categoryRaw": "Hybrid Mechanical Gaming Keyboard",
+   "layout": "全尺寸 (104键，美式ANSI / ISO可选)",
+   "layoutGroup": "全尺寸",
+   "switchText": "SteelSeries Hybrid Mechanical RGB Switch (Blue tactile)",
+   "switchTags": [
+    "Hybrid Mechanical 混合机械轴",
+    "CHERRY MX 机械轴"
+   ],
    "pollingHz": 1000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "1000Hz",
+   "release": "2020年1月21日",
+   "connection": "有线 (USB固定线缆，不可分离)",
+   "price": "发布时 $99.99 / 国行参考价 ¥999",
+   "discontinued": "已停产 (2023年起逐步被新系列取代)",
+   "software": "SteelSeries Engine 3",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -2287,13 +2385,18 @@
     "[[Gaming Keyboard]] > [[Hybrid Mechanical Keyboard]]"
    ]
   },
-  "searchText": "steelseries steelseries apex 5 undefined [[hybrid mechanical switch]] [[oled smart display]] [[steelseries engine 3]] steelseries #赛睿 #hybrid #mechanical #oled #rgb #fullsize #midrange #wired #discontinued"
+  "searchText": "steelseries steelseries apex 5 undefined [[hybrid mechanical switch]] [[oled smart display]] [[steelseries engine 3]] steelseries #赛睿 #hybrid #mechanical #oled #rgb #fullsize #midrange #wired #discontinued hybrid mechanical 混合机械轴 cherry mx 机械轴"
  },
  {
   "brand": "SteelSeries",
   "brandId": "steelseries",
   "name": "SteelSeries Apex 9 系列",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = SteelSeries  \n| Series = Apex 9  \n| Image =  \n| Category = 光学开关游戏键盘系列  \n| First Release = 2022年9月6日  \n| Current Gen = 首代（OptiPoint 光轴）  \n| Key Features = OptiPoint 光学开关、0.2ms 响应、两点式可调触发、热插拔轴体、PBT 键帽、航空级铝合金框架  \n| Series Status = 在售  "
+   },
    {
     "key": "1",
     "title": "1. Overview（系列概述）",
@@ -2357,14 +2460,46 @@
   ],
   "title": "SteelSeries Apex 9 系列",
   "id": "steelseries--steelseries-apex-9-系列",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "SteelSeries"
+   },
+   {
+    "label": "Series",
+    "value": "Apex 9"
+   },
+   {
+    "label": "Category",
+    "value": "光学开关游戏键盘系列"
+   },
+   {
+    "label": "First Release",
+    "value": "2022年9月6日"
+   },
+   {
+    "label": "Current Gen",
+    "value": "首代（OptiPoint 光轴）"
+   },
+   {
+    "label": "Key Features",
+    "value": "OptiPoint 光学开关、0.2ms 响应、两点式可调触发、热插拔轴体、PBT 键帽、航空级铝合金框架"
+   },
+   {
+    "label": "Series Status",
+    "value": "在售"
+   }
+  ],
   "excerpt": "SteelSeries Apex 9 是赛睿于 2022 年 9 月 6 日推出的全新光学开关游戏键盘系列。这是赛睿首次在其屡获殊荣的 Apex 系列中引入光轴技术，搭载全新自研 OptiPoint 光学开关，响应时间仅 0.2ms，触发速度比同类光轴键盘快 33%。 Apex 9 系列提供 TKL 和 Mini（60%） 两种紧凑配列，采用与航空器相同的…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
+   "category": "光轴",
+   "categoryRaw": "光学开关游戏键盘系列",
    "layout": "",
    "layoutGroup": "其他",
    "switchText": "",
+   "switchTags": [
+    "OptiPoint 光学开关"
+   ],
    "pollingHz": 0,
    "pollingText": "",
    "release": "",
@@ -2413,13 +2548,18 @@
     "[[Gaming Keyboard]] > [[Optical Keyboard]] > [[Hot-swappable Keyboard]]"
    ]
   },
-  "searchText": "steelseries steelseries apex 9 系列 undefined [[optipoint optical switches]] [[hot-swappable switches]] [[2-point actuation]] [[steelseries gg]] steelseries #赛睿 #apex9 #optical #optipoint #tkl #60% #hotswap #pbt #rgb #esports #midrange #wired"
+  "searchText": "steelseries steelseries apex 9 系列 undefined [[optipoint optical switches]] [[hot-swappable switches]] [[2-point actuation]] [[steelseries gg]] steelseries #赛睿 #apex9 #optical #optipoint #tkl #60% #hotswap #pbt #rgb #esports #midrange #wired optipoint 光学开关"
  },
  {
   "brand": "ASUS ROG",
   "brandId": "asus-rog",
   "name": "ROG 魔导士 Ace HFX",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = ASUS ROG  \n| Model = 魔导士 Ace HFX（Falchion Ace HFX）  \n| Image =  \n| Category = 磁轴电竞键盘（Magnetic Gaming Keyboard）  \n| Switch = ROG HFX 磁轴（预润滑）  \n| Layout = 65%（68键）  \n| Release Date = 2024年9月23日  \n| Connection = 有线（双 USB-C 接口）  \n| Software = Armoury Crate / Armoury Crate Gear  \n| Rapid Trigger = 支持（物理开关一键切换）  \n| Speed Tap = 支持（SOCD 方向优化）  \n| Polling Rate = 8000Hz  \n| Input Latency = 0.125ms  \n| MSRP = 首发 ¥999 / 标准价 ¥1099 / ZywOo 限量版 ¥1199  \n| Discontinued = No  "
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -2483,21 +2623,81 @@
   ],
   "title": "ASUS ROG ROG 魔导士 Ace HFX",
   "id": "asus-rog--rog-魔导士-ace-hfx",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "ASUS ROG"
+   },
+   {
+    "label": "Model",
+    "value": "魔导士 Ace HFX（Falchion Ace HFX）"
+   },
+   {
+    "label": "Category",
+    "value": "磁轴电竞键盘（Magnetic Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "ROG HFX 磁轴（预润滑）"
+   },
+   {
+    "label": "Layout",
+    "value": "65%（68键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2024年9月23日"
+   },
+   {
+    "label": "Connection",
+    "value": "有线（双 USB-C 接口）"
+   },
+   {
+    "label": "Software",
+    "value": "Armoury Crate / Armoury Crate Gear"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（物理开关一键切换）"
+   },
+   {
+    "label": "Speed Tap",
+    "value": "支持（SOCD 方向优化）"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "8000Hz"
+   },
+   {
+    "label": "Input Latency",
+    "value": "0.125ms"
+   },
+   {
+    "label": "MSRP",
+    "value": "首发 ¥999 / 标准价 ¥1099 / ZywOo 限量版 ¥1199"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "ROG 魔导士 Ace HFX（Falchion Ace HFX） 是华硕玩家国度（ROG）于 2024 年推出的首款 65% 配列磁轴有线电竞键盘，也是 ROG 旗下魔导士（Falchion）系列的最新成员。 魔导士 Ace HFX 搭载 ROG 自研 HFX 磁轴，利用霍尔效应感应磁场变化来判断按键触发，支持 0.1mm 至 4.0mm 的自定义触发距离…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "磁轴电竞键盘（Magnetic Gaming Keyboard）",
+   "layout": "65%（68键）",
+   "layoutGroup": "65%",
+   "switchText": "ROG HFX 磁轴（预润滑）",
+   "switchTags": [
+    "ROG HFX 磁轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "8000Hz",
+   "release": "2024年9月23日",
+   "connection": "有线（双 USB-C 接口）",
+   "price": "首发 ¥999 / 标准价 ¥1099 / ZywOo 限量版 ¥1199",
+   "discontinued": "No",
+   "software": "Armoury Crate / Armoury Crate Gear",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -2578,13 +2778,18 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[65% Keyboard]]"
    ]
   },
-  "searchText": "asus rog rog 魔导士 ace hfx undefined [[rog hfx magnetic switch]] [[hall effect]] [[rapid trigger]] [[speed tap]] [[socd]] [[adjustable actuation]] asusrog #rog #魔导士 #falchion #magnetic #halleffect #rapidtrigger #speedtap #65% #fps #esports #premium #wired #8000hz"
+  "searchText": "asus rog rog 魔导士 ace hfx undefined [[rog hfx magnetic switch]] [[hall effect]] [[rapid trigger]] [[speed tap]] [[socd]] [[adjustable actuation]] asusrog #rog #魔导士 #falchion #magnetic #halleffect #rapidtrigger #speedtap #65% #fps #esports #premium #wired #8000hz rog hfx 磁轴"
  },
  {
   "brand": "ASUS ROG",
   "brandId": "asus-rog",
   "name": "ROG 夜魔 EXTREME",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = ASUS ROG  \n| Model = 夜魔 EXTREME（Azoth Extreme）  \n| Image =  \n| Category = 客制化无线机械键盘  \n| Switch = ROG NX 机械轴（雪武白轴 / 冰暴灰轴）  \n| Layout = 75%（81键）  \n| Release Date = 2024年8月1日开启预售，2024年8月5日首销  \n| Connection = 三模（2.4GHz SpeedNova / 蓝牙5.1 / USB-C 有线）  \n| Software = Armoury Crate / Armoury Crate Gear  \n| Polling Rate = 8000Hz（需搭配 ROG 回报率加速器）  \n| Battery = 4000-7999mAh  \n| Battery Life = 2.4GHz 无线模式约 1600 小时  \n| MSRP = 标准版 ¥3599 / BE@RBRICK 联名套装 ¥3999  \n| Discontinued = No  "
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -2648,21 +2853,77 @@
   ],
   "title": "ASUS ROG ROG 夜魔 EXTREME",
   "id": "asus-rog--rog-夜魔-extreme",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "ASUS ROG"
+   },
+   {
+    "label": "Model",
+    "value": "夜魔 EXTREME（Azoth Extreme）"
+   },
+   {
+    "label": "Category",
+    "value": "客制化无线机械键盘"
+   },
+   {
+    "label": "Switch",
+    "value": "ROG NX 机械轴（雪武白轴 / 冰暴灰轴）"
+   },
+   {
+    "label": "Layout",
+    "value": "75%（81键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2024年8月1日开启预售，2024年8月5日首销"
+   },
+   {
+    "label": "Connection",
+    "value": "三模（2.4GHz SpeedNova / 蓝牙5.1 / USB-C 有线）"
+   },
+   {
+    "label": "Software",
+    "value": "Armoury Crate / Armoury Crate Gear"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "8000Hz（需搭配 ROG 回报率加速器）"
+   },
+   {
+    "label": "Battery",
+    "value": "4000-7999mAh"
+   },
+   {
+    "label": "Battery Life",
+    "value": "2.4GHz 无线模式约 1600 小时"
+   },
+   {
+    "label": "MSRP",
+    "value": "标准版 ¥3599 / BE@RBRICK 联名套装 ¥3999"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "ROG 夜魔 EXTREME（Azoth Extreme） 是华硕玩家国度（ROG）于 2024 年推出的旗舰级客制化无线机械键盘，是 ROG 品牌 \"客制顶天之作\" 。作为 Azoth 系列的顶级型号，Extreme 在标准版 Azoth 的基础上进行了全面奢华升级。 夜魔 EXTREME 采用 75% 配列（81键） ，机身以 全铝合金材质 打造，经 C…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "机械",
+   "categoryRaw": "客制化无线机械键盘",
+   "layout": "75%（81键）",
+   "layoutGroup": "75%",
+   "switchText": "ROG NX 机械轴（雪武白轴 / 冰暴灰轴）",
+   "switchTags": [
+    "ROG NX 机械轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "8000Hz（需搭配 ROG 回报率加速器）",
+   "release": "2024年8月1日开启预售，2024年8月5日首销",
+   "connection": "三模（2.4GHz SpeedNova / 蓝牙5.1 / USB-C 有线）",
+   "price": "标准版 ¥3599 / BE@RBRICK 联名套装 ¥3999",
+   "discontinued": "No",
+   "software": "Armoury Crate / Armoury Crate Gear",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -2748,13 +3009,18 @@
     "[[Gaming Keyboard]] > [[Mechanical Keyboard]] > [[Wireless Keyboard]] > [[75% Keyboard]] > [[Custom Keyboard]]"
    ]
   },
-  "searchText": "asus rog rog 夜魔 extreme undefined [[rog nx mechanical switch]] [[gasket mount]] [[carbon fiber plate]] [[oled display]] [[rog speednova]] [[aura sync]] asusrog #rog #夜魔 #azoth #extreme #mechanical #wireless #75% #gasket #carbonfiber #oled #8khz #premium #custom #limitededition"
+  "searchText": "asus rog rog 夜魔 extreme undefined [[rog nx mechanical switch]] [[gasket mount]] [[carbon fiber plate]] [[oled display]] [[rog speednova]] [[aura sync]] asusrog #rog #夜魔 #azoth #extreme #mechanical #wireless #75% #gasket #carbonfiber #oled #8khz #premium #custom #limitededition rog nx 机械轴"
  },
  {
   "brand": "ASUS ROG",
   "brandId": "asus-rog",
   "name": "ROG 夜魔 98 HE",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = ASUS ROG  \n| Model = 夜魔 98 HE（Azoth 98 HE）  \n| Image =  \n| Category = 磁轴电竞键盘（Magnetic Gaming Keyboard）  \n| Switch = ROG HFX V2 第二代磁轴  \n| Layout = 98%（96% 紧凑配列）  \n| Release Date = 2025年10月16日  \n| Connection = 三模（2.4GHz SpeedNova / 蓝牙5.1 / USB-C 有线）  \n| Software = Armoury Crate / Armoury Crate 网页驱动  \n| Rapid Trigger = 支持（0.01mm 精度）  \n| Speed Tap = 支持  \n| OLED Display = 1.47 英寸全彩 OLED 触摸屏  \n| Polling Rate = 8000Hz（无线/有线，无需加速器）  \n| Battery = 内置锂电  \n| Keycaps = PBT 二色键帽  \n| Hot-swappable = 支持  \n| MSRP = 首发价 ¥2399 / 新品活动价 ¥2299  \n| Discontinued = No  "
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -2818,21 +3084,94 @@
   ],
   "title": "ASUS ROG ROG 夜魔 98 HE",
   "id": "asus-rog--rog-夜魔-98-he",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "ASUS ROG"
+   },
+   {
+    "label": "Model",
+    "value": "夜魔 98 HE（Azoth 98 HE）"
+   },
+   {
+    "label": "Category",
+    "value": "磁轴电竞键盘（Magnetic Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "ROG HFX V2 第二代磁轴"
+   },
+   {
+    "label": "Layout",
+    "value": "98%（96% 紧凑配列）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2025年10月16日"
+   },
+   {
+    "label": "Connection",
+    "value": "三模（2.4GHz SpeedNova / 蓝牙5.1 / USB-C 有线）"
+   },
+   {
+    "label": "Software",
+    "value": "Armoury Crate / Armoury Crate 网页驱动"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（0.01mm 精度）"
+   },
+   {
+    "label": "Speed Tap",
+    "value": "支持"
+   },
+   {
+    "label": "OLED Display",
+    "value": "1.47 英寸全彩 OLED 触摸屏"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "8000Hz（无线/有线，无需加速器）"
+   },
+   {
+    "label": "Battery",
+    "value": "内置锂电"
+   },
+   {
+    "label": "Keycaps",
+    "value": "PBT 二色键帽"
+   },
+   {
+    "label": "Hot-swappable",
+    "value": "支持"
+   },
+   {
+    "label": "MSRP",
+    "value": "首发价 ¥2399 / 新品活动价 ¥2299"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "ROG 夜魔 98 HE（Azoth 98 HE） 是华硕玩家国度（ROG）于 2025 年 10 月推出的旗舰级无线磁轴电竞键盘，属于 Azoth（夜魔）系列的最新成员。这是 ROG 首款采用 98% 配列的磁轴键盘，在宽度仅比标准 TKL 多 1 厘米的前提下完整保留了数字小键盘和功能键区，实现了办公效率与游戏性能的完美平衡。 夜魔 98 HE 搭载 R…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "磁轴电竞键盘（Magnetic Gaming Keyboard）",
+   "layout": "98%（96% 紧凑配列）",
+   "layoutGroup": "98%",
+   "switchText": "ROG HFX V2 第二代磁轴",
+   "switchTags": [
+    "ROG HFX V2 磁轴",
+    "ROG HFX 磁轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "8000Hz（无线/有线，无需加速器）",
+   "release": "2025年10月16日",
+   "connection": "三模（2.4GHz SpeedNova / 蓝牙5.1 / USB-C 有线）",
+   "price": "首发价 ¥2399 / 新品活动价 ¥2299",
+   "discontinued": "No",
+   "software": "Armoury Crate / Armoury Crate 网页驱动",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -2920,13 +3259,18 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[98% Keyboard]]"
    ]
   },
-  "searchText": "asus rog rog 夜魔 98 he undefined [[rog hfx magnetic switch]] [[hall effect]] [[rapid trigger]] [[speed tap]] [[socd]] [[adjustable actuation]] [[rog speednova]] [[aura sync]] asusrog #rog #夜魔 #azoth #98he #magnetic #halleffect #rapidtrigger #8khz #98% #fps #esports #premium #wireless #oled"
+  "searchText": "asus rog rog 夜魔 98 he undefined [[rog hfx magnetic switch]] [[hall effect]] [[rapid trigger]] [[speed tap]] [[socd]] [[adjustable actuation]] [[rog speednova]] [[aura sync]] asusrog #rog #夜魔 #azoth #98he #magnetic #halleffect #rapidtrigger #8khz #98% #fps #esports #premium #wireless #oled rog hfx v2 磁轴 rog hfx 磁轴"
  },
  {
   "brand": "ASUS ROG",
   "brandId": "asus-rog",
   "name": "ROG 夜魔 标准版",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = ASUS ROG  \n| Model = 夜魔 标准版（Azoth）  \n| Image =  \n| Category = 客制化无线机械键盘  \n| Switch = ROG NX 机械轴（红轴 / 茶轴 / 青轴 / 雪武白轴）  \n| Layout = 75%（81键）  \n| Release Date = 2023年1月3日  \n| Connection = 三模（2.4GHz SpeedNova / 蓝牙5.1 / USB-C 有线）  \n| Software = Armoury Crate  \n| OLED Display = 2英寸 OLED 智能显示屏  \n| Polling Rate = 1000Hz  \n| Battery Life = 2.4GHz 模式约 2000+ 小时（OLED 与 RGB 关闭）  \n| MSRP = 海外 $249.99 / 国行 ¥1099 起  \n| Discontinued = No  "
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -2990,21 +3334,77 @@
   ],
   "title": "ASUS ROG ROG 夜魔 标准版",
   "id": "asus-rog--rog-夜魔-标准版",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "ASUS ROG"
+   },
+   {
+    "label": "Model",
+    "value": "夜魔 标准版（Azoth）"
+   },
+   {
+    "label": "Category",
+    "value": "客制化无线机械键盘"
+   },
+   {
+    "label": "Switch",
+    "value": "ROG NX 机械轴（红轴 / 茶轴 / 青轴 / 雪武白轴）"
+   },
+   {
+    "label": "Layout",
+    "value": "75%（81键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2023年1月3日"
+   },
+   {
+    "label": "Connection",
+    "value": "三模（2.4GHz SpeedNova / 蓝牙5.1 / USB-C 有线）"
+   },
+   {
+    "label": "Software",
+    "value": "Armoury Crate"
+   },
+   {
+    "label": "OLED Display",
+    "value": "2英寸 OLED 智能显示屏"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "1000Hz"
+   },
+   {
+    "label": "Battery Life",
+    "value": "2.4GHz 模式约 2000+ 小时（OLED 与 RGB 关闭）"
+   },
+   {
+    "label": "MSRP",
+    "value": "海外 $249.99 / 国行 ¥1099 起"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "ROG 夜魔 标准版（Azoth） 是华硕玩家国度（ROG）于 2023 年 1 月推出的首款 75% 无线客制化电竞机械键盘。作为 ROG 正式进军客制化键盘领域的开山之作，Azoth 将以往仅见于高端 DIY 键盘的客制化特性带入了量产电竞键盘市场。 夜魔 标准版采用 75% 配列（81键） ，搭载 硅胶 Gasket 结构与 三层消音设计，提供软弹手感…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "机械",
+   "categoryRaw": "客制化无线机械键盘",
+   "layout": "75%（81键）",
+   "layoutGroup": "75%",
+   "switchText": "ROG NX 机械轴（红轴 / 茶轴 / 青轴 / 雪武白轴）",
+   "switchTags": [
+    "ROG NX 机械轴"
+   ],
    "pollingHz": 1000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "1000Hz",
+   "release": "2023年1月3日",
+   "connection": "三模（2.4GHz SpeedNova / 蓝牙5.1 / USB-C 有线）",
+   "price": "海外 $249.99 / 国行 ¥1099 起",
+   "discontinued": "No",
+   "software": "Armoury Crate",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -3096,13 +3496,18 @@
     "[[Gaming Keyboard]] > [[Mechanical Keyboard]] > [[Wireless Keyboard]] > [[75% Keyboard]] > [[Custom Keyboard]]"
    ]
   },
-  "searchText": "asus rog rog 夜魔 标准版 undefined [[rog nx mechanical switch]] [[gasket mount]] [[oled display]] [[rog speednova]] [[aura sync]] [[hot swap]] asusrog #rog #夜魔 #azoth #mechanical #wireless #75% #gasket #oled #hotswap #premium #custom #pbt"
+  "searchText": "asus rog rog 夜魔 标准版 undefined [[rog nx mechanical switch]] [[gasket mount]] [[oled display]] [[rog speednova]] [[aura sync]] [[hot swap]] asusrog #rog #夜魔 #azoth #mechanical #wireless #75% #gasket #oled #hotswap #premium #custom #pbt rog nx 机械轴"
  },
  {
   "brand": "Corsair",
   "brandId": "corsair",
   "name": "Corsair GALLEON 100 SD",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = Corsair（美商海盗船）  \n| Model = GALLEON 100 SD  \n| Image =  \n| Category = Stream Deck 集成式机械键盘  \n| Switch = Corsair MLX Pulse 线性机械轴（预润滑）  \n| Layout = 全尺寸（87+12键 / 88+12键 / 91+12键）  \n| Release Date = 2026年1月（CES 2026 发布）  \n| Connection = 有线（双 USB-C 连接）  \n| Software = CORSAIR Web Hub / Stream Deck App  \n| Polling Rate = 最高 8000Hz（AXON 技术）  \n| FlashTap = 支持（SOCD 处理）  \n| Hot-swappable = 支持  \n| MSRP = $349.99 USD  \n| Discontinued = No  "
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -3166,21 +3571,77 @@
   ],
   "title": "Corsair GALLEON 100 SD",
   "id": "corsair--corsair-galleon-100-sd",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "Corsair（美商海盗船）"
+   },
+   {
+    "label": "Model",
+    "value": "GALLEON 100 SD"
+   },
+   {
+    "label": "Category",
+    "value": "Stream Deck 集成式机械键盘"
+   },
+   {
+    "label": "Switch",
+    "value": "Corsair MLX Pulse 线性机械轴（预润滑）"
+   },
+   {
+    "label": "Layout",
+    "value": "全尺寸（87+12键 / 88+12键 / 91+12键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2026年1月（CES 2026 发布）"
+   },
+   {
+    "label": "Connection",
+    "value": "有线（双 USB-C 连接）"
+   },
+   {
+    "label": "Software",
+    "value": "CORSAIR Web Hub / Stream Deck App"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "最高 8000Hz（AXON 技术）"
+   },
+   {
+    "label": "FlashTap",
+    "value": "支持（SOCD 处理）"
+   },
+   {
+    "label": "Hot-swappable",
+    "value": "支持"
+   },
+   {
+    "label": "MSRP",
+    "value": "$349.99 USD"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "Corsair GALLEON 100 SD 是美商海盗船于 CES 2026 发布的旗舰级机械键盘，也是全球首款原生集成 Elgato Stream Deck 控制界面的高性能游戏键盘。GALLEON 100 SD 融合了海盗船与 Elgato 两大品牌的工程实力，将 Stream Deck 的 12 个可自定义 LCD 按键、两个多功能旋钮和一块 5 英…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "机械",
+   "categoryRaw": "Stream Deck 集成式机械键盘",
+   "layout": "全尺寸（87+12键 / 88+12键 / 91+12键）",
+   "layoutGroup": "全尺寸",
+   "switchText": "Corsair MLX Pulse 线性机械轴（预润滑）",
+   "switchTags": [
+    "MLX Pulse 机械轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "最高 8000Hz（AXON 技术）",
+   "release": "2026年1月（CES 2026 发布）",
+   "connection": "有线（双 USB-C 连接）",
+   "price": "$349.99 USD",
+   "discontinued": "No",
+   "software": "CORSAIR Web Hub / Stream Deck App",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -3267,13 +3728,18 @@
     "[[Gaming Keyboard]] > [[Mechanical Keyboard]] > [[Stream Deck Keyboard]] > [[Full Size Keyboard]]"
    ]
   },
-  "searchText": "corsair corsair galleon 100 sd undefined [[stream deck]] [[axon hyper-processing]] [[flashtap]] [[socd]] [[gasket mount]] [[hot swap]] [[corsair web hub]] corsair #海盗船 #galleon100sd #streamdeck #mechanical #8khz #flashtap #gasket #hotswap #fullsize #fps #streaming #premium #wired"
+  "searchText": "corsair corsair galleon 100 sd undefined [[stream deck]] [[axon hyper-processing]] [[flashtap]] [[socd]] [[gasket mount]] [[hot swap]] [[corsair web hub]] corsair #海盗船 #galleon100sd #streamdeck #mechanical #8khz #flashtap #gasket #hotswap #fullsize #fps #streaming #premium #wired mlx pulse 机械轴"
  },
  {
   "brand": "Corsair",
   "brandId": "corsair",
   "name": "Corsair K70 PRO TKL",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = Corsair（美商海盗船）  \n| Model = K70 PRO TKL  \n| Image =  \n| Category = 磁轴电竞键盘（Hall Effect Gaming Keyboard）  \n| Switch = CORSAIR MGX Hyperdrive / MGX V2 磁轴  \n| Layout = TKL（80%，87键）  \n| Release Date = 2024年10月31日  \n| Connection = 有线（USB-C）  \n| Software = iCUE / CORSAIR Web Hub  \n| Rapid Trigger = 支持（Rapid Trigger）  \n| FlashTap = 支持（SOCD 处理）  \n| Polling Rate = 8000Hz（AXON 技术）  \n| Hot-swappable = 支持（仅主键区61键）  \n| MSRP = $179.99 / £169.99 / €189.99  \n| Discontinued = No  "
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -3337,21 +3803,82 @@
   ],
   "title": "Corsair K70 PRO TKL",
   "id": "corsair--corsair-k70-pro-tkl",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "Corsair（美商海盗船）"
+   },
+   {
+    "label": "Model",
+    "value": "K70 PRO TKL"
+   },
+   {
+    "label": "Category",
+    "value": "磁轴电竞键盘（Hall Effect Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "CORSAIR MGX Hyperdrive / MGX V2 磁轴"
+   },
+   {
+    "label": "Layout",
+    "value": "TKL（80%，87键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2024年10月31日"
+   },
+   {
+    "label": "Connection",
+    "value": "有线（USB-C）"
+   },
+   {
+    "label": "Software",
+    "value": "iCUE / CORSAIR Web Hub"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（Rapid Trigger）"
+   },
+   {
+    "label": "FlashTap",
+    "value": "支持（SOCD 处理）"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "8000Hz（AXON 技术）"
+   },
+   {
+    "label": "Hot-swappable",
+    "value": "支持（仅主键区61键）"
+   },
+   {
+    "label": "MSRP",
+    "value": "$179.99 / £169.99 / €189.99"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "Corsair K70 PRO TKL 是美商海盗船于 2024 年 10 月 31 日推出的旗舰级 TKL 磁轴电竞键盘。作为 K70 家族的最新成员，K70 PRO TKL 以全新的设计语言和顶级的竞技性能，标志着海盗船正式全面进军磁轴键盘市场。 K70 PRO TKL 搭载海盗船自研 CORSAIR MGX Hyperdrive 磁轴（部分型号为 MG…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "layout": "TKL（80%，87键）",
+   "layoutGroup": "TKL",
+   "switchText": "CORSAIR MGX Hyperdrive / MGX V2 磁轴",
+   "switchTags": [
+    "CORSAIR MGX 磁轴",
+    "MLX Plasma 机械轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "8000Hz（AXON 技术）",
+   "release": "2024年10月31日",
+   "connection": "有线（USB-C）",
+   "price": "$179.99 / £169.99 / €189.99",
+   "discontinued": "No",
+   "software": "iCUE / CORSAIR Web Hub",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -3438,13 +3965,18 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[TKL Keyboard]]"
    ]
   },
-  "searchText": "corsair corsair k70 pro tkl undefined [[mgx hyperdrive]] [[hall effect]] [[rapid trigger]] [[flashtap]] [[socd]] [[axon]] [[adjustable actuation]] corsair #海盗船 #k70protkl #magnetic #halleffect #rapidtrigger #flashtap #socd #8khz #tkl #fps #esports #premium #wired"
+  "searchText": "corsair corsair k70 pro tkl undefined [[mgx hyperdrive]] [[hall effect]] [[rapid trigger]] [[flashtap]] [[socd]] [[axon]] [[adjustable actuation]] corsair #海盗船 #k70protkl #magnetic #halleffect #rapidtrigger #flashtap #socd #8khz #tkl #fps #esports #premium #wired corsair mgx 磁轴 mlx plasma 机械轴"
  },
  {
   "brand": "MCHOSE",
   "brandId": "mchose",
   "name": "MCHOSE Ace 75",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = MCHOSE（迈从）  \n| Model = Ace 75  \n| Image =  \n| Category = 磁轴电竞键盘（Hall Effect Gaming Keyboard）  \n| Switch = 火影磁轴 / 狂暴磁轴 / 宝马磁轴（三款定制磁轴可选）  \n| Layout = 75%（81键）  \n| Release Date = 2026年6月15日  \n| Connection = 有线（USB-C）  \n| Software = M HUB（网页版 / 客户端）  \n| Rapid Trigger = 支持（0.001-3.4mm可调）  \n| SOCD = 支持  \n| Polling Rate = 8000Hz  \n| Scan Rate = 256KHz  \n| Input Latency = 0.08ms  \n| MSRP = 火影磁轴 ¥299 / 狂暴磁轴 ¥349 / 宝马磁轴 ¥399  \n| Discontinued = No  "
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -3508,21 +4040,87 @@
   ],
   "title": "MCHOSE Ace 75",
   "id": "mchose--mchose-ace-75",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "MCHOSE（迈从）"
+   },
+   {
+    "label": "Model",
+    "value": "Ace 75"
+   },
+   {
+    "label": "Category",
+    "value": "磁轴电竞键盘（Hall Effect Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "火影磁轴 / 狂暴磁轴 / 宝马磁轴（三款定制磁轴可选）"
+   },
+   {
+    "label": "Layout",
+    "value": "75%（81键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2026年6月15日"
+   },
+   {
+    "label": "Connection",
+    "value": "有线（USB-C）"
+   },
+   {
+    "label": "Software",
+    "value": "M HUB（网页版 / 客户端）"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（0.001-3.4mm可调）"
+   },
+   {
+    "label": "SOCD",
+    "value": "支持"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "8000Hz"
+   },
+   {
+    "label": "Scan Rate",
+    "value": "256KHz"
+   },
+   {
+    "label": "Input Latency",
+    "value": "0.08ms"
+   },
+   {
+    "label": "MSRP",
+    "value": "火影磁轴 ¥299 / 狂暴磁轴 ¥349 / 宝马磁轴 ¥399"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "迈从 Ace 75（MCHOSE Ace 75） 是迈从于 2026 年 6 月 15 日推出的首款 75% 配列磁轴电竞键盘，定位全能电竞与日常使用兼顾的\"黄金配列\"磁轴键盘。Ace 75 搭载迈从全自研磁轴方案，将 8KHz 回报率、0.08ms 赛事级延迟和 0.001mm RT 精度拉至 299 元起售价位，被多家媒体称为\"300 元档磁轴卷王\"。…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "layout": "75%（81键）",
+   "layoutGroup": "75%",
+   "switchText": "火影磁轴 / 狂暴磁轴 / 宝马磁轴（三款定制磁轴可选）",
+   "switchTags": [
+    "火影磁轴",
+    "狂暴磁轴",
+    "宝马磁轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "8000Hz",
+   "release": "2026年6月15日",
+   "connection": "有线（USB-C）",
+   "price": "火影磁轴 ¥299 / 狂暴磁轴 ¥349 / 宝马磁轴 ¥399",
+   "discontinued": "No",
+   "software": "M HUB（网页版 / 客户端）",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -3607,13 +4205,18 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[75% Keyboard]]"
    ]
   },
-  "searchText": "mchose mchose ace 75 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[m hub]] mchose #迈从 #ace75 #magnetic #halleffect #rapidtrigger #socd #8khz #75% #fps #esports #budget #wired"
+  "searchText": "mchose mchose ace 75 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[m hub]] mchose #迈从 #ace75 #magnetic #halleffect #rapidtrigger #socd #8khz #75% #fps #esports #budget #wired 火影磁轴 狂暴磁轴 宝马磁轴"
  },
  {
   "brand": "MCHOSE",
   "brandId": "mchose",
   "name": "MCHOSE Ace 60",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = MCHOSE（迈从）\n| Model = Ace 60\n| Image =\n| Category = 磁轴电竞键盘（Hall Effect Gaming Keyboard）\n| Switch = 冰玉磁轴 / KTEK磁轴 / TTC天王磁轴SE版 / TTC天王磁轴标准版\n| Layout = 60%（61键）\n| Release Date = 2024年10月31日\n| Connection = 有线（USB-C）\n| Software = 全自研网页驱动\n| Rapid Trigger = 支持（0.02-2mm可调）\n| SOCD = 支持\n| Polling Rate = Ace 60 Pro: 8000Hz / Ace 60: 1000Hz\n| Scan Rate = Ace 60 Pro: 32KHz / Ace 60: 16KHz\n| Input Latency = 0.125ms（Ace 60 Pro）\n| MSRP = 99元起（首发价）\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -3677,21 +4280,87 @@
   ],
   "title": "MCHOSE Ace 60",
   "id": "mchose--mchose-ace-60",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "MCHOSE（迈从）"
+   },
+   {
+    "label": "Model",
+    "value": "Ace 60"
+   },
+   {
+    "label": "Category",
+    "value": "磁轴电竞键盘（Hall Effect Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "冰玉磁轴 / KTEK磁轴 / TTC天王磁轴SE版 / TTC天王磁轴标准版"
+   },
+   {
+    "label": "Layout",
+    "value": "60%（61键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2024年10月31日"
+   },
+   {
+    "label": "Connection",
+    "value": "有线（USB-C）"
+   },
+   {
+    "label": "Software",
+    "value": "全自研网页驱动"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（0.02-2mm可调）"
+   },
+   {
+    "label": "SOCD",
+    "value": "支持"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "Ace 60 Pro: 8000Hz / Ace 60: 1000Hz"
+   },
+   {
+    "label": "Scan Rate",
+    "value": "Ace 60 Pro: 32KHz / Ace 60: 16KHz"
+   },
+   {
+    "label": "Input Latency",
+    "value": "0.125ms（Ace 60 Pro）"
+   },
+   {
+    "label": "MSRP",
+    "value": "99元起（首发价）"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "迈从 Ace 60（MCHOSE Ace 60） 是迈从于 2024 年 10 月 31 日推出的 60% 配列入门级磁轴电竞键盘，以 99 元起的首发价将磁轴键盘带入百元以内价位。Ace 60 搭载迈从定制霍尔传感器与新一代磁轴算法，支持 0.02mm 高精度触发与 0.125ms 超低延迟，被多家媒体称为 \"百元磁轴卷王\" 。 Ace 60 采用 60%…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "layout": "60%（61键）",
+   "layoutGroup": "60%",
+   "switchText": "冰玉磁轴 / KTEK磁轴 / TTC天王磁轴SE版 / TTC天王磁轴标准版",
+   "switchTags": [
+    "冰玉磁轴",
+    "KTEK 磁轴",
+    "TTC 天王磁轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "Ace 60 Pro: 8000Hz / Ace 60: 1000Hz",
+   "release": "2024年10月31日",
+   "connection": "有线（USB-C）",
+   "price": "99元起（首发价）",
+   "discontinued": "No",
+   "software": "全自研网页驱动",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -3771,13 +4440,18 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[60% Keyboard]]"
    ]
   },
-  "searchText": "mchose mchose ace 60 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[m hub]] mchose #迈从 #ace60 #magnetic #halleffect #rapidtrigger #socd #8khz #60% #fps #esports #budget #wired"
+  "searchText": "mchose mchose ace 60 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[m hub]] mchose #迈从 #ace60 #magnetic #halleffect #rapidtrigger #socd #8khz #60% #fps #esports #budget #wired 冰玉磁轴 ktek 磁轴 ttc 天王磁轴"
  },
  {
   "brand": "MCHOSE",
   "brandId": "mchose",
   "name": "MCHOSE Ace 68 Turbo",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = MCHOSE（迈从）\n| Model = Ace 68 Turbo\n| Image =\n| Category = 磁轴电竞键盘（Hall Effect Gaming Keyboard）\n| Switch = 北极星磁轴 / 泰山磁轴 GT / 粉泰山磁轴 GT\n| Layout = 65%（68键）\n| Release Date = 2025年10月下旬\n| Connection = 有线（USB-C，标配USB 3.0 16K专用数据线）\n| Software = M HUB（全自研网页驱动）\n| Rapid Trigger = 支持（0.001-3.4mm可调，步进0.001mm）\n| SOCD = 支持\n| Polling Rate = 高配版：16KHz（全球首款）/ 入门版：8KHz\n| Scan Rate = 高配版：256KHz / 入门版：128KHz\n| Input Latency = 高配版：0.06ms / 入门版：0.08ms\n| MSRP = 北极星磁轴版 ¥499 / 泰山磁轴GT版 ¥593（首发补贴价）\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -3841,21 +4515,87 @@
   ],
   "title": "MCHOSE Ace 68 Turbo",
   "id": "mchose--mchose-ace-68-turbo",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "MCHOSE（迈从）"
+   },
+   {
+    "label": "Model",
+    "value": "Ace 68 Turbo"
+   },
+   {
+    "label": "Category",
+    "value": "磁轴电竞键盘（Hall Effect Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "北极星磁轴 / 泰山磁轴 GT / 粉泰山磁轴 GT"
+   },
+   {
+    "label": "Layout",
+    "value": "65%（68键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2025年10月下旬"
+   },
+   {
+    "label": "Connection",
+    "value": "有线（USB-C，标配USB 3.0 16K专用数据线）"
+   },
+   {
+    "label": "Software",
+    "value": "M HUB（全自研网页驱动）"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（0.001-3.4mm可调，步进0.001mm）"
+   },
+   {
+    "label": "SOCD",
+    "value": "支持"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "高配版：16KHz（全球首款）/ 入门版：8KHz"
+   },
+   {
+    "label": "Scan Rate",
+    "value": "高配版：256KHz / 入门版：128KHz"
+   },
+   {
+    "label": "Input Latency",
+    "value": "高配版：0.06ms / 入门版：0.08ms"
+   },
+   {
+    "label": "MSRP",
+    "value": "北极星磁轴版 ¥499 / 泰山磁轴GT版 ¥593（首发补贴价）"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "迈从 Ace 68 Turbo（MCHOSE Ace 68 Turbo） 是迈从于 2025 年 10 月下旬推出的 全球首款 16KHz 回报率磁轴电竞键盘。作为 Ace 系列的旗舰型号，Ace 68 Turbo 以\"全铝机身 + 自研天问方案\"为核心卖点，将 16KHz 回报率、0.06ms 赛事级超低延迟和 256KHz 扫描率拉至 500 元价位段。…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "layout": "65%（68键）",
+   "layoutGroup": "65%",
+   "switchText": "北极星磁轴 / 泰山磁轴 GT / 粉泰山磁轴 GT",
+   "switchTags": [
+    "粉泰山磁轴 GT",
+    "泰山磁轴 GT",
+    "北极星磁轴"
+   ],
    "pollingHz": 16000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "高配版：16KHz（全球首款）/ 入门版：8KHz",
+   "release": "2025年10月下旬",
+   "connection": "有线（USB-C，标配USB 3.0 16K专用数据线）",
+   "price": "北极星磁轴版 ¥499 / 泰山磁轴GT版 ¥593（首发补贴价）",
+   "discontinued": "No",
+   "software": "M HUB（全自研网页驱动）",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -3941,13 +4681,18 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[65% Keyboard]]"
    ]
   },
-  "searchText": "mchose mchose ace 68 turbo undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[16khz polling rate]] [[m hub]] mchose #迈从 #ace68turbo #magnetic #halleffect #rapidtrigger #socd #16khz #65% #fps #esports #midrange #wired #fullaluminum"
+  "searchText": "mchose mchose ace 68 turbo undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[16khz polling rate]] [[m hub]] mchose #迈从 #ace68turbo #magnetic #halleffect #rapidtrigger #socd #16khz #65% #fps #esports #midrange #wired #fullaluminum 粉泰山磁轴 gt 泰山磁轴 gt 北极星磁轴"
  },
  {
   "brand": "MCHOSE",
   "brandId": "mchose",
   "name": "MCHOSE God 60",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = MCHOSE（迈从）\n| Model = God 60\n| Image =\n| Category = 高端磁轴电竞键盘（High-end Hall Effect Gaming Keyboard）\n| Switch = 磁悬浮轴（Maglev Switch）\n| Layout = 60%（61键）\n| Release Date = 2026年7月31日\n| Connection = 有线（标配16K数据线）\n| Software = M HUB（全自研网页版/客户端）\n| Rapid Trigger = 支持（0.001-3.4mm可调）\n| SOCD = 支持\n| Polling Rate = 16KHz\n| Scan Rate = 256KHz\n| Input Latency = 0.06ms\n| RT 精度 = 0.001mm\n| MSRP = 标准版 ¥999-1099 / 《凡人》联名版 ¥1299（限量）\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -4011,21 +4756,89 @@
   ],
   "title": "MCHOSE God 60",
   "id": "mchose--mchose-god-60",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "MCHOSE（迈从）"
+   },
+   {
+    "label": "Model",
+    "value": "God 60"
+   },
+   {
+    "label": "Category",
+    "value": "高端磁轴电竞键盘（High-end Hall Effect Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "磁悬浮轴（Maglev Switch）"
+   },
+   {
+    "label": "Layout",
+    "value": "60%（61键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2026年7月31日"
+   },
+   {
+    "label": "Connection",
+    "value": "有线（标配16K数据线）"
+   },
+   {
+    "label": "Software",
+    "value": "M HUB（全自研网页版/客户端）"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（0.001-3.4mm可调）"
+   },
+   {
+    "label": "SOCD",
+    "value": "支持"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "16KHz"
+   },
+   {
+    "label": "Scan Rate",
+    "value": "256KHz"
+   },
+   {
+    "label": "Input Latency",
+    "value": "0.06ms"
+   },
+   {
+    "label": "RT 精度",
+    "value": "0.001mm"
+   },
+   {
+    "label": "MSRP",
+    "value": "标准版 ¥999-1099 / 《凡人》联名版 ¥1299（限量）"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "迈从 God 60（MCHOSE God 60） 是迈从于 2026 年 7 月 31 日在 ChinaJoy 2026 上正式发布的高端旗舰磁轴电竞键盘，以\"八面出锋，大巧不工\"为设计主题。God 60 是迈从冲击高端磁轴键盘市场的标杆产品，定位面向核心年轻玩家，强调电竞体验、产品质感与个性表达。 God 60 采用 60% 配列（61键） ，机身采用全铝…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "高端磁轴电竞键盘（High-end Hall Effect Gaming Keyboard）",
+   "layout": "60%（61键）",
+   "layoutGroup": "60%",
+   "switchText": "磁悬浮轴（Maglev Switch）",
+   "switchTags": [
+    "磁悬浮轴"
+   ],
    "pollingHz": 16000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "16KHz",
+   "release": "2026年7月31日",
+   "connection": "有线（标配16K数据线）",
+   "price": "标准版 ¥999-1099 / 《凡人》联名版 ¥1299（限量）",
+   "discontinued": "No",
+   "software": "M HUB（全自研网页版/客户端）",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -4107,13 +4920,18 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[60% Keyboard]] > [[Premium Keyboard]]"
    ]
   },
-  "searchText": "mchose mchose god 60 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[16khz polling rate]] [[m hub]] [[maglev switch]] mchose #迈从 #god60 #magnetic #halleffect #rapidtrigger #socd #16khz #60% #fps #esports #premium #wired #fullaluminum #cnc #ip联名 #凡人修仙传"
+  "searchText": "mchose mchose god 60 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[16khz polling rate]] [[m hub]] [[maglev switch]] mchose #迈从 #god60 #magnetic #halleffect #rapidtrigger #socd #16khz #60% #fps #esports #premium #wired #fullaluminum #cnc #ip联名 #凡人修仙传 磁悬浮轴"
  },
  {
   "brand": "ATK",
   "brandId": "atk",
   "name": "ATK RS7 Turbo",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = ATK（艾泰克）\n| Model = RS7 Turbo\n| Image =\n| Category = 磁轴电竞键盘（Hall Effect Gaming Keyboard）\n| Switch = 混元轴 / TTC 万磁王轴\n| Layout = 75%（80键）\n| Release Date = 2024年5月\n| Connection = 有线（单模 USB-C）\n| Software = ATK HUB 3.0（网页版 / 客户端）\n| Rapid Trigger = 支持（0.01-3.5mm 可调）\n| SOCD = 支持\n| Polling Rate = 8000Hz\n| Scan Rate = 全键 32KHz / 单键 256KHz\n| Input Latency = 端到端 0.28ms\n| RT 精度 = 0.01mm\n| MSRP = 约 ¥779-899\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -4177,21 +4995,91 @@
   ],
   "title": "ATK RS7 Turbo",
   "id": "atk--atk-rs7-turbo",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "ATK（艾泰克）"
+   },
+   {
+    "label": "Model",
+    "value": "RS7 Turbo"
+   },
+   {
+    "label": "Category",
+    "value": "磁轴电竞键盘（Hall Effect Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "混元轴 / TTC 万磁王轴"
+   },
+   {
+    "label": "Layout",
+    "value": "75%（80键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2024年5月"
+   },
+   {
+    "label": "Connection",
+    "value": "有线（单模 USB-C）"
+   },
+   {
+    "label": "Software",
+    "value": "ATK HUB 3.0（网页版 / 客户端）"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（0.01-3.5mm 可调）"
+   },
+   {
+    "label": "SOCD",
+    "value": "支持"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "8000Hz"
+   },
+   {
+    "label": "Scan Rate",
+    "value": "全键 32KHz / 单键 256KHz"
+   },
+   {
+    "label": "Input Latency",
+    "value": "端到端 0.28ms"
+   },
+   {
+    "label": "RT 精度",
+    "value": "0.01mm"
+   },
+   {
+    "label": "MSRP",
+    "value": "约 ¥779-899"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "ATK RS7 Turbo 是艾泰克（ATK）于 2024 年 5 月推出的 75% 配列高端磁轴电竞键盘，隶属于 ATK RS7 系列。RS7 Turbo 搭载 ATK 第三代烈风 Ultra 磁轴方案，配备 480MHz 赛事级主控 MCU，实现 8000Hz 回报率、0.28ms 全链路延迟与 0.01mm RT 精度。 RS7 Turbo 采用 75…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "layout": "75%（80键）",
+   "layoutGroup": "75%",
+   "switchText": "混元轴 / TTC 万磁王轴",
+   "switchTags": [
+    "混元轴",
+    "TTC 万磁王轴",
+    "烈风 ULTRA 磁轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "8000Hz",
+   "release": "2024年5月",
+   "connection": "有线（单模 USB-C）",
+   "price": "约 ¥779-899",
+   "discontinued": "No",
+   "software": "ATK HUB 3.0（网页版 / 客户端）",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -4276,13 +5164,18 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[75% Keyboard]]"
    ]
   },
-  "searchText": "atk atk rs7 turbo undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[atk hub]] atk #艾泰克 #rs7turbo #magnetic #halleffect #rapidtrigger #socd #8khz #75% #fps #esports #midrange #wired #semialuminum"
+  "searchText": "atk atk rs7 turbo undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[atk hub]] atk #艾泰克 #rs7turbo #magnetic #halleffect #rapidtrigger #socd #8khz #75% #fps #esports #midrange #wired #semialuminum 混元轴 ttc 万磁王轴 烈风 ultra 磁轴"
  },
  {
   "brand": "ATK",
   "brandId": "atk",
   "name": "ATK RS7 V2",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = ATK（艾泰克）\n| Model = RS7 V2\n| Image =\n| Category = 磁轴电竞键盘（Hall Effect Gaming Keyboard）\n| Switch = 利维坦Ultra轴 / 凯华×ATK烈刃磁轴 / 雪刃轴 / 晶刃轴\n| Layout = 75%（81键）\n| Release Date = 2025年8月19日\n| Connection = 有线单模（USB-C）\n| Software = ATK HUB 3.0（网页版 hub.atk.pro / 客户端）\n| Rapid Trigger = 支持（0.001-3.5mm 可调，精度 0.001mm）\n| SOCD = 支持\n| Polling Rate = 8000Hz\n| Scan Rate = 全键 32KHz / 单键 256KHz\n| End-to-End Latency = 0.28ms\n| Transmission Latency = 0.08ms\n| RT 精度 = 0.001mm\n| MSRP = 标准版 ¥799-899 / Ultra 版 ¥999 左右\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -4346,21 +5239,97 @@
   ],
   "title": "ATK RS7 V2",
   "id": "atk--atk-rs7-v2",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "ATK（艾泰克）"
+   },
+   {
+    "label": "Model",
+    "value": "RS7 V2"
+   },
+   {
+    "label": "Category",
+    "value": "磁轴电竞键盘（Hall Effect Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "利维坦Ultra轴 / 凯华×ATK烈刃磁轴 / 雪刃轴 / 晶刃轴"
+   },
+   {
+    "label": "Layout",
+    "value": "75%（81键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2025年8月19日"
+   },
+   {
+    "label": "Connection",
+    "value": "有线单模（USB-C）"
+   },
+   {
+    "label": "Software",
+    "value": "ATK HUB 3.0（网页版 hub.atk.pro / 客户端）"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（0.001-3.5mm 可调，精度 0.001mm）"
+   },
+   {
+    "label": "SOCD",
+    "value": "支持"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "8000Hz"
+   },
+   {
+    "label": "Scan Rate",
+    "value": "全键 32KHz / 单键 256KHz"
+   },
+   {
+    "label": "End-to-End Latency",
+    "value": "0.28ms"
+   },
+   {
+    "label": "Transmission Latency",
+    "value": "0.08ms"
+   },
+   {
+    "label": "RT 精度",
+    "value": "0.001mm"
+   },
+   {
+    "label": "MSRP",
+    "value": "标准版 ¥799-899 / Ultra 版 ¥999 左右"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "ATK RS7 V2 是艾泰克（ATK）于 2025 年 8 月 19 日推出的 75% 配列全铝 CNC 磁轴电竞键盘，是 RS7 系列的全新迭代升级型号。RS7 V2 搭载 ATK 自研 第三代“烈风 ULTRA”磁轴方案，与职业选手联合开发调校，配备 480MHz 赛事级 MCU。 RS7 V2 采用 75% 配列（81 键），在保留完整 F 区与方向…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "layout": "75%（81键）",
+   "layoutGroup": "75%",
+   "switchText": "利维坦Ultra轴 / 凯华×ATK烈刃磁轴 / 雪刃轴 / 晶刃轴",
+   "switchTags": [
+    "利维坦 Ultra 轴",
+    "凯华×ATK 烈刃磁轴",
+    "雪刃轴",
+    "晶刃轴",
+    "烈风 ULTRA 磁轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "8000Hz",
+   "release": "2025年8月19日",
+   "connection": "有线单模（USB-C）",
+   "price": "标准版 ¥799-899 / Ultra 版 ¥999 左右",
+   "discontinued": "No",
+   "software": "ATK HUB 3.0（网页版 hub.atk.pro / 客户端）",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -4445,13 +5414,18 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[75% Keyboard]]"
    ]
   },
-  "searchText": "atk atk rs7 v2 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[atk hub]] atk #艾泰克 #rs7v2 #magnetic #halleffect #rapidtrigger #socd #8khz #75% #fps #esports #premium #wired #fullaluminum #cnc"
+  "searchText": "atk atk rs7 v2 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[atk hub]] atk #艾泰克 #rs7v2 #magnetic #halleffect #rapidtrigger #socd #8khz #75% #fps #esports #premium #wired #fullaluminum #cnc 利维坦 ultra 轴 凯华×atk 烈刃磁轴 雪刃轴 晶刃轴 烈风 ultra 磁轴"
  },
  {
   "brand": "ATK",
   "brandId": "atk",
   "name": "ATK RS6 Ultra+",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = ATK（艾泰克）\n| Model = RS6 Ultra+\n| Image =\n| Category = 磁轴电竞键盘（Hall Effect Gaming Keyboard）\n| Switch = 冰刃轴 PRO / 雪刃轴 PRO\n| Layout = 68键（65%配列）\n| Release Date = 2026年4月\n| Connection = 有线单模（USB-C）\n| Software = ATK HUB 3.0（网页版 hub.atk.pro / 客户端）\n| Rapid Trigger = 支持（0.001–3.3mm 可调，步进 0.001mm）\n| SOCD = 支持\n| Polling Rate = 8000Hz\n| Scan Rate = 全键 32KHz / 单键 256KHz\n| Transmission Latency = 0.08ms\n| End-to-End Latency = 0.28ms\n| RT 精度 = 0.001mm\n| MSRP = ¥569（首发价）\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -4515,21 +5489,95 @@
   ],
   "title": "ATK RS6 Ultra+",
   "id": "atk--atk-rs6-ultra",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "ATK（艾泰克）"
+   },
+   {
+    "label": "Model",
+    "value": "RS6 Ultra+"
+   },
+   {
+    "label": "Category",
+    "value": "磁轴电竞键盘（Hall Effect Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "冰刃轴 PRO / 雪刃轴 PRO"
+   },
+   {
+    "label": "Layout",
+    "value": "68键（65%配列）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2026年4月"
+   },
+   {
+    "label": "Connection",
+    "value": "有线单模（USB-C）"
+   },
+   {
+    "label": "Software",
+    "value": "ATK HUB 3.0（网页版 hub.atk.pro / 客户端）"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（0.001–3.3mm 可调，步进 0.001mm）"
+   },
+   {
+    "label": "SOCD",
+    "value": "支持"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "8000Hz"
+   },
+   {
+    "label": "Scan Rate",
+    "value": "全键 32KHz / 单键 256KHz"
+   },
+   {
+    "label": "Transmission Latency",
+    "value": "0.08ms"
+   },
+   {
+    "label": "End-to-End Latency",
+    "value": "0.28ms"
+   },
+   {
+    "label": "RT 精度",
+    "value": "0.001mm"
+   },
+   {
+    "label": "MSRP",
+    "value": "¥569（首发价）"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "ATK RS6 Ultra+ 是艾泰克（ATK）于 2026 年 4 月推出的 68 键 65% 配列全铝 CNC 磁轴电竞键盘，属于 RS6 系列的迭代升级型号。RS6 Ultra+ 搭载 ATK 自研 第三代“烈风 ULTRA”磁轴方案，配备 480MHz 赛事级 MCU，以 0.28ms 全链路延迟、0.001mm RT 精度和 8000Hz 回报率，…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "layout": "68键（65%配列）",
+   "layoutGroup": "65%",
+   "switchText": "冰刃轴 PRO / 雪刃轴 PRO",
+   "switchTags": [
+    "雪刃轴",
+    "冰刃轴 PRO",
+    "烈风 ULTRA 磁轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "8000Hz",
+   "release": "2026年4月",
+   "connection": "有线单模（USB-C）",
+   "price": "¥569（首发价）",
+   "discontinued": "No",
+   "software": "ATK HUB 3.0（网页版 hub.atk.pro / 客户端）",
    "games": [
     {
      "name": "Valorant / 无畏契约",
@@ -4609,13 +5657,18 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[65% Keyboard]]"
    ]
   },
-  "searchText": "atk atk rs6 ultra+ undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[atk hub]] atk #艾泰克 #rs6ultra+ #magnetic #halleffect #rapidtrigger #socd #8khz #65% #68键 #fps #esports #midrange #wired #fullaluminum #cnc #fr4"
+  "searchText": "atk atk rs6 ultra+ undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[atk hub]] atk #艾泰克 #rs6ultra+ #magnetic #halleffect #rapidtrigger #socd #8khz #65% #68键 #fps #esports #midrange #wired #fullaluminum #cnc #fr4 雪刃轴 冰刃轴 pro 烈风 ultra 磁轴"
  },
  {
   "brand": "IQUNIX",
   "brandId": "iqunix",
   "name": "IQUNIX AVER80",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = IQUNIX（铝厂）\n| Model = AVER80（A80）\n| Image =\n| Category = 三模无线机械键盘（复古设计）\n| Switch = CHERRY MX RGB轴 / 其他客制化轴体\n| Layout = 83键（68键主区 + F区）\n| Release Date = 2020年8月\n| Connection = 三模（USB-C有线 / 蓝牙5.0 / 2.4G无线）\n| Software = IQUNIX 专属驱动（Beta版）\n| Hot-swappable = 支持（全键热插拔）\n| Battery = 4000mAh 锂电池\n| Battery Life = 蓝牙模式约 200天（每日5小时，关RGB）\n| Keycaps = PBT热升华键帽\n| Keycaps Color = 绿白橙（复古配色）\n| Dimensions = 321 × 159 × 52mm\n| Weight = 约 1080-1093g\n| MSRP = ¥896 起\n| Discontinued = 已停产（被后续型号取代）"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -4674,21 +5727,94 @@
   ],
   "title": "IQUNIX AVER80",
   "id": "iqunix--iqunix-aver80",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "IQUNIX（铝厂）"
+   },
+   {
+    "label": "Model",
+    "value": "AVER80（A80）"
+   },
+   {
+    "label": "Category",
+    "value": "三模无线机械键盘（复古设计）"
+   },
+   {
+    "label": "Switch",
+    "value": "CHERRY MX RGB轴 / 其他客制化轴体"
+   },
+   {
+    "label": "Layout",
+    "value": "83键（68键主区 + F区）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2020年8月"
+   },
+   {
+    "label": "Connection",
+    "value": "三模（USB-C有线 / 蓝牙5.0 / 2.4G无线）"
+   },
+   {
+    "label": "Software",
+    "value": "IQUNIX 专属驱动（Beta版）"
+   },
+   {
+    "label": "Hot-swappable",
+    "value": "支持（全键热插拔）"
+   },
+   {
+    "label": "Battery",
+    "value": "4000mAh 锂电池"
+   },
+   {
+    "label": "Battery Life",
+    "value": "蓝牙模式约 200天（每日5小时，关RGB）"
+   },
+   {
+    "label": "Keycaps",
+    "value": "PBT热升华键帽"
+   },
+   {
+    "label": "Keycaps Color",
+    "value": "绿白橙（复古配色）"
+   },
+   {
+    "label": "Dimensions",
+    "value": "321 × 159 × 52mm"
+   },
+   {
+    "label": "Weight",
+    "value": "约 1080-1093g"
+   },
+   {
+    "label": "MSRP",
+    "value": "¥896 起"
+   },
+   {
+    "label": "Discontinued",
+    "value": "已停产（被后续型号取代）"
+   }
+  ],
   "excerpt": "IQUNIX AVER80（A80） 是 IQUNIX（铝厂）于 2020年8月 推出的复古风格三模无线机械键盘。A80 是 IQUNIX 为数不多的 非全铝壳体机械键盘，采用塑料外壳设计，以大胆的复古ID设计打破了 IQUNIX 以往全铝产品的局限。 A80 采用 83键布局，在紧凑的68键主区基础上完整保留了 F区功能键。其最标志性的设计是 F区抬高倾斜…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
+   "category": "机械",
+   "categoryRaw": "三模无线机械键盘（复古设计）",
+   "layout": "83键（68键主区 + F区）",
    "layoutGroup": "其他",
-   "switchText": "",
+   "switchText": "CHERRY MX RGB轴 / 其他客制化轴体",
+   "switchTags": [
+    "CHERRY MX RGB 轴",
+    "CHERRY MX 机械轴"
+   ],
    "pollingHz": 0,
    "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "release": "2020年8月",
+   "connection": "三模（USB-C有线 / 蓝牙5.0 / 2.4G无线）",
+   "price": "¥896 起",
+   "discontinued": "已停产（被后续型号取代）",
+   "software": "IQUNIX 专属驱动（Beta版）",
    "games": [],
    "ratings": [
     {
@@ -4735,13 +5861,18 @@
     "[[Gaming Keyboard]] > [[Mechanical Keyboard]] > [[Wireless Keyboard]] > [[83% Keyboard]]"
    ]
   },
-  "searchText": "iqunix iqunix aver80 undefined [[hot-swappable]] [[pbt keycaps]] [[balanced bar stabilizer]] iqunix #铝厂 #a80 #aver80 #mechanical #wireless #三模 #83键 #复古 #热插拔 #rgb #pbt #midrange #discontinued"
+  "searchText": "iqunix iqunix aver80 undefined [[hot-swappable]] [[pbt keycaps]] [[balanced bar stabilizer]] iqunix #铝厂 #a80 #aver80 #mechanical #wireless #三模 #83键 #复古 #热插拔 #rgb #pbt #midrange #discontinued cherry mx rgb 轴 cherry mx 机械轴"
  },
  {
   "brand": "IQUNIX",
   "brandId": "iqunix",
   "name": "IQUNIX EV63",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = IQUNIX（铝厂）\n| Model = EV63\n| Image =\n| Category = 旗舰磁轴电竞键盘（Hall Effect Gaming Keyboard）\n| Switch = 凯华磁轴 / 星轨磁轴 / 磁玉轴 Pro\n| Layout = 60% + 方向键（63键）\n| Release Date = 2025年8月\n| Connection = 有线（USB-C）\n| Software = EZ 驱动 3.0（网页版）\n| Rapid Trigger = 支持（0.01mm 精度）\n| SOCD = 支持\n| Polling Rate = 8000Hz\n| Input Latency = 0.125ms\n| RT 精度 = 0.01mm\n| Hot-swappable = 支持（全键热插拔）\n| Case Material = CNC 铝合金底座（EZ63 为全铝，EV63 升级为 CNC 铝合金底座 + 二合一结构）\n| MSRP = 海外 $169-$199 / 国行 ¥1299 起\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -4805,21 +5936,96 @@
   ],
   "title": "IQUNIX EV63",
   "id": "iqunix--iqunix-ev63",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "IQUNIX（铝厂）"
+   },
+   {
+    "label": "Model",
+    "value": "EV63"
+   },
+   {
+    "label": "Category",
+    "value": "旗舰磁轴电竞键盘（Hall Effect Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "凯华磁轴 / 星轨磁轴 / 磁玉轴 Pro"
+   },
+   {
+    "label": "Layout",
+    "value": "60% + 方向键（63键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2025年8月"
+   },
+   {
+    "label": "Connection",
+    "value": "有线（USB-C）"
+   },
+   {
+    "label": "Software",
+    "value": "EZ 驱动 3.0（网页版）"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（0.01mm 精度）"
+   },
+   {
+    "label": "SOCD",
+    "value": "支持"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "8000Hz"
+   },
+   {
+    "label": "Input Latency",
+    "value": "0.125ms"
+   },
+   {
+    "label": "RT 精度",
+    "value": "0.01mm"
+   },
+   {
+    "label": "Hot-swappable",
+    "value": "支持（全键热插拔）"
+   },
+   {
+    "label": "Case Material",
+    "value": "CNC 铝合金底座（EZ63 为全铝，EV63 升级为 CNC 铝合金底座 + 二合一结构）"
+   },
+   {
+    "label": "MSRP",
+    "value": "海外 $169-$199 / 国行 ¥1299 起"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "IQUNIX EV63 是 IQUNIX（铝厂）于 2025 年 8 月 推出的旗舰级 60% 配列磁轴电竞键盘，是 EZ63 的迭代升级型号。EV63 延续了 EZ63 备受欢迎的 60% 配列 + 方向键 独特布局（63键），在保留紧凑体积的同时加入实用的方向键和独立 Delete 键。 EV63 在 EZ63 的基础上进行了多项升级：CNC 铝合金底座…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "旗舰磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "layout": "60% + 方向键（63键）",
+   "layoutGroup": "60%",
+   "switchText": "凯华磁轴 / 星轨磁轴 / 磁玉轴 Pro",
+   "switchTags": [
+    "凯华磁轴",
+    "星轨磁轴",
+    "磁玉轴 Pro",
+    "Gateron Magnetic Jade"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "8000Hz",
+   "release": "2025年8月",
+   "connection": "有线（USB-C）",
+   "price": "海外 $169-$199 / 国行 ¥1299 起",
+   "discontinued": "No",
+   "software": "EZ 驱动 3.0（网页版）",
    "games": [
     {
      "name": "Valorant / 无畏契约",
@@ -4894,13 +6100,18 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[60% Keyboard]]"
    ]
   },
-  "searchText": "iqunix iqunix ev63 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[ez driver 3.0]] iqunix #铝厂 #ev63 #magnetic #halleffect #rapidtrigger #socd #8khz #60% #fps #esports #premium #wired #cnc"
+  "searchText": "iqunix iqunix ev63 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[ez driver 3.0]] iqunix #铝厂 #ev63 #magnetic #halleffect #rapidtrigger #socd #8khz #60% #fps #esports #premium #wired #cnc 凯华磁轴 星轨磁轴 磁玉轴 pro gateron magnetic jade"
  },
  {
   "brand": "IQUNIX",
   "brandId": "iqunix",
   "name": "IQUNIX EZ75",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = IQUNIX（铝厂）\n| Model = EZ75\n| Image =\n| Category = 旗舰磁轴电竞键盘（Hall Effect Gaming Keyboard）\n| Switch = 神秘 X 轴 Ultra（Magnetic X Ultra）/ 磁玉轴 Pro\n| Layout = 75%（81 键，含完整 F 区 + F13 Delete 键）\n| Release Date = 2025年8月14日\n| Connection = 有线（USB-C）\n| Software = EZ 驱动 3.0（网页版）\n| Rapid Trigger = 支持（0.005mm 精度）\n| SOCD = 支持\n| Polling Rate = 8000Hz\n| Scan Rate = 16,000Hz（16K 扫描率）\n| Input Latency = 0.18ms（宣称）/ 实测 0.30ms（按下）/ 0.26ms（释放）\n| RT 精度 = 0.005mm\n| Hot-swappable = 支持（全键热插拔，兼容 KS-20 磁轴）\n| MSRP = 神秘 X 轴 Ultra 版 $259 / 国行 ¥1699（黑武士 RS 版）\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -4964,21 +6175,95 @@
   ],
   "title": "IQUNIX EZ75",
   "id": "iqunix--iqunix-ez75",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "IQUNIX（铝厂）"
+   },
+   {
+    "label": "Model",
+    "value": "EZ75"
+   },
+   {
+    "label": "Category",
+    "value": "旗舰磁轴电竞键盘（Hall Effect Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "神秘 X 轴 Ultra（Magnetic X Ultra）/ 磁玉轴 Pro"
+   },
+   {
+    "label": "Layout",
+    "value": "75%（81 键，含完整 F 区 + F13 Delete 键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2025年8月14日"
+   },
+   {
+    "label": "Connection",
+    "value": "有线（USB-C）"
+   },
+   {
+    "label": "Software",
+    "value": "EZ 驱动 3.0（网页版）"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（0.005mm 精度）"
+   },
+   {
+    "label": "SOCD",
+    "value": "支持"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "8000Hz"
+   },
+   {
+    "label": "Scan Rate",
+    "value": "16,000Hz（16K 扫描率）"
+   },
+   {
+    "label": "Input Latency",
+    "value": "0.18ms（宣称）/ 实测 0.30ms（按下）/ 0.26ms（释放）"
+   },
+   {
+    "label": "RT 精度",
+    "value": "0.005mm"
+   },
+   {
+    "label": "Hot-swappable",
+    "value": "支持（全键热插拔，兼容 KS-20 磁轴）"
+   },
+   {
+    "label": "MSRP",
+    "value": "神秘 X 轴 Ultra 版 $259 / 国行 ¥1699（黑武士 RS 版）"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "IQUNIX EZ75 是 IQUNIX（铝厂）于 2025 年 8 月 14 日 推出的旗舰级 75% 配列磁轴电竞键盘。EZ75 结合了 EZ63 的紧凑设计与更实用的 75% 布局，在紧凑宽度基础上增加了完整的 F 区功能键、导航键区以及一颗 F13 Delete 键。 EZ75 搭载 IQUNIX 自研 神秘 X 轴 Ultra（Magnetic X…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "旗舰磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "layout": "75%（81 键，含完整 F 区 + F13 Delete 键）",
+   "layoutGroup": "75%",
+   "switchText": "神秘 X 轴 Ultra（Magnetic X Ultra）/ 磁玉轴 Pro",
+   "switchTags": [
+    "磁玉轴 Pro",
+    "神秘 X 轴 Ultra",
+    "Gateron Magnetic Jade"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "8000Hz",
+   "release": "2025年8月14日",
+   "connection": "有线（USB-C）",
+   "price": "神秘 X 轴 Ultra 版 $259 / 国行 ¥1699（黑武士 RS 版）",
+   "discontinued": "No",
+   "software": "EZ 驱动 3.0（网页版）",
    "games": [
     {
      "name": "Valorant / 无畏契约",
@@ -5053,13 +6338,18 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[75% Keyboard]]"
    ]
   },
-  "searchText": "iqunix iqunix ez75 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[gasket mount]] iqunix #铝厂 #ez75 #magnetic #halleffect #rapidtrigger #socd #8khz #16khz #75% #fps #esports #premium #wired #fullaluminum #cnc"
+  "searchText": "iqunix iqunix ez75 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[gasket mount]] iqunix #铝厂 #ez75 #magnetic #halleffect #rapidtrigger #socd #8khz #16khz #75% #fps #esports #premium #wired #fullaluminum #cnc 磁玉轴 pro 神秘 x 轴 ultra gateron magnetic jade"
  },
  {
   "brand": "IQUNIX",
   "brandId": "iqunix",
   "name": "IQUNIX EZ80",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = IQUNIX（铝厂）\n| Model = EZ80\n| Image =\n| Category = 旗舰磁轴电竞键盘（Hall Effect Gaming Keyboard）\n| Switch = 磁玉轴 Pro / 神秘 X 轴（IQUNIX 定制 X Magnetic Switch）\n| Layout = TKL（87键，标准 80% 配列）\n| Release Date = 2025年5月14日\n| Connection = 有线（USB-C）\n| Software = EZ 驱动 3.0（网页版驱动）\n| Rapid Trigger = 支持（0.005mm 精度）\n| SOCD = 支持\n| Polling Rate = 8000Hz（真 8K 回报率）\n| Scan Rate = 16,000Hz（16K 扫描率）\n| Input Latency = 0.18ms（无感延迟）/ 逼近 0.125ms 理论极限\n| RT 精度 = 0.005mm（狂暴模式下无极触发）\n| Hot-swappable = 支持（全键热插拔）\n| PCB 保修 = 3 年硬件保修\n| MSRP = 磁玉轴 Pro 版 ¥1799 / 神秘 X 轴版 ¥1799-1899 / 海外 $269-$299\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -5123,21 +6413,98 @@
   ],
   "title": "IQUNIX EZ80",
   "id": "iqunix--iqunix-ez80",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "IQUNIX（铝厂）"
+   },
+   {
+    "label": "Model",
+    "value": "EZ80"
+   },
+   {
+    "label": "Category",
+    "value": "旗舰磁轴电竞键盘（Hall Effect Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "磁玉轴 Pro / 神秘 X 轴（IQUNIX 定制 X Magnetic Switch）"
+   },
+   {
+    "label": "Layout",
+    "value": "TKL（87键，标准 80% 配列）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2025年5月14日"
+   },
+   {
+    "label": "Connection",
+    "value": "有线（USB-C）"
+   },
+   {
+    "label": "Software",
+    "value": "EZ 驱动 3.0（网页版驱动）"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（0.005mm 精度）"
+   },
+   {
+    "label": "SOCD",
+    "value": "支持"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "8000Hz（真 8K 回报率）"
+   },
+   {
+    "label": "Scan Rate",
+    "value": "16,000Hz（16K 扫描率）"
+   },
+   {
+    "label": "Input Latency",
+    "value": "0.18ms（无感延迟）/ 逼近 0.125ms 理论极限"
+   },
+   {
+    "label": "RT 精度",
+    "value": "0.005mm（狂暴模式下无极触发）"
+   },
+   {
+    "label": "Hot-swappable",
+    "value": "支持（全键热插拔）"
+   },
+   {
+    "label": "PCB 保修",
+    "value": "3 年硬件保修"
+   },
+   {
+    "label": "MSRP",
+    "value": "磁玉轴 Pro 版 ¥1799 / 神秘 X 轴版 ¥1799-1899 / 海外 $269-$299"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "IQUNIX EZ80 是 IQUNIX（铝厂）于 2025 年 5 月 14 日 推出的旗舰级 TKL 磁轴电竞键盘，是 EZ 系列的 80% 配列旗舰型号。EZ80 搭载 IQUNIX 全自研软硬件磁轴系统，融合 第三代线性霍尔单边轨对轨传感器，配备 480MHz 旗舰级 MCU，实现 8000Hz 真 8K 回报率、16000Hz 扫描率 与 0.18…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "旗舰磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "layout": "TKL（87键，标准 80% 配列）",
+   "layoutGroup": "TKL",
+   "switchText": "磁玉轴 Pro / 神秘 X 轴（IQUNIX 定制 X Magnetic Switch）",
+   "switchTags": [
+    "磁玉轴 Pro",
+    "神秘 X 轴 Ultra"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "8000Hz（真 8K 回报率）",
+   "release": "2025年5月14日",
+   "connection": "有线（USB-C）",
+   "price": "磁玉轴 Pro 版 ¥1799 / 神秘 X 轴版 ¥1799-1899 / 海外 $269-$299",
+   "discontinued": "No",
+   "software": "EZ 驱动 3.0（网页版驱动）",
    "games": [
     {
      "name": "Valorant / 无畏契约",
@@ -5217,13 +6584,18 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[TKL Keyboard]]"
    ]
   },
-  "searchText": "iqunix iqunix ez80 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[gasket mount]] iqunix #铝厂 #ez80 #magnetic #halleffect #rapidtrigger #socd #8khz #tkl #fps #esports #premium #wired #fullaluminum #cnc #1.6kg"
+  "searchText": "iqunix iqunix ez80 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[gasket mount]] iqunix #铝厂 #ez80 #magnetic #halleffect #rapidtrigger #socd #8khz #tkl #fps #esports #premium #wired #fullaluminum #cnc #1.6kg 磁玉轴 pro 神秘 x 轴 ultra"
  },
  {
   "brand": "Keychron",
   "brandId": "keychron",
   "name": "Keychron K2 Ultra 8K",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = Keychron（渴创）\n| Model = K2 Ultra 8K\n| Image =\n| Category = 三模无线机械键盘（Wireless Mechanical Keyboard）\n| Switch = Keychron Apex 轴（红轴/茶轴/香蕉轴）\n| Layout = 75%（84键）\n| Release Date = 2026年6月\n| Connection = 三模（2.4GHz无线 / 蓝牙5.2 / USB-C有线）\n| Software = Keychron Launcher（网页版）\n| Polling Rate = 有线及2.4GHz下 8000Hz，蓝牙下125Hz\n| Battery = 4000mAh\n| Battery Life = 无线8K模式下 760小时（关背光）\n| MSRP = $119.99（约合人民币812.6元）\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -5287,21 +6659,77 @@
   ],
   "title": "Keychron K2 Ultra 8K",
   "id": "keychron--keychron-k2-ultra-8k",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "Keychron（渴创）"
+   },
+   {
+    "label": "Model",
+    "value": "K2 Ultra 8K"
+   },
+   {
+    "label": "Category",
+    "value": "三模无线机械键盘（Wireless Mechanical Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "Keychron Apex 轴（红轴/茶轴/香蕉轴）"
+   },
+   {
+    "label": "Layout",
+    "value": "75%（84键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2026年6月"
+   },
+   {
+    "label": "Connection",
+    "value": "三模（2.4GHz无线 / 蓝牙5.2 / USB-C有线）"
+   },
+   {
+    "label": "Software",
+    "value": "Keychron Launcher（网页版）"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "有线及2.4GHz下 8000Hz，蓝牙下125Hz"
+   },
+   {
+    "label": "Battery",
+    "value": "4000mAh"
+   },
+   {
+    "label": "Battery Life",
+    "value": "无线8K模式下 760小时（关背光）"
+   },
+   {
+    "label": "MSRP",
+    "value": "$119.99（约合人民币812.6元）"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "Keychron K2 Ultra 8K 是 Keychron（渴创）于 2026 年 6 月 推出的 K Ultra 8K 系列三模无线机械键盘，是 K 系列中 75% 配列 的旗舰型号。K2 Ultra 8K 与 K8 Ultra 8K 同期发布，两者核心性能一致，区别仅在于配列。 K2 Ultra 8K 的核心亮点是 有线及 2.4GHz 无线双模 8…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "机械",
+   "categoryRaw": "三模无线机械键盘（Wireless Mechanical Keyboard）",
+   "layout": "75%（84键）",
+   "layoutGroup": "75%",
+   "switchText": "Keychron Apex 轴（红轴/茶轴/香蕉轴）",
+   "switchTags": [
+    "Keychron Apex 轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "有线及2.4GHz下 8000Hz，蓝牙下125Hz",
+   "release": "2026年6月",
+   "connection": "三模（2.4GHz无线 / 蓝牙5.2 / USB-C有线）",
+   "price": "$119.99（约合人民币812.6元）",
+   "discontinued": "No",
+   "software": "Keychron Launcher（网页版）",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -5360,13 +6788,18 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "keychron keychron k2 ultra 8k undefined  "
+  "searchText": "keychron keychron k2 ultra 8k undefined   keychron apex 轴"
  },
  {
   "brand": "Keychron",
   "brandId": "keychron",
   "name": "Keychron K8 Ultra 8K",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = Keychron（渴创）\n| Model = K8 Ultra 8K\n| Image =\n| Category = 三模无线机械键盘（Wireless Mechanical Keyboard）\n| Switch = Keychron Apex 轴（红轴/茶轴/香蕉轴）\n| Layout = TKL（80%，87键）\n| Release Date = 2026年6月\n| Connection = 三模（2.4GHz无线 / 蓝牙5.2 / USB-C有线）\n| Software = Keychron Launcher（网页版）\n| Polling Rate = 有线及2.4GHz下 8000Hz，蓝牙下125Hz\n| Battery Life = 无线8K模式下 760小时（关背光）\n| MSRP = $119.99（约合人民币812.6元）\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -5410,7 +6843,7 @@
    {
     "key": "9",
     "title": "9. User Rating（用户评分）",
-    "content": "基于专业评测数据汇总：\n\n| 维度 | 评分 |\n| --- | --- |\n| Performance（性能） | 90.3 / 100 |\n| Build Quality（做工） | 82.1 / 100 |\n| Productivity（生产力） | 94.1 / 100 |\n| Customizability（可定制性） | 92.3 / 100 |\n\n用户常见反馈：\n\n👍 优点：\n\n- 8000Hz 回报率（有线+2.4G）带来顶级游戏响应\n- 760 小时超长续航，无线 8K 模式无需频繁充电\n- ZMK 固件 + Keychron Launcher 网页驱动，无需安装软件\n- 6 层消音填充，敲击声纯净扎实\n- PBT 双色键帽 + OSA 高度，手感舒适耐用\n- CNC 铝合金框架 + ABS 底壳，兼顾质感与价格\n- 三模连接 + 多系统兼容（Win/Mac/Linux）\n\n👎 缺点：\n\n- 蓝牙模式下仅 125Hz 回报率\n- 非全金属机身（底壳为 ABS 塑料）\n- 相比 K8 Pro，对 ISO/JIS 布局的支持有限\n- 宏录制功能偶有卡顿"
+    "content": "基于专业评测数据汇总：\n\n| 维度 | 评分 |\n| --- | --- |\n| Performance（性能） | 4.5 / 5 |\n| Build Quality（做工） | 4.1 / 5 |\n| Productivity（生产力） | 4.7 / 5 |\n| Customizability（可定制性） | 4.6 / 5 |\n\n用户常见反馈：\n\n👍 优点：\n\n- 8000Hz 回报率（有线+2.4G）带来顶级游戏响应\n- 760 小时超长续航，无线 8K 模式无需频繁充电\n- ZMK 固件 + Keychron Launcher 网页驱动，无需安装软件\n- 6 层消音填充，敲击声纯净扎实\n- PBT 双色键帽 + OSA 高度，手感舒适耐用\n- CNC 铝合金框架 + ABS 底壳，兼顾质感与价格\n- 三模连接 + 多系统兼容（Win/Mac/Linux）\n\n👎 缺点：\n\n- 蓝牙模式下仅 125Hz 回报率\n- 非全金属机身（底壳为 ABS 塑料）\n- 相比 K8 Pro，对 ISO/JIS 布局的支持有限\n- 宏录制功能偶有卡顿"
    },
    {
     "key": "10",
@@ -5430,21 +6863,73 @@
   ],
   "title": "Keychron K8 Ultra 8K",
   "id": "keychron--keychron-k8-ultra-8k",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "Keychron（渴创）"
+   },
+   {
+    "label": "Model",
+    "value": "K8 Ultra 8K"
+   },
+   {
+    "label": "Category",
+    "value": "三模无线机械键盘（Wireless Mechanical Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "Keychron Apex 轴（红轴/茶轴/香蕉轴）"
+   },
+   {
+    "label": "Layout",
+    "value": "TKL（80%，87键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2026年6月"
+   },
+   {
+    "label": "Connection",
+    "value": "三模（2.4GHz无线 / 蓝牙5.2 / USB-C有线）"
+   },
+   {
+    "label": "Software",
+    "value": "Keychron Launcher（网页版）"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "有线及2.4GHz下 8000Hz，蓝牙下125Hz"
+   },
+   {
+    "label": "Battery Life",
+    "value": "无线8K模式下 760小时（关背光）"
+   },
+   {
+    "label": "MSRP",
+    "value": "$119.99（约合人民币812.6元）"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "Keychron K8 Ultra 8K 是 Keychron（渴创）于 2026 年 6 月 推出的 K Ultra 8K 系列三模无线机械键盘，是 K 系列中 TKL（80%）配列 的旗舰型号。K8 Ultra 8K 与 K2 Ultra 8K 同期发布，两者在核心性能上完全一致，区别仅在于配列。 K8 Ultra 8K 的核心亮点是 有线及 2.4GH…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "机械",
+   "categoryRaw": "三模无线机械键盘（Wireless Mechanical Keyboard）",
+   "layout": "TKL（80%，87键）",
+   "layoutGroup": "TKL",
+   "switchText": "Keychron Apex 轴（红轴/茶轴/香蕉轴）",
+   "switchTags": [
+    "Keychron Apex 轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "有线及2.4GHz下 8000Hz，蓝牙下125Hz",
+   "release": "2026年6月",
+   "connection": "三模（2.4GHz无线 / 蓝牙5.2 / USB-C有线）",
+   "price": "$119.99（约合人民币812.6元）",
+   "discontinued": "No",
+   "software": "Keychron Launcher（网页版）",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -5475,41 +6960,46 @@
    "ratings": [
     {
      "label": "Performance（性能）",
-     "score": 90.3,
-     "raw": "90.3 / 100",
+     "score": 4.5,
+     "raw": "4.5 / 5",
      "samples": ""
     },
     {
      "label": "Build Quality（做工）",
-     "score": 82.1,
-     "raw": "82.1 / 100",
+     "score": 4.1,
+     "raw": "4.1 / 5",
      "samples": ""
     },
     {
      "label": "Productivity（生产力）",
-     "score": 94.1,
-     "raw": "94.1 / 100",
+     "score": 4.7,
+     "raw": "4.7 / 5",
      "samples": ""
     },
     {
      "label": "Customizability（可定制性）",
-     "score": 92.3,
-     "raw": "92.3 / 100",
+     "score": 4.6,
+     "raw": "4.6 / 5",
      "samples": ""
     }
    ],
-   "overall": 89.7,
+   "overall": 4.47,
    "technologies": [],
    "tags": [],
    "categories": []
   },
-  "searchText": "keychron keychron k8 ultra 8k undefined  "
+  "searchText": "keychron keychron k8 ultra 8k undefined   keychron apex 轴"
  },
  {
   "brand": "Keychron",
   "brandId": "keychron",
   "name": "Keychron V1 Ultra 8K",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = Keychron（渴创）\n| Model = V1 Ultra 8K\n| Image =\n| Category = 三模无线机械键盘（Wireless Mechanical Keyboard）\n| Switch = Keychron Silk POM 轴（红轴/茶轴/香蕉轴）\n| Layout = 75%（81键，含旋钮）\n| Release Date = 2026年1月23日\n| Connection = 三模（2.4GHz无线 / 蓝牙5.3 / USB-C有线）\n| Software = Keychron Launcher（网页版）\n| Polling Rate = 有线及2.4GHz下 8000Hz，蓝牙下低功耗模式\n| Battery = 4000mAh\n| Battery Life = 无线模式下 660小时（关背光）\n| MSRP = $114.99（约合人民币 801.6元）\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -5573,21 +7063,77 @@
   ],
   "title": "Keychron V1 Ultra 8K",
   "id": "keychron--keychron-v1-ultra-8k",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "Keychron（渴创）"
+   },
+   {
+    "label": "Model",
+    "value": "V1 Ultra 8K"
+   },
+   {
+    "label": "Category",
+    "value": "三模无线机械键盘（Wireless Mechanical Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "Keychron Silk POM 轴（红轴/茶轴/香蕉轴）"
+   },
+   {
+    "label": "Layout",
+    "value": "75%（81键，含旋钮）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2026年1月23日"
+   },
+   {
+    "label": "Connection",
+    "value": "三模（2.4GHz无线 / 蓝牙5.3 / USB-C有线）"
+   },
+   {
+    "label": "Software",
+    "value": "Keychron Launcher（网页版）"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "有线及2.4GHz下 8000Hz，蓝牙下低功耗模式"
+   },
+   {
+    "label": "Battery",
+    "value": "4000mAh"
+   },
+   {
+    "label": "Battery Life",
+    "value": "无线模式下 660小时（关背光）"
+   },
+   {
+    "label": "MSRP",
+    "value": "$114.99（约合人民币 801.6元）"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "Keychron V1 Ultra 8K 是 Keychron（渴创）于 2026 年 1 月 23 日 推出的 V Ultra 8K 系列三模无线机械键盘。作为 V 系列的高性能迭代型号，V1 Ultra 8K 以 “更亲民的价格提供旗舰级性能” 为核心定位，是 Keychron 在主流价位段布局 8K 无线键盘的重要产品。 V1 Ultra 8K 采用…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "机械",
+   "categoryRaw": "三模无线机械键盘（Wireless Mechanical Keyboard）",
+   "layout": "75%（81键，含旋钮）",
+   "layoutGroup": "75%",
+   "switchText": "Keychron Silk POM 轴（红轴/茶轴/香蕉轴）",
+   "switchTags": [
+    "Keychron Silk POM 轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "有线及2.4GHz下 8000Hz，蓝牙下低功耗模式",
+   "release": "2026年1月23日",
+   "connection": "三模（2.4GHz无线 / 蓝牙5.3 / USB-C有线）",
+   "price": "$114.99（约合人民币 801.6元）",
+   "discontinued": "No",
+   "software": "Keychron Launcher（网页版）",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -5652,13 +7198,18 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "keychron keychron v1 ultra 8k undefined  "
+  "searchText": "keychron keychron v1 ultra 8k undefined   keychron silk pom 轴"
  },
  {
   "brand": "Keychron",
   "brandId": "keychron",
   "name": "Keychron Q1 Ultra 8K",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = Keychron（渴创）\n| Model = Q1 Ultra 8K\n| Image =\n| Category = 三模无线机械键盘（Wireless Custom Mechanical Keyboard）\n| Switch = Keychron Silk POM 系列轴体（红轴/茶轴/香蕉轴）\n| Layout = 75%（81键，含独立音量旋钮）\n| Release Date = 2026年1月6日（CES 2026 发布）\n| Connection = 三模（2.4GHz无线 / 蓝牙5.3 / USB-C有线）\n| Software = Keychron Launcher（网页版）\n| Polling Rate = 有线及2.4GHz下 8000Hz（蓝牙模式下为低功耗模式）\n| Battery = 4000mAh\n| Battery Life = 无线模式下 660小时（关背光）\n| Case Material = CNC 全铝合金机身（6063 铝材）\n| MSRP = 海外 $229.99/ 国行 ¥1393.15（首发 ¥1293.15）\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -5722,21 +7273,81 @@
   ],
   "title": "Keychron Q1 Ultra 8K",
   "id": "keychron--keychron-q1-ultra-8k",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "Keychron（渴创）"
+   },
+   {
+    "label": "Model",
+    "value": "Q1 Ultra 8K"
+   },
+   {
+    "label": "Category",
+    "value": "三模无线机械键盘（Wireless Custom Mechanical Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "Keychron Silk POM 系列轴体（红轴/茶轴/香蕉轴）"
+   },
+   {
+    "label": "Layout",
+    "value": "75%（81键，含独立音量旋钮）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2026年1月6日（CES 2026 发布）"
+   },
+   {
+    "label": "Connection",
+    "value": "三模（2.4GHz无线 / 蓝牙5.3 / USB-C有线）"
+   },
+   {
+    "label": "Software",
+    "value": "Keychron Launcher（网页版）"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "有线及2.4GHz下 8000Hz（蓝牙模式下为低功耗模式）"
+   },
+   {
+    "label": "Battery",
+    "value": "4000mAh"
+   },
+   {
+    "label": "Battery Life",
+    "value": "无线模式下 660小时（关背光）"
+   },
+   {
+    "label": "Case Material",
+    "value": "CNC 全铝合金机身（6063 铝材）"
+   },
+   {
+    "label": "MSRP",
+    "value": "海外 $229.99/ 国行 ¥1393.15（首发 ¥1293.15）"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "Keychron Q1 Ultra 8K 是 Keychron（渴创）于 2026 年 1 月 6 日 在 CES 2026 上发布的 Q Ultra 8K 系列旗舰三模无线机械键盘。作为 Q 系列的高性能迭代型号，Q1 Ultra 8K 以 “全金属机身 + 8K 无线回报率 + ZMK 固件” 为核心卖点，是 Keychron 在高端无线机械键盘市场的旗…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "机械",
+   "categoryRaw": "三模无线机械键盘（Wireless Custom Mechanical Keyboard）",
+   "layout": "75%（81键，含独立音量旋钮）",
+   "layoutGroup": "75%",
+   "switchText": "Keychron Silk POM 系列轴体（红轴/茶轴/香蕉轴）",
+   "switchTags": [
+    "Keychron Silk POM 轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "有线及2.4GHz下 8000Hz（蓝牙模式下为低功耗模式）",
+   "release": "2026年1月6日（CES 2026 发布）",
+   "connection": "三模（2.4GHz无线 / 蓝牙5.3 / USB-C有线）",
+   "price": "海外 $229.99/ 国行 ¥1393.15（首发 ¥1293.15）",
+   "discontinued": "No",
+   "software": "Keychron Launcher（网页版）",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -5812,13 +7423,18 @@
     "[[Gaming Keyboard]] > [[Mechanical Keyboard]] > [[Wireless Keyboard]] > [[75% Keyboard]]"
    ]
   },
-  "searchText": "keychron keychron q1 ultra 8k undefined [[zmk firmware]] [[8000hz polling rate]] [[keychron launcher]] [[keychron silk pom switch]] [[gasket mount]] [[6-layer damping]] keychron #渴创 #q1ultra #8khz #zmk #75% #三模 #无线 #机械键盘 #rgb #hotswap #pbt #premium #全铝 #cnc"
+  "searchText": "keychron keychron q1 ultra 8k undefined [[zmk firmware]] [[8000hz polling rate]] [[keychron launcher]] [[keychron silk pom switch]] [[gasket mount]] [[6-layer damping]] keychron #渴创 #q1ultra #8khz #zmk #75% #三模 #无线 #机械键盘 #rgb #hotswap #pbt #premium #全铝 #cnc keychron silk pom 轴"
  },
  {
   "brand": "VGN",
   "brandId": "vgn",
   "name": "VGN V98Pro V4",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = VGN（微技）\n| Model = V98Pro V4\n| Image =\n| Category = 三模无线机械键盘（客制化机械键盘）\n| Switch = 极地狐轴 / 冰川Pro轴 / 奶牛Pro轴 / 动力金Pro轴 / 夜魔Pro轴 / 风信子Pro轴 / 闪电金轴\n| Layout = 98%（100键）\n| Release Date = 2026年5月22日\n| Connection = 三模（有线 / 2.4G无线 / 蓝牙）\n| Software = V HUB（网页版 / 客户端）\n| Polling Rate = 双8K满配回报率（有线+2.4G）/ 另有双1K版本\n| Input Latency = 0.08ms（无感延迟）\n| Battery = 10000mAh\n| Battery Life = 最长 347天（相比V98Pro V3提升594%）\n| MSRP = 299元起\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -5882,21 +7498,87 @@
   ],
   "title": "VGN V98Pro V4",
   "id": "vgn--vgn-v98pro-v4",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "VGN（微技）"
+   },
+   {
+    "label": "Model",
+    "value": "V98Pro V4"
+   },
+   {
+    "label": "Category",
+    "value": "三模无线机械键盘（客制化机械键盘）"
+   },
+   {
+    "label": "Switch",
+    "value": "极地狐轴 / 冰川Pro轴 / 奶牛Pro轴 / 动力金Pro轴 / 夜魔Pro轴 / 风信子Pro轴 / 闪电金轴"
+   },
+   {
+    "label": "Layout",
+    "value": "98%（100键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2026年5月22日"
+   },
+   {
+    "label": "Connection",
+    "value": "三模（有线 / 2.4G无线 / 蓝牙）"
+   },
+   {
+    "label": "Software",
+    "value": "V HUB（网页版 / 客户端）"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "双8K满配回报率（有线+2.4G）/ 另有双1K版本"
+   },
+   {
+    "label": "Input Latency",
+    "value": "0.08ms（无感延迟）"
+   },
+   {
+    "label": "Battery",
+    "value": "10000mAh"
+   },
+   {
+    "label": "Battery Life",
+    "value": "最长 347天（相比V98Pro V3提升594%）"
+   },
+   {
+    "label": "MSRP",
+    "value": "299元起"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "VGN V98Pro V4 是 VGN（微技）于 2026 年 5 月 22 日 推出的客制化三模无线机械键盘。作为 V98Pro 系列的最新迭代型号，V4 以 “全场景客制化键盘” 为核心定位，在续航、延迟和功能集成上实现了大幅升级。 V98Pro V4 采用 98 配列 100 键布局，保留完整数字小键盘的同时兼顾紧凑桌面空间。其核心亮点是搭载 VGN…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "机械",
+   "categoryRaw": "三模无线机械键盘（客制化机械键盘）",
+   "layout": "98%（100键）",
+   "layoutGroup": "98%",
+   "switchText": "极地狐轴 / 冰川Pro轴 / 奶牛Pro轴 / 动力金Pro轴 / 夜魔Pro轴 / 风信子Pro轴 / 闪电金轴",
+   "switchTags": [
+    "极地狐轴",
+    "冰川 Pro 轴",
+    "奶牛 Pro 轴",
+    "动力金 Pro 轴",
+    "夜魔 Pro 轴",
+    "风信子 Pro 轴",
+    "闪电金轴"
+   ],
    "pollingHz": 0,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "双8K满配回报率（有线+2.4G）/ 另有双1K版本",
+   "release": "2026年5月22日",
+   "connection": "三模（有线 / 2.4G无线 / 蓝牙）",
+   "price": "299元起",
+   "discontinued": "No",
+   "software": "V HUB（网页版 / 客户端）",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -5970,13 +7652,18 @@
     "[[Gaming Keyboard]] > [[Mechanical Keyboard]] > [[Wireless Keyboard]] > [[98% Keyboard]]"
    ]
   },
-  "searchText": "vgn vgn v98pro v4 undefined [[gasket mount]] [[hot-swappable]] [[5-layer damping]] [[v hub]] vgn #微技 #v98prov4 #mechanical #wireless #三模 #98% #100键 #gasket #热插拔 #rgb #pbt #点阵屏 #10000mah #midrange"
+  "searchText": "vgn vgn v98pro v4 undefined [[gasket mount]] [[hot-swappable]] [[5-layer damping]] [[v hub]] vgn #微技 #v98prov4 #mechanical #wireless #三模 #98% #100键 #gasket #热插拔 #rgb #pbt #点阵屏 #10000mah #midrange 极地狐轴 冰川 pro 轴 奶牛 pro 轴 动力金 pro 轴 夜魔 pro 轴 风信子 pro 轴 闪电金轴"
  },
  {
   "brand": "VGN",
   "brandId": "vgn",
   "name": "VGN V87Pro",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = VGN（微技）\n| Model = V87Pro\n| Image =\n| Category = 三模无线机械键盘（客制化机械键盘）\n| Switch = 阿尼亚轴（提前线性轴）\n| Layout = TKL（87键）\n| Release Date = 2023年10月20日\n| Connection = 三模（有线 / 2.4G无线 / 蓝牙5.0）\n| Software = VGN HUB\n| Polling Rate = 1000Hz\n| Battery = 8000mAh\n| Battery Life = 8000mAh大电池，续航持久\n| MSRP = 299元（首发）\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -6040,21 +7727,77 @@
   ],
   "title": "VGN V87Pro",
   "id": "vgn--vgn-v87pro",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "VGN（微技）"
+   },
+   {
+    "label": "Model",
+    "value": "V87Pro"
+   },
+   {
+    "label": "Category",
+    "value": "三模无线机械键盘（客制化机械键盘）"
+   },
+   {
+    "label": "Switch",
+    "value": "阿尼亚轴（提前线性轴）"
+   },
+   {
+    "label": "Layout",
+    "value": "TKL（87键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2023年10月20日"
+   },
+   {
+    "label": "Connection",
+    "value": "三模（有线 / 2.4G无线 / 蓝牙5.0）"
+   },
+   {
+    "label": "Software",
+    "value": "VGN HUB"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "1000Hz"
+   },
+   {
+    "label": "Battery",
+    "value": "8000mAh"
+   },
+   {
+    "label": "Battery Life",
+    "value": "8000mAh大电池，续航持久"
+   },
+   {
+    "label": "MSRP",
+    "value": "299元（首发）"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "VGN V87Pro 是 VGN（微技）于 2023 年 10 月 20 日 推出的 TKL 配列三模无线机械键盘，是 V87 系列的高配版本。V87Pro 以 “入门级价格提供旗舰级配置” 为核心定位，是 VGN 在 87 键配列市场的主力产品。 V87Pro 采用 87 键 TKL 配列，保留方向键与功能键区的同时节省桌面空间。键盘采用 Gasket 结…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "机械",
+   "categoryRaw": "三模无线机械键盘（客制化机械键盘）",
+   "layout": "TKL（87键）",
+   "layoutGroup": "TKL",
+   "switchText": "阿尼亚轴（提前线性轴）",
+   "switchTags": [
+    "阿尼亚轴"
+   ],
    "pollingHz": 1000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "1000Hz",
+   "release": "2023年10月20日",
+   "connection": "三模（有线 / 2.4G无线 / 蓝牙5.0）",
+   "price": "299元（首发）",
+   "discontinued": "No",
+   "software": "VGN HUB",
    "games": [
     {
      "name": "Counter-Strike 2",
@@ -6129,13 +7872,18 @@
     "[[Gaming Keyboard]] > [[Mechanical Keyboard]] > [[Wireless Keyboard]] > [[TKL Keyboard]]"
    ]
   },
-  "searchText": "vgn vgn v87pro undefined [[gasket mount]] [[hot-swappable]] [[5-layer damping]] [[smart speed]] [[vgn hub]] vgn #微技 #v87pro #mechanical #wireless #三模 #tkl #87键 #gasket #热插拔 #rgb #pbt #阿尼亚轴 #8000mah #midrange"
+  "searchText": "vgn vgn v87pro undefined [[gasket mount]] [[hot-swappable]] [[5-layer damping]] [[smart speed]] [[vgn hub]] vgn #微技 #v87pro #mechanical #wireless #三模 #tkl #87键 #gasket #热插拔 #rgb #pbt #阿尼亚轴 #8000mah #midrange 阿尼亚轴"
  },
  {
   "brand": "VGN",
   "brandId": "vgn",
   "name": "VGN 闪电68",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = VGN（微技）\n| Model = 闪电68\n| Image =\n| Category = 磁轴电竞键盘（Magnetic Gaming Keyboard）\n| Switch = 天霸轴 / 烈焰黄万磁王轴（TTC定制）\n| Layout = 68键（65%配列）\n| Release Date = 2026年4月10日\n| Connection = 有线（USB-C，特调真8K 24芯抗干扰线）\n| Software = VHub 4.0驱动\n| Rapid Trigger = 支持（全段 0.001mm 精度）\n| SOCD = 支持\n| Polling Rate = 8000Hz\n| Input Latency = 按下 0.24ms / 抬起 0.36ms\n| RT 精度 = 0.001mm\n| Hot-swappable = 支持（全键热插拔）\n| MSRP = 599 - 699元\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -6199,21 +7947,90 @@
   ],
   "title": "VGN 闪电68",
   "id": "vgn--vgn-闪电68",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "VGN（微技）"
+   },
+   {
+    "label": "Model",
+    "value": "闪电68"
+   },
+   {
+    "label": "Category",
+    "value": "磁轴电竞键盘（Magnetic Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "天霸轴 / 烈焰黄万磁王轴（TTC定制）"
+   },
+   {
+    "label": "Layout",
+    "value": "68键（65%配列）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2026年4月10日"
+   },
+   {
+    "label": "Connection",
+    "value": "有线（USB-C，特调真8K 24芯抗干扰线）"
+   },
+   {
+    "label": "Software",
+    "value": "VHub 4.0驱动"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（全段 0.001mm 精度）"
+   },
+   {
+    "label": "SOCD",
+    "value": "支持"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "8000Hz"
+   },
+   {
+    "label": "Input Latency",
+    "value": "按下 0.24ms / 抬起 0.36ms"
+   },
+   {
+    "label": "RT 精度",
+    "value": "0.001mm"
+   },
+   {
+    "label": "Hot-swappable",
+    "value": "支持（全键热插拔）"
+   },
+   {
+    "label": "MSRP",
+    "value": "599 - 699元"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "VGN 闪电68 是 VGN（微技）于 2026 年 4 月 10 日 推出的 68 键（65% 配列）有线磁轴电竞键盘。闪电68 搭载 VGN 全自研金字塔方案，以 “三芯片架构 + 8KHz 回报率 + 0.001mm RT 精度” 为核心卖点，定位于 599699 元价位段的高性能磁轴键盘市场。 闪电68 采用 CNC 铝合金外壳 与 飞船舱式科幻外观…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "磁轴电竞键盘（Magnetic Gaming Keyboard）",
+   "layout": "68键（65%配列）",
+   "layoutGroup": "65%",
+   "switchText": "天霸轴 / 烈焰黄万磁王轴（TTC定制）",
+   "switchTags": [
+    "天霸磁轴",
+    "TTC 烈焰黄万磁王轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "8000Hz",
+   "release": "2026年4月10日",
+   "connection": "有线（USB-C，特调真8K 24芯抗干扰线）",
+   "price": "599 - 699元",
+   "discontinued": "No",
+   "software": "VHub 4.0驱动",
    "games": [
     {
      "name": "Valorant / 无畏契约",
@@ -6293,13 +8110,18 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[65% Keyboard]]"
    ]
   },
-  "searchText": "vgn vgn 闪电68 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[vhub 4.0]] vgn #微技 #闪电68 #magnetic #halleffect #rapidtrigger #socd #8khz #65% #68键 #fps #esports #midrange #wired #fullaluminum #cnc"
+  "searchText": "vgn vgn 闪电68 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[vhub 4.0]] vgn #微技 #闪电68 #magnetic #halleffect #rapidtrigger #socd #8khz #65% #68键 #fps #esports #midrange #wired #fullaluminum #cnc 天霸磁轴 ttc 烈焰黄万磁王轴"
  },
  {
   "brand": "VGN",
   "brandId": "vgn",
   "name": "VGN 霓虹 68",
   "sections": [
+   {
+    "key": "infobox",
+    "title": "Infobox",
+    "content": "| Brand = VGN（微技）\n| Model = 霓虹 68（Neon 68）\n| Image =\n| Category = 磁轴电竞键盘（Magnetic Gaming Keyboard）\n| Switch = 天霸轴 / 神启轴 / 昆仑轴\n| Layout = 65%（68键）\n| Release Date = 2026年1月20日\n| Connection = 有线单模（USB-C）\n| Software = V HUB 网页驱动\n| Rapid Trigger = 支持（0.001mm 精度）\n| SOCD = 支持\n| Polling Rate = 8000Hz\n| Input Latency = 0.1ms（超竞版+）/ 0.125ms（超竞版）\n| RT 精度 = 0.001mm\n| Hot-swappable = 支持（全键热插拔，仅超竞版+）\n| MSRP = 超竞版 199 元 / 超竞版+ 299-329 元\n| Discontinued = No"
+   },
    {
     "key": "1",
     "title": "1. Overview（简介）",
@@ -6363,21 +8185,92 @@
   ],
   "title": "VGN 霓虹 68",
   "id": "vgn--vgn-霓虹-68",
-  "infobox": [],
+  "infobox": [
+   {
+    "label": "Brand",
+    "value": "VGN（微技）"
+   },
+   {
+    "label": "Model",
+    "value": "霓虹 68（Neon 68）"
+   },
+   {
+    "label": "Category",
+    "value": "磁轴电竞键盘（Magnetic Gaming Keyboard）"
+   },
+   {
+    "label": "Switch",
+    "value": "天霸轴 / 神启轴 / 昆仑轴"
+   },
+   {
+    "label": "Layout",
+    "value": "65%（68键）"
+   },
+   {
+    "label": "Release Date",
+    "value": "2026年1月20日"
+   },
+   {
+    "label": "Connection",
+    "value": "有线单模（USB-C）"
+   },
+   {
+    "label": "Software",
+    "value": "V HUB 网页驱动"
+   },
+   {
+    "label": "Rapid Trigger",
+    "value": "支持（0.001mm 精度）"
+   },
+   {
+    "label": "SOCD",
+    "value": "支持"
+   },
+   {
+    "label": "Polling Rate",
+    "value": "8000Hz"
+   },
+   {
+    "label": "Input Latency",
+    "value": "0.1ms（超竞版+）/ 0.125ms（超竞版）"
+   },
+   {
+    "label": "RT 精度",
+    "value": "0.001mm"
+   },
+   {
+    "label": "Hot-swappable",
+    "value": "支持（全键热插拔，仅超竞版+）"
+   },
+   {
+    "label": "MSRP",
+    "value": "超竞版 199 元 / 超竞版+ 299-329 元"
+   },
+   {
+    "label": "Discontinued",
+    "value": "No"
+   }
+  ],
   "excerpt": "VGN 霓虹 68（Neon 68） 是 VGN（微技）于 2026 年 1 月 20 日 推出的 65% 配列有线磁轴电竞键盘。霓虹 68 以 “199 元起售价 + 8K 回报率 + 0.001mm RT 精度” 为核心卖点，将高性能磁轴键盘的价格门槛拉低至百元级，被玩家称为 “百元磁轴卷王” 。 霓虹 68 采用 68 键紧凑布局（65% 配列） ，保…",
   "meta": {
-   "category": "其他",
-   "categoryRaw": "",
-   "layout": "",
-   "layoutGroup": "其他",
-   "switchText": "",
+   "category": "磁轴",
+   "categoryRaw": "磁轴电竞键盘（Magnetic Gaming Keyboard）",
+   "layout": "65%（68键）",
+   "layoutGroup": "65%",
+   "switchText": "天霸轴 / 神启轴 / 昆仑轴",
+   "switchTags": [
+    "CHERRY MX 机械轴",
+    "天霸磁轴",
+    "神启轴",
+    "昆仑轴"
+   ],
    "pollingHz": 8000,
-   "pollingText": "",
-   "release": "",
-   "connection": "",
-   "price": "",
-   "discontinued": "",
-   "software": "",
+   "pollingText": "8000Hz",
+   "release": "2026年1月20日",
+   "connection": "有线单模（USB-C）",
+   "price": "超竞版 199 元 / 超竞版+ 299-329 元",
+   "discontinued": "No",
+   "software": "V HUB 网页驱动",
    "games": [
     {
      "name": "Valorant / 无畏契约",
@@ -6447,7 +8340,7 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "vgn vgn 霓虹 68 undefined  "
+  "searchText": "vgn vgn 霓虹 68 undefined   cherry mx 机械轴 天霸磁轴 神启轴 昆仑轴"
  },
  {
   "brand": "Angry Miao",
@@ -6457,7 +8350,7 @@
    {
     "key": "infobox",
     "title": "Infobox",
-    "content": "{{Infobox Keyboard\n| Brand = Angry Miao（怒喵）\n| Model = Battleye 74.5（BE745）\n| Image =\n| Category = 磁轴电竞键盘（Hall Effect Gaming Keyboard）\n| Switch = 定制八宝库里南轴（AngryMiao Ver.）\n| Layout = 74.5%（63键 + 完整F区）\n| Release Date = 2024年（R2版本：2025年）\n| Connection = 有线单模（USB-C）\n| Software = 网页驱动 / GitHub开源库\n| Rapid Trigger = 支持（0.001mm 全段精度）\n| SOCD = 支持\n| Polling Rate = 8000Hz（8K）\n| Scan Rate = 单键 256KHz / 全键 32KHz\n| Input Latency = 0.1ms\n| RT 精度 = 0.001mm\n| Hot-swappable = 支持（全键热插拔）\n| MSRP = R2版 1480元 / 早期版约 2115-2999元\n| Discontinued = No\n}}"
+    "content": "| Brand = Angry Miao（怒喵）\n| Model = Battleye 74.5（BE745）\n| Image =\n| Category = 磁轴电竞键盘（Hall Effect Gaming Keyboard）\n| Switch = 定制八宝库里南轴（AngryMiao Ver.）\n| Layout = 74.5%（63键 + 完整F区）\n| Release Date = 2024年（R2版本：2025年）\n| Connection = 有线单模（USB-C）\n| Software = 网页驱动 / GitHub开源库\n| Rapid Trigger = 支持（0.001mm 全段精度）\n| SOCD = 支持\n| Polling Rate = 8000Hz（8K）\n| Scan Rate = 单键 256KHz / 全键 32KHz\n| Input Latency = 0.1ms\n| RT 精度 = 0.001mm\n| Hot-swappable = 支持（全键热插拔）\n| MSRP = R2版 1480元 / 早期版约 2115-2999元\n| Discontinued = No"
    },
    {
     "key": "1",
@@ -6599,6 +8492,9 @@
    "layout": "74.5%（63键 + 完整F区）",
    "layoutGroup": "其他",
    "switchText": "定制八宝库里南轴（AngryMiao Ver.）",
+   "switchTags": [
+    "八宝库里南轴"
+   ],
    "pollingHz": 8000,
    "pollingText": "8000Hz（8K）",
    "release": "2024年（R2版本：2025年）",
@@ -6675,7 +8571,7 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "angry miao angry miao battleye 74.5 undefined  "
+  "searchText": "angry miao angry miao battleye 74.5 undefined   八宝库里南轴"
  },
  {
   "brand": "Angry Miao",
@@ -6685,7 +8581,7 @@
    {
     "key": "infobox",
     "title": "Infobox",
-    "content": "{{Infobox Keyboard\n| Brand = Dry Studio（怒喵旗下子品牌）\n| Model = Black Diamond 75 V2\n| Image =\n| Category = 客制化三模无线机械键盘（Custom Wireless Mechanical Keyboard）\n| Switch = 速冰轴（Dry Studio × Gateron 联合定制）\n| Layout = 75%（81键）\n| Release Date = 2024年4月12日\n| Connection = 三模（2.4G无线 / 蓝牙5.1 / USB-C有线）\n| Software = AM Master（怒喵技术提供）\n| Leaf-Spring = 支持（叶簧悬挂结构）\n| Polling Rate = 2.4G下 1000Hz\n| Scan Rate = 2.4G下 2000Hz\n| Wireless Latency = < 2ms（端到端）\n| Battery = 5000mAh\n| Battery Life = 2.4G模式约 60天（关RGB）\n| Hot-swappable = 支持（1.6mm热插拔PCB）\n| Weight = 锻碳版 2.8kg / 钛坦版 3.0kg\n| MSRP = 标配版 1580元 / 高配版 1980元\n| Discontinued = No\n}}"
+    "content": "| Brand = Dry Studio（怒喵旗下子品牌）\n| Model = Black Diamond 75 V2\n| Image =\n| Category = 客制化三模无线机械键盘（Custom Wireless Mechanical Keyboard）\n| Switch = 速冰轴（Dry Studio × Gateron 联合定制）\n| Layout = 75%（81键）\n| Release Date = 2024年4月12日\n| Connection = 三模（2.4G无线 / 蓝牙5.1 / USB-C有线）\n| Software = AM Master（怒喵技术提供）\n| Leaf-Spring = 支持（叶簧悬挂结构）\n| Polling Rate = 2.4G下 1000Hz\n| Scan Rate = 2.4G下 2000Hz\n| Wireless Latency = < 2ms（端到端）\n| Battery = 5000mAh\n| Battery Life = 2.4G模式约 60天（关RGB）\n| Hot-swappable = 支持（1.6mm热插拔PCB）\n| Weight = 锻碳版 2.8kg / 钛坦版 3.0kg\n| MSRP = 标配版 1580元 / 高配版 1980元\n| Discontinued = No"
    },
    {
     "key": "1",
@@ -6831,6 +8727,9 @@
    "layout": "75%（81键）",
    "layoutGroup": "75%",
    "switchText": "速冰轴（Dry Studio × Gateron 联合定制）",
+   "switchTags": [
+    "速冰轴"
+   ],
    "pollingHz": 1000,
    "pollingText": "2.4G下 1000Hz",
    "release": "2024年4月12日",
@@ -6902,7 +8801,7 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "angry miao dry studio black diamond 75 v2 undefined  "
+  "searchText": "angry miao dry studio black diamond 75 v2 undefined   速冰轴"
  },
  {
   "brand": "Angry Miao",
@@ -6912,7 +8811,7 @@
    {
     "key": "infobox",
     "title": "Infobox",
-    "content": "{{Infobox Keyboard\n| Brand = Angry Miao（怒喵）\n| Model = CYBERBOARD R3\n| Image =\n| Category = 客制化无线机械键盘（Custom Wireless Mechanical Keyboard）\n| Layout = 标准 64 键 / 87 键 / 104 键\n| Release Date = 2021年10月19日\n| Connection = 三模（蓝牙5.0 / USB-C有线 / 无线充电）\n| Software = AM Master\n| Gasket Mount = 支持（优化版Gasket结构）\n| LED Matrix = 全新升级LED矩阵，3个DIY灯效槽位，256级DC调光\n| Battery = 内置电池（支持无线充电）\n| Hot-swappable = 支持\n| MSRP = 3600元（布达佩斯粉/水青/玄墨）/ 3900元（云白）\n| Discontinued = No\n}}"
+    "content": "| Brand = Angry Miao（怒喵）\n| Model = CYBERBOARD R3\n| Image =\n| Category = 客制化无线机械键盘（Custom Wireless Mechanical Keyboard）\n| Layout = 标准 64 键 / 87 键 / 104 键\n| Release Date = 2021年10月19日\n| Connection = 三模（蓝牙5.0 / USB-C有线 / 无线充电）\n| Software = AM Master\n| Gasket Mount = 支持（优化版Gasket结构）\n| LED Matrix = 全新升级LED矩阵，3个DIY灯效槽位，256级DC调光\n| Battery = 内置电池（支持无线充电）\n| Hot-swappable = 支持\n| MSRP = 3600元（布达佩斯粉/水青/玄墨）/ 3900元（云白）\n| Discontinued = No"
    },
    {
     "key": "1",
@@ -7038,6 +8937,7 @@
    "layout": "标准 64 键 / 87 键 / 104 键",
    "layoutGroup": "其他",
    "switchText": "",
+   "switchTags": [],
    "pollingHz": 0,
    "pollingText": "",
    "release": "2021年10月19日",
@@ -7109,6 +9009,6 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "angry miao angry miao cyberboard r3 undefined  "
+  "searchText": "angry miao angry miao cyberboard r3 undefined   "
  }
 ]

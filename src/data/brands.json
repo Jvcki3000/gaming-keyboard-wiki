@@ -102,8 +102,8 @@
     "id": "asus-rog--rog-魔导士-ace-hfx",
     "title": "ASUS ROG ROG 魔导士 Ace HFX",
     "name": "ROG 魔导士 Ace HFX",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "65%",
     "overall": 4.3,
     "pollingHz": 8000
    },
@@ -111,8 +111,8 @@
     "id": "asus-rog--rog-夜魔-extreme",
     "title": "ASUS ROG ROG 夜魔 EXTREME",
     "name": "ROG 夜魔 EXTREME",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "机械",
+    "layoutGroup": "75%",
     "overall": 4.6,
     "pollingHz": 8000
    },
@@ -120,8 +120,8 @@
     "id": "asus-rog--rog-夜魔-98-he",
     "title": "ASUS ROG ROG 夜魔 98 HE",
     "name": "ROG 夜魔 98 HE",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "98%",
     "overall": 4.6,
     "pollingHz": 8000
    },
@@ -129,8 +129,8 @@
     "id": "asus-rog--rog-夜魔-标准版",
     "title": "ASUS ROG ROG 夜魔 标准版",
     "name": "ROG 夜魔 标准版",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "机械",
+    "layoutGroup": "75%",
     "overall": 4.83,
     "pollingHz": 1000
    }
@@ -297,8 +297,8 @@
     "id": "steelseries--steelseries-apex-pro-gen-3",
     "title": "SteelSeries Apex Pro Gen 3",
     "name": "SteelSeries Apex Pro Gen 3",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "60%",
     "overall": 4.5,
     "pollingHz": 1000
    },
@@ -306,8 +306,8 @@
     "id": "steelseries--steelseries-apex-pro-mini-gen-3",
     "title": "SteelSeries Apex Pro Mini Gen 3",
     "name": "SteelSeries Apex Pro Mini Gen 3",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "60%",
     "overall": 4.4,
     "pollingHz": 1000
    },
@@ -315,8 +315,8 @@
     "id": "steelseries--steelseries-apex-5",
     "title": "SteelSeries Apex 5",
     "name": "SteelSeries Apex 5",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "混合",
+    "layoutGroup": "全尺寸",
     "overall": 4.2,
     "pollingHz": 1000
    },
@@ -324,7 +324,7 @@
     "id": "steelseries--steelseries-apex-9-系列",
     "title": "SteelSeries Apex 9 系列",
     "name": "SteelSeries Apex 9 系列",
-    "category": "其他",
+    "category": "光轴",
     "layoutGroup": "其他",
     "overall": 4.38,
     "pollingHz": 0
@@ -423,8 +423,8 @@
     "id": "corsair--corsair-galleon-100-sd",
     "title": "Corsair GALLEON 100 SD",
     "name": "Corsair GALLEON 100 SD",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "机械",
+    "layoutGroup": "全尺寸",
     "overall": 4.6,
     "pollingHz": 8000
    },
@@ -432,8 +432,8 @@
     "id": "corsair--corsair-k70-pro-tkl",
     "title": "Corsair K70 PRO TKL",
     "name": "Corsair K70 PRO TKL",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "TKL",
     "overall": 4,
     "pollingHz": 8000
    }
@@ -544,8 +544,8 @@
     "id": "atk--atk-rs7-turbo",
     "title": "ATK RS7 Turbo",
     "name": "ATK RS7 Turbo",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "75%",
     "overall": 4.6,
     "pollingHz": 8000
    },
@@ -553,8 +553,8 @@
     "id": "atk--atk-rs7-v2",
     "title": "ATK RS7 V2",
     "name": "ATK RS7 V2",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "75%",
     "overall": 4.4,
     "pollingHz": 8000
    },
@@ -562,8 +562,8 @@
     "id": "atk--atk-rs6-ultra",
     "title": "ATK RS6 Ultra+",
     "name": "ATK RS6 Ultra+",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "65%",
     "overall": 5,
     "pollingHz": 8000
    }
@@ -785,8 +785,8 @@
     "id": "keychron--keychron-k2-ultra-8k",
     "title": "Keychron K2 Ultra 8K",
     "name": "Keychron K2 Ultra 8K",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "机械",
+    "layoutGroup": "75%",
     "overall": 4.75,
     "pollingHz": 8000
    },
@@ -794,17 +794,17 @@
     "id": "keychron--keychron-k8-ultra-8k",
     "title": "Keychron K8 Ultra 8K",
     "name": "Keychron K8 Ultra 8K",
-    "category": "其他",
-    "layoutGroup": "其他",
-    "overall": 89.7,
+    "category": "机械",
+    "layoutGroup": "TKL",
+    "overall": 4.47,
     "pollingHz": 8000
    },
    {
     "id": "keychron--keychron-v1-ultra-8k",
     "title": "Keychron V1 Ultra 8K",
     "name": "Keychron V1 Ultra 8K",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "机械",
+    "layoutGroup": "75%",
     "overall": 4.4,
     "pollingHz": 8000
    },
@@ -812,8 +812,8 @@
     "id": "keychron--keychron-q1-ultra-8k",
     "title": "Keychron Q1 Ultra 8K",
     "name": "Keychron Q1 Ultra 8K",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "机械",
+    "layoutGroup": "75%",
     "overall": 4.8,
     "pollingHz": 8000
    }
@@ -951,7 +951,7 @@
     "id": "iqunix--iqunix-aver80",
     "title": "IQUNIX AVER80",
     "name": "IQUNIX AVER80",
-    "category": "其他",
+    "category": "机械",
     "layoutGroup": "其他",
     "overall": 4.2,
     "pollingHz": 0
@@ -960,8 +960,8 @@
     "id": "iqunix--iqunix-ev63",
     "title": "IQUNIX EV63",
     "name": "IQUNIX EV63",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "60%",
     "overall": 4.6,
     "pollingHz": 8000
    },
@@ -969,8 +969,8 @@
     "id": "iqunix--iqunix-ez75",
     "title": "IQUNIX EZ75",
     "name": "IQUNIX EZ75",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "75%",
     "overall": 4.6,
     "pollingHz": 8000
    },
@@ -978,8 +978,8 @@
     "id": "iqunix--iqunix-ez80",
     "title": "IQUNIX EZ80",
     "name": "IQUNIX EZ80",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "TKL",
     "overall": 4.6,
     "pollingHz": 8000
    }
@@ -1145,8 +1145,8 @@
     "id": "mchose--mchose-ace-75",
     "title": "MCHOSE Ace 75",
     "name": "MCHOSE Ace 75",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "75%",
     "overall": 4.6,
     "pollingHz": 8000
    },
@@ -1154,8 +1154,8 @@
     "id": "mchose--mchose-ace-60",
     "title": "MCHOSE Ace 60",
     "name": "MCHOSE Ace 60",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "60%",
     "overall": 3.8,
     "pollingHz": 8000
    },
@@ -1163,8 +1163,8 @@
     "id": "mchose--mchose-ace-68-turbo",
     "title": "MCHOSE Ace 68 Turbo",
     "name": "MCHOSE Ace 68 Turbo",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "65%",
     "overall": 4.4,
     "pollingHz": 16000
    },
@@ -1172,8 +1172,8 @@
     "id": "mchose--mchose-god-60",
     "title": "MCHOSE God 60",
     "name": "MCHOSE God 60",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "60%",
     "overall": 4.8,
     "pollingHz": 16000
    }
@@ -1294,8 +1294,8 @@
     "id": "vgn--vgn-v98pro-v4",
     "title": "VGN V98Pro V4",
     "name": "VGN V98Pro V4",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "机械",
+    "layoutGroup": "98%",
     "overall": 4.2,
     "pollingHz": 0
    },
@@ -1303,8 +1303,8 @@
     "id": "vgn--vgn-v87pro",
     "title": "VGN V87Pro",
     "name": "VGN V87Pro",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "机械",
+    "layoutGroup": "TKL",
     "overall": 5,
     "pollingHz": 1000
    },
@@ -1312,8 +1312,8 @@
     "id": "vgn--vgn-闪电68",
     "title": "VGN 闪电68",
     "name": "VGN 闪电68",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "65%",
     "overall": 4.8,
     "pollingHz": 8000
    },
@@ -1321,8 +1321,8 @@
     "id": "vgn--vgn-霓虹-68",
     "title": "VGN 霓虹 68",
     "name": "VGN 霓虹 68",
-    "category": "其他",
-    "layoutGroup": "其他",
+    "category": "磁轴",
+    "layoutGroup": "65%",
     "overall": 4.6,
     "pollingHz": 8000
    }

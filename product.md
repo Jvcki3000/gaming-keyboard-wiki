@@ -9147,10 +9147,10 @@ K8 Ultra 8K vs K8 Pro：
 
 | 维度 | 评分 |
 | --- | --- |
-| Performance（性能） | 90.3 / 100 |
-| Build Quality（做工） | 82.1 / 100 |
-| Productivity（生产力） | 94.1 / 100 |
-| Customizability（可定制性） | 92.3 / 100 |
+| Performance（性能） | 4.5 / 5 |
+| Build Quality（做工） | 4.1 / 5 |
+| Productivity（生产力） | 4.7 / 5 |
+| Customizability（可定制性） | 4.6 / 5 |
 
 用户常见反馈：
 

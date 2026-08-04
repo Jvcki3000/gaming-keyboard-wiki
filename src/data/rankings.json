@@ -1,13 +1,6 @@
 {
  "fps": [
   {
-   "id": "keychron--keychron-k8-ultra-8k",
-   "title": "Keychron K8 Ultra 8K",
-   "brand": "Keychron",
-   "score": 89.7,
-   "label": "综合"
-  },
-  {
    "id": "wooting--wooting-60he-v2",
    "title": "Wooting 60HE v2",
    "brand": "Wooting",
@@ -69,16 +62,16 @@
    "brand": "VGN",
    "score": 4.8,
    "label": "综合"
+  },
+  {
+   "id": "angry-miao--angry-miao-battleye-74-5",
+   "title": "Angry Miao Battleye 74.5",
+   "brand": "Angry Miao",
+   "score": 4.8,
+   "label": "综合"
   }
  ],
  "moba": [
-  {
-   "id": "keychron--keychron-k8-ultra-8k",
-   "title": "Keychron K8 Ultra 8K",
-   "brand": "Keychron",
-   "score": 89.7,
-   "label": "综合"
-  },
   {
    "id": "atk--atk-rs6-ultra",
    "title": "ATK RS6 Ultra+",
@@ -141,16 +134,16 @@
    "brand": "Keychron",
    "score": 4.75,
    "label": "综合"
+  },
+  {
+   "id": "wooting--wooting-60he-v2",
+   "title": "Wooting 60HE v2",
+   "brand": "Wooting",
+   "score": 4.6,
+   "label": "综合"
   }
  ],
  "value": [
-  {
-   "id": "keychron--keychron-k8-ultra-8k",
-   "title": "Keychron K8 Ultra 8K",
-   "brand": "Keychron",
-   "score": 89.7,
-   "label": "综合"
-  },
   {
    "id": "mchose--mchose-ace-75",
    "title": "MCHOSE Ace 75",
@@ -213,6 +206,13 @@
    "brand": "VGN",
    "score": 5,
    "label": "Value for Money（性价比）"
+  },
+  {
+   "id": "keychron--keychron-k8-ultra-8k",
+   "title": "Keychron K8 Ultra 8K",
+   "brand": "Keychron",
+   "score": 4.47,
+   "label": "综合"
   }
  ],
  "updated": "2026-08-02",

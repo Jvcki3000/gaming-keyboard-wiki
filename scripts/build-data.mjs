@@ -109,6 +109,101 @@ function parseHz(raw) {
   return match[2] ? value * 1000 : value;
 }
 
+function pickField(fields, patterns) {
+  const field = fields.find((f) => patterns.some((pattern) => f.label.includes(pattern)));
+  return field ? field.value : '';
+}
+
+function pickSwitchField(fields) {
+  const field = fields.find((f) => {
+    const label = f.label;
+    return (
+      /轴体|Switch/.test(label) &&
+      !/类型|Type|寿命|Lifespan|Plate|定位板|Puller|拔轴|Lubrication|润滑|Materials|材质|Hot|热插拔|收纳|Mount/.test(label)
+    );
+  });
+  return field ? field.value : '';
+}
+
+const SWITCH_KEYWORDS = [
+  { name: 'Lekker Tikken', patterns: ['Lekker Tikken'], parent: 'Lekker 磁轴' },
+  { name: 'Lekker V2 磁轴', patterns: ['Lekker V2', 'Lekker L45 V2', 'Lekker L60 V2'], parent: 'Lekker 磁轴' },
+  { name: 'Lekker 磁轴', patterns: ['Lekker'] },
+  { name: 'Gateron KS-20 TMR 磁轴', patterns: ['Gateron KS-20'] },
+  { name: 'TMR 磁轴', patterns: ['TMR 磁轴', 'TMR（穿隧磁阻）磁轴'] },
+  { name: 'GX 机械轴', patterns: ['GX Red', 'GX Brown', 'GX Blue', 'GX 轴体', 'GX Mechanical'] },
+  { name: 'Romer-G 机械轴', patterns: ['Romer-G'] },
+  { name: 'Razer 类比式光轴', patterns: ['类比式光轴', 'Analog Optical'] },
+  { name: 'Razer 机械轴 Gen-3', patterns: ['Razer 机械轴 Gen-3', 'Razer™ 机械轴 Gen-3'], parent: 'Razer 机械轴' },
+  { name: 'Razer 机械轴', patterns: ['Razer 机械轴', 'Razer™ 机械轴', 'Razer Mechanical'] },
+  { name: 'Razer 光学矮轴', patterns: ['光学矮轴', 'Low-Profile Optical'] },
+  { name: 'OmniPoint 3.0 磁轴', patterns: ['OmniPoint 3.0'], parent: 'OmniPoint 磁轴' },
+  { name: 'OmniPoint 磁轴', patterns: ['OmniPoint'] },
+  { name: 'Hybrid Mechanical 混合机械轴', patterns: ['Hybrid Mechanical'] },
+  { name: 'OptiPoint 光学开关', patterns: ['OptiPoint'] },
+  { name: 'ROG HFX V2 磁轴', patterns: ['HFX V2', 'ROG HFX V2'], parent: 'ROG HFX 磁轴' },
+  { name: 'ROG HFX 磁轴', patterns: ['ROG HFX', 'HFX 磁轴'] },
+  { name: 'ROG NX 机械轴', patterns: ['ROG NX', 'NX 机械轴'] },
+  { name: 'ROG RX 光轴', patterns: ['ROG RX', 'RX 光轴'] },
+  { name: 'CORSAIR MGX 磁轴', patterns: ['MGX'] },
+  { name: 'MLX Pulse 机械轴', patterns: ['MLX Pulse'] },
+  { name: 'MLX Plasma 机械轴', patterns: ['MLX Plasma'] },
+  { name: 'CORSAIR OPX 光轴', patterns: ['OPX'] },
+  { name: 'CHERRY MX RGB 轴', patterns: ['CHERRY MX RGB'], parent: 'CHERRY MX 机械轴' },
+  { name: 'CHERRY MX 机械轴', patterns: ['Cherry MX', 'CHERRY MX'] },
+  { name: '火影磁轴', patterns: ['火影磁轴'] },
+  { name: '狂暴磁轴', patterns: ['狂暴磁轴'] },
+  { name: '宝马磁轴', patterns: ['宝马磁轴'] },
+  { name: '冰玉磁轴', patterns: ['冰玉磁轴'] },
+  { name: 'KTEK 磁轴', patterns: ['KTEK'] },
+  { name: 'TTC 天王磁轴', patterns: ['天王磁轴'] },
+  { name: '粉泰山磁轴 GT', patterns: ['粉泰山磁轴'], parent: '泰山磁轴 GT' },
+  { name: '泰山磁轴 GT', patterns: ['泰山磁轴 GT', '泰山磁轴GT'] },
+  { name: '北极星磁轴', patterns: ['北极星磁轴'] },
+  { name: '磁悬浮轴', patterns: ['磁悬浮轴'] },
+  { name: '混元轴', patterns: ['混元轴'] },
+  { name: 'TTC 万磁王轴', patterns: ['TTC 万磁王轴'] },
+  { name: '利维坦 Ultra 轴', patterns: ['利维坦'] },
+  { name: '凯华×ATK 烈刃磁轴', patterns: ['烈刃磁轴'] },
+  { name: '雪刃轴', patterns: ['雪刃轴'] },
+  { name: '晶刃轴', patterns: ['晶刃轴'] },
+  { name: '冰刃轴 PRO', patterns: ['冰刃轴'] },
+  { name: '烈风 ULTRA 磁轴', patterns: ['烈风'] },
+  { name: '凯华磁轴', patterns: ['凯华磁轴'] },
+  { name: '星轨磁轴', patterns: ['星轨磁轴'] },
+  { name: '磁玉轴 Pro', patterns: ['磁玉轴'] },
+  { name: '神秘 X 轴 Ultra', patterns: ['神秘 X 轴', '神秘X轴'] },
+  { name: '璞玉轴', patterns: ['璞玉轴'] },
+  { name: 'Gateron Magnetic Jade', patterns: ['Magnetic Jade'] },
+  { name: 'Gateron HE 磁轴', patterns: ['Gateron HE'] },
+  { name: 'Keychron Apex 轴', patterns: ['Keychron Apex'] },
+  { name: 'Keychron Silk POM 轴', patterns: ['Keychron Silk'] },
+  { name: '极地狐轴', patterns: ['极地狐轴'] },
+  { name: '冰川 Pro 轴', patterns: ['冰川Pro轴', '冰川 Pro'] },
+  { name: '奶牛 Pro 轴', patterns: ['奶牛Pro轴'] },
+  { name: '动力金 Pro 轴', patterns: ['动力金Pro轴'] },
+  { name: '夜魔 Pro 轴', patterns: ['夜魔Pro轴'] },
+  { name: '风信子 Pro 轴', patterns: ['风信子Pro轴'] },
+  { name: '闪电金轴', patterns: ['闪电金轴'] },
+  { name: '阿尼亚轴', patterns: ['阿尼亚轴'] },
+  { name: '天霸磁轴', patterns: ['天霸磁轴', '天霸轴'] },
+  { name: 'TTC 烈焰黄万磁王轴', patterns: ['烈焰黄万磁王轴'] },
+  { name: '神启轴', patterns: ['神启轴'] },
+  { name: '昆仑轴', patterns: ['昆仑轴'] },
+  { name: '八宝库里南轴', patterns: ['八宝库里南'] },
+  { name: '小青蛇万磁王轴', patterns: ['小青蛇万磁王'] },
+  { name: '速冰轴', patterns: ['速冰轴'] },
+];
+
+function extractSwitchTags(product, switchText, specsContent, techContent) {
+  const source = `${switchText}\n${specsContent}\n${techContent}`;
+  const found = [];
+  for (const item of SWITCH_KEYWORDS) {
+    if (item.patterns.some((pattern) => source.includes(pattern))) found.push(item.name);
+  }
+  return [...new Set(found)];
+}
+
 function convertWikiLinks(content, products, brands) {
   const BRAND_ALIASES = {
     怒喵: 'Angry Miao',
@@ -154,6 +249,8 @@ function parseProducts() {
   let currentBrand = null;
   let currentProduct = null;
   let currentSection = null;
+  let inProductTemplate = false;
+  let productTemplateBuffer = [];
 
   const flushSection = () => {
     if (!currentProduct || !currentSection) return;
@@ -196,7 +293,24 @@ function parseProducts() {
       const name = line.replace(/^##\s+/, '').trim();
       if (name === '品牌索引（Index）' || name === 'Index' || !currentBrand) continue;
       currentProduct = { brand: currentBrand.name, brandId: currentBrand.id, name, sections: [] };
+      inProductTemplate = false;
+      productTemplateBuffer = [];
       currentBrand.products.push(currentProduct);
+    } else if (/^\{\{Infobox/.test(line)) {
+      flushSection();
+      inProductTemplate = true;
+      productTemplateBuffer = [];
+    } else if (inProductTemplate && line.trim().startsWith('}}')) {
+      inProductTemplate = false;
+      if (currentProduct && productTemplateBuffer.length > 0) {
+        currentProduct.sections.unshift({
+          key: 'infobox',
+          title: 'Infobox',
+          content: productTemplateBuffer.join('\n'),
+        });
+      }
+    } else if (inProductTemplate) {
+      productTemplateBuffer.push(line);
     } else if (/^###\s+/.test(line)) {
       flushSection();
       if (!currentProduct) continue;
@@ -234,15 +348,15 @@ function parseProducts() {
         return { label: row[0], value: row[1] };
       })
       .filter((field) => field.label && field.value);
-    const info = Object.fromEntries(fields.map((f) => [f.label, f.value]));
-    const categoryRaw = info['类别 Category'] || info['类别'] || info.Category || '';
-    const layoutRaw = info['配列 Layout'] || info['配列'] || info.Layout || '';
-    const pollingRaw = info['回报率 Polling Rate'] || info['回报率'] || info['Polling Rate'] || '';
+    const categoryRaw = pickField(fields, ['类别', 'Category']);
+    const layoutRaw = pickField(fields, ['配列', 'Layout']);
+    const pollingRaw = pickField(fields, ['回报率', 'Polling Rate']);
     const gamesSection = product.sections.find((s) => /适配游戏|Compatible Games/.test(s.title));
     const ratingSection = product.sections.find((s) => /用户评分|User Rating/.test(s.title));
     const navSection = product.sections.find((s) => /页面导航|Navigation/.test(s.title));
     const overviewSection = product.sections.find((s) => /简介|Overview/.test(s.title));
     const specsSection = product.sections.find((s) => /规格参数|Specifications/.test(s.title));
+    const techSection = product.sections.find((s) => /技术解析|Technology/.test(s.title));
     const games = gamesSection
       ? parseTable(gamesSection.content)
           .map((row) => ({
@@ -269,6 +383,8 @@ function parseProducts() {
     const technologies = navSection ? extractLabeledList(navSection.content, /Technologies\s*[:：]/) : [];
     const tags = navSection ? extractLabeledList(navSection.content, /Tags\s*[:：]/) : [];
     const categories = navSection ? extractLabeledList(navSection.content, /Categories\s*[:：]/) : [];
+    const switchText = pickSwitchField(fields);
+    const switchTags = extractSwitchTags(product, switchText, specsSection ? specsSection.content : '', techSection ? techSection.content : '');
     const allContent = product.sections.map((s) => s.content).join('\n');
 
     return {
@@ -281,14 +397,15 @@ function parseProducts() {
         categoryRaw,
         layout: layoutRaw,
         layoutGroup: layoutGroup(layoutRaw),
-        switchText: info['轴体 Switch'] || info['轴体'] || info.Switch || '',
+        switchText,
+        switchTags,
         pollingHz: parseHz(pollingRaw) || parseHz(specsSection ? specsSection.content : ''),
         pollingText: pollingRaw || '',
-        release: info['发布日期 Release Date'] || info['发布日期'] || info['Release Date'] || '',
-        connection: info['连接方式 Connection'] || info['连接方式'] || info.Connection || '',
-        price: info['建议零售价 MSRP'] || info['建议零售价'] || info.MSRP || '',
-        discontinued: info['是否停产 Discontinued'] || info['是否停产'] || info.Discontinued || '',
-        software: info['配置软件 Software'] || info['配置软件'] || info.Software || '',
+        release: pickField(fields, ['发布日期', 'Release Date']),
+        connection: pickField(fields, ['连接方式', 'Connection']),
+        price: pickField(fields, ['建议零售价', 'MSRP']),
+        discontinued: pickField(fields, ['是否停产', 'Discontinued']),
+        software: pickField(fields, ['配置软件', 'Software']),
         games,
         ratings,
         overall,
@@ -296,7 +413,7 @@ function parseProducts() {
         tags,
         categories,
       },
-      searchText: `${product.brand} ${product.name} ${product.excerpt} ${technologies.join(' ')} ${tags.join(' ')}`.toLowerCase(),
+      searchText: `${product.brand} ${product.name} ${product.excerpt} ${technologies.join(' ')} ${tags.join(' ')} ${switchTags.join(' ')}`.toLowerCase(),
       containsText: allContent,
     };
   });

@@ -60,7 +60,7 @@
     "brand": "SteelSeries",
     "rating": 5,
     "note": "0.54ms 响应时间 + 可调触发点",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "steelseries--steelseries-apex-pro-mini-gen-3",
@@ -68,7 +68,7 @@
     "brand": "SteelSeries",
     "rating": 5,
     "note": "1/11 响应时间 + 可调触发点",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "steelseries--steelseries-apex-5",
@@ -76,7 +76,7 @@
     "brand": "SteelSeries",
     "rating": 4,
     "note": "快速触发 + 清晰段落反馈",
-    "category": "其他"
+    "category": "混合"
    },
    {
     "productId": "asus-rog--rog-魔导士-ace-hfx",
@@ -84,7 +84,7 @@
     "brand": "ASUS ROG",
     "rating": 5,
     "note": "0.125ms 延迟 + 可调触发点",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "asus-rog--rog-夜魔-extreme",
@@ -92,7 +92,7 @@
     "brand": "ASUS ROG",
     "rating": 5,
     "note": "低延迟无线 + 精准按键手感",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "asus-rog--rog-夜魔-98-he",
@@ -100,7 +100,7 @@
     "brand": "ASUS ROG",
     "rating": 5,
     "note": "0.01mm 触发精度 + 无线 8KHz",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "asus-rog--rog-夜魔-标准版",
@@ -108,7 +108,7 @@
     "brand": "ASUS ROG",
     "rating": 5,
     "note": "低延迟无线 + 精准按键手感",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "corsair--corsair-galleon-100-sd",
@@ -116,7 +116,7 @@
     "brand": "Corsair",
     "rating": 5,
     "note": "8000Hz 回报率 + FlashTap",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "corsair--corsair-k70-pro-tkl",
@@ -124,7 +124,7 @@
     "brand": "Corsair",
     "rating": 5,
     "note": "8000Hz 回报率 + Rapid Trigger",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-75",
@@ -132,7 +132,7 @@
     "brand": "MCHOSE",
     "rating": 5,
     "note": "8000Hz 回报率 + 0.001mm RT 精度",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-60",
@@ -140,7 +140,7 @@
     "brand": "MCHOSE",
     "rating": 4,
     "note": "8000Hz 回报率 + 0.02mm 精度",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-68-turbo",
@@ -148,7 +148,7 @@
     "brand": "MCHOSE",
     "rating": 5,
     "note": "0.06ms 延迟 + 0.001mm RT 精度",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-god-60",
@@ -156,7 +156,7 @@
     "brand": "MCHOSE",
     "rating": 5,
     "note": "0.06ms 延迟 + 0.001mm RT 精度",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs7-turbo",
@@ -164,7 +164,7 @@
     "brand": "ATK",
     "rating": 5,
     "note": "8000Hz 回报率 + 0.01mm RT 精度",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs7-v2",
@@ -172,7 +172,7 @@
     "brand": "ATK",
     "rating": 5,
     "note": "8000Hz 回报率 + 0.001mm RT 精度",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs6-ultra",
@@ -180,7 +180,7 @@
     "brand": "ATK",
     "rating": 5,
     "note": "瓦罗兰特玩家实测“急停秒稳”",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "iqunix--iqunix-ev63",
@@ -188,7 +188,7 @@
     "brand": "IQUNIX",
     "rating": 5,
     "note": "8000Hz 回报率 + 0.01mm RT 精度",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "iqunix--iqunix-ez75",
@@ -196,7 +196,7 @@
     "brand": "IQUNIX",
     "rating": 5,
     "note": "0.005mm RT 精度 + 8K 回报率",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "iqunix--iqunix-ez80",
@@ -204,7 +204,7 @@
     "brand": "IQUNIX",
     "rating": 5,
     "note": "0.005mm RT 精度 + 8K 回报率，拉枪巨跟手",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "keychron--keychron-k2-ultra-8k",
@@ -212,7 +212,7 @@
     "brand": "Keychron",
     "rating": 5,
     "note": "近乎零延迟的按键响应",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-k8-ultra-8k",
@@ -220,7 +220,7 @@
     "brand": "Keychron",
     "rating": 5,
     "note": "近乎零延迟的按键响应",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-v1-ultra-8k",
@@ -228,7 +228,7 @@
     "brand": "Keychron",
     "rating": 5,
     "note": "近乎零延迟的按键响应",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-q1-ultra-8k",
@@ -236,7 +236,7 @@
     "brand": "Keychron",
     "rating": 5,
     "note": "近乎零延迟的按键响应",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "vgn--vgn-v98pro-v4",
@@ -244,7 +244,7 @@
     "brand": "VGN",
     "rating": 4,
     "note": "低延迟无线连接",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "vgn--vgn-v87pro",
@@ -252,7 +252,7 @@
     "brand": "VGN",
     "rating": 4,
     "note": "三模连接 + 快速响应",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "vgn--vgn-闪电68",
@@ -260,7 +260,7 @@
     "brand": "VGN",
     "rating": 5,
     "note": "0.001mm RT 精度 + 8K 回报率，急停跟枪精准",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "vgn--vgn-霓虹-68",
@@ -268,7 +268,7 @@
     "brand": "VGN",
     "rating": 5,
     "note": "0.001mm RT 精度 + 8K 回报率，急停跟枪精准",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "angry-miao--angry-miao-battleye-74-5",
@@ -358,7 +358,7 @@
     "brand": "SteelSeries",
     "rating": 5,
     "note": "Rapid Trigger + Rapid Tap 提供急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "steelseries--steelseries-apex-pro-mini-gen-3",
@@ -366,7 +366,7 @@
     "brand": "SteelSeries",
     "rating": 5,
     "note": "Rapid Trigger + Rapid Tap 提供急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "steelseries--steelseries-apex-5",
@@ -374,7 +374,7 @@
     "brand": "SteelSeries",
     "rating": 4,
     "note": "OLED 屏幕可显示 KDA 等实时数据",
-    "category": "其他"
+    "category": "混合"
    },
    {
     "productId": "asus-rog--rog-魔导士-ace-hfx",
@@ -382,7 +382,7 @@
     "brand": "ASUS ROG",
     "rating": 5,
     "note": "Team Vitality 职业选手使用，Rapid Trigger + Speed Tap 提供急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "asus-rog--rog-夜魔-extreme",
@@ -390,7 +390,7 @@
     "brand": "ASUS ROG",
     "rating": 5,
     "note": "8000Hz 回报率 + 可调 Gasket，Hard 模式提供坚实反馈",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "asus-rog--rog-夜魔-98-he",
@@ -398,7 +398,7 @@
     "brand": "ASUS ROG",
     "rating": 5,
     "note": "Rapid Trigger + 8KHz 回报率，急停操作极致",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "asus-rog--rog-夜魔-标准版",
@@ -406,7 +406,7 @@
     "brand": "ASUS ROG",
     "rating": 5,
     "note": "1000Hz 回报率 + 可调轴体，响应迅速",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "corsair--corsair-galleon-100-sd",
@@ -414,7 +414,7 @@
     "brand": "Corsair",
     "rating": 5,
     "note": "FlashTap SOCD 提供精准急停",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "corsair--corsair-k70-pro-tkl",
@@ -422,7 +422,7 @@
     "brand": "Corsair",
     "rating": 5,
     "note": "FlashTap 提供急停优势，⚠️ CS2 中启用 FlashTap 会被踢出游戏",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-75",
@@ -430,7 +430,7 @@
     "brand": "MCHOSE",
     "rating": 5,
     "note": "SOCD + 0.08ms 延迟提供急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-60",
@@ -438,7 +438,7 @@
     "brand": "MCHOSE",
     "rating": 4,
     "note": "SOCD + 高精度磁轴提供急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-68-turbo",
@@ -446,7 +446,7 @@
     "brand": "MCHOSE",
     "rating": 5,
     "note": "16KHz 回报率 + SOCD 提供顶级急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-god-60",
@@ -454,7 +454,7 @@
     "brand": "MCHOSE",
     "rating": 5,
     "note": "16KHz 回报率 + SOCD 提供顶级急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs7-turbo",
@@ -462,7 +462,7 @@
     "brand": "ATK",
     "rating": 5,
     "note": "SOCD + 0.28ms 延迟提供急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs7-v2",
@@ -470,7 +470,7 @@
     "brand": "ATK",
     "rating": 5,
     "note": "SOCD + 0.28ms 延迟提供急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs6-ultra",
@@ -478,7 +478,7 @@
     "brand": "ATK",
     "rating": 5,
     "note": "SOCD + 0.28ms 延迟提供急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "iqunix--iqunix-ev63",
@@ -486,7 +486,7 @@
     "brand": "IQUNIX",
     "rating": 5,
     "note": "SOCD + 0.125ms 延迟提供急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "iqunix--iqunix-ez75",
@@ -494,7 +494,7 @@
     "brand": "IQUNIX",
     "rating": 5,
     "note": "SOCD + 0.18ms 延迟提供顶级急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "iqunix--iqunix-ez80",
@@ -502,7 +502,7 @@
     "brand": "IQUNIX",
     "rating": 5,
     "note": "SOCD + 0.18ms 延迟提供顶级急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "keychron--keychron-k2-ultra-8k",
@@ -510,7 +510,7 @@
     "brand": "Keychron",
     "rating": 5,
     "note": "8000Hz 回报率 + 2.4GHz 低延迟",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-k8-ultra-8k",
@@ -518,7 +518,7 @@
     "brand": "Keychron",
     "rating": 5,
     "note": "8000Hz 回报率 + 2.4GHz 低延迟",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-v1-ultra-8k",
@@ -526,7 +526,7 @@
     "brand": "Keychron",
     "rating": 5,
     "note": "8000Hz 回报率 + 2.4GHz 低延迟",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-q1-ultra-8k",
@@ -534,7 +534,7 @@
     "brand": "Keychron",
     "rating": 5,
     "note": "8000Hz 回报率 + 2.4GHz 低延迟",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "vgn--vgn-v98pro-v4",
@@ -542,7 +542,7 @@
     "brand": "VGN",
     "rating": 4,
     "note": "双 8K 回报率 + 0.08ms 延迟（官方宣称）",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "vgn--vgn-v87pro",
@@ -550,7 +550,7 @@
     "brand": "VGN",
     "rating": 4,
     "note": "1000Hz 回报率 + 低延迟技术",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "vgn--vgn-闪电68",
@@ -558,7 +558,7 @@
     "brand": "VGN",
     "rating": 5,
     "note": "SOCD + 0.24ms 延迟提供顶级急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "vgn--vgn-霓虹-68",
@@ -566,7 +566,7 @@
     "brand": "VGN",
     "rating": 5,
     "note": "0.1ms 延迟 + SOCD 提供急停优势",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "angry-miao--angry-miao-battleye-74-5",
@@ -656,7 +656,7 @@
     "brand": "SteelSeries",
     "rating": 4,
     "note": "Rapid Tap 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "steelseries--steelseries-apex-pro-mini-gen-3",
@@ -664,7 +664,7 @@
     "brand": "SteelSeries",
     "rating": 4,
     "note": "Rapid Tap 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "steelseries--steelseries-apex-5",
@@ -672,7 +672,7 @@
     "brand": "SteelSeries",
     "rating": 4,
     "note": "2mm 短触发适合快速移动操作",
-    "category": "其他"
+    "category": "混合"
    },
    {
     "productId": "asus-rog--rog-魔导士-ace-hfx",
@@ -680,7 +680,7 @@
     "brand": "ASUS ROG",
     "rating": 4,
     "note": "Speed Tap 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "asus-rog--rog-夜魔-extreme",
@@ -688,7 +688,7 @@
     "brand": "ASUS ROG",
     "rating": 5,
     "note": "SpeedNova 低延迟无线，移动与射击流畅",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "asus-rog--rog-夜魔-98-he",
@@ -696,7 +696,7 @@
     "brand": "ASUS ROG",
     "rating": 5,
     "note": "SpeedNova 低延迟无线，移动与射击流畅",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "asus-rog--rog-夜魔-标准版",
@@ -704,7 +704,7 @@
     "brand": "ASUS ROG",
     "rating": 5,
     "note": "SpeedNova 低延迟无线",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "corsair--corsair-galleon-100-sd",
@@ -712,7 +712,7 @@
     "brand": "Corsair",
     "rating": 5,
     "note": "低延迟输入 + Stream Deck 快捷操作",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "corsair--corsair-k70-pro-tkl",
@@ -720,7 +720,7 @@
     "brand": "Corsair",
     "rating": 5,
     "note": "FlashTap SOCD 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-75",
@@ -728,7 +728,7 @@
     "brand": "MCHOSE",
     "rating": 4,
     "note": "SOCD 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-60",
@@ -736,7 +736,7 @@
     "brand": "MCHOSE",
     "rating": 4,
     "note": "SOCD 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-68-turbo",
@@ -744,7 +744,7 @@
     "brand": "MCHOSE",
     "rating": 4,
     "note": "SOCD 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-god-60",
@@ -752,7 +752,7 @@
     "brand": "MCHOSE",
     "rating": 4,
     "note": "SOCD 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs7-turbo",
@@ -760,7 +760,7 @@
     "brand": "ATK",
     "rating": 4,
     "note": "SOCD 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs7-v2",
@@ -768,7 +768,7 @@
     "brand": "ATK",
     "rating": 4,
     "note": "SOCD 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs6-ultra",
@@ -776,7 +776,7 @@
     "brand": "ATK",
     "rating": 4,
     "note": "SOCD 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "iqunix--iqunix-ev63",
@@ -784,7 +784,7 @@
     "brand": "IQUNIX",
     "rating": 4,
     "note": "SOCD 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "iqunix--iqunix-ez75",
@@ -792,7 +792,7 @@
     "brand": "IQUNIX",
     "rating": 4,
     "note": "SOCD 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "iqunix--iqunix-ez80",
@@ -800,7 +800,7 @@
     "brand": "IQUNIX",
     "rating": 4,
     "note": "SOCD 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "keychron--keychron-k2-ultra-8k",
@@ -808,7 +808,7 @@
     "brand": "Keychron",
     "rating": 5,
     "note": "8000Hz 回报率优化移动操作",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-k8-ultra-8k",
@@ -816,7 +816,7 @@
     "brand": "Keychron",
     "rating": 5,
     "note": "8000Hz 回报率优化移动操作",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-v1-ultra-8k",
@@ -824,7 +824,7 @@
     "brand": "Keychron",
     "rating": 5,
     "note": "8000Hz 回报率优化移动操作",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-q1-ultra-8k",
@@ -832,7 +832,7 @@
     "brand": "Keychron",
     "rating": 5,
     "note": "8000Hz 回报率优化移动操作",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "vgn--vgn-v98pro-v4",
@@ -840,7 +840,7 @@
     "brand": "VGN",
     "rating": 4,
     "note": "8K 回报率优化移动操作",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "vgn--vgn-v87pro",
@@ -848,7 +848,7 @@
     "brand": "VGN",
     "rating": 4,
     "note": "TKL 布局为鼠标留出空间",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "vgn--vgn-闪电68",
@@ -856,7 +856,7 @@
     "brand": "VGN",
     "rating": 4,
     "note": "SOCD 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "vgn--vgn-霓虹-68",
@@ -864,7 +864,7 @@
     "brand": "VGN",
     "rating": 4,
     "note": "SOCD 优化滑铲取消等操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "angry-miao--angry-miao-battleye-74-5",
@@ -954,7 +954,7 @@
     "brand": "SteelSeries",
     "rating": 3,
     "note": "可调触发点 + Protection Mode 防止误触技能",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "steelseries--steelseries-apex-pro-mini-gen-3",
@@ -962,7 +962,7 @@
     "brand": "SteelSeries",
     "rating": 3,
     "note": "可调触发点 + Protection Mode 防止误触技能",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "asus-rog--rog-魔导士-ace-hfx",
@@ -970,7 +970,7 @@
     "brand": "ASUS ROG",
     "rating": 3,
     "note": "可调触发点 + 65% 配列保留方向键",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "asus-rog--rog-夜魔-extreme",
@@ -978,7 +978,7 @@
     "brand": "ASUS ROG",
     "rating": 5,
     "note": "75% 配列保留 F 键区，全键可编程",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "asus-rog--rog-夜魔-98-he",
@@ -986,7 +986,7 @@
     "brand": "ASUS ROG",
     "rating": 5,
     "note": "98 配列保留数字区 + F 键区分隔",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "asus-rog--rog-夜魔-标准版",
@@ -994,7 +994,7 @@
     "brand": "ASUS ROG",
     "rating": 5,
     "note": "75% 配列保留 F 键区，全键可编程",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "corsair--corsair-galleon-100-sd",
@@ -1002,7 +1002,7 @@
     "brand": "Corsair",
     "rating": 4,
     "note": "Stream Deck 一键连招",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "corsair--corsair-k70-pro-tkl",
@@ -1010,7 +1010,7 @@
     "brand": "Corsair",
     "rating": 4,
     "note": "双点触发——一键连招",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-75",
@@ -1018,7 +1018,7 @@
     "brand": "MCHOSE",
     "rating": 4,
     "note": "75% 配列保留 F 区，全键可编程",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-60",
@@ -1026,7 +1026,7 @@
     "brand": "MCHOSE",
     "rating": 3,
     "note": "60% 配列需适应组合键",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-68-turbo",
@@ -1034,7 +1034,7 @@
     "brand": "MCHOSE",
     "rating": 3,
     "note": "65% 配列需适应组合键",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-god-60",
@@ -1042,7 +1042,7 @@
     "brand": "MCHOSE",
     "rating": 3,
     "note": "60% 配列需适应组合键",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs7-turbo",
@@ -1050,7 +1050,7 @@
     "brand": "ATK",
     "rating": 4,
     "note": "75% 配列保留 F 区，全键可编程",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "iqunix--iqunix-ev63",
@@ -1058,7 +1058,7 @@
     "brand": "IQUNIX",
     "rating": 3,
     "note": "60% 配列需适应组合键",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "keychron--keychron-k2-ultra-8k",
@@ -1066,7 +1066,7 @@
     "brand": "Keychron",
     "rating": 4,
     "note": "75% 布局保留 F 键区",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-k8-ultra-8k",
@@ -1074,7 +1074,7 @@
     "brand": "Keychron",
     "rating": 4,
     "note": "TKL 布局保留 F 键区",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-v1-ultra-8k",
@@ -1082,7 +1082,7 @@
     "brand": "Keychron",
     "rating": 4,
     "note": "75% 布局保留 F 键区",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-q1-ultra-8k",
@@ -1090,7 +1090,7 @@
     "brand": "Keychron",
     "rating": 4,
     "note": "75% 布局保留 F 键区 + 旋钮",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "vgn--vgn-v98pro-v4",
@@ -1098,7 +1098,7 @@
     "brand": "VGN",
     "rating": 5,
     "note": "98 配列保留数字区 + 全键可编程",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "vgn--vgn-v87pro",
@@ -1106,7 +1106,7 @@
     "brand": "VGN",
     "rating": 5,
     "note": "87 键 TKL 布局适合 MOBA 操作",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "vgn--vgn-闪电68",
@@ -1114,7 +1114,7 @@
     "brand": "VGN",
     "rating": 4,
     "note": "68 键配列保留方向键，全键可编程",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "vgn--vgn-霓虹-68",
@@ -1122,7 +1122,7 @@
     "brand": "VGN",
     "rating": 4,
     "note": "68 键保留方向键，全键可编程",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "angry-miao--angry-miao-battleye-74-5",
@@ -1196,7 +1196,7 @@
     "brand": "SteelSeries",
     "rating": 5,
     "note": "职业选手使用率极高，Rapid Tap 优化建造和编辑",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "steelseries--steelseries-apex-pro-mini-gen-3",
@@ -1204,7 +1204,7 @@
     "brand": "SteelSeries",
     "rating": 5,
     "note": "Rapid Tap 优化建造和编辑",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "corsair--corsair-galleon-100-sd",
@@ -1212,7 +1212,7 @@
     "brand": "Corsair",
     "rating": 5,
     "note": "Stream Deck 一键建造/编辑",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "corsair--corsair-k70-pro-tkl",
@@ -1220,7 +1220,7 @@
     "brand": "Corsair",
     "rating": 5,
     "note": "Rapid Trigger 优化建造和编辑",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-75",
@@ -1228,7 +1228,7 @@
     "brand": "MCHOSE",
     "rating": 4,
     "note": "Rapid Trigger 优化建造和编辑",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-60",
@@ -1236,7 +1236,7 @@
     "brand": "MCHOSE",
     "rating": 3,
     "note": "Rapid Trigger 优化建造操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-68-turbo",
@@ -1244,7 +1244,7 @@
     "brand": "MCHOSE",
     "rating": 4,
     "note": "Rapid Trigger 优化建造和编辑",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-god-60",
@@ -1252,7 +1252,7 @@
     "brand": "MCHOSE",
     "rating": 4,
     "note": "Rapid Trigger 优化建造和编辑",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs7-turbo",
@@ -1260,7 +1260,7 @@
     "brand": "ATK",
     "rating": 4,
     "note": "Rapid Trigger 优化建造和编辑",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs7-v2",
@@ -1268,7 +1268,7 @@
     "brand": "ATK",
     "rating": 4,
     "note": "Rapid Trigger 优化建造和编辑",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs6-ultra",
@@ -1276,7 +1276,7 @@
     "brand": "ATK",
     "rating": 4,
     "note": "Rapid Trigger 优化建造和编辑",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "iqunix--iqunix-ev63",
@@ -1284,7 +1284,7 @@
     "brand": "IQUNIX",
     "rating": 4,
     "note": "Rapid Trigger 优化建造和编辑",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "iqunix--iqunix-ez75",
@@ -1292,7 +1292,7 @@
     "brand": "IQUNIX",
     "rating": 4,
     "note": "Rapid Trigger 优化建造和编辑",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "iqunix--iqunix-ez80",
@@ -1300,7 +1300,7 @@
     "brand": "IQUNIX",
     "rating": 4,
     "note": "Rapid Trigger 优化建造和编辑",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "vgn--vgn-闪电68",
@@ -1308,7 +1308,7 @@
     "brand": "VGN",
     "rating": 4,
     "note": "Rapid Trigger 优化建造和编辑",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "vgn--vgn-霓虹-68",
@@ -1316,7 +1316,7 @@
     "brand": "VGN",
     "rating": 4,
     "note": "Rapid Trigger 优化建造和编辑",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "angry-miao--angry-miao-battleye-74-5",
@@ -1398,7 +1398,7 @@
     "brand": "SteelSeries",
     "rating": 4,
     "note": "快速英雄切换和技能响应",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "steelseries--steelseries-apex-pro-mini-gen-3",
@@ -1406,7 +1406,7 @@
     "brand": "SteelSeries",
     "rating": 4,
     "note": "快速英雄切换和技能响应",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "steelseries--steelseries-apex-5",
@@ -1414,7 +1414,7 @@
     "brand": "SteelSeries",
     "rating": 4,
     "note": "快速技能响应",
-    "category": "其他"
+    "category": "混合"
    },
    {
     "productId": "asus-rog--rog-魔导士-ace-hfx",
@@ -1422,7 +1422,7 @@
     "brand": "ASUS ROG",
     "rating": 4,
     "note": "快速英雄切换和技能响应",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "asus-rog--rog-夜魔-extreme",
@@ -1430,7 +1430,7 @@
     "brand": "ASUS ROG",
     "rating": 4,
     "note": "快速英雄切换和技能响应",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "asus-rog--rog-夜魔-98-he",
@@ -1438,7 +1438,7 @@
     "brand": "ASUS ROG",
     "rating": 4,
     "note": "快速英雄切换和技能响应",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "asus-rog--rog-夜魔-标准版",
@@ -1446,7 +1446,7 @@
     "brand": "ASUS ROG",
     "rating": 4,
     "note": "快速英雄切换和技能响应",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "corsair--corsair-k70-pro-tkl",
@@ -1454,7 +1454,7 @@
     "brand": "Corsair",
     "rating": 4,
     "note": "快速英雄切换和技能响应",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-75",
@@ -1462,7 +1462,7 @@
     "brand": "MCHOSE",
     "rating": 4,
     "note": "快速英雄切换和技能响应",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "mchose--mchose-ace-68-turbo",
@@ -1470,7 +1470,7 @@
     "brand": "MCHOSE",
     "rating": 4,
     "note": "快速英雄切换和技能响应",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs7-turbo",
@@ -1478,7 +1478,7 @@
     "brand": "ATK",
     "rating": 4,
     "note": "快速英雄切换和技能响应",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs7-v2",
@@ -1486,7 +1486,7 @@
     "brand": "ATK",
     "rating": 4,
     "note": "快速英雄切换和技能响应",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "atk--atk-rs6-ultra",
@@ -1494,7 +1494,7 @@
     "brand": "ATK",
     "rating": 4,
     "note": "快速英雄切换和技能响应",
-    "category": "其他"
+    "category": "磁轴"
    }
   ],
   "avg": 4
@@ -1512,7 +1512,7 @@
     "brand": "SteelSeries",
     "rating": 4,
     "note": "OLED 屏幕可显示金钱等游戏数据",
-    "category": "其他"
+    "category": "混合"
    },
    {
     "productId": "asus-rog--rog-夜魔-extreme",
@@ -1520,7 +1520,7 @@
     "brand": "ASUS ROG",
     "rating": 4,
     "note": "全键可编程 + 板载配置文件",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "asus-rog--rog-夜魔-98-he",
@@ -1528,7 +1528,7 @@
     "brand": "ASUS ROG",
     "rating": 4,
     "note": "全键可编程 + 板载配置文件",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "asus-rog--rog-夜魔-标准版",
@@ -1536,7 +1536,7 @@
     "brand": "ASUS ROG",
     "rating": 4,
     "note": "全键可编程 + 板载配置文件",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "corsair--corsair-galleon-100-sd",
@@ -1544,7 +1544,7 @@
     "brand": "Corsair",
     "rating": 4,
     "note": "Stream Deck 多动作宏支持",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "iqunix--iqunix-ez80",
@@ -1552,7 +1552,7 @@
     "brand": "IQUNIX",
     "rating": 4,
     "note": "性能充裕，TKL 配列保留功能键",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "keychron--keychron-k2-ultra-8k",
@@ -1560,7 +1560,7 @@
     "brand": "Keychron",
     "rating": 4,
     "note": "全键可编程 + 宏录制",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-k8-ultra-8k",
@@ -1568,7 +1568,7 @@
     "brand": "Keychron",
     "rating": 4,
     "note": "全键可编程 + 宏录制",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-v1-ultra-8k",
@@ -1576,7 +1576,7 @@
     "brand": "Keychron",
     "rating": 4,
     "note": "全键可编程 + 宏录制",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "keychron--keychron-q1-ultra-8k",
@@ -1584,7 +1584,7 @@
     "brand": "Keychron",
     "rating": 4,
     "note": "全键可编程 + 宏录制",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "vgn--vgn-v98pro-v4",
@@ -1592,7 +1592,7 @@
     "brand": "VGN",
     "rating": 5,
     "note": "全键可编程 + 宏录制",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "vgn--vgn-v87pro",
@@ -1600,7 +1600,7 @@
     "brand": "VGN",
     "rating": 5,
     "note": "全键可编程 + 宏录制",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "angry-miao--angry-miao-cyberboard-r3",
@@ -1668,7 +1668,7 @@
     "brand": "ASUS ROG",
     "rating": 4,
     "note": "全键可编程，可设置多套宏配置",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "asus-rog--rog-夜魔-98-he",
@@ -1676,7 +1676,7 @@
     "brand": "ASUS ROG",
     "rating": 4,
     "note": "98 配列含数字区，适合多快捷键操作",
-    "category": "其他"
+    "category": "磁轴"
    },
    {
     "productId": "asus-rog--rog-夜魔-标准版",
@@ -1684,7 +1684,7 @@
     "brand": "ASUS ROG",
     "rating": 4,
     "note": "全键可编程，可设置多套宏配置",
-    "category": "其他"
+    "category": "机械"
    },
    {
     "productId": "corsair--corsair-galleon-100-sd",
@@ -1692,7 +1692,7 @@
     "brand": "Corsair",
     "rating": 4,
     "note": "12 个 LCD 键可配置为技能快捷键",
-    "category": "其他"
+    "category": "机械"
    }
   ],
   "avg": 3.5

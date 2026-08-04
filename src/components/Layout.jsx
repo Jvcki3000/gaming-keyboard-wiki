@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom';
 import {
   BarChart3,
@@ -19,6 +19,8 @@ import {
 import { meta, productById } from '../lib/data';
 import { useTheme } from '../lib/theme';
 import { useCompare } from '../lib/CompareContext';
+import { kindLabel, quickSuggest } from '../lib/fuzzy';
+import BackToTop from './BackToTop';
 
 const NAV_ITEMS = [
   { to: '/', label: '首页', icon: Home },
@@ -33,26 +35,88 @@ const NAV_ITEMS = [
 
 function HeaderSearch() {
   const [query, setQuery] = useState('');
+  const [open, setOpen] = useState(false);
   const navigate = useNavigate();
+  const wrapRef = useRef(null);
+  const trimmed = query.trim();
+  const { exact, fuzzy } = useMemo(() => quickSuggest(trimmed), [trimmed]);
+
+  useEffect(() => {
+    const onMouseDown = (event) => {
+      if (wrapRef.current && !wrapRef.current.contains(event.target)) setOpen(false);
+    };
+    document.addEventListener('mousedown', onMouseDown);
+    return () => document.removeEventListener('mousedown', onMouseDown);
+  }, []);
+
+  const go = (route) => {
+    navigate(route);
+    setQuery('');
+    setOpen(false);
+  };
+
+  const submit = () => {
+    if (!trimmed) return;
+    navigate(`/search?q=${encodeURIComponent(trimmed)}`);
+    setQuery('');
+    setOpen(false);
+  };
+
   return (
-    <form
-      className="header-search"
-      onSubmit={(event) => {
-        event.preventDefault();
-        const trimmed = query.trim();
-        if (!trimmed) return;
-        navigate(`/search?q=${encodeURIComponent(trimmed)}`);
-        setQuery('');
-      }}
-    >
-      <Search size={16} />
-      <input
-        value={query}
-        onChange={(event) => setQuery(event.target.value)}
-        placeholder="搜索品牌、型号、技术…"
-        aria-label="搜索"
-      />
-    </form>
+    <div className="search-suggest-wrap" ref={wrapRef}>
+      <form
+        className="header-search"
+        onSubmit={(event) => {
+          event.preventDefault();
+          submit();
+        }}
+      >
+        <Search size={16} />
+        <input
+          value={query}
+          onChange={(event) => {
+            setQuery(event.target.value);
+            setOpen(true);
+          }}
+          onFocus={() => setOpen(true)}
+          onKeyDown={(event) => {
+            if (event.key === 'Escape') setOpen(false);
+          }}
+          placeholder="搜索品牌、型号、技术…"
+          aria-label="搜索"
+        />
+      </form>
+
+      {open && trimmed.length >= 1 && (exact.length > 0 || fuzzy.length > 0) ? (
+        <div className="search-suggest">
+          {exact.length > 0 ? (
+            <div className="search-suggest-group">
+              <div className="search-suggest-label">搜索结果</div>
+              {exact.map(({ entry }) => (
+                <button type="button" key={`${entry.type}-${entry.id}`} className="search-suggest-item" onClick={() => go(entry.route)}>
+                  <span className="search-suggest-kind">{kindLabel(entry.type)}</span>
+                  <span className="search-suggest-title">{entry.title}</span>
+                </button>
+              ))}
+            </div>
+          ) : null}
+          {fuzzy.length > 0 ? (
+            <div className="search-suggest-group">
+              <div className="search-suggest-label is-guess">猜你所想</div>
+              {fuzzy.map(({ entry }) => (
+                <button type="button" key={`${entry.type}-${entry.id}`} className="search-suggest-item is-guess" onClick={() => go(entry.route)}>
+                  <span className="search-suggest-kind">{kindLabel(entry.type)}</span>
+                  <span className="search-suggest-title">{entry.title}</span>
+                </button>
+              ))}
+            </div>
+          ) : null}
+          <button type="button" className="search-suggest-all" onClick={submit}>
+            查看全部搜索结果
+          </button>
+        </div>
+      ) : null}
+    </div>
   );
 }
 
@@ -206,6 +270,7 @@ export default function Layout() {
       </footer>
 
       <CompareTray />
+      <BackToTop />
     </div>
   );
 }

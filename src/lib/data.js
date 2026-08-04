@@ -56,6 +56,8 @@ export function featuredProducts() {
     'razer--razer-huntsman-v3-pro-tkl',
     'atk--atk-rs7-turbo',
     'mchose--mchose-ace-68-turbo',
+    'corsair--corsair-k70-pro-tkl',
+    'keychron--keychron-q1-ultra-8k',
   ];
   return picks.map((id) => productById.get(id)).filter(Boolean);
 }

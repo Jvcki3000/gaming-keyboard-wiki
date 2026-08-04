@@ -35,8 +35,16 @@ export default function ProductCard({ product }) {
         <div className="product-card-meta">
           <TagChip>{product.meta.layoutGroup}</TagChip>
           <TagChip tone="orange">{formatHz(product.meta.pollingHz)}</TagChip>
-          {product.meta.switchText ? <span className="product-switch" title={product.meta.switchText}>{product.meta.switchText}</span> : null}
         </div>
+        {product.meta.switchTags?.length ? (
+          <div className="product-card-tags" title={product.meta.switchText}>
+            {product.meta.switchTags.slice(0, 3).map((tag) => (
+              <TagChip key={tag} tone="blue">{tag}</TagChip>
+            ))}
+          </div>
+        ) : product.meta.switchText ? (
+          <span className="product-switch" title={product.meta.switchText}>{product.meta.switchText}</span>
+        ) : null}
         {product.excerpt ? <p className="product-card-excerpt">{product.excerpt}</p> : null}
         <div className="product-card-foot">
           <StarRating score={product.meta.overall} />
