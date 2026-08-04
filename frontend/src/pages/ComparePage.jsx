@@ -56,7 +56,7 @@ export default function ComparePage() {
           <input
             value={query}
             onChange={(event) => setQuery(event.target.value)}
-            placeholder="筛选产品…"
+            placeholder="搜索品牌、型号…"
             className="compare-search"
           />
           <div className="compare-picker-list">
