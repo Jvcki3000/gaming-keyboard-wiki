@@ -1,0 +1,220 @@
+{
+ "fps": [
+  {
+   "id": "keychron--keychron-k8-ultra-8k",
+   "title": "Keychron K8 Ultra 8K",
+   "brand": "Keychron",
+   "score": 89.7,
+   "label": "综合"
+  },
+  {
+   "id": "wooting--wooting-60he-v2",
+   "title": "Wooting 60HE v2",
+   "brand": "Wooting",
+   "score": 5,
+   "label": "Competitive FPS"
+  },
+  {
+   "id": "wooting--wooting-80he",
+   "title": "Wooting 80HE",
+   "brand": "Wooting",
+   "score": 5,
+   "label": "Competitive Gaming"
+  },
+  {
+   "id": "atk--atk-rs6-ultra",
+   "title": "ATK RS6 Ultra+",
+   "brand": "ATK",
+   "score": 5,
+   "label": "综合"
+  },
+  {
+   "id": "vgn--vgn-v87pro",
+   "title": "VGN V87Pro",
+   "brand": "VGN",
+   "score": 5,
+   "label": "综合"
+  },
+  {
+   "id": "asus-rog--rog-夜魔-标准版",
+   "title": "ASUS ROG ROG 夜魔 标准版",
+   "brand": "ASUS ROG",
+   "score": 4.83,
+   "label": "综合"
+  },
+  {
+   "id": "wooting--wooting-60he",
+   "title": "Wooting 60HE+",
+   "brand": "Wooting",
+   "score": 4.8,
+   "label": "Competitive FPS"
+  },
+  {
+   "id": "mchose--mchose-god-60",
+   "title": "MCHOSE God 60",
+   "brand": "MCHOSE",
+   "score": 4.8,
+   "label": "综合"
+  },
+  {
+   "id": "keychron--keychron-q1-ultra-8k",
+   "title": "Keychron Q1 Ultra 8K",
+   "brand": "Keychron",
+   "score": 4.8,
+   "label": "综合"
+  },
+  {
+   "id": "vgn--vgn-闪电68",
+   "title": "VGN 闪电68",
+   "brand": "VGN",
+   "score": 4.8,
+   "label": "综合"
+  }
+ ],
+ "moba": [
+  {
+   "id": "keychron--keychron-k8-ultra-8k",
+   "title": "Keychron K8 Ultra 8K",
+   "brand": "Keychron",
+   "score": 89.7,
+   "label": "综合"
+  },
+  {
+   "id": "atk--atk-rs6-ultra",
+   "title": "ATK RS6 Ultra+",
+   "brand": "ATK",
+   "score": 5,
+   "label": "综合"
+  },
+  {
+   "id": "vgn--vgn-v87pro",
+   "title": "VGN V87Pro",
+   "brand": "VGN",
+   "score": 5,
+   "label": "综合"
+  },
+  {
+   "id": "asus-rog--rog-夜魔-标准版",
+   "title": "ASUS ROG ROG 夜魔 标准版",
+   "brand": "ASUS ROG",
+   "score": 4.83,
+   "label": "综合"
+  },
+  {
+   "id": "mchose--mchose-god-60",
+   "title": "MCHOSE God 60",
+   "brand": "MCHOSE",
+   "score": 4.8,
+   "label": "综合"
+  },
+  {
+   "id": "keychron--keychron-q1-ultra-8k",
+   "title": "Keychron Q1 Ultra 8K",
+   "brand": "Keychron",
+   "score": 4.8,
+   "label": "综合"
+  },
+  {
+   "id": "vgn--vgn-闪电68",
+   "title": "VGN 闪电68",
+   "brand": "VGN",
+   "score": 4.8,
+   "label": "综合"
+  },
+  {
+   "id": "angry-miao--angry-miao-battleye-74-5",
+   "title": "Angry Miao Battleye 74.5",
+   "brand": "Angry Miao",
+   "score": 4.8,
+   "label": "综合"
+  },
+  {
+   "id": "angry-miao--dry-studio-black-diamond-75-v2",
+   "title": "Angry Miao Dry Studio Black Diamond 75 V2",
+   "brand": "Angry Miao",
+   "score": 4.8,
+   "label": "综合"
+  },
+  {
+   "id": "keychron--keychron-k2-ultra-8k",
+   "title": "Keychron K2 Ultra 8K",
+   "brand": "Keychron",
+   "score": 4.75,
+   "label": "综合"
+  }
+ ],
+ "value": [
+  {
+   "id": "keychron--keychron-k8-ultra-8k",
+   "title": "Keychron K8 Ultra 8K",
+   "brand": "Keychron",
+   "score": 89.7,
+   "label": "综合"
+  },
+  {
+   "id": "mchose--mchose-ace-75",
+   "title": "MCHOSE Ace 75",
+   "brand": "MCHOSE",
+   "score": 5,
+   "label": "Value for Money"
+  },
+  {
+   "id": "mchose--mchose-ace-60",
+   "title": "MCHOSE Ace 60",
+   "brand": "MCHOSE",
+   "score": 5,
+   "label": "Value for Money"
+  },
+  {
+   "id": "atk--atk-rs6-ultra",
+   "title": "ATK RS6 Ultra+",
+   "brand": "ATK",
+   "score": 5,
+   "label": "Value for Money（性价比）"
+  },
+  {
+   "id": "keychron--keychron-k2-ultra-8k",
+   "title": "Keychron K2 Ultra 8K",
+   "brand": "Keychron",
+   "score": 5,
+   "label": "Value for Money（性价比）"
+  },
+  {
+   "id": "keychron--keychron-v1-ultra-8k",
+   "title": "Keychron V1 Ultra 8K",
+   "brand": "Keychron",
+   "score": 5,
+   "label": "Value for Money（性价比）"
+  },
+  {
+   "id": "vgn--vgn-v98pro-v4",
+   "title": "VGN V98Pro V4",
+   "brand": "VGN",
+   "score": 5,
+   "label": "Value for Money（性价比）"
+  },
+  {
+   "id": "vgn--vgn-v87pro",
+   "title": "VGN V87Pro",
+   "brand": "VGN",
+   "score": 5,
+   "label": "Value for Money（性价比）"
+  },
+  {
+   "id": "vgn--vgn-闪电68",
+   "title": "VGN 闪电68",
+   "brand": "VGN",
+   "score": 5,
+   "label": "Value for Money（性价比）"
+  },
+  {
+   "id": "vgn--vgn-霓虹-68",
+   "title": "VGN 霓虹 68",
+   "brand": "VGN",
+   "score": 5,
+   "label": "Value for Money（性价比）"
+  }
+ ],
+ "updated": "2026-08-02",
+ "note": "排名基于产品页「用户评分」表格中的公开评分汇总，仅作参考。"
+}

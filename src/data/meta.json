@@ -1,0 +1,75 @@
+{
+ "siteName": "Game Keyboard Wiki",
+ "siteSlogan": "游戏键盘百科数据库",
+ "lastUpdated": "2026-08-02",
+ "stats": {
+  "brands": 14,
+  "products": 40,
+  "techTerms": 11,
+  "games": 10,
+  "pages": 83
+ },
+ "recentUpdates": [
+  {
+   "date": "2026-08-02",
+   "text": "站点架构设计与 4 种页面模板完成"
+  },
+  {
+   "date": "2026-08-02",
+   "text": "完成 14 个品牌档案页面"
+  },
+  {
+   "date": "2026-08-02",
+   "text": "完成 40 个产品 / 系列页面"
+  },
+  {
+   "date": "2026-08-02",
+   "text": "首页搭建完成，总页面数突破 55 个"
+  }
+ ],
+ "milestones": [
+  {
+   "date": "2026-08-02",
+   "text": "站点架构设计完成"
+  },
+  {
+   "date": "2026-08-02",
+   "text": "4 种页面模板设计完成"
+  },
+  {
+   "date": "2026-08-02",
+   "text": "首页搭建完成"
+  },
+  {
+   "date": "2026-08-02",
+   "text": "14 个品牌页面完成"
+  },
+  {
+   "date": "2026-08-02",
+   "text": "41 个产品 / 系列页面完成"
+  },
+  {
+   "date": "2026-08-02",
+   "text": "总页面数突破 55 个"
+  }
+ ],
+ "hotTags": [
+  "Rapid Trigger",
+  "Hall Effect",
+  "SOCD",
+  "磁轴",
+  "8KHz",
+  "Gasket",
+  "热插拔",
+  "无线",
+  "60%",
+  "TKL",
+  "客制化",
+  "FPS"
+ ],
+ "sourceFiles": [
+  "brand.md",
+  "product.md",
+  "工作报告.md"
+ ]
+}

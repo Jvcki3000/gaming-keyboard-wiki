@@ -1,0 +1,1756 @@
+[
+ {
+  "id": "asus-rog",
+  "title": "ASUS ROG（玩家国度）",
+  "name": "ASUS ROG",
+  "chinese": "玩家国度",
+  "infobox": [],
+  "sections": [
+   {
+    "key": "1",
+    "title": "1. 品牌概述 (Overview)",
+    "content": "**ROG玩家国度（Republic of Gamers）** 是华硕电脑旗下的高端电竞硬件品牌，创立于2006年。品牌名\"Republic of Gamers\"直译为\"玩家共和国\"，体现了其为全球玩家打造顶级装备的品牌使命。\n\nROG的诞生源于一群华硕工程师中的精英——他们本身也是超频狂人和游戏狂热者，为满足发烧友对极致性能和极致外观的需求，创立了这一品牌。品牌口号 **\"只为超越\"（For Those Who Dare）** 贯穿所有产品设计。\n\nROG品牌以红黑配色和标志性的\"败家之眼\"Logo闻名，产品线覆盖主板、显卡、笔记本电脑、显示器、游戏外设（键盘、鼠标、耳机）及水冷散热器等全品类电竞硬件。ROG在键盘领域拥有从传统机械轴、光轴到磁轴的完整技术布局，其 **Azoth（夜魔）系列** 更是将\"客制化\"理念引入量产电竞键盘的先行者。"
+   },
+   {
+    "key": "2",
+    "title": "2. 发展历史 (History)",
+    "content": "| 年份 | 里程碑事件 |\n|------|-----------|\n| 2006 | ROG玩家国度品牌正式成立。7月，首款主板Crosshair诞生；11月，Commando系列打破超频世界纪录。 |\n| 2007 | ROG涉足笔记本领域，G70游戏笔记本上市。 |\n| 2008 | ROG显卡产品线诞生，Matrix系列上市。 |\n| 2010 | Rampage III Extreme获红点设计大奖；推出首款抗噪电竞耳机ROG Vulcan ANC。 |\n| 2013 | 开始研发首款电竞外设，推出ROG Eagle Eye GX1000鼠标。 |\n| 2014 | 发布首款搭载G-sync技术的电竞显示器PG278Q。 |\n| 2015 | 在Z170主板上首次应用Aura RGB灯效。 |\n| 2016 | 推出首款ROG机械键盘 **ROG Horus GK2000**；启动Zephyrus计划开发轻薄游戏本。 |\n| 2018 | 推出 **ROG Strix Flare（耀光）** 系列机械键盘。 |\n| 2020 | 推出 **ROG Falchion（魔导士）** 65%无线机械键盘。 |\n| 2022 | 推出 **ROG Azoth（夜魔）**，ROG首款75%客制化电竞键盘。 |\n| 2023 | 扩展Azoth产品线，推出多款客制化键盘。 |\n| 2024 | 推出首款磁轴键盘 **ROG Falchion Ace HFX**，进入磁轴市场。 |\n| 2025 | ROG迎来20周年庆典；推出ROG Falchion Ace 75 HE、ROG Azoth Extreme等旗舰产品。 |\n| 2026 | 推出 **ROG Azoth 96 HE** 三模磁轴键盘，支持SpeedNova 8K无线技术；发布 **ROG Falcata** 分体式磁轴键盘。 |"
+   },
+   {
+    "key": "3",
+    "title": "3. 核心技术 (Key Technologies)",
+    "content": "ROG在键盘领域拥有完整的自主轴体技术体系，涵盖机械轴、光轴、磁轴三大技术路线。\n\n### 3.1 ROG NX 机械轴 (ROG NX Mechanical Switches)\n\nROG自研的传统机械轴系列，采用金属触点触发方式：\n\n| 轴体 | 类型 | 手感 | 触发键程 | 总阻力 | 特色 |\n|------|------|------|----------|--------|------|\n| NX 红轴 | 线性轴 | 顺滑敏捷 | 1.8mm | 55gf | 平滑线性手感，近乎瞬时触发 |\n| NX 茶轴 | 段落轴 | 轻微触感 | 2.0mm | 58gf | 有段落的键击体验，快速触发 |\n| NX 青轴 | 段落轴 | 清脆有声 | 2.3mm | 65gf | 清脆利落的回馈感 |\n| NX SNOW（雪武白轴） | 线性轴 | 顺滑静音 | 1.8mm | 53gf | 快速滑顺的线性触键，稳定性更佳 |\n| NX STORM | 段落轴 | 清脆利落 | 1.8mm | 65gf | 快速滑顺的键击体验 |\n\n> NX系列轴体寿命达 **7000万次**。\n\n### 3.2 ROG RX 光轴 (ROG RX Optical Switches)\n\nROG首款自有轴体，采用光学触发方式，通过光信号代替金属触点实现零延迟触发：\n\n| 轴体 | 类型 | 手感 | 触发键程 | 总阻力 | 特色 |\n|------|------|------|----------|--------|------|\n| RX 红轴 | 线性轴 | 顺滑敏捷 | 1.5mm | 55gf | 40gf初始阻力防止误触 |\n| RX 蓝轴 | 段落轴 | 清脆利落 | 1.5mm | 65gf | 30gf初始阻力 + 清脆回馈 |\n\nRX光轴采用 **四点式键帽固定方式** 和 **方形宫柱轴芯**，中心发光设计，手感稳定性和顺滑度表现优异。轴体寿命达 **1亿次**。\n\n### 3.3 ROG HFX 磁轴 (ROG HFX Magnetic Switches)\n\nROG进军磁轴市场的核心技术，采用霍尔效应实现非接触式触发：\n\n| 特性 | HFX V2 | HFX V2X |\n|------|--------|---------|\n| 行程距离 | 4.0mm | 3.5mm |\n| 触发范围 | 0.1 - 4.0mm（0.01mm精度） | 0.1 - 3.5mm（0.01mm精度） |\n| 初始阻力 | 32gf | 30gf |\n| 总阻力 | 49gf | 45gf |\n| 轴体材质 | PC顶盖 + POM轴心/底壳 | 抛光PC顶盖 + POM底壳 |\n\n**核心特性：**\n\n- **可调触发点**：0.1-4.0mm自由调节，精度达0.01mm\n- **Rapid Trigger快速触发**：按键向上移动时立即重置\n- **出厂预润滑**：提供扎实清脆的敲击声\n- **1亿次按键寿命**\n\n### 3.4 ROG SpeedNova 无线技术\n\nROG的低延迟无线连接技术，支持三模连接（2.4GHz SpeedNova无线 + 蓝牙 + 有线USB-C）。最新型号已支持 **8KHz无线回报率**。\n\n### 3.5 ROG 客制化技术\n\nROG Azoth系列将客制化理念引入量产键盘：\n\n- **Gasket结构**：硅胶Gasket垫片结构，提供软弹手感\n- **多层消音设计**：3-6层消音棉，消除空腔音\n- **全键热插拔**：支持自由更换轴体\n- **OLED显示屏**：显示自定义动画、系统状态等\n- **三向控制旋钮**：调节音量、灯光、OLED等\n\n### 3.6 Aura Sync 神光同步\n\nROG的RGB灯效生态系统，支持主板、显卡、键盘、鼠标、耳机等全系列ROG设备的灯光联动。通过Armoury Crate软件可实现统一的灯效管理。"
+   },
+   {
+    "key": "4",
+    "title": "4. 全系键盘型号 (Product Lineup)",
+    "content": "### 4.1 当前在产核心系列\n\n#### Azoth（夜魔）系列 —— 客制化旗舰\n\nROG的客制化旗舰系列，将Gasket结构、OLED屏、热插拔等客制化元素带入量产键盘。\n\n| 型号 | 类型 | 配列 | 核心特色 | 发布年份 |\n|------|------|------|----------|----------|\n| Azoth（夜魔） | 机械轴 | 75% | 首款客制化键盘，Gasket结构，OLED屏 | 2022 |\n| Azoth X（夜魔X） | 机械轴 | 75% | 白色外观，NX雪武白轴 | 2025 |\n| Azoth Extreme（夜魔Extreme） | 机械轴 | 75% | 旗舰级客制化，顶级用料 | 2025 |\n| Azoth 96 HE（夜魔96 HE） | 磁轴 | 96% | HFX V2磁轴，SpeedNova 8K无线 | 2026 |\n| Azoth 98 HE（夜魔98 HE） | 磁轴 | 98% | 第二代HFX V2磁轴 | 2025-2026 |\n\n#### Falchion（魔导士）系列 —— 紧凑型电竞\n\nROG的紧凑型电竞键盘系列，以65%布局和创新交互为特色。\n\n| 型号 | 类型 | 配列 | 核心特色 | 发布年份 |\n|------|------|------|----------|----------|\n| Falchion（魔导士） | 机械轴 | 65% | Cherry MX轴，Smart Bar触控条 | 2020 |\n| Falchion NX | 机械轴 | 65% | ROG NX轴，创新触控板 | - |\n| Falchion Ace HFX | 磁轴 | 65% | ROG首款磁轴，8000Hz回报率 | 2024 |\n| Falchion Ace 75 HE | 磁轴 | 75% | HFX V2/V2X磁轴，Rapid Trigger | 2026 |\n| Falchion Ace HFX ZywOo Edition | 磁轴 | 65% | CS传奇选手ZywOo联名限量版 | 2025 |\n\n#### Strix Scope（游侠）系列 —— FPS电竞\n\nROG的FPS电竞主力系列，以加宽Ctrl键为标志性设计。\n\n| 型号 | 类型 | 配列 | 核心特色 | 发布年份 |\n|------|------|------|----------|----------|\n| Strix Scope PBT | 机械轴 | 全尺寸/TKL | 加宽Ctrl键，铝合金面板 | - |\n| Strix Scope II X | 机械轴 | 全尺寸/TKL | NX V2轴，消音泡棉，直播快捷键 | - |\n| Strix Flare（耀光） | 机械轴 | 全尺寸 | Cherry MX轴，Aura Sync | 2018 |\n\n#### Falcata —— 分体式磁轴键盘\n\nROG最新推出的创新分体式设计磁轴键盘。\n\n| 型号 | 类型 | 配列 | 核心特色 | 发布年份 |\n|------|------|------|----------|----------|\n| Falcata | 磁轴 | 75%（分体式） | 可拆分左右模块，HFX V2磁轴，SpeedNova 8K无线 | 2026 |\n\n### 4.2 经典已停产 / 历史型号\n\n| 型号 | 类型 | 意义 | 发布年份 |\n|------|------|------|----------|\n| ROG Horus GK2000 | 机械轴 | ROG首款机械键盘 | 2016 |\n| ROG GK1050 | 机械轴 | ROG早期机械键盘 | 2016 |"
+   },
+   {
+    "key": "5",
+    "title": "5. 赛事影响力 (Esports Presence)",
+    "content": "ROG在电竞领域持续深耕，与全球顶级职业选手和战队建立了深度合作。\n\n### 5.1 职业选手合作\n\n| 选手 | 项目 | 合作产品 | 说明 |\n|------|------|----------|------|\n| ZywOo | CS2 | ROG Falchion Ace HFX ZywOo Edition | CS历史最佳选手之一，联名限量版键盘 |\n| Faker | LoL | ROG系列键盘 | LOL传奇选手，T1战队成员 |\n\n### 5.2 合作战队\n\nROG与全球多家顶级电竞战队保持合作关系：\n\n- **KOI**（欧洲）\n- **RRQ**（东南亚）\n\n### 5.3 赛事赞助\n\nROG是2026 PGL等顶级电竞赛事的官方合作伙伴，为赛事提供全套电竞装备。\n\n### 5.4 职业选手使用数据\n\n| 数据维度 | 数据 | 来源 |\n|----------|------|------|\n| ROG Falchion Ace HFX | 推出后获得大量职业选手关注 | 行业报道 |\n| ROG Falchion Ace 75 HE | 2026 PGL官方指定键盘之一 | 官方公告 |"
+   },
+   {
+    "key": "6",
+    "title": "6. 相关导航 (Navigation)",
+    "content": "**Categories：**\n- [Brands](./) > International Brands > Taiwan Brands\n\n**Key Technologies：**\n- ROG NX Mechanical Switch | ROG RX Optical Switch | ROG HFX Magnetic Switch | Hall Effect | Rapid Trigger | Gasket Mount | Hot Swap\n\n**See Also：**\n- ROG Azoth 96 HE | ROG Falchion Ace HFX | ROG Strix Scope II X\n\n**Tags：**\n`#ROG` `#ASUS` `#Mechanical` `#Optical` `#Magnetic` `#HallEffect` `#RapidTrigger` `#AuraSync` `#Gasket` `#HotSwap` `#Esports` `#Premium` `#International` `#Taiwan`"
+   },
+   {
+    "key": "7",
+    "title": "7. 参考资料 (References)",
+    "content": "| 来源 | 访问日期 |\n|------|----------|\n| [ROG 玩家国度官方网站](https://rog.asus.com) | 2026-08-02 |\n| ROG玩家国度 - 百度百科 | 2026-08-02 |\n| ROG 20周年回顾系列文章 | 2026-08-02 |\n| ROG官方轴体介绍页面 | 2026-08-02 |\n| ROG Azoth官方介绍 | 2026-08-02 |\n| ROG Falchion官方产品页 | 2026-08-02 |\n\n---"
+   }
+  ],
+  "info": {
+   "founded": "2006年",
+   "country": "中国台湾",
+   "category": "电竞硬件 / 游戏外设 / 高端PC组件",
+   "website": "https://rog.asus.com",
+   "slogan": "只为超越（For Those Who Dare）",
+   "parent": "华硕电脑（ASUS）"
+  },
+  "excerpt": "ROG玩家国度（Republic of Gamers） 是华硕电脑旗下的高端电竞硬件品牌，创立于2006年。品牌名\"Republic of Gamers\"直译为\"玩家共和国\"，体现了其为全球玩家打造顶级装备的品牌使命。 ROG的诞生源于一群华硕工程师中的精英——他们本身也是超频狂人和游戏狂热者，为满足发烧友对极致性能和极致外观的需求，创立了这一品牌。品牌口号…",
+  "coreTech": [
+   "3.1 ROG NX 机械轴 (ROG NX Mechanical Switches)",
+   "3.2 ROG RX 光轴 (ROG RX Optical Switches)",
+   "3.3 ROG HFX 磁轴 (ROG HFX Magnetic Switches)",
+   "3.4 ROG SpeedNova 无线技术",
+   "3.5 ROG 客制化技术",
+   "3.6 Aura Sync 神光同步"
+  ],
+  "esportsRows": [
+   [
+    "选手",
+    "项目",
+    "合作产品",
+    "说明"
+   ],
+   [
+    "ZywOo",
+    "CS2",
+    "ROG Falchion Ace HFX ZywOo Edition",
+    "CS历史最佳选手之一，联名限量版键盘"
+   ],
+   [
+    "Faker",
+    "LoL",
+    "ROG系列键盘",
+    "LOL传奇选手，T1战队成员"
+   ],
+   [
+    "数据维度",
+    "数据",
+    "来源"
+   ],
+   [
+    "ROG Falchion Ace HFX",
+    "推出后获得大量职业选手关注",
+    "行业报道"
+   ],
+   [
+    "ROG Falchion Ace 75 HE",
+    "2026 PGL官方指定键盘之一",
+    "官方公告"
+   ]
+  ],
+  "searchText": "asus rog（玩家国度） 玩家国度 undefined 3.1 rog nx 机械轴 (rog nx mechanical switches) 3.2 rog rx 光轴 (rog rx optical switches) 3.3 rog hfx 磁轴 (rog hfx magnetic switches) 3.4 rog speednova 无线技术 3.5 rog 客制化技术 3.6 aura sync 神光同步",
+  "group": "国际品牌",
+  "productCount": 4,
+  "products": [
+   {
+    "id": "asus-rog--rog-魔导士-ace-hfx",
+    "title": "ASUS ROG ROG 魔导士 Ace HFX",
+    "name": "ROG 魔导士 Ace HFX",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.3,
+    "pollingHz": 8000
+   },
+   {
+    "id": "asus-rog--rog-夜魔-extreme",
+    "title": "ASUS ROG ROG 夜魔 EXTREME",
+    "name": "ROG 夜魔 EXTREME",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.6,
+    "pollingHz": 8000
+   },
+   {
+    "id": "asus-rog--rog-夜魔-98-he",
+    "title": "ASUS ROG ROG 夜魔 98 HE",
+    "name": "ROG 夜魔 98 HE",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.6,
+    "pollingHz": 8000
+   },
+   {
+    "id": "asus-rog--rog-夜魔-标准版",
+    "title": "ASUS ROG ROG 夜魔 标准版",
+    "name": "ROG 夜魔 标准版",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.83,
+    "pollingHz": 1000
+   }
+  ]
+ },
+ {
+  "id": "steelseries",
+  "title": "SteelSeries（赛睿）",
+  "name": "SteelSeries",
+  "chinese": "赛睿",
+  "infobox": [],
+  "sections": [
+   {
+    "key": "1",
+    "title": "1. 品牌概述 (Overview)",
+    "content": "**SteelSeries（赛睿）** 是全球领先的专业游戏外设品牌，2001年成立于丹麦哥本哈根，公司现总部位于美国芝加哥。品牌由狂热的CS玩家Jacob Wolff-Petersen创立，自成立之初便与顶级职业电竞选手深度合作开发产品，是全球电子竞技外设装备的行业领导者。\n\nSteelSeries 最初以\"Steel\"之名闻名。其产品线从最早的鼠标垫起步，逐步扩展至键盘、鼠标、耳机等全品类游戏外设，销售范围覆盖全球超过80个国家。品牌以 **\"胜利就是一切\"（Winning is everything）** 为核心价值观，在全球电竞领域拥有极高的影响力和统治力。\n\n赛睿在键盘领域具有里程碑式的创新意义——2019年推出全球首款搭载 **OmniPoint可调节磁轴** 的键盘Apex Pro，标志着自机械开关问世以来游戏键盘技术的最大进步。这一创新不仅为赛睿赢得了\"全球最快游戏键盘\"的美誉，也推动了整个键盘行业向磁轴技术的转型。"
+   },
+   {
+    "key": "2",
+    "title": "2. 发展历史 (History)",
+    "content": "| 年份 | 里程碑事件 |\n|------|-----------|\n| 2001 | SteelSeries在丹麦哥本哈根成立；推出首款游戏鼠标垫（防尘玻璃鼠标垫Icemat） |\n| 2002 | 成为首个和电竞选手合作的品牌；首个赞助电竞赛事的品牌 |\n| 2003 | 与瑞典知名战队SK合作推出Steelpad 4D鼠标垫 |\n| 2004 | 推出首款游戏耳机 |\n| 2006 | 推出首款游戏机械键盘；世界十大FPS战队中有七支选择赛睿装备 |\n| 2007 | 公司原名Soft Trading正式更名为SteelSeries（赛睿） |\n| 2008 | 推出首个针对游戏外设的联网软件 |\n| 2018 | 推出首个Hi-Res游戏音频系统 |\n| 2019 | 推出全球首款磁力自适应键盘 **Apex Pro**，搭载OmniPoint可调磁轴 |\n| 2021 | 庆祝品牌成立20周年 |\n| 2024 | 发布 **Apex Pro Gen 3** 系列，搭载OmniPoint 3.0技术 |\n| 2025 | 推出 **Apex Pro Mini Gen 3**，60%配列磁轴键盘 |"
+   },
+   {
+    "key": "3",
+    "title": "3. 核心技术 (Key Technologies)",
+    "content": "SteelSeries在键盘领域拥有多项核心技术，尤其在磁轴技术领域处于行业领先地位。\n\n### 3.1 OmniPoint 可调磁轴 (OmniPoint Adjustable Magnetic Switch)\n\nSteelSeries于2019年推出的革命性轴体技术。与传统机械轴体不同，OmniPoint通过磁场感应来测定按键按下的确切距离，实现无物理触点的非接触式触发。\n\n**OmniPoint 1.0（2019年首发）：**\n\n- 可调触发范围：0.4mm - 3.6mm\n- 最短键程0.4mm时响应速度达0.7ms\n- 相比传统机械键盘：触发快5倍，响应快8倍\n\n**OmniPoint 3.0（2024年发布）：**\n\n- 可调触发范围：0.1mm - 4.0mm，40级可调\n- 响应时间：仅0.54ms，标准机械键盘为6ms\n- 比标准机械开关快11倍\n- 采用业界首个霍尔效应Gen 3传感器\n\n> See also: [Hall Effect], [Magnetic Switch], [OmniPoint]\n\n### 3.2 Rapid Trigger（快速触发）\n\nSteelSeries的Rapid Trigger技术允许玩家无需等待按键完全复位即可重复触发同一按键。只需手指轻轻一抬，按键即可重置并准备下一次触发，在需要快速连击的FPS和音游中优势显著。\n\n### 3.3 Rapid Tap（快速点击）\n\nRapid Tap技术优先处理一对按键中最后按下的按键，无需释放前一个按键。支持最多5个按键配对，可实现更快的反击、偷看、蹲跳等操作。与竞争对手的SOCD/Snap Tap功能属于同一技术类别。\n\n### 3.4 保护模式 (Protection Mode)\n\nSteelSeries独有的防误触技术。通过降低所选周围按键的灵敏度来防止意外按键——\"再也不用担心错过最重要的冷却时间\"。\n\n### 3.5 SteelSeries GG 软件生态\n\nSteelSeries的统一配置平台，核心功能包括：\n\n- **GG QuickSet**：一键应用职业选手精选配置文件，自动调整驱动级别、Rapid Trigger、保护模式、RGB等\n- 按键自定义与宏编程\n- RGB灯效管理\n- 游戏配置文件自动切换\n\n### 3.6 产品工艺标准\n\nApex Pro Gen 3系列引入了多项硬件升级：\n\n- **高级开关稳定器**：减少打字抖动\n- **出厂预润滑轴体**：更顺滑的手感\n- **阻尼消音泡棉**：更令人满意的按键声音\n- 采用**航空级铝合金框架**"
+   },
+   {
+    "key": "4",
+    "title": "4. 全系键盘型号 (Product Lineup)",
+    "content": "### 4.1 当前在产核心系列\n\n#### Apex Pro 系列 —— 磁轴旗舰\n\nSteelSeries的顶级电竞键盘系列，搭载OmniPoint可调磁轴技术。\n\n| 型号 | 类型 | 配列 | 核心特色 | 发布年份 |\n|------|------|------|----------|----------|\n| Apex Pro（初代） | 磁轴 | 全尺寸 | 全球首款OmniPoint磁轴键盘 | 2019 |\n| Apex Pro TKL | 磁轴 | TKL | 紧凑型磁轴电竞键盘 | 2019 |\n| Apex Pro Gen 3 | 磁轴 | 全尺寸 | OmniPoint 3.0，40级可调 | 2024 |\n| Apex Pro TKL Gen 3 | 磁轴 | TKL | OmniPoint 3.0，8KHz回报率 | 2024 |\n| Apex Pro Mini Gen 3 | 磁轴 | 60% | 60%配列，1999元 | 2025 |\n| Apex Pro TKL Wireless | 磁轴 | TKL | 无线版本 | 2024 |\n\n#### Apex 系列 —— 入门/中端游戏键盘\n\n覆盖更广泛用户群体的游戏键盘系列。\n\n| 型号 | 类型 | 配列 | 核心特色 | 发布年份 |\n|------|------|------|----------|----------|\n| Apex 7 | 机械轴 | 全尺寸 | OLED显示屏，红/青轴可选 | 约2019 |\n| Apex 5 | 机械轴 | 全尺寸 | OLED显示屏，混合轴体 | - |\n| Apex 3 | 薄膜轴 | 全尺寸 | IP32防水，10区RGB | - |\n| Apex 3 TKL | 薄膜轴 | TKL | 紧凑型，8区RGB | - |\n\n#### APEX M 系列 —— 经典机械键盘\n\nSteelSeries的经典机械键盘产品线。\n\n| 型号 | 类型 | 配列 | 核心特色 | 发布年份 |\n|------|------|------|----------|----------|\n| APEX M500 | 机械轴 | 全尺寸 | 全键无冲，蓝色LED背光 | - |\n| APEX M260 | 机械轴 | 全尺寸 | PBT二色成型键帽，四种轴体 | - |\n\n### 4.2 经典已停产 / 历史型号\n\n| 型号 | 类型 | 意义 | 发布年份 |\n|------|------|------|----------|\n| SteelSeries 首款游戏机械键盘 | 机械轴 | 赛睿首款游戏机械键盘 | 2006 |"
+   },
+   {
+    "key": "5",
+    "title": "5. 赛事影响力 (Esports Presence)",
+    "content": "SteelSeries是电竞领域最具统治力的外设品牌之一，与职业战队的关系不仅是赞助，更是从产品构思到测试验证全程参与的深度合作伙伴关系。\n\n### 5.1 核心数据\n\n| 数据维度 | 数据 |\n|----------|------|\n| 全球顶级职业战队覆盖率 | 80% 的顶级职业战队选择赛睿产品 |\n| 赛事奖金统治力 | 使用赛睿装备的职业选手累计斩获的赛事奖金超过其他任何品牌 |\n| 品牌定位 | \"纯粹电竞品牌\" |\n\n### 5.2 合作战队（部分）\n\nSteelSeries与全球众多顶级电竞战队保持合作关系：\n\n| 战队 | 项目 | 地区 |\n|------|------|------|\n| SK Gaming | 全项目 | 欧洲 |\n| Fnatic | 全项目 | 欧洲 |\n| Natus Vincere (Na'Vi) | CS2、Dota 2 | 欧洲 |\n| Evil Geniuses (EG) | 全项目 | 北美 |\n| Team SoloMid (TSM) | LoL、Fortnite | 北美 |\n| FaZe Clan | CS2 | 北美/欧洲 |\n| OG | Dota 2 | 欧洲 |\n| Tyloo | CS2 | 中国 |\n| Invictus Gaming (IG) | StarCraft II、Dota 2、CF | 中国 |\n| AG | 全项目 | 中国 |\n\n### 5.3 知名合作选手\n\n| 选手 | 项目 | 备注 |\n|------|------|------|\n| Patrik \"f0rest\" Lindberg | CS | NiP战队传奇选手 |\n| Christopher \"GeT_RiGhT\" Alesund | CS | NiP战队传奇选手 |\n| Grubby | StarCraft II | \"兽族皇帝\" |\n\n### 5.4 赛事赞助\n\nSteelSeries自2002年起便成为首个赞助电竞赛事的品牌，每年在全球范围内赞助和参与数以千计的电子竞技赛事和活动。"
+   },
+   {
+    "key": "6",
+    "title": "6. 相关导航 (Navigation)",
+    "content": "**Categories：**\n- [Brands](./) > International Brands > Danish Brands\n\n**Key Technologies：**\n- OmniPoint | Hall Effect | Magnetic Switch | Rapid Trigger | Rapid Tap | Adjustable Actuation\n\n**See Also：**\n- SteelSeries Apex Pro Gen 3 | SteelSeries Apex Pro Mini Gen 3 | SteelSeries Apex Pro TKL\n\n**Tags：**\n`#SteelSeries` `#赛睿` `#Magnetic` `#HallEffect` `#OmniPoint` `#RapidTrigger` `#RapidTap` `#Esports` `#Premium` `#International` `#Danish`"
+   },
+   {
+    "key": "7",
+    "title": "7. 参考资料 (References)",
+    "content": "| 来源 | 访问日期 |\n|------|----------|\n| [SteelSeries 官方网站](https://steelseries.com) | 2026-08-02 |\n| SteelSeries - 百度百科 | 2026-08-02 |\n| 赛睿20周年庆典报道（新浪电竞） | 2026-08-02 |\n| Apex Pro Gen 3 发布资讯（in外设） | 2026-08-02 |\n| Apex Pro Mini Gen 3 上架资讯（IT之家） | 2026-08-02 |\n\n---"
+   }
+  ],
+  "info": {
+   "founded": "2001年",
+   "country": "丹麦（总部位于美国芝加哥）",
+   "category": "游戏外设 / 电竞硬件",
+   "website": "https://steelseries.com",
+   "slogan": "胜利就是一切（Winning is everything）",
+   "parent": ""
+  },
+  "excerpt": "SteelSeries（赛睿） 是全球领先的专业游戏外设品牌，2001年成立于丹麦哥本哈根，公司现总部位于美国芝加哥。品牌由狂热的CS玩家Jacob WolffPetersen创立，自成立之初便与顶级职业电竞选手深度合作开发产品，是全球电子竞技外设装备的行业领导者。 SteelSeries 最初以\"Steel\"之名闻名。其产品线从最早的鼠标垫起步，逐步扩展至…",
+  "coreTech": [
+   "3.1 OmniPoint 可调磁轴 (OmniPoint Adjustable Magnetic Switch)",
+   "3.2 Rapid Trigger（快速触发）",
+   "3.3 Rapid Tap（快速点击）",
+   "3.4 保护模式 (Protection Mode)",
+   "3.5 SteelSeries GG 软件生态",
+   "3.6 产品工艺标准"
+  ],
+  "esportsRows": [
+   [
+    "数据维度",
+    "数据"
+   ],
+   [
+    "全球顶级职业战队覆盖率",
+    "80% 的顶级职业战队选择赛睿产品"
+   ],
+   [
+    "赛事奖金统治力",
+    "使用赛睿装备的职业选手累计斩获的赛事奖金超过其他任何品牌"
+   ],
+   [
+    "品牌定位",
+    "\"纯粹电竞品牌\""
+   ],
+   [
+    "战队",
+    "项目",
+    "地区"
+   ],
+   [
+    "SK Gaming",
+    "全项目",
+    "欧洲"
+   ],
+   [
+    "Fnatic",
+    "全项目",
+    "欧洲"
+   ],
+   [
+    "Natus Vincere (Na'Vi)",
+    "CS2、Dota 2",
+    "欧洲"
+   ],
+   [
+    "Evil Geniuses (EG)",
+    "全项目",
+    "北美"
+   ],
+   [
+    "Team SoloMid (TSM)",
+    "LoL、Fortnite",
+    "北美"
+   ],
+   [
+    "FaZe Clan",
+    "CS2",
+    "北美/欧洲"
+   ],
+   [
+    "OG",
+    "Dota 2",
+    "欧洲"
+   ],
+   [
+    "Tyloo",
+    "CS2",
+    "中国"
+   ],
+   [
+    "Invictus Gaming (IG)",
+    "StarCraft II、Dota 2、CF",
+    "中国"
+   ],
+   [
+    "AG",
+    "全项目",
+    "中国"
+   ],
+   [
+    "选手",
+    "项目",
+    "备注"
+   ],
+   [
+    "Patrik \"f0rest\" Lindberg",
+    "CS",
+    "NiP战队传奇选手"
+   ],
+   [
+    "Christopher \"GeT_RiGhT\" Alesund",
+    "CS",
+    "NiP战队传奇选手"
+   ],
+   [
+    "Grubby",
+    "StarCraft II",
+    "\"兽族皇帝\""
+   ]
+  ],
+  "searchText": "steelseries（赛睿） 赛睿 undefined 3.1 omnipoint 可调磁轴 (omnipoint adjustable magnetic switch) 3.2 rapid trigger（快速触发） 3.3 rapid tap（快速点击） 3.4 保护模式 (protection mode) 3.5 steelseries gg 软件生态 3.6 产品工艺标准",
+  "group": "国际品牌",
+  "productCount": 4,
+  "products": [
+   {
+    "id": "steelseries--steelseries-apex-pro-gen-3",
+    "title": "SteelSeries Apex Pro Gen 3",
+    "name": "SteelSeries Apex Pro Gen 3",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.5,
+    "pollingHz": 1000
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-mini-gen-3",
+    "title": "SteelSeries Apex Pro Mini Gen 3",
+    "name": "SteelSeries Apex Pro Mini Gen 3",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.4,
+    "pollingHz": 1000
+   },
+   {
+    "id": "steelseries--steelseries-apex-5",
+    "title": "SteelSeries Apex 5",
+    "name": "SteelSeries Apex 5",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.2,
+    "pollingHz": 1000
+   },
+   {
+    "id": "steelseries--steelseries-apex-9-系列",
+    "title": "SteelSeries Apex 9 系列",
+    "name": "SteelSeries Apex 9 系列",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.38,
+    "pollingHz": 0
+   }
+  ]
+ },
+ {
+  "id": "corsair",
+  "title": "Corsair（海盗船）",
+  "name": "Corsair",
+  "chinese": "海盗船",
+  "infobox": [],
+  "sections": [
+   {
+    "key": "1",
+    "title": "1. 品牌概述 (Overview)",
+    "content": "**Corsair（美商海盗船）** 是全球领先的电脑硬件及外设公司，1994年由Don Lieberman、John Beekley与Andy Paul在美国加州佛利蒙创立。公司最早以内存模组业务起家，向PC厂商销售内存产品，后逐步扩展至服务器内存市场。2002年，海盗船进入游戏内存市场，重点发展超频内存。\n\n海盗船的商标是一排风格独特的帆，灵感源自16至19世纪作为海盗象征的帆船，因此中文品牌名称为\"海盗船\"。\n\n海盗船在游戏键盘领域具有里程碑式的创新意义——2014年推出了全球首款使用Cherry MX RGB轴体的量产机械键盘——**K70 RGB版**。这一创新彻底改变了游戏键盘的RGB灯光生态，奠定了海盗船在高端游戏键盘市场的领导地位。此后，海盗船持续推出K系列经典产品线，并在磁轴、光轴等新技术领域全面布局。\n\n2020年9月，海盗船在纳斯达克上市（股票代码：CRSR）。2025年，创始人Andy Paul退休，由Thi La接任首席执行官。"
+   },
+   {
+    "key": "2",
+    "title": "2. 发展历史 (History)",
+    "content": "| 年份 | 里程碑事件 |\n|------|-----------|\n| 1994 | Corsair在美国加州佛利蒙成立，由Don Lieberman、John Beekley与Andy Paul联合创立，以内存模组业务起家 |\n| 2002 | 进入游戏内存市场，重点发展可超频的内存产品 |\n| 2014 | 成立Corsair Gaming部门，专注游戏外设开发；3月K70机械键盘系列首次上市；6月推出全球首款Cherry MX RGB轴体量产键盘——K70 RGB版 |\n| 2015 | 推出STRAFE RGB机械键盘静音版，搭载Cherry MX SILENT静音轴，全球首款采用该轴体的键盘 |\n| 2020 | 发布K100 RGB旗舰键盘，搭载AXON超处理技术，最高4000Hz回报率；9月在纳斯达克上市 |\n| 2021 | 推出K100 RGB璀璨金特别版，升级支持8000Hz回报率 |\n| 2022 | 推出K100 AIR超薄无线机械键盘，最薄处仅11mm |\n| 2024 | 推出K70 PRO TKL霍尔效应磁轴键盘，搭载Rapid Trigger功能 |\n| 2025 | 创始人Andy Paul退休；推出VANGUARD 96系列，包含传统机械轴标准款与磁轴PRO款 |\n| 2026 | 推出VANGUARD PRO 96磁轴键盘，搭载MGX Hyperdrive霍尔效应轴与AXON 8000Hz系统 |"
+   },
+   {
+    "key": "3",
+    "title": "3. 核心技术 (Key Technologies)",
+    "content": "Corsair在键盘领域拥有机械轴、光轴、磁轴三大轴体技术布局，并搭载自研AXON超处理技术。\n\n### 3.1 CHERRY MX 机械轴\n\n海盗船与德国Cherry保持着长期深度合作关系，是全球最早大规模采用Cherry MX轴体的游戏外设品牌之一。\n\n海盗船键盘搭载的Cherry MX轴体类型包括：\n\n- **CHERRY MX RGB红轴**：线性手感，快速触发\n- **CHERRY MX RGB银轴（Speed）**：1.2mm超短触发行程，电竞专用\n- **CHERRY MX RGB茶轴**：轻微段落感\n- **CHERRY MX RGB青轴**：清脆有声段落轴\n- **CHERRY MX SILENT静音轴**：静音线性手感\n- **CHERRY MX Ultra Low Profile**：超薄矮轴，用于K100 AIR\n\n### 3.2 CORSAIR OPX 光学机械轴 (Optical Mechanical Switch)\n\n海盗船自研的光学轴体，采用红外光束来注册按键触发：\n\n- **触发方式**：光学感应，无物理触点\n- **手感**：线性手感，顺滑无段落感\n- **按键寿命**：1.5亿次\n- **响应速度**：比传统机械轴快8倍\n\n### 3.3 CORSAIR MGX 磁轴 (Hall Effect Magnetic Switch)\n\n海盗船进军磁轴市场的核心技术，采用霍尔效应实现非接触式触发：\n\n- **MGX Hyperdrive霍尔效应轴**：搭载于VANGUARD PRO 96\n- **可调触发点**：建议范围0.3mm至3.6mm\n- **动态重置**：支持Rapid Trigger功能\n- **按键寿命**：1.5亿次\n- **出厂预润滑**：轴体顺滑度优秀\n- **热插拔兼容**：支持3-pin与5-pin机械轴\n- **RGB友好设计**：透壳上盖与南向凸透设计\n\n### 3.4 CORSAIR MLX 系列轴体\n\n海盗船的中端机械轴体系：\n\n- **MLX Red线性开关**：用于K70 CORE等型号\n- **MLX Plasma紫轴**：预润滑轴心，Fresnel透镜设计，RGB灯效均匀，8000万次按键寿命，支持3-pin与5-pin热插拔\n\n### 3.5 AXON 超处理技术 (AXON Hyper-Processing Technology)\n\n海盗船自研的键盘信号处理技术：\n\n- **超高回报率**：从初代4000Hz升级至8000Hz\n- **超低输入延迟**：显著提升竞技游戏响应速度\n- **全键无冲**：支持全按键矩阵无冲突\n\n### 3.6 SLIPSTREAM 无线技术\n\n海盗船的低延迟无线连接技术：\n\n- **延迟低于1ms**，性能媲美有线连接\n- 支持超薄无线键盘如K100 AIR\n\n### 3.7 iCUE 软件生态\n\n海盗船的统一配置平台，功能包括：\n\n- 按键自定义与宏编程\n- RGB灯效管理（单键1680万色可调）\n- 游戏配置文件切换与板载存储\n- 全设备灯光同步\n- 实体控制旋钮与多媒体控制\n\n### 3.8 FlashTap / SOCD 技术\n\nVANGUARD系列搭载的输入优化技术：\n\n- **FlashTap**：优化两个相反方向键同时按下时的输入行为\n- **SOCD功能**：支持自行控制输入最终行为\n- 特别适合FPS玩家的急停操作"
+   },
+   {
+    "key": "4",
+    "title": "4. 全系键盘型号 (Product Lineup)",
+    "content": "### 4.1 当前在产核心系列\n\n#### K 系列 —— 经典旗舰\n\n海盗船的经典旗舰键盘系列，以K70为标志性产品。\n\n**K70 系列：**\n\n| 型号 | 类型 | 配列 | 核心特色 | 发布年份 |\n|------|------|------|----------|----------|\n| K70 RGB | 机械轴 | 全尺寸 | 全球首款Cherry MX RGB键盘 | 2014 |\n| K70 RGB MK.2 | 机械轴 | 全尺寸 | K70经典迭代 | - |\n| K70 RGB TKL | 机械/光轴 | TKL | 紧凑设计，AXON技术 | - |\n| K70 PRO | 机械轴 | 全尺寸 | 升级版K70 | - |\n| K70 PRO TKL | 磁轴 | TKL | 霍尔效应+Rapid Trigger | 2024 |\n| K70 CORE | 机械轴 | 全尺寸 | MLX Red线性轴，双层消音 | - |\n| K70 CORE TKL WIRELESS | 机械轴 | TKL | 无线版本，1000Hz回报率 | - |\n| K70 MAX | 机械/磁轴 | 全尺寸 | K70旗舰型号 | - |\n\n**K100 系列：**\n\n| 型号 | 类型 | 配列 | 核心特色 | 发布年份 |\n|------|------|------|----------|----------|\n| K100 RGB | 机械/光轴 | 全尺寸(110键) | AXON技术，iCUE旋钮，6个宏键 | 2020 |\n| K100 RGB 璀璨金 | 机械/光轴 | 全尺寸 | 中国限定，金色框架，8KHz回报率 | 2021 |\n| K100 AIR | 机械矮轴 | 全尺寸 | 超薄无线(11mm)，SLIPSTREAM | 2022 |\n\n**K65 系列：**\n\n| 型号 | 类型 | 配列 | 核心特色 |\n|------|------|------|----------|\n| K65 | 机械/光轴 | 65% / 60% | 紧凑布局，CHERRY MX/OPX/MLX轴 |\n\n**K95 系列：**\n\n| 型号 | 类型 | 配列 | 核心特色 |\n|------|------|------|----------|\n| K95 RGB PLATINUM | 机械轴 | 全尺寸 | 旗舰级，宏键丰富 |\n\n#### VANGUARD 系列 —— 磁轴新旗舰\n\n海盗船2025年推出的全新命名体系键盘系列，产品前缀为系列名称、中间为版本、后面数字为配列：\n\n| 型号 | 类型 | 配列 | 核心特色 | 发布年份 |\n|------|------|------|----------|----------|\n| VANGUARD 96 | 机械轴(MLX) | 96% | 1.9英寸LCD屏，8000Hz，SOCD | 2025 |\n| VANGUARD PRO 96 | 磁轴(MGX) | 96% | MGX Hyperdrive磁轴，Rapid Trigger，FlashTap | 2025 |\n\n**VANGUARD系列核心特性：**\n\n- **96%紧凑布局**：比全尺寸缩小约25%，保留完整功能键区\n- **1.9英寸IPS LCD彩屏**：320×170分辨率，可自定义GIF动图\n- **多媒体转盘**：取代传统功能键\n- **左侧6个可编程宏键**\n- **四层消音设计**：消除空腔音\n- **Web Hub网页配置**：免安装软件，全键自定义\n- **Elgato Stream Deck整合**\n\n#### 其他系列\n\n| 系列 | 类型 | 定位 | 代表型号 |\n|------|------|------|----------|\n| STRAFE | 机械轴 | 主流游戏键盘 | STRAFE RGB（首款Cherry MX SILENT键盘） |\n| MAKR 75 | 机械轴 | 模块化客制化 | 热插拔轴体、键帽、旋钮、定位板可自由组合 |\n\n### 4.2 经典已停产 / 历史型号\n\n| 型号 | 类型 | 意义 |\n|------|------|------|\n| K70 RGB（初代） | 机械轴 | 全球首款Cherry MX RGB量产键盘 |"
+   },
+   {
+    "key": "5",
+    "title": "5. 赛事影响力 (Esports Presence)",
+    "content": "海盗船在电竞领域持续深耕，与全球顶级战队建立了深度合作关系。\n\n### 5.1 合作战队\n\n| 战队 | 项目 | 合作内容 |\n|------|------|----------|\n| FaZe Esports | 全项目 | 独家鼠标、键盘、耳机、鼠标垫合作伙伴 |\n| Dignitas | 全项目 | 战队定制版外设 |\n| NeXT战队 | StarCraft II | 独家赞助 |\n\n### 5.2 赛事赞助\n\n- StarLadder Major Budapest官方合作伙伴\n- 与职业战队共同开发专业级产品线，直接采纳选手反馈"
+   },
+   {
+    "key": "6",
+    "title": "6. 相关导航 (Navigation)",
+    "content": "**Categories：**\n- [Brands](./) > International Brands > American Brands\n\n**Key Technologies：**\n- CHERRY MX | CORSAIR OPX | CORSAIR MGX | Hall Effect | Rapid Trigger | AXON | SLIPSTREAM | SOCD | Hot Swap\n\n**See Also：**\n- Corsair K70 RGB | Corsair K100 RGB | Corsair VANGUARD PRO 96 | Corsair K70 PRO TKL\n\n**Tags：**\n`#Corsair` `#海盗船` `#Mechanical` `#Optical` `#Magnetic` `#HallEffect` `#RapidTrigger` `#AXON` `#iCUE` `#Esports` `#Premium` `#International` `#American`"
+   },
+   {
+    "key": "7",
+    "title": "7. 参考资料 (References)",
+    "content": "| 来源 | 访问日期 |\n|------|----------|\n| [Corsair 官方网站](https://www.corsair.com) | 2026-08-02 |\n| 美商海盗船 - 维基百科 | 2026-08-02 |\n| 美商海盗船K70机械键盘 - 百度百科 | 2026-08-02 |\n| 海盗船K100 RGB - 百度百科 | 2026-08-02 |\n| 海盗船K100 AIR - 百度百科 | 2026-08-02 |\n| VANGUARD PRO 96 - 4Gamers评测 | 2026-08-02 |\n| VANGUARD 96系列 - IT之家 | 2026-08-02 |\n| Corsair帮助中心 - 轴体介绍 | 2026-08-02 |\n\n---"
+   }
+  ],
+  "info": {
+   "founded": "1994年",
+   "country": "美国（加州佛利蒙）",
+   "category": "电脑硬件 / 游戏外设 / 电竞装备",
+   "website": "https://www.corsair.com",
+   "slogan": "",
+   "parent": ""
+  },
+  "excerpt": "Corsair（美商海盗船） 是全球领先的电脑硬件及外设公司，1994年由Don Lieberman、John Beekley与Andy Paul在美国加州佛利蒙创立。公司最早以内存模组业务起家，向PC厂商销售内存产品，后逐步扩展至服务器内存市场。2002年，海盗船进入游戏内存市场，重点发展超频内存。 海盗船的商标是一排风格独特的帆，灵感源自16至19世纪作…",
+  "coreTech": [
+   "3.1 CHERRY MX 机械轴",
+   "3.2 CORSAIR OPX 光学机械轴 (Optical Mechanical Switch)",
+   "3.3 CORSAIR MGX 磁轴 (Hall Effect Magnetic Switch)",
+   "3.4 CORSAIR MLX 系列轴体",
+   "3.5 AXON 超处理技术 (AXON Hyper-Processing Technology)",
+   "3.6 SLIPSTREAM 无线技术",
+   "3.7 iCUE 软件生态",
+   "3.8 FlashTap / SOCD 技术"
+  ],
+  "esportsRows": [
+   [
+    "战队",
+    "项目",
+    "合作内容"
+   ],
+   [
+    "FaZe Esports",
+    "全项目",
+    "独家鼠标、键盘、耳机、鼠标垫合作伙伴"
+   ],
+   [
+    "Dignitas",
+    "全项目",
+    "战队定制版外设"
+   ],
+   [
+    "NeXT战队",
+    "StarCraft II",
+    "独家赞助"
+   ]
+  ],
+  "searchText": "corsair（海盗船） 海盗船 undefined 3.1 cherry mx 机械轴 3.2 corsair opx 光学机械轴 (optical mechanical switch) 3.3 corsair mgx 磁轴 (hall effect magnetic switch) 3.4 corsair mlx 系列轴体 3.5 axon 超处理技术 (axon hyper-processing technology) 3.6 slipstream 无线技术 3.7 icue 软件生态 3.8 flashtap / socd 技术",
+  "group": "国际品牌",
+  "productCount": 2,
+  "products": [
+   {
+    "id": "corsair--corsair-galleon-100-sd",
+    "title": "Corsair GALLEON 100 SD",
+    "name": "Corsair GALLEON 100 SD",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.6,
+    "pollingHz": 8000
+   },
+   {
+    "id": "corsair--corsair-k70-pro-tkl",
+    "title": "Corsair K70 PRO TKL",
+    "name": "Corsair K70 PRO TKL",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4,
+    "pollingHz": 8000
+   }
+  ]
+ },
+ {
+  "id": "atk",
+  "title": "ATK（艾泰克）",
+  "name": "ATK",
+  "chinese": "艾泰克",
+  "infobox": [],
+  "sections": [
+   {
+    "key": "1",
+    "title": "1. 品牌概述 (Overview)",
+    "content": "**ATK（艾泰克）** 是深圳意义之塔科技有限公司旗下的新兴国产电竞外设品牌。品牌由国内知名游戏媒体游戏动力与工业创新科研团队联合创立，于2023年11月正式推出市场。\n\nATK的前身可追溯至\"努巴尼守望先锋\"社区，后转型为游戏动力旗下的外设品牌。品牌致力于探索前沿外设科技，打造行业领先的电竞外设产品。旗下拥有ATKGEAR主品牌及VXE（威界） 两大系列，并延伸出超高端系列梵塔（VELOTA） 和高端商务系列YOGO，产品覆盖键盘、鼠标、耳机等全品类电竞外设。\n\nATK以磁轴键盘为核心突破口，凭借高性价比和持续的技术创新，在短短两年内迅速崛起。品牌于2024年底入驻京东自营后，斩获 **\"外设办公新锐榜\"TOP1**，并同步跻身外设类目全品牌榜TOP10。2025年10月，ATK携中国航母FLEET18联名磁轴键盘亮相2025世界航海装备大会，进一步提升了品牌影响力。"
+   },
+   {
+    "key": "2",
+    "title": "2. 发展历史 (History)",
+    "content": "| 年份 | 里程碑事件 |\n|------|-----------|\n| 2023年7月 | 深圳意义之塔科技有限公司成立 |\n| 2023年11月 | ATK品牌正式推出，首批产品包括ATK 68磁轴键盘及蜻蜓R1鼠标 |\n| 2024年4月 | 与狼队电竞无畏契约分部达成合作，并签约利维坦战队 |\n| 2024年7月 | 参展第二十一届ChinaJoy |\n| 2024年12月 | 发布ATK V100系列半铝电竞机械键盘，首发249元起 |\n| 2024年底 | 入驻京东自营，售后率下降近20%，口碑快速积累 |\n| 2025年10月 | 携中国航母FLEET18联名磁轴键盘亮相2025世界航海装备大会 |\n| 2025年11月 | 推出RS6 Air磁轴电竞键盘，搭载第三代烈风Ultra磁轴方案 |\n| 2026年 | 推出RS7 Air、RS6+系列、A87 Ultra系列等多款新品，产品矩阵持续扩展 |"
+   },
+   {
+    "key": "3",
+    "title": "3. 核心技术 (Key Technologies)",
+    "content": "ATK在磁轴键盘领域拥有完整的技术体系，尤其以第三代「烈风ULTRA」磁轴方案为核心竞争力。\n\n### 3.1 第三代「烈风ULTRA」磁轴方案\n\nATK自研的第三代磁轴技术方案，是品牌的核心技术壁垒：\n\n| 性能参数 | 指标 |\n|----------|------|\n| 轮询率 | 8KHz |\n| 全键扫描率 | 32kHz |\n| 单键扫描率 | 256kHz |\n| 传输延迟 | 0.08ms |\n| 全链路响应延迟 | 0.28ms |\n| RT调节精度 | 0.001mm |\n| RT调节范围 | 0.001 - 3.3mm |\n\n该方案对按键信号的采集、处理与传输全链路进行深度优化，搭载于RS7 Air、RS6 Air、RS6+等主力磁轴产品上。\n\n### 3.2 ATK 定制磁轴\n\nATK与轴体厂商合作推出多款定制磁轴：\n\n| 轴体 | 总行程 | 触发压力 | 特色 |\n|------|--------|----------|------|\n| 乾元轴 | 3.3±0.4mm | 35±5gf | 传统十字轴芯，棱柱导光镜 |\n| 冰刃轴 | 3.5±0.2mm | 35±5gf | 防尘轴芯，精准稳定 |\n| 明刀轴 / 水刀轴 | — | — | 搭载于RS7 Air |\n| 雪刃轴 PRO | — | — | 搭载于RS6+标准版 |\n| 冰刃轴 PRO | — | — | 搭载于RS6+ Ultra版 |\n\n### 3.3 ATK HUB 3.0 驱动软件\n\nATK自研的驱动软件平台：\n\n- 支持RT精度调节、SOCD等高级功能\n- ARGB灯光自定义\n- 全键可编程与宏设置\n- 部分用户反馈UI逻辑待优化\n\n### 3.4 自研三核帧同步方案\n\nATK超高端系列梵塔（VELOTA） 搭载的自研技术：\n\n- 通过三颗高主频MCU构建分布式协同算力架构\n- 实现全链路帧同步控制，键盘扫描时钟与主机采集时钟精准同步\n- 通道扫描率达4696kHz，全链路触发延迟低至0.22ms\n\n### 3.5 SmartSpeed 无线传输技术（第二代）\n\n搭载于A87 Ultra等无线键盘产品：\n\n- 延迟低至1ms\n- 支持8KHz轮询率\n\n### 3.6 星闪（NearLink）技术\n\nATK GEAR宣布其产品将应用星闪（NearLink） 无线短距通信技术，这是中国自主研发的新一代无线短距通信标准。"
+   },
+   {
+    "key": "4",
+    "title": "4. 全系键盘型号 (Product Lineup)",
+    "content": "### 4.1 磁轴键盘系列\n\n#### RS 系列 —— 磁轴电竞主力\n\nATK的核心磁轴键盘系列，搭载第三代烈风Ultra磁轴方案。\n\n| 型号 | 配列 | 核心特色 | 参考价格 | 发布年份 |\n|------|------|----------|----------|----------|\n| RS7 Air | 75% (81键) | 8KHz轮询，0.08ms延迟，0.001mm RT精度 | 369元起 | 2026 |\n| RS6 Air | 65% (68键) | 乾元轴/冰刃轴，全透明键帽 | 339元起 | 2025 |\n| RS6+ | — | 全铝外壳，雪刃轴PRO/冰刃轴PRO | 499元起 | 2026 |\n| RS7 V2 | 75% | RS系列前代产品 | — | - |\n| RS5 Air | 65% (68键) | 紧凑型磁轴，机甲翼镜设计 | — | 2025 |\n\n#### 梵塔（VELOTA）系列 —— 超高端磁轴\n\nATK旗下的超高端磁轴系列，搭载自研三核帧同步方案。\n\n| 型号 | 核心特色 | 参考价格 | 发布年份 |\n|------|----------|----------|----------|\n| FUZZY 60 V2 | 三核帧擎技术，4696kHz扫描率，0.22ms延迟 | 1299元起 | 2026 |\n\n#### EDGE 系列 —— 联名款磁轴\n\n| 型号 | 核心特色 |\n|------|----------|\n| EDGE 60HE 利维坦联名款 | 61键，金属机身，铝坨坨 |\n\n#### 中国航母 FLEET18 联名款\n\n2025年10月于世界航海装备大会亮相的中国航母联名磁轴键盘。\n\n### 4.2 机械键盘系列\n\n#### V 系列 —— 半铝/全铝机械键盘\n\n| 型号 | 配列 | 核心特色 | 参考价格 | 发布年份 |\n|------|------|----------|----------|----------|\n| V100 | 101键 (100%) | 半铝，Gasket结构，三模，热插拔 | 249元起 | 2024 |\n| V75X | 75% | 纯CNC铝合金上盖，三模 | — | - |\n| V75 Pro | 75% | 纯CNC铝合金上盖，1.47寸TFT彩屏 | — | - |\n\n**V100系列详细参数：**\n\n- CNC铝合金上盖\n- Gasket结构\n- 2.4G/蓝牙/有线三模连接\n- 1ms低延迟\n- 可选轴体：阿尼亚轴、梦绯轴、蓝莓冰淇淋轴\n- 标准版4000mAh电池 / Pro版8000mAh电池\n- ARGB灯珠（1600万色，下灯位）\n- 全键无冲 / 热插拔\n- ATK HUB驱动支持\n\n#### A 系列 —— 高性价比无线机械键盘\n\n| 型号 | 配列 | 核心特色 | 参考价格 | 发布年份 |\n|------|------|----------|----------|----------|\n| A87 Ultra | 80% | 12000mAh电池，8KHz轮询，SmartSpeed无线 | 289元起 | 2026 |\n| A87 | TKL (87键) | 标准87键布局，双区RGB | — | 2025 |\n\n**A87 Ultra核心特性：**\n\n- Gasket结构\n- ARGB灯效\n- 第二代SmartSpeed无线技术（延迟低至1ms）\n- 8KHz轮询率\n- 热插拔 / 全键无冲\n- 12000mAh电池\n\n#### VXE 系列 —— 游戏办公兼顾\n\nATK旗下VXE（威界）品牌的键盘产品：\n\n| 型号 | 配列 | 核心特色 |\n|------|------|----------|\n| VXE V75 | 75% | 三模机械键盘 |\n\n### 4.3 经典已停产 / 历史型号\n\n| 型号 | 类型 | 意义 |\n|------|------|------|\n| ATK 68 | 磁轴 | ATK品牌首批产品（2023年11月） |"
+   },
+   {
+    "key": "5",
+    "title": "5. 赛事影响力 (Esports Presence)",
+    "content": "ATK虽然是一个新兴品牌，但在电竞领域已建立了广泛的合作关系。\n\n### 5.1 合作战队\n\n| 战队 | 项目 | 合作内容 |\n|------|------|----------|\n| 狼队电竞无畏契约分部 | 无畏契约 | 品牌合作，选手共创体验 |\n| BBL战队 | 无畏契约 | 官方战略合作伙伴 |\n| 利维坦战队 | — | 签约合作 |\n\n### 5.2 合作选手\n\n| 选手 | 项目 | 合作内容 |\n|------|------|----------|\n| Chronicle | 无畏契约 | ATK电竞鼠标代言人 |\n| ASPAS | — | 深入交流，共同研发新品 |\n\n### 5.3 赛事与展会\n\n- 2024 ChinaJoy参展\n- 2025世界航海装备大会参展（中国航母联名款亮相）"
+   },
+   {
+    "key": "6",
+    "title": "6. 相关导航 (Navigation)",
+    "content": "**Categories：**\n- [Brands](./) > Chinese Brands > Gaming Hardware\n\n**Key Technologies：**\n- Hall Effect | Magnetic Switch | Rapid Trigger | SOCD | Adjustable Actuation\n\n**See Also：**\n- ATK RS7 Air | ATK RS6 Air | ATK V100 | ATK A87 Ultra | 梵塔 FUZZY 60 V2\n\n**Tags：**\n`#ATK` `#艾泰克` `#Magnetic` `#HallEffect` `#RapidTrigger` `#ChineseBrand` `#Budget` `#MidRange` `#Esports` `#HotSwap` `#Wireless`"
+   },
+   {
+    "key": "7",
+    "title": "7. 参考资料 (References)",
+    "content": "| 来源 | 访问日期 |\n|------|----------|\n| 艾泰克ATK - 百度百科 | 2026-08-02 |\n| [ATK官方网站 (ATKGEAR)](https://www.atkgear.com) | 2026-08-02 |\n| ATK V100系列发布 - IT之家 | 2026-08-02 |\n| ATK RS7 Air - chinaaet.cn | 2026-08-02 |\n| ATK RS6 Air - Expreview | 2026-08-02 |\n| ATK RS6+ - 凤凰网 | 2026-08-02 |\n| ATK A87 Ultra - IT之家 | 2026-08-02 |\n| ATK加盟品牌介绍 | 2026-08-02 |\n\n---"
+   }
+  ],
+  "info": {
+   "founded": "2023年11月",
+   "country": "中国（深圳）",
+   "category": "电竞外设 / 游戏键盘 / 磁轴键盘",
+   "website": "https://www.atkgear.com",
+   "slogan": "",
+   "parent": "深圳意义之塔科技有限公司（超级艾泰克旗下）"
+  },
+  "excerpt": "ATK（艾泰克） 是深圳意义之塔科技有限公司旗下的新兴国产电竞外设品牌。品牌由国内知名游戏媒体游戏动力与工业创新科研团队联合创立，于2023年11月正式推出市场。 ATK的前身可追溯至\"努巴尼守望先锋\"社区，后转型为游戏动力旗下的外设品牌。品牌致力于探索前沿外设科技，打造行业领先的电竞外设产品。旗下拥有ATKGEAR主品牌及VXE（威界） 两大系列，并延伸出…",
+  "coreTech": [
+   "3.1 第三代「烈风ULTRA」磁轴方案",
+   "3.2 ATK 定制磁轴",
+   "3.3 ATK HUB 3.0 驱动软件",
+   "3.4 自研三核帧同步方案",
+   "3.5 SmartSpeed 无线传输技术（第二代）",
+   "3.6 星闪（NearLink）技术"
+  ],
+  "esportsRows": [
+   [
+    "战队",
+    "项目",
+    "合作内容"
+   ],
+   [
+    "狼队电竞无畏契约分部",
+    "无畏契约",
+    "品牌合作，选手共创体验"
+   ],
+   [
+    "BBL战队",
+    "无畏契约",
+    "官方战略合作伙伴"
+   ],
+   [
+    "利维坦战队",
+    "—",
+    "签约合作"
+   ],
+   [
+    "选手",
+    "项目",
+    "合作内容"
+   ],
+   [
+    "Chronicle",
+    "无畏契约",
+    "ATK电竞鼠标代言人"
+   ],
+   [
+    "ASPAS",
+    "—",
+    "深入交流，共同研发新品"
+   ]
+  ],
+  "searchText": "atk（艾泰克） 艾泰克 undefined 3.1 第三代「烈风ultra」磁轴方案 3.2 atk 定制磁轴 3.3 atk hub 3.0 驱动软件 3.4 自研三核帧同步方案 3.5 smartspeed 无线传输技术（第二代） 3.6 星闪（nearlink）技术",
+  "group": "国产品牌",
+  "productCount": 3,
+  "products": [
+   {
+    "id": "atk--atk-rs7-turbo",
+    "title": "ATK RS7 Turbo",
+    "name": "ATK RS7 Turbo",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.6,
+    "pollingHz": 8000
+   },
+   {
+    "id": "atk--atk-rs7-v2",
+    "title": "ATK RS7 V2",
+    "name": "ATK RS7 V2",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.4,
+    "pollingHz": 8000
+   },
+   {
+    "id": "atk--atk-rs6-ultra",
+    "title": "ATK RS6 Ultra+",
+    "name": "ATK RS6 Ultra+",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 5,
+    "pollingHz": 8000
+   }
+  ]
+ },
+ {
+  "id": "wooting",
+  "title": "Wooting",
+  "name": "Wooting",
+  "chinese": "",
+  "infobox": [],
+  "sections": [
+   {
+    "key": "1",
+    "title": "1. 品牌概述 (Overview)",
+    "content": "**Wooting** 是一家来自荷兰恩斯赫德的创新型游戏外设品牌，由 Jordi van der Heijden 于 2016 年 创立。Wooting 是 **全球首个将\"模拟输入（Analog Input）\"技术带入机械键盘领域的厂商**。\n\nWooting 品牌的核心使命是打破传统键盘\"0 或 1\"的输入限制，通过 **霍尔效应磁轴（Hall Effect Magnetic Switch）** 技术，让键盘能够感知按键的按压深度，实现类似游戏手柄摇杆的线性控制。2022 年 发布的 **Wooting 60HE** 凭借 **Rapid Trigger（快速触发）** 技术，彻底改变了竞技 FPS 游戏的玩法，被全球职业选手誉为 **\"物理外挂\"**，也成为当今磁轴键盘行业的标准制定者与标杆品牌。\n\n品牌名称\"Wooting\"源自荷兰语\"woot\"一词，意为\"物品\"或\"东西\"，选用此名是因为它包含元素 **\"W\"和\"O\"**，在视觉上足够吸引人，且\"wooting\"的发音听起来有冲击力。品牌标志中两个字母 **\"o\"构成无限符号**，象征无限的可能性。"
+   },
+   {
+    "key": "2",
+    "title": "2. 发展历史 (History)",
+    "content": "| 年份 | 里程碑事件 |\n|------|-----------|\n| 2015 年 | 创始人 Jordi van der Heijden 因对游戏键盘的不满而产生打造模拟键盘的想法，在荷兰恩斯赫德创立 Wooting |\n| 2016 年 | Wooting 在 Kickstarter 众筹平台发起首次众筹，推出首款产品 Wooting One，成功筹集 169,000 欧元（目标 50,000 欧元） |\n| 2017 年 | 首款产品 Wooting One 正式上市，搭载 Flaretech 光轴，实现模拟输入功能 |\n| 2018 年 | 推出 Wooting Two（全尺寸模拟光轴键盘） |\n| 2019 年 | 与供应商合作研发霍尔效应磁轴技术，同年 Wooting One 和 Two 停产 |\n| 2020 年 | 发布 Wooting Two HE，采用自研 Lekker 磁轴，实现模拟输入 + 霍尔效应技术 |\n| 2022 年 | 发布 Wooting 60HE（60% 配列），Rapid Trigger 功能通过固件更新上线，在 FPS 玩家圈引发热潮 |\n| 2023 年 | 60HE 量产版正式推出，Wootility 网页驱动上线，社区规模大幅增长 |\n| 2024 年 | 推出 Wooting 60HE+ 升级版、Wooting 80HE TKL 版本 |\n| 2025 年 | 发布 Wooting 60HE v2，升级至 8KHz 回报率与 Lekker Tikken 轴体 |\n| 2026 年 | Wooting 推出 60HE v2 铝合金版，品牌持续扩展全球市场 |"
+   },
+   {
+    "key": "3",
+    "title": "3. 核心技术 (Key Technologies)",
+    "content": "Wooting 的成功建立在其独有的技术体系之上，技术栈覆盖从硬件轴体到软件生态的完整闭环。\n\n### 3.1 Lekker 霍尔效应磁轴\n\nWooting 与轴体制造商合作研发的 **Lekker 磁轴** 是其硬件核心。\n\n**原理：** Lekker 轴体内部集成了磁铁和霍尔效应传感器。按下按键时磁铁移动，改变传感器检测到的磁场强度，通过测量磁场强度来确定按键被按下的确切距离——而非简单的\"开/关\"检测。\n\n**技术优势：**\n\n- **无物理触点**：消除触点氧化和磨损问题，寿命极长\n- **模拟信号输出**：可精确感知按键行程深度\n- **可调触发点**：用户可在 0.1mm 到 4.0mm 之间自由设置触发键程（精度 0.1mm）\n\n**Lekker 轴体系列：**\n\n| 轴体 | 推出时间 | 特点 |\n|------|----------|------|\n| Lekker 初代 | 2020 年 | 首发于 Two HE，奠定磁轴技术基础 |\n| Lekker L45 / L60 | 2022 年 | 60HE 搭载，45gf / 60gf 两种力度 |\n| Lekker Tikken | 2025 年 | 60HE v2 搭载，更严格的制造公差，封闭底壳设计，声音更柔和 |\n\n### 3.2 Rapid Trigger（快速触发）\n\nRapid Trigger 是 Wooting 最具革命性的软件功能，也是其行业首创的核心竞争力。\n\n**原理：** 传统键盘的按键重置点（Reset Point）固定，按键必须回到一定的位置才能再次触发。Rapid Trigger 技术将触发和重置绑定到按键的动态移动上——按键触发后，只要检测到按键向上移动（即玩家开始松开手指），键盘立即重置，无需等待按键回到初始位置。\n\n**在 FPS 游戏中的应用：**\n\n- **急停（Counter-Strafing）**：按键重置速度从传统 20-30ms 缩短至 1-2ms\n- **连续射击**：显著提高射速\n- **极致响应**：真正实现\"人键合一\"的操作体验\n\n### 3.3 Wootility（网页驱动）\n\nWootility 是 Wooting 的浏览器配置工具，无需下载即可在浏览器中完成所有设置。\n\n**核心功能：**\n\n- **DKS（Dynamic Keystroke）**：将一个按键分配多个触发点，实现一键多指令（如轻按走、重按跑）\n- **Mod Tap**：按键在不同场景下执行不同功能\n- **Rapid Trigger 调节**：实时调整触发和重置灵敏度\n- **RGB 自定义**：每个按键独立设置颜色和灯效模式\n- **游戏专属配置**：为不同游戏保存独立配置文件\n\n### 3.4 完整竞技功能生态\n\nWooting 在固件层面持续开发竞技功能：\n\n| 功能 | 说明 |\n|------|------|\n| SOCD（Simultaneous Opposite Cardinal Directions） | 同时相反方向输入处理，优化急停 |\n| Rappy Snappy | 监控至少两个选定按键，激活按得最深的按键（80HE 首发） |\n| Tachyon Mode | 超光速模式，关闭 RGB 以达到 8KHz 回报率 |\n| Dual Key Press | 双键同时触发优化 |"
+   },
+   {
+    "key": "4",
+    "title": "4. 全系键盘型号 (Product Lineup)",
+    "content": "### 4.1 当前在产型号\n\n| 型号 | 配列 | 核心特色 | 发布年份 | 状态 |\n|------|------|----------|----------|------|\n| Wooting 60HE+ | 60%（61键） | 经典 60% 磁轴，Lekker L45/L60，1000Hz | 2022 | ✅ 在售 |\n| Wooting 60HE v2 | 60%（61键） | 8KHz 回报率，Lekker Tikken，FR4 定位板，铝合金/塑料外壳 | 2025 | ✅ 在售 |\n| Wooting 80HE | TKL（87键） | Rappy Snappy，8KHz，Gasket 结构，TKL 布局 | 2024 | ✅ 在售 |\n| Wooting Two HE | 全尺寸 | 数字小键盘，Lekker 磁轴 | 2020/2025 | ✅ 在售 |\n| Wooting UwU | 3键 | 三键小键盘，Rapid Trigger 同款功能 | — | ✅ 在售 |\n\n### 4.2 经典已停产型号\n\n| 型号 | 配列 | 意义 | 发布年份 |\n|------|------|------|----------|\n| Wooting One | 全尺寸 | 首款模拟输入机械键盘（光轴） | 2017 |\n| Wooting Two（初代） | 全尺寸 | 模拟光轴版本 | 2018 |"
+   },
+   {
+    "key": "5",
+    "title": "5. 赛事影响力 (Esports Presence)",
+    "content": "Wooting 是目前职业 FPS 赛场上最具统治力的外设品牌之一，特别在 Valorant 和 CS2 项目中占有率持续攀升。\n\n### 5.1 核心数据\n\n| 数据维度 | 数据 |\n|----------|------|\n| Rapid Trigger 首创地位 | 行业公认的快速触发技术开创者 |\n| CS2 职业选手使用率 | 2026 年 6 月数据：Wooting 80HE 27.51%（252名选手），排名第一 |\n| Valorant 职业选手选择 | 多支顶级战队主力选手使用 Wooting 键盘 |\n| 行业地位 | Wooting 60HE 和 80HE 是当前职业赛场认可度最高的磁轴键盘 |\n\n### 5.2 热门单品表现\n\n| 型号 | 赛事表现 |\n|------|----------|\n| Wooting 80HE | Prosettings.net 统计中 CS2 职业选手使用率最高的键盘（27.51%） |\n| Wooting 60HE+ | Valorant 职业选手中使用率最高的键盘之一，被公认为 FPS 急停标杆 |\n\n### 5.3 合作战队与选手\n\nWooting 与全球多支顶级电竞战队和职业选手保持合作，产品被 Team Vitality 等战队的 CS2 和 Valorant 分部选手广泛采用。品牌常与知名选手合作推出专属配置推荐和联名产品。\n\n### 5.4 社区影响力\n\nWooting 拥有极高活跃度的社区生态。Discord 社区人数庞大，玩家自发分享配置、讨论技巧。Wootility 内置的 **\"社区配置库\"** 允许玩家一键导入职业选手或其他高玩的配置文件，形成了完整的内容生态。"
+   },
+   {
+    "key": "6",
+    "title": "6. 品牌理念与社区文化",
+    "content": "Wooting 的核心品牌价值在于 **\"Community Driven Innovation\"（社区驱动创新）**：\n\n- **玩家驱动开发**：许多功能（如 Rapid Trigger）源于社区反馈与职业选手的需求\n- **透明沟通**：Wooting 团队保持与社区的高度透明沟通\n- **开放生态**：Wootility 社区配置库、开源固件精神\n- **持续迭代**：通过固件更新为老产品加入新功能"
+   },
+   {
+    "key": "7",
+    "title": "7. 相关导航 (Navigation)",
+    "content": "**Categories：**\n- [Brands](./) > International Brands > Dutch Brands\n\n**Key Technologies：**\n- Hall Effect | Rapid Trigger | Lekker Switch | Analog Input | Adjustable Actuation | Wootility\n\n**See Also：**\n- Wooting 60HE+ | Wooting 60HE v2 | Wooting 80HE | Wooting Two HE | Rapid Trigger | Hall Effect\n\n**Tags：**\n`#Wooting` `#Magnetic` `#HallEffect` `#RapidTrigger` `#Analog` `#Esports` `#Premium` `#International` `#Dutch` `#FPS` `#Community`"
+   },
+   {
+    "key": "8",
+    "title": "8. 图片库 (Gallery)",
+    "content": "> 图片待上传。建议补充：\n> - Wooting 品牌 Logo\n> - Wooting 60HE v2 铝合金版正视图\n> - Wooting 80HE 正视图\n> - Lekker Tikken 轴体特写\n> - Wootility 网页驱动界面\n> - Wooting 团队成员合照\n> - Wooting 在电竞赛场的品牌露出"
+   },
+   {
+    "key": "9",
+    "title": "9. 参考资料 (References)",
+    "content": "| 来源 | 访问日期 |\n|------|----------|\n| [Wooting 官方网站](https://wooting.io) | 2026-08-02 |\n| Wooting 官方博客 | 2026-08-02 |\n| Prosettings.net 职业选手数据 | 2026-08-02 |\n| IT之家 - Wooting 60HE v2 评测 | 2026-08-02 |\n| 中关村在线 - Wooting 80HE 评测 | 2026-08-02 |\n| Wooting 60HE v2 官方发布页 | 2026-08-02 |\n| Wooting 80HE 官方发布页 | 2026-08-02 |\n\n---"
+   }
+  ],
+  "info": {
+   "founded": "2016年",
+   "country": "荷兰（总部位于恩斯赫德）",
+   "category": "电竞外设 / 霍尔效应磁轴键盘制造商",
+   "website": "https://wooting.io",
+   "slogan": "可调节的模拟输入键盘",
+   "parent": "独立品牌（无母公司）"
+  },
+  "excerpt": "Wooting 是一家来自荷兰恩斯赫德的创新型游戏外设品牌，由 Jordi van der Heijden 于 2016 年 创立。Wooting 是 全球首个将\"模拟输入（Analog Input）\"技术带入机械键盘领域的厂商。 Wooting 品牌的核心使命是打破传统键盘\"0 或 1\"的输入限制，通过 霍尔效应磁轴（Hall Effect Magneti…",
+  "coreTech": [
+   "3.1 Lekker 霍尔效应磁轴",
+   "3.2 Rapid Trigger（快速触发）",
+   "3.3 Wootility（网页驱动）",
+   "3.4 完整竞技功能生态"
+  ],
+  "esportsRows": [
+   [
+    "数据维度",
+    "数据"
+   ],
+   [
+    "Rapid Trigger 首创地位",
+    "行业公认的快速触发技术开创者"
+   ],
+   [
+    "CS2 职业选手使用率",
+    "2026 年 6 月数据：Wooting 80HE 27.51%（252名选手），排名第一"
+   ],
+   [
+    "Valorant 职业选手选择",
+    "多支顶级战队主力选手使用 Wooting 键盘"
+   ],
+   [
+    "行业地位",
+    "Wooting 60HE 和 80HE 是当前职业赛场认可度最高的磁轴键盘"
+   ],
+   [
+    "型号",
+    "赛事表现"
+   ],
+   [
+    "Wooting 80HE",
+    "Prosettings.net 统计中 CS2 职业选手使用率最高的键盘（27.51%）"
+   ],
+   [
+    "Wooting 60HE+",
+    "Valorant 职业选手中使用率最高的键盘之一，被公认为 FPS 急停标杆"
+   ]
+  ],
+  "searchText": "wooting  undefined 3.1 lekker 霍尔效应磁轴 3.2 rapid trigger（快速触发） 3.3 wootility（网页驱动） 3.4 完整竞技功能生态",
+  "group": "国际品牌",
+  "productCount": 3,
+  "products": [
+   {
+    "id": "wooting--wooting-60he",
+    "title": "Wooting 60HE+",
+    "name": "Wooting 60HE+",
+    "category": "磁轴",
+    "layoutGroup": "60%",
+    "overall": 4.13,
+    "pollingHz": 1000
+   },
+   {
+    "id": "wooting--wooting-60he-v2",
+    "title": "Wooting 60HE v2",
+    "name": "Wooting 60HE v2",
+    "category": "磁轴",
+    "layoutGroup": "60%",
+    "overall": 4.6,
+    "pollingHz": 8000
+   },
+   {
+    "id": "wooting--wooting-80he",
+    "title": "Wooting 80HE",
+    "name": "Wooting 80HE",
+    "category": "磁轴",
+    "layoutGroup": "TKL",
+    "overall": 4.6,
+    "pollingHz": 8000
+   }
+  ]
+ },
+ {
+  "id": "keychron",
+  "title": "Keychron（渴创）",
+  "name": "Keychron",
+  "chinese": "渴创",
+  "infobox": [],
+  "sections": [
+   {
+    "key": "1",
+    "title": "1. 品牌概述 (Overview)",
+    "content": "**Keychron（渴创）** 是渴创技术（深圳）有限公司旗下的数码外设品牌，成立于2017年，由三位资深程序员兼键盘爱好者 Will、Sven 和 Fab 共同创立。公司正式注册于2020年7月3日，注册资本1000万元，总部位于深圳市龙岗区。\n\nKeychron 的品牌故事始于三位 Mac 用户的烦恼——当时市面上适配 macOS 系统的机械键盘要么价格高昂、要么体验差，绝大多数产品仍偏向 Windows 系统。他们决定自己动手，打造真正适合 Mac 的高性能机械键盘。2017年，Keychron 在 Kickstarter 众筹平台上推出首款 Mac 机械键盘，原本仅1万美元的目标最终吸引了4000名支持者，筹得超30万美元，完成率高达3200%。\n\n短短几年间，Keychron 从一家初创企业成长为全球高端机械键盘的标杆品牌，其产品登上《纽约时报》评选的\"最佳机械键盘\"榜单。CNN、《纽约时报》、《The Verge》、《Wired》和《PCWorld》等权威媒体均将 Keychron 评为最佳机械键盘制造商之一。截至2026年，Keychron 已向80多个国家的客户推出并交付了40多种键盘型号。\n\nKeychron 以 **\"量产客制化\"** 为核心定位，凭借 Mac 适配、QMK/VIA 开源固件支持和全铝机身等差异化优势，在机械键盘领域迅速崛起。2024年，Keychron 获得国家级高新技术企业认证。"
+   },
+   {
+    "key": "2",
+    "title": "2. 发展历史 (History)",
+    "content": "| 年份 | 里程碑事件 |\n|------|-----------|\n| 2017 | Keychron 品牌成立，由三位程序员兼键盘爱好者创立；在 Kickstarter 推出首款 Mac 机械键盘，众筹超30万美元 |\n| 2018 | 推出首款产品 K1 矮轴机械键盘，主打 Mac 适配 |\n| 2019 | 推出 K2 紧凑型无线机械键盘（75%配列），品牌知名度大幅提升 |\n| 2020 | 推出 K8 TKL 布局无线机械键盘；公司正式注册成立 |\n| 2021 | 开始高端化转型，发布全球首款全金属量产客制化键盘，支持热插拔与自定义布局 |\n| 2022 | 推出首款支持 QMK/VIA 编程的双模机械键盘 K8 Pro；预估销售额达5000万美元 |\n| 2023 | 推出 K9 Pro 矮轴机械键盘、Q6 Pro 双模客制化键盘 |\n| 2024 | 推出 K2 HE 三模磁轴电竞键盘，采用佳达隆磁轴技术，获 CES 2025 展会展示；获国家级高新技术企业认证 |\n| 2025 | 推出 Q1 HE 8K 磁轴键盘；推出 B5 Pro、B4 Pro、B3 Pro 超薄三模键盘；新增互联网销售等经营项目 |\n| 2026 | 在 CES 2026 发布 Q Ultra 系列，首款量产 ZMK 固件机械键盘，无线续航达660小时；推出三模鼠标 G3 |"
+   },
+   {
+    "key": "3",
+    "title": "3. 核心技术 (Key Technologies)",
+    "content": "Keychron 在键盘领域拥有从传统机械轴到磁轴的完整技术布局，尤其在开源固件和客制化方面具有独特优势。\n\n### 3.1 QMK / VIA 开源固件\n\nKeychron 是全球首个将 QMK/VIA 开源固件应用于无线机械键盘的品牌。\n\n- **QMK（Quantum Mechanical Keyboard）**：开源键盘固件，支持全键编程、宏定义、快捷键自定义等\n- **VIA**：可视化配置软件，无需编程即可实时调整按键布局\n- **Keychron Launcher**：Keychron 自研的网页端配置工具，无需下载驱动即可在线自定义键盘\n- **ZMK 固件**：用于 Q Ultra 系列的开源无线固件，支持超长续航\n\n### 3.2 磁轴技术（Hall Effect / HE）\n\nKeychron 自2024年起全面布局磁轴键盘市场：\n\n- **Q HE 系列**：搭载 TMR（隧道磁阻）传感器，支持 8KHz 回报率\n- **K2 HE**：采用佳达隆磁轴技术，三模连接\n- **通用磁轴兼容**：Q1 HE 8K 支持通用北极 HE 开关\n\n### 3.3 全金属客制化设计\n\n- **全铝 CNC 机身**：Q 系列等高端型号采用全铝合金材质\n- **Gasket 结构**：硅胶垫圈安装，提供软弹手感和出色消音效果\n- **热插拔 PCB**：支持自由更换轴体\n- **PBT 双色注塑键帽**：耐用抗打油\n\n### 3.4 Mac / Windows 双系统适配\n\nKeychron 的核心差异化优势：\n\n- **原生支持 Mac 按键布局**：Command / Option 键适配\n- **F 区支持 Mac / iOS 原生功能**\n- **键盘侧面设有 系统切换开关（Mac / Windows）**\n- 同时兼容 iOS 和 Android 设备\n\n### 3.5 连接技术\n\n| 技术 | 说明 |\n|------|------|\n| 三模连接 | 2.4G 无线 + 蓝牙 + 有线 USB-C |\n| 8KHz 回报率 | Q HE 系列、Q Ultra 系列支持有线/无线 8KHz |\n| 超长续航 | Q Ultra 系列无线续航达 660 小时 |"
+   },
+   {
+    "key": "4",
+    "title": "4. 全系键盘型号 (Product Lineup)",
+    "content": "### 4.1 产品系列总览\n\nKeychron 拥有超过 40 种键盘型号，覆盖从入门到旗舰的全产品线。\n\n| 系列 | 定位 | 核心特色 |\n|------|------|----------|\n| Q 系列 | 旗舰客制化 | 全铝机身，QMK/VIA，Gasket结构 |\n| Q HE 系列 | 旗舰磁轴 | 全铝机身 + 霍尔效应磁轴 + 8KHz |\n| Q Ultra 系列 | 旗舰无线 | ZMK 固件，660 小时续航，8KHz 无线 |\n| K 系列 | 主流无线 | 经典系列，多配列可选 |\n| K HE 系列 | 主流磁轴 | 三模磁轴电竞键盘 |\n| K Pro 系列 | 进阶无线 | QMK/VIA 支持 |\n| V 系列 | 入门客制化 | QMK/VIA，高性价比 |\n| C 系列 | 有线入门 | 高性价比有线键盘 |\n| B Pro 系列 | 超薄办公 | 剪刀脚结构，圆形键帽 |\n| Lemokey 系列 | 游戏电竞 | 游戏设计语言，铝制底盘 |\n\n### 4.2 详细型号列表\n\n#### Q 系列 —— 旗舰客制化\n\n| 型号 | 配列 | 核心特色 | 发布年份 |\n|------|------|----------|----------|\n| Q1 | 75% | 首款全铝 QMK 客制化键盘 | 2021 |\n| Q1 Pro | 75% | 首款量产全铝无线客制化键盘 | 2023 |\n| Q2 | 65% | 紧凑型全铝客制化 | - |\n| Q3 | TKL | TKL 全铝客制化 | - |\n| Q5 | 96% | 96% 布局全铝客制化 | - |\n| Q6 | 全尺寸 | 全尺寸全铝客制化 | - |\n| Q6 Pro | 全尺寸 | 双模客制化 | 2023 |\n\n#### Q HE 系列 —— 旗舰磁轴\n\n| 型号 | 配列 | 核心特色 | 发布年份 |\n|------|------|----------|----------|\n| Q1 HE 8K | 75% | 全铝机身，TMR 传感器，8KHz，229.99美元 | 2025 |\n| Q2 HE 8K | 65% | 全铝机身，8KHz | 2025 |\n| Q3 HE 8K | TKL | 全铝机身，8KHz | 2025 |\n| Q5 HE 8K | 96% | 全铝机身，8KHz | 2025 |\n| Q6 HE 8K | 全尺寸 | 全铝机身，8KHz | 2025 |\n\n#### Q Ultra 系列 —— 旗舰无线（CES 2026）\n\n| 型号 | 配列 | 核心特色 | 发布年份 |\n|------|------|----------|----------|\n| Q1 Ultra | 75% | ZMK 固件，660 小时续航，8KHz 无线 | 2026 |\n\n#### K 系列 —— 经典无线\n\n| 型号 | 配列 | 核心特色 | 发布年份 |\n|------|------|----------|----------|\n| K1 | TKL (87键) | 首款产品，矮轴 | 2018 |\n| K2 | 75% | 爆款型号 | 2019 |\n| K2 HE | 75% | 三模磁轴，佳达隆磁轴 | 2024 |\n| K3 | 65% | 矮轴 | - |\n| K3 HE | 65% | 矮轴磁轴 | - |\n| K4 | 96% | 紧凑全尺寸 | - |\n| K5 | 全尺寸 | 矮轴 | - |\n| K5 Ultra 8K | 全尺寸 | 8KHz 无线 | - |\n| K6 | 65% | 紧凑型无线 | - |\n| K7 | 60% | 超紧凑 | - |\n| K8 | TKL | TKL 无线 | 2020 |\n| K8 Pro | TKL | 首款 QMK/VIA 无线键盘 | 2022 |\n| K10 | 全尺寸 | 全尺寸无线 | - |\n| K10 Pro | 全尺寸 | QMK/VIA 支持 | - |\n| K12 Pro | 60% | QMK/VIA | - |\n| K2 Max | 75% | 热插拔，RGB | - |\n\n#### Lemokey 系列 —— 游戏电竞\n\n| 型号 | 配列 | 核心特色 |\n|------|------|----------|\n| Lemokey L1 HE | — | 霍尔效应，铝制底盘，239.99美元 |\n| Lemokey G 系列 | — | 游戏设计语言 |\n\n#### 其他系列\n\n| 系列 | 定位 | 代表型号 |\n|------|------|----------|\n| V 系列 | 入门客制化 | V1, V2, V5, V6 |\n| C 系列 | 有线入门 | C1, C2, C3 Pro |\n| B Pro 系列 | 超薄办公 | B3 Pro, B4 Pro, B5 Pro（圆形键帽，剪刀脚） |\n| S 系列 | 超薄 | S1 |\n| M 系列 | — | M Series |\n\n### 4.3 经典已停产 / 历史型号\n\n| 型号 | 类型 | 意义 |\n|------|------|------|\n| K1 | 矮轴机械 | Keychron 首款产品（2018） |"
+   },
+   {
+    "key": "5",
+    "title": "5. 赛事影响力 (Esports Presence)",
+    "content": "Keychron 虽然以办公和客制化市场起家，但近年来随着 HE（霍尔效应）磁轴产品的推出，开始积极布局电竞领域。\n\n### 5.1 电竞产品布局\n\n- **K2 HE**：2024年推出的三模磁轴电竞键盘，采用佳达隆磁轴技术\n- **Q HE 系列**：搭载 8KHz 回报率和 TMR 传感器，定位高端电竞\n- **Lemokey 系列**：专门针对游戏玩家的产品线\n\n### 5.2 媒体评测认可\n\n| 评价来源 | 评价内容 |\n|----------|----------|\n| Notebookcheck | Q1 HE 8K\"打字反馈、制造质量和游戏功能都令人印象深刻，由于匹配了8 kHz轮询率，它可以与Wooting等产品相媲美\" |\n| Forbes | Q Ultra 系列在 CES 2026 引发关注 |"
+   },
+   {
+    "key": "6",
+    "title": "6. 相关导航 (Navigation)",
+    "content": "**Categories：**\n- [Brands](./) > Chinese Brands > Gaming Hardware\n\n**Key Technologies：**\n- QMK | VIA | ZMK | Hall Effect | Magnetic Switch | Hot Swap | Gasket Mount\n\n**See Also：**\n- Keychron Q1 HE 8K | Keychron K2 HE | Keychron Q Ultra Series\n\n**Tags：**\n`#Keychron` `#渴创` `#Mechanical` `#Magnetic` `#HallEffect` `#QMK` `#VIA` `#HotSwap` `#Gasket` `#Wireless` `#ChineseBrand` `#MidRange` `#Premium` `#Custom`"
+   },
+   {
+    "key": "7",
+    "title": "7. 参考资料 (References)",
+    "content": "| 来源 | 访问日期 |\n|------|----------|\n| [Keychron 官方网站](https://www.keychron.com) | 2026-08-02 |\n| 渴创 - 百度百科 | 2026-08-02 |\n| Keychron - 维基百科 | 2026-08-02 |\n| 渴创技术（深圳）有限公司 - 百度百科 | 2026-08-02 |\n| PayPal 全球收单 Keychron 案例 | 2026-08-02 |\n| 出海4年狂赚3.4亿 - 品牌出海案例 | 2026-08-02 |\n| 键盘印象丨异军突起的渴创 Keychron | 2026-08-02 |\n| Notebookcheck Q1 HE 8K 评测 | 2026-08-02 |\n| Forbes CES 2026 Q Ultra 报道 | 2026-08-02 |\n\n---"
+   }
+  ],
+  "info": {
+   "founded": "2017年",
+   "country": "中国（香港总部，深圳仓库）",
+   "category": "高端外设 / 客制化机械键盘 / 电竞装备",
+   "website": "https://www.keychron.com",
+   "slogan": "",
+   "parent": "渴创技术（深圳）有限公司"
+  },
+  "excerpt": "Keychron（渴创） 是渴创技术（深圳）有限公司旗下的数码外设品牌，成立于2017年，由三位资深程序员兼键盘爱好者 Will、Sven 和 Fab 共同创立。公司正式注册于2020年7月3日，注册资本1000万元，总部位于深圳市龙岗区。 Keychron 的品牌故事始于三位 Mac 用户的烦恼——当时市面上适配 macOS 系统的机械键盘要么价格高昂、要…",
+  "coreTech": [
+   "3.1 QMK / VIA 开源固件",
+   "3.2 磁轴技术（Hall Effect / HE）",
+   "3.3 全金属客制化设计",
+   "3.4 Mac / Windows 双系统适配",
+   "3.5 连接技术"
+  ],
+  "esportsRows": [
+   [
+    "评价来源",
+    "评价内容"
+   ],
+   [
+    "Notebookcheck",
+    "Q1 HE 8K\"打字反馈、制造质量和游戏功能都令人印象深刻，由于匹配了8 kHz轮询率，它可以与Wooting等产品相媲美\""
+   ],
+   [
+    "Forbes",
+    "Q Ultra 系列在 CES 2026 引发关注"
+   ]
+  ],
+  "searchText": "keychron（渴创） 渴创 undefined 3.1 qmk / via 开源固件 3.2 磁轴技术（hall effect / he） 3.3 全金属客制化设计 3.4 mac / windows 双系统适配 3.5 连接技术",
+  "group": "国产品牌",
+  "productCount": 4,
+  "products": [
+   {
+    "id": "keychron--keychron-k2-ultra-8k",
+    "title": "Keychron K2 Ultra 8K",
+    "name": "Keychron K2 Ultra 8K",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.75,
+    "pollingHz": 8000
+   },
+   {
+    "id": "keychron--keychron-k8-ultra-8k",
+    "title": "Keychron K8 Ultra 8K",
+    "name": "Keychron K8 Ultra 8K",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 89.7,
+    "pollingHz": 8000
+   },
+   {
+    "id": "keychron--keychron-v1-ultra-8k",
+    "title": "Keychron V1 Ultra 8K",
+    "name": "Keychron V1 Ultra 8K",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.4,
+    "pollingHz": 8000
+   },
+   {
+    "id": "keychron--keychron-q1-ultra-8k",
+    "title": "Keychron Q1 Ultra 8K",
+    "name": "Keychron Q1 Ultra 8K",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.8,
+    "pollingHz": 8000
+   }
+  ]
+ },
+ {
+  "id": "iqunix",
+  "title": "IQUNIX（铝厂）",
+  "name": "IQUNIX",
+  "chinese": "铝厂",
+  "infobox": [],
+  "sections": [
+   {
+    "key": "1",
+    "title": "1. 品牌概述 (Overview)",
+    "content": "IQUNIX 是 2014 年 11 月由李帆创立的国产高端电脑外设品牌，隶属于深圳市银色风暴科技有限公司。品牌以铝合金材质和精致工艺著称，在玩家群体中被称为「铝厂」，产品定位中高档，旨在为用户提供兼具美观与高性能的桌面体验。\n\nIQUNIX 的创立初衷源于创始人对当时市场键盘塑料感强、设计缺乏新意的不满，旨在打造更精致、耐用的产品。品牌早期以铝合金 CNC 机身机械键盘为特色，从桌面配件起步，逐步发展为覆盖高端游戏、高端办公、设计师专业使用等多元场景的综合外设品牌。\n\nIQUNIX 凭借「美学与科技融合」的核心理念，在机械键盘圈内独树一帜，以精湛的铝合金 CNC 加工技术和精致的设计工艺积累了大批忠实用户。品牌产品已销往 20 余个国家和地区，并亮相 CES、IFA、Computex 等国际顶级展会。"
+   },
+   {
+    "key": "2",
+    "title": "2. 发展历史 (History)",
+    "content": "| 年份 | 里程碑事件 |\n|------|-----------|\n| 2014 | IQUNIX 品牌成立，11 月正式注册公司；从淘宝开始创业，起初专注于设计高端桌面周边产品（iPhone/iPad/Mac 配件、机箱等） |\n| 2019 | 入驻天猫，凭借对产品品质的严格把控和独特设计，迅速成为天猫「机械键盘」产品 TOP5 品牌 |\n| 2021 | ZX-1 机箱斩获德国红点设计大奖，成为品牌设计实力的重要里程碑 |\n| 2023 | 推出 ZONEX 75 系列全铝 Gasket 键盘；发布行业首款 100% 全 POK 材质「璞玉轴」 |\n| 2024 | 推出 EZ63 磁轴键盘系列，销量突破 10 万把，创下国内高端磁轴键盘销量纪录；量产客制化键盘 FOX 系列首销 1 小时全平台售罄 |\n| 2025 | 品牌成立 11 周年；EZ63 销量登顶国内高端磁轴键盘第一；1 月在深圳开设首家线下体验门店；成为 TE 溯俱乐部、XLG 俱乐部无畏契约分部官方合作伙伴；亮相 COMPUTEX 2025 展示 EZ 系列与 MG 系列新品；9 月在深圳湾万象城开出全球旗舰店 |\n| 2026 | 线下加速拓店，在深圳、上海、武汉、南京、北京、杭州、长沙等地开设 7 家门店；Computex 2026 发布首款 75% 磁轴键盘 EC75HE 与镁合金鼠标 Q101 |"
+   },
+   {
+    "key": "3",
+    "title": "3. 核心技术 (Key Technologies)",
+    "content": "IQUNIX 在键盘领域拥有从传统机械轴到磁轴的完整技术布局，并在铝合金加工工艺方面具备行业领先优势。\n\n### 3.1 全铝合金 CNC 工艺\n\nIQUNIX 被称为「铝厂」的核心原因——旗下大部分桌面外设产品均由铝合金材质制作。\n\n- **全 CNC 加工**：采用万元旗舰机标准的全 CNC 加工工艺\n- **表面处理**：180 目喷砂阳极氧化 / 电泳工艺，颜值与质感出众\n- **全铝机身**：ZONEX 75、EZ 系列等旗舰产品均采用全铝合金壳体\n- **铝制桌面生态**：除键盘外，还推出全铝鼠标垫、电脑支架、手机支架等桌面配件\n\n### 3.2 自研磁轴技术\n\nIQUNIX 自 2024 年起全面布局磁轴键盘市场，建立了全自研软硬件磁轴系统：\n\n- **第三代线性霍尔传感器**：行业首发的定制单边轨对轨线性霍尔传感器，大幅提高稳定性与精度上限\n- **神秘 X 轴**：磁通量提高 50% 以上，显著提高信号噪声比，提升稳定性与快速触发精度\n- **M.A.T.M 自研算法**：经过选手共同调校，实现实时稳定性检测与优化\n- **0.01mm RT 精度**：支持全段 0.01mm Rapid Trigger 精度调节\n- **8000Hz 回报率 + 16000Hz 扫描率**：旗舰级性能配置\n\n### 3.3 璞玉轴 (POK 材质轴体)\n\n2023 年，IQUNIX 推出行业首个上下壳和轴心均采用 100% 全 POK 材质的机械轴。\n\n- **POK 材质特性**：耐磨性是 POM 的 14 倍，磨耗量极低\n- **自润滑**：低噪音效果突出，触底声音下沉稳定\n- **高稳定性**：受温度变化影响小\n\n### 3.4 Gasket 结构\n\nIQUNIX 在高端型号中全面采用 Gasket 结构：\n\n- 硅胶垫圈安装，提供软弹手感\n- 多层消音填充（IXPE 轴下垫、PORON 夹心、PORON 轴座棉等）\n- 单线开槽 PCB + 开槽 FR4 定位板\n\n### 3.5 三模连接\n\nIQUNIX 键盘普遍支持 2.4G 无线 + 蓝牙 + 有线 USB-C 三模连接，兼容 Windows、macOS、iOS、Android、Linux 等全平台。\n\n### 3.6 VIA 开源固件\n\n部分型号支持 VIA 开源固件，可实现全键自定义编程。"
+   },
+   {
+    "key": "4",
+    "title": "4. 全系键盘型号 (Product Lineup)",
+    "content": "点击下方任意型号，即可进入该键盘的详细参数与评测页面。\n\n### 4.1 当前在产核心系列\n\n⚡ **EZ 系列 —— 旗舰磁轴电竞**\n\nIQUNIX 的旗舰磁轴电竞键盘系列，搭载全自研磁轴技术。\n\n| 型号 | 配列 | 核心特色 | 参考价格 | 发布年份 |\n|------|------|---------|---------|---------|\n| EZ60 | 60% | 全铝外壳，8000Hz 回报率，磁玉 / 神秘 X 轴 | — | 2024 |\n| EZ63 | 65% | 国内高端磁轴销量第一，0.05mm RT 精度 | 1299 元 | 2024 |\n| EZ75 | 75% | 黑武士 RS 款，神秘 X 轴 Ultra | — | 2025 |\n| EZ80 | 80% | 2025 旗舰，全自研软硬件磁轴系统 | — | 2025 |\n\n🎯 **EC 系列 —— 磁轴新旗舰**\n\n| 型号 | 配列 | 核心特色 | 发布年份 |\n|------|------|---------|---------|\n| EC75HE | 75% | 首款 75% 磁轴，CNC 铝合金，8000Hz + 16000Hz 扫描率 | 2026 |\n| EV63HE | 65% | CNC 铝合金底座，《攻壳机动队》特别版 | 2026 |\n| EV63HE 攻壳机动队特别版 | 65% | Keytok Nova 线性磁轴，35-48gf | 2026 |\n\n🏗️ **ZONEX 系列 —— 全铝客制化**\n\nIQUNIX 的全铝客制化机械键盘系列。\n\n| 型号 | 配列 | 核心特色 | 参考价格 | 发布年份 |\n|------|------|---------|---------|---------|\n| ZONEX 75 | 75% | CNC 全铝，Gasket 结构，6000mAh 电池 | — | 2023 |\n| ZONEX 75 Super | 75% | 全铝 CNC 电泳工艺，璞玉轴 | 1799 元 | 2025 |\n\n🎨 **ZX 系列 —— 经典客制化**\n\n| 型号 | 配列 | 核心特色 | 发布年份 |\n|------|------|---------|---------|\n| ZX75 | 75% | 三模无线，独立音量旋钮 | 2021 |\n| ZX75 小王子联名款 | 75% | 主题定制 KDA 高度 PBT 球帽 | 2023 |\n\n🖥️ **MG 系列 —— 超薄矮轴**\n\nIQUNIX 的超薄矮轴键盘系列，主打办公与桌搭美学。\n\n| 型号 | 配列 | 核心特色 | 发布年份 |\n|------|------|---------|---------|\n| MG65 Pro | 65% | 全 CNC 加工，前高 11mm，轻羽轴 | 2024 |\n| MG75 Pro | 75% | MG 系列带 F 区按键 | 2025 |\n| MG96 | 96% | 紧凑布局，保留独立数字小键盘 | 2025 |\n| MG96 Pro | 96% | 厚度 11mm，Le-Tray Gasket，三模 | 2026 |\n\n🕹️ **OG 系列 —— 复古设计**\n\nIQUNIX 的复古风格键盘系列。\n\n| 型号 | 配列 | 核心特色 |\n|------|------|---------|\n| OG80 虫洞 | 80% | 半透设计，三模无线 |\n| A80 探索机 | — | 复古主题 |\n| L80 动力方程式 | — | 复古主题 |\n\n🎨 **其他系列**\n\n| 系列 | 定位 | 代表型号 |\n|------|------|---------|\n| F96 系列 | 96% 布局机械键盘 | F96 |\n| FOX 系列 | 量产客制化 | FOX（首销 1 小时售罄） |\n| Tilly 60 | 60% 全金属 | Tilly60 Super（1599 元） |\n| Lambo 60 | 60% 樱桃轴 | Lambo 60 |\n| Nature 系列 | 自然主题 | — |"
+   },
+   {
+    "key": "5",
+    "title": "5. 赛事影响力 (Esports Presence)",
+    "content": "IQUNIX 近年来积极布局电竞领域，凭借 EZ 系列磁轴键盘在职业赛场上快速崛起。\n\n### 5.1 核心数据\n\n| 数据维度 | 数据 |\n|---------|------|\n| EZ63 磁轴键盘销量 | 突破 10 万把，国内高端磁轴键盘销量第一（截至 2024 年 12 月 31 日） |\n| 职业选手认可 | 凭借自研磁轴技术与万元级阳极氧化工艺，成为职业选手与硬核玩家的首选装备 |\n\n### 5.2 合作战队与选手\n\n| 合作方 | 项目 | 合作内容 |\n|-------|------|---------|\n| TE 溯俱乐部 | 无畏契约 | 官方合作伙伴 |\n| XLG 俱乐部 | 无畏契约 | 官方合作伙伴 |\n| TE 溯俱乐部选手 | 无畏契约 | EZ63 助力选手打进曼谷大师赛 |\n\n### 5.3 国际展会亮相\n\n| 展会 | 年份 | 展示内容 |\n|------|------|---------|\n| CES | 2025、2026 | 磁轴键盘、Q101 镁合金鼠标 |\n| COMPUTEX | 2025、2026 | EZ 系列、MG 系列、EC75HE |\n| ChinaJoy | 2025 | EZ80 旗舰磁轴键盘 |"
+   },
+   {
+    "key": "6",
+    "title": "6. 品牌荣誉",
+    "content": "| 荣誉 | 年份 | 说明 |\n|------|------|------|\n| 德国红点设计大奖 | 2021 | ZX-1 机箱获奖 |\n| 天猫机械键盘 TOP5 | 2019 起 | 入驻天猫后持续位列 TOP5 |\n| 国内高端磁轴销量第一 | 2024 | EZ63 系列 |"
+   },
+   {
+    "key": "7",
+    "title": "7. 线下零售布局",
+    "content": "IQUNIX 从线上起家，2025 年起加速线下布局：\n\n| 时间 | 事件 |\n|------|------|\n| 2025 年 1 月 | 深圳前海壹方城首店（IQUNIX·设计展馆） |\n| 2025 年 9 月 | 深圳湾万象城全球旗舰店 |\n| 2026 年 | 杭州、南京、武汉、北京、长沙等地共 7 家门店 |"
+   },
+   {
+    "key": "8",
+    "title": "8. 相关导航 (Navigation)",
+    "content": "**Categories：**\n\nBrands > Chinese Brands > Gaming Hardware\n\n**Key Technologies：**\n\nHall Effect | Magnetic Switch | Rapid Trigger | CNC Aluminum | Gasket Mount | Hot Swap | VIA\n\n**See Also：**\n\nIQUNIX EZ63 | IQUNIX EC75HE | IQUNIX ZONEX 75 | IQUNIX MG96 Pro\n\n**Tags：**\n\n`#IQUNIX` `#铝厂` `#Mechanical` `#Magnetic` `#HallEffect` `#CNC` `#Aluminum` `#Gasket` `#HotSwap` `#ChineseBrand` `#Premium` `#Custom` `#Esports`"
+   },
+   {
+    "key": "9",
+    "title": "9. 参考资料 (References)",
+    "content": "| 来源 | 访问日期 |\n|------|----------|\n| IQUNIX 百度百科 | 2026-08-02 |\n| IQUNIX 官方网站 | 2026-08-02 |\n| IQUNIX 品牌故事 - 什么值得买 | 2026-08-02 |\n| 赢商网 - IQUNIX 线下逆袭报道 | 2026-08-02 |\n| 搞趣网 - 十年匠心 ChinaJoy 报道 | 2026-08-02 |\n| IT之家 - COMPUTEX 2026 报道 | 2026-08-02 |\n| ITHeat - COMPUTEX 2025 报道 | 2026-08-02 |\n| 太平洋电脑网 - ChinaJoy 2025 报道 | 2026-08-02 |\n\n---"
+   }
+  ],
+  "info": {
+   "founded": "2014年11月",
+   "country": "中国（深圳）",
+   "category": "高端外设 / 客制化机械键盘 / 桌面科技产品",
+   "website": "https://iqunix.com",
+   "slogan": "美学与科技融合",
+   "parent": "深圳市银色风暴科技有限公司"
+  },
+  "excerpt": "IQUNIX 是 2014 年 11 月由李帆创立的国产高端电脑外设品牌，隶属于深圳市银色风暴科技有限公司。品牌以铝合金材质和精致工艺著称，在玩家群体中被称为「铝厂」，产品定位中高档，旨在为用户提供兼具美观与高性能的桌面体验。 IQUNIX 的创立初衷源于创始人对当时市场键盘塑料感强、设计缺乏新意的不满，旨在打造更精致、耐用的产品。品牌早期以铝合金 CNC…",
+  "coreTech": [
+   "3.1 全铝合金 CNC 工艺",
+   "3.2 自研磁轴技术",
+   "3.3 璞玉轴 (POK 材质轴体)",
+   "3.4 Gasket 结构",
+   "3.5 三模连接",
+   "3.6 VIA 开源固件"
+  ],
+  "esportsRows": [
+   [
+    "数据维度",
+    "数据"
+   ],
+   [
+    "EZ63 磁轴键盘销量",
+    "突破 10 万把，国内高端磁轴键盘销量第一（截至 2024 年 12 月 31 日）"
+   ],
+   [
+    "职业选手认可",
+    "凭借自研磁轴技术与万元级阳极氧化工艺，成为职业选手与硬核玩家的首选装备"
+   ],
+   [
+    "合作方",
+    "项目",
+    "合作内容"
+   ],
+   [
+    "TE 溯俱乐部",
+    "无畏契约",
+    "官方合作伙伴"
+   ],
+   [
+    "XLG 俱乐部",
+    "无畏契约",
+    "官方合作伙伴"
+   ],
+   [
+    "TE 溯俱乐部选手",
+    "无畏契约",
+    "EZ63 助力选手打进曼谷大师赛"
+   ],
+   [
+    "展会",
+    "年份",
+    "展示内容"
+   ],
+   [
+    "CES",
+    "2025、2026",
+    "磁轴键盘、Q101 镁合金鼠标"
+   ],
+   [
+    "COMPUTEX",
+    "2025、2026",
+    "EZ 系列、MG 系列、EC75HE"
+   ],
+   [
+    "ChinaJoy",
+    "2025",
+    "EZ80 旗舰磁轴键盘"
+   ]
+  ],
+  "searchText": "iqunix（铝厂） 铝厂 undefined 3.1 全铝合金 cnc 工艺 3.2 自研磁轴技术 3.3 璞玉轴 (pok 材质轴体) 3.4 gasket 结构 3.5 三模连接 3.6 via 开源固件",
+  "group": "国产品牌",
+  "productCount": 4,
+  "products": [
+   {
+    "id": "iqunix--iqunix-aver80",
+    "title": "IQUNIX AVER80",
+    "name": "IQUNIX AVER80",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.2,
+    "pollingHz": 0
+   },
+   {
+    "id": "iqunix--iqunix-ev63",
+    "title": "IQUNIX EV63",
+    "name": "IQUNIX EV63",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.6,
+    "pollingHz": 8000
+   },
+   {
+    "id": "iqunix--iqunix-ez75",
+    "title": "IQUNIX EZ75",
+    "name": "IQUNIX EZ75",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.6,
+    "pollingHz": 8000
+   },
+   {
+    "id": "iqunix--iqunix-ez80",
+    "title": "IQUNIX EZ80",
+    "name": "IQUNIX EZ80",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.6,
+    "pollingHz": 8000
+   }
+  ]
+ },
+ {
+  "id": "mchose",
+  "title": "MCHOSE（迈从）",
+  "name": "MCHOSE",
+  "chinese": "迈从",
+  "infobox": [],
+  "sections": [
+   {
+    "key": "1",
+    "title": "1. 品牌概述 (Overview)",
+    "content": "MCHOSE（迈从）是深圳市迈从科技有限公司旗下集设计、研发、制造、销售于一体的全球新时代实用型数码品牌。品牌成立于 2021 年，总部位于深圳，主营键盘、鼠标、耳机、音响及电脑支架等实用型数码产品。\n\n迈从秉持「实用主义、人本设计」的品牌理念，以「科技、实用、极简、极致质价比」为核心价值观。品牌自建 45000㎡ 产业园，拥有 200 多项专利，全球经销网络覆盖 30 多个国家和地区，服务全球超过 2 亿用户群体，拥有约 50000+ 海内外代理商。\n\n迈从在短短几年内迅速崛起，2025 年键鼠销量居国产第一。在 2026 年 4 月的键盘线上零售市场中，迈从品牌零售额排名第二，份额达 12.6%。品牌凭借极致的质价比策略和持续的技术创新，被业界称为外设领域的「卷王」，稳居电竞外设全家桶品牌首位。"
+   },
+   {
+    "key": "2",
+    "title": "2. 发展历史 (History)",
+    "content": "| 年份 | 里程碑事件 |\n|------|-----------|\n| 2021 | MCHOSE 迈从品牌正式运营 |\n| 2022 | 推出 F888 国潮发财耳机，参展深圳国际礼品展 |\n| 2023 | 发布 K99 系列客制化机械键盘，全平台累计销量突破 100000 件 |\n| 2024 | 发布 G87 新一代全能旗舰客制化键盘，上市三个月全平台累计销量突破 300000 件；参展 2024 香港环球资源电子展 |\n| 2025 | 启用 45000㎡ 产业园；自主研发「天问方案」（16K 赛事级轮询率）与「星斗方案」（0.125ms 超低延迟）；推出 Ace 68 系列磁轴键盘；键鼠销量居国产第一，推出 90 天只换不修及 24 个月质保服务；在深圳开设全球首家旗舰店；参展 2025 ChinaJoy，与 FPX 无畏契约战队达成战略合作 |\n| 2026 | Ace 68 Air 磁轴键盘与 A7X Ultra 电竞鼠标双双获得 2026 德国红点奖；Ace 68 系列磁轴键盘全平台累计销量突破 200 万台；荣获沸腾质量奖「游戏键盘质量金奖」；官宣成为 2026 年《三角洲行动》职业联赛官方合作伙伴；在 ChinaJoy 2026 发布旗舰新品 God 60 高端磁轴键盘 |"
+   },
+   {
+    "key": "3",
+    "title": "3. 核心技术 (Key Technologies)",
+    "content": "迈从在磁轴键盘领域拥有自主研发的核心技术体系，尤其在回报率和延迟方面持续突破行业上限。\n\n### 3.1 自研「天问方案」\n\n迈从自研的高性能磁轴键盘技术方案：\n\n| 性能参数 | 指标 |\n|---------|------|\n| 回报率 | 最高 16KHz（全球率先实现） |\n| 扫描率 | 256kHz |\n| 延迟 | 低至 0.06ms |\n| RT 精度 | 0.001mm |\n\n搭载于 Ace 68 Turbo 等旗舰磁轴键盘，入选 36 氪 WISE2025「年度焦点产品」。\n\n### 3.2 自研「星斗方案」\n\n迈从的无线低延迟技术方案：\n\n- 有线 USB-C 和无线 2.4GHz 模式下均支持 8KHz 回报率\n- 延迟低至 0.125ms\n- 搭载于 G98 V3 等无线机械键盘\n\n### 3.3 M HUB 驱动\n\n迈从全自研驱动软件平台：\n\n- 支持设置性能参数、按键灵敏度和灯效模式\n- 支持灯效同步、参数云存储等功能\n- 支持不同外设间的联动\n\n### 3.4 磁轴技术特性\n\n迈从磁轴键盘支持丰富的电竞功能：\n\n- **Rapid Trigger（RT）**：精细化的键程调节\n- **DKS**（动态键程）\n- **RS**（重置）\n- **SOCD**（方向输入优化）\n- **MT**（多用途按键）\n- **TGL**（切换）\n\n### 3.5 泰山磁轴 GT\n\n迈从定制的高性能磁轴：\n\n- 采用双核芯片，配备 4 层 PCB\n- Rapid Trigger 精度 0.001mm\n- 延迟 0.06ms\n- 支持 16KHz 回报率\n\n### 3.6 客制化键盘技术\n\n迈从在客制化机械键盘领域同样拥有完整的技术体系：\n\n- **Gasket 结构**：提供软弹手感\n- **全键热插拔**：支持自由更换轴体\n- **五层消音填充**：消除空腔音\n- **铝合金定位板**：提升结构稳定性"
+   },
+   {
+    "key": "4",
+    "title": "4. 全系键盘型号 (Product Lineup)",
+    "content": "点击下方任意型号，即可进入该键盘的详细参数与评测页面。\n\n### 4.1 磁轴键盘系列\n\n⚡ **Ace 系列 —— 磁轴主力**\n\n迈从的核心磁轴键盘系列，以极致性能和高性价比著称。\n\n| 型号 | 配列 | 核心特色 | 参考价格 | 发布年份 |\n|------|------|---------|---------|---------|\n| Ace 68 | 65% | 船壳结构，PBT 键帽，8KHz 回报率 | 339 元起 | 2024-2025 |\n| Ace 68 Air | 65% | Air 律动灯箱，铝合金定位板，获红点奖与 iF 设计奖 | — | 2025 |\n| Ace 68 Air 2 | 65% | 独立 RT 控制按键，泰山磁轴 GT，8KHz 轮询，0.08ms 延迟 | 339 元 | 2026 |\n| Ace 68 Turbo | 65% | 全球首发 16KHz 回报率，全铝格栅机身，256kHz 扫描率 | 698 元 | 2025 |\n| Ace 75 | 75% | 8KHz 回报率，RT 调节范围 0.001mm | — | 2026 |\n\nAce 68 系列全平台累计销量突破 200 万台。\n\n🏆 **God 系列 —— 高端旗舰**\n\n迈从的高端旗舰磁轴键盘系列，定位顶级电竞市场。\n\n| 型号 | 配列 | 核心特色 | 发布年份 |\n|------|------|---------|---------|\n| God 60 | 60% | 八斜面剑锋设计，CNC 全铝机身，双环天穹灯组 | 2026 |\n| God 60《凡人》动画联名款 | 60% | 青竹鎏金配色，剑阵键帽，云纹道韵背板，剑匣礼盒 | 2026 |\n\n🎯 **其他磁轴型号**\n\n| 型号 | 配列 | 核心特色 |\n|------|------|---------|\n| Jet 75 | 75% | 星猎磁轴，全键热插拔，PBT 透光键帽 |\n| ZERO75 | 75% | 佳达隆轴，拼色设计，RGB 背光 |\n| Mix87 | TKL | ARGB 灯效，客制化有线 |\n\n### 4.2 机械键盘系列\n\n🎮 **G 系列 —— 客制化机械键盘**\n\n| 型号 | 配列 | 核心特色 | 参考价格 | 发布年份 |\n|------|------|---------|---------|---------|\n| G87 | TKL | 新一代全能旗舰客制化，上市 3 个月销量突破 30 万件 | — | 2024 |\n| G98 V3 | 98% | 全自研「星斗」方案，8KHz 回报率，0.125ms 延迟 | 299.15 元起 | 2026 |\n| G75 Pro | 75% | 客制化设计，电竞与办公兼顾 | 199 元 | 2025 |\n| GX87 V2 | TKL | 铝坨坨客制化成品，三模无线 | — | — |\n\n🖥️ **X / K 系列**\n\n| 型号 | 配列 | 核心特色 |\n|------|------|---------|\n| X75 | 75% | Gasket 结构，五层消音填充，琉光冰淇淋轴 |\n| K99 | 98% | 客制化机械键盘，全平台销量突破 10 万件 |"
+   },
+   {
+    "key": "5",
+    "title": "5. 赛事影响力 (Esports Presence)",
+    "content": "迈从凭借极致性能的磁轴键盘，在电竞领域快速崛起。\n\n### 5.1 核心数据\n\n| 数据维度 | 数据 |\n|---------|------|\n| 2025 年键鼠销量 | 国产第一 |\n| 2026 年 4 月线上零售额 | 行业第二，份额 12.6% |\n| Ace 68 系列销量 | 累计突破 200 万台 |\n| 电竞外设全家桶品牌 | 稳居首位 |\n\n### 5.2 合作战队\n\n| 合作方 | 项目 | 合作内容 | 时间 |\n|-------|------|---------|------|\n| FPX 无畏契约分部 | 无畏契约 | 战略合作伙伴 | 2025 |\n| XLG 电竞俱乐部 | 无畏契约 | 磁轴键盘品类赞助商 | 2026 |\n| EDG 无畏契约分部 | 无畏契约 | 官方合作伙伴 | — |\n| 北京 DRG 三角洲行动分部 | 三角洲行动 | 签约合作 | 2025 |\n\n### 5.3 赛事赞助\n\n| 赛事 | 合作内容 | 时间 |\n|------|---------|------|\n| 2026 年三角洲行动职业联赛 | 官方合作伙伴 | 2026 |\n| 三角洲行动烽火世界杯 | 特约合作伙伴 | 2026 |\n\n### 5.4 展会亮相\n\n| 展会 | 年份 | 展示内容 |\n|------|------|---------|\n| ChinaJoy | 2025、2026 | 全系产品矩阵，God 60 发布 |\n| 香港环球资源电子展 | 2024 | 电竞键盘和鼠标 |\n| CTIS-IFA | 2024 | 机械键盘，走向海外市场 |"
+   },
+   {
+    "key": "6",
+    "title": "6. 品牌荣誉",
+    "content": "| 荣誉 | 年份 | 说明 |\n|------|------|------|\n| 德国红点奖 | 2026 | Ace 68 Air 磁轴键盘获奖 |\n| iF 设计奖 | — | Ace 68 Air 磁轴键盘获奖 |\n| 沸腾质量奖「游戏键盘质量金奖」 | 2026 | 磁轴系列获奖 |\n| 36 氪 WISE2025「年度焦点产品」 | 2025 | Ace 68 Turbo 入选 |\n| 纽约产品设计奖金奖 | — | K7 Ultra 等系列海外获奖 |"
+   },
+   {
+    "key": "7",
+    "title": "7. 相关导航 (Navigation)",
+    "content": "**Categories：**\n\nBrands > Chinese Brands > Gaming Hardware\n\n**Key Technologies：**\n\nHall Effect | Magnetic Switch | Rapid Trigger | SOCD | Adjustable Actuation\n\n**See Also：**\n\n[MCHOSE Ace 68 Turbo](/keyboards/mchose--mchose-ace-68-turbo) | [MCHOSE God 60](/keyboards/mchose--mchose-god-60) | MCHOSE G98 V3\n\n**Tags：**\n\n`#MCHOSE` `#迈从` `#Magnetic` `#HallEffect` `#RapidTrigger` `#ChineseBrand` `#Budget` `#MidRange` `#Premium` `#Esports` `#HotSwap` `#Wireless`"
+   },
+   {
+    "key": "8",
+    "title": "8. 参考资料 (References)",
+    "content": "| 来源 | 访问日期 |\n|------|----------|\n| 迈从 - 百度百科 | 2026-08-02 |\n| 磁轴系列 - 百度百科 | 2026-08-02 |\n| ChinaJoy 2026 - 极客公园 | 2026-08-02 |\n| Ace 68 Air 2 - IT之家 | 2026-08-02 |\n| Ace 68 Turbo - IT之家 | 2026-08-02 |\n| 德国红点奖 - 中国日报 | 2026-08-02 |\n\n---"
+   }
+  ],
+  "info": {
+   "founded": "2021年（品牌正式运营）",
+   "country": "中国（深圳）",
+   "category": "电竞外设 / 游戏键盘 / 消费电子",
+   "website": "",
+   "slogan": "实用主义、人本设计",
+   "parent": "深圳市迈从科技有限公司"
+  },
+  "excerpt": "MCHOSE（迈从）是深圳市迈从科技有限公司旗下集设计、研发、制造、销售于一体的全球新时代实用型数码品牌。品牌成立于 2021 年，总部位于深圳，主营键盘、鼠标、耳机、音响及电脑支架等实用型数码产品。 迈从秉持「实用主义、人本设计」的品牌理念，以「科技、实用、极简、极致质价比」为核心价值观。品牌自建 45000㎡ 产业园，拥有 200 多项专利，全球经销网络…",
+  "coreTech": [
+   "3.1 自研「天问方案」",
+   "3.2 自研「星斗方案」",
+   "3.3 M HUB 驱动",
+   "3.4 磁轴技术特性",
+   "3.5 泰山磁轴 GT",
+   "3.6 客制化键盘技术"
+  ],
+  "esportsRows": [
+   [
+    "数据维度",
+    "数据"
+   ],
+   [
+    "2025 年键鼠销量",
+    "国产第一"
+   ],
+   [
+    "2026 年 4 月线上零售额",
+    "行业第二，份额 12.6%"
+   ],
+   [
+    "Ace 68 系列销量",
+    "累计突破 200 万台"
+   ],
+   [
+    "电竞外设全家桶品牌",
+    "稳居首位"
+   ],
+   [
+    "合作方",
+    "项目",
+    "合作内容",
+    "时间"
+   ],
+   [
+    "FPX 无畏契约分部",
+    "无畏契约",
+    "战略合作伙伴",
+    "2025"
+   ],
+   [
+    "XLG 电竞俱乐部",
+    "无畏契约",
+    "磁轴键盘品类赞助商",
+    "2026"
+   ],
+   [
+    "EDG 无畏契约分部",
+    "无畏契约",
+    "官方合作伙伴",
+    "—"
+   ],
+   [
+    "北京 DRG 三角洲行动分部",
+    "三角洲行动",
+    "签约合作",
+    "2025"
+   ],
+   [
+    "赛事",
+    "合作内容",
+    "时间"
+   ],
+   [
+    "2026 年三角洲行动职业联赛",
+    "官方合作伙伴",
+    "2026"
+   ],
+   [
+    "三角洲行动烽火世界杯",
+    "特约合作伙伴",
+    "2026"
+   ],
+   [
+    "展会",
+    "年份",
+    "展示内容"
+   ],
+   [
+    "ChinaJoy",
+    "2025、2026",
+    "全系产品矩阵，God 60 发布"
+   ],
+   [
+    "香港环球资源电子展",
+    "2024",
+    "电竞键盘和鼠标"
+   ],
+   [
+    "CTIS-IFA",
+    "2024",
+    "机械键盘，走向海外市场"
+   ]
+  ],
+  "searchText": "mchose（迈从） 迈从 undefined 3.1 自研「天问方案」 3.2 自研「星斗方案」 3.3 m hub 驱动 3.4 磁轴技术特性 3.5 泰山磁轴 gt 3.6 客制化键盘技术",
+  "group": "国产品牌",
+  "productCount": 4,
+  "products": [
+   {
+    "id": "mchose--mchose-ace-75",
+    "title": "MCHOSE Ace 75",
+    "name": "MCHOSE Ace 75",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.6,
+    "pollingHz": 8000
+   },
+   {
+    "id": "mchose--mchose-ace-60",
+    "title": "MCHOSE Ace 60",
+    "name": "MCHOSE Ace 60",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 3.8,
+    "pollingHz": 8000
+   },
+   {
+    "id": "mchose--mchose-ace-68-turbo",
+    "title": "MCHOSE Ace 68 Turbo",
+    "name": "MCHOSE Ace 68 Turbo",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.4,
+    "pollingHz": 16000
+   },
+   {
+    "id": "mchose--mchose-god-60",
+    "title": "MCHOSE God 60",
+    "name": "MCHOSE God 60",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.8,
+    "pollingHz": 16000
+   }
+  ]
+ },
+ {
+  "id": "vgn",
+  "title": "VGN（微技）",
+  "name": "VGN",
+  "chinese": "微技",
+  "infobox": [],
+  "sections": [
+   {
+    "key": "1",
+    "title": "1. 品牌概述 (Overview)",
+    "content": "VGN（微技）是福州极客严选科技有限公司旗下的游戏外设品牌，由吴刘驰于 2022 年创立。品牌定位为面向主机游戏玩家，提供客制化「电竞 5 平米」场景方案。核心团队由国内游戏媒体和工业设计领域的成员组成。\n\nVGN 的品牌理念是「方寸之间，自有天地」，致力于让用户在有限的空间内沉浸式感受视听触觉多重感官交互的游戏体验。品牌以「卷王」形象著称，凭借极致性价比和出色的产品力，在短短数年内迅速崛起。2024 年，VGN 旗下品牌 VXE 公布中文名「威界」；2025 年，VGN 在福州举办「未来无界」电竞潮流派对暨战略新品发布会，推出多款新品。\n\nVGN 是将「量产客制化」概念推向大众市场的关键推动者之一。其首款产品 V98 PRO 的发布，被视为开启量产客制化内卷时代的里程碑。在 2023 年中国主要键盘厂商中，VGN 已跻身前五大厂商之列。"
+   },
+   {
+    "key": "2",
+    "title": "2. 发展历史 (History)",
+    "content": "| 年份 | 里程碑事件 |\n|------|-----------|\n| 2022 | VGN 品牌正式创立，由吴刘驰创立，运营主体为福州极客严选科技有限公司 |\n| 2023 | 参展第二十届 ChinaJoy（上海新国际博览中心 E6 馆-S602）；推出 V98 PRO，开启量产客制化内卷时代 |\n| 2024 | 再次参展 ChinaJoy，展示与《艾尔登法环》联名系列产品；旗下品牌 VXE 公布中文名「威界」 |\n| 2025 | 5 月 25 日在福州举办「未来无界」电竞潮流派对暨战略新品发布会；12 月 3 日宣布与蓝箭航天文创品牌「蓝箭造办」合作，推出「朱雀三号」限定款磁轴键盘 |\n| 2026 | 推出 V98Pro V4 客制化三模机械键盘，搭载自研「破阵」方案；推出闪电 68 磁轴键盘，搭载全自研「金字塔方案」；参展 BilibiliWorld 2026 |"
+   },
+   {
+    "key": "3",
+    "title": "3. 核心技术 (Key Technologies)",
+    "content": "VGN 在键盘领域建立了从传统机械轴到磁轴的完整技术体系，尤其在自研主控方案和高回报率方面具备显著优势。\n\n### 3.1 自研「破阵」方案\n\nVGN 自研的高性能键盘主控方案，搭载于 V98Pro V4 等旗舰产品：\n\n| 性能参数 | 指标 |\n|---------|------|\n| 回报率 | 双 8KHz（有线 / 无线） |\n| 延迟 | 0.08ms 无感延迟 |\n| 电池 | 10000mAh 大电池，续航最长 347 天 |\n\n### 3.2 全自研「金字塔方案」\n\nVGN 的磁轴键盘旗舰主控方案，搭载于闪电 68 等产品：\n\n| 性能参数 | 指标 |\n|---------|------|\n| 主控芯片 | 512MHz 主核 + 240MHz×2 协核三芯片架构 |\n| 回报率 | 8KHz |\n| RT 精度 | 全段 0.001mm |\n\n### 3.3 天霸 Air 磁轴\n\nVGN 自研的高性能磁轴，搭载于霓虹 75 Air 等产品：\n\n| 性能参数 | 指标 |\n|---------|------|\n| 回报率 | 最高 8KHz |\n| 通道扫描速率 | 128kHz |\n| RT 精度 | 0.005mm |\n| 延迟 | 0.1ms |\n\n### 3.4 VGN 磁轴技术特性\n\nVGN 磁轴键盘支持丰富的电竞功能：\n\n- **Rapid Trigger（RT）**：精度最高达 0.001mm\n- **DKS**（动态键程）\n- **MT**（多用途按键）\n- **TGL**（切换）\n- 按键宏\n- 0.1-4.0mm 可调行程\n\n### 3.5 Gasket 结构\n\nVGN 在键盘中广泛采用 Gasket 结构：\n\n- 硅胶垫圈安装，提供软弹手感\n- 多层吸声填充方案\n- 下灯位 PCB\n- 阳极氧化铝合金定位板\n\n### 3.6 VGN HUB 驱动\n\nVGN 自研的驱动软件平台，支持：\n\n- 网页驱动 / 独立驱动双模式\n- 一站式管理多款设备\n- 键盘性能、灯光、灵敏度等参数调节"
+   },
+   {
+    "key": "4",
+    "title": "4. 全系键盘型号 (Product Lineup)",
+    "content": "点击下方任意型号，即可进入该键盘的详细参数与评测页面。\n\n### 4.1 磁轴键盘系列\n\n⚡ **闪电系列 —— 旗舰磁轴**\n\nVGN 的旗舰磁轴键盘系列，搭载全自研「金字塔方案」。\n\n| 型号 | 配列 | 核心特色 | 参考价格 | 发布年份 |\n|------|------|---------|---------|---------|\n| 闪电 68 | 65% | CNC 铝合金外壳，三芯片架构，8KHz 回报率，0.001mm RT 精度 | 599 元起 | 2026 |\n| 闪电 75 Extreme | 75% | 旗舰磁轴，可选蓝箭朱雀三号火箭联名限定版 | — | 2026 |\n\n🌈 **霓虹系列 —— 磁轴主力**\n\nVGN 的核心磁轴键盘系列，以高性价比和 RGB 灯效著称。\n\n| 型号 | 配列 | 核心特色 | 参考价格 | 发布年份 |\n|------|------|---------|---------|---------|\n| 霓虹 75 Air | 75% | 天霸 Air 磁轴，8KHz 回报率，0.005mm RT 精度，三模 | 259 元（单模）/ 339 元（三模） | 2026 |\n| 霓虹 68 超竞版 | 65% | Gasket 结构，水冷设计语言霓虹灯带，0.01mm RT 精度 | 199-329 元 | 2026 |\n| 霓虹三模磁轴键盘 | — | 三模磁轴 | — | — |\n\n🎯 **A 系列 —— 入门磁轴**\n\n| 型号 | 配列 | 核心特色 | 参考价格 | 发布年份 |\n|------|------|---------|---------|---------|\n| A75 | 75% | 高特磁轴，0.1-4.0mm 可调行程，金属旋钮 | 189 元起 | 2024 |\n\n### 4.2 机械键盘系列\n\n🏆 **V98 系列 —— 客制化旗舰**\n\nVGN 的客制化旗舰系列，是品牌成名之作。\n\n| 型号 | 配列 | 核心特色 | 发布年份 |\n|------|------|---------|---------|\n| V98 PRO | 98% | 首款产品，开启量产客制化内卷时代 | 2023 |\n| V98Pro V3 | 98% | 客制化机械键盘 | — |\n| V98Pro V4 | 98% | 自研「破阵」方案，双 8K 回报率，10000mAh 电池 | 2026 |\n\n🎮 **V 系列 —— 客制化主力**\n\n| 型号 | 配列 | 核心特色 |\n|------|------|---------|\n| V87Pro 辉夜联名款 | TKL | 联名款 |\n| V87 V2 | TKL | 音量旋钮，侧翼氛围灯 |\n| V108 | 全尺寸 | Gasket 结构，多种配色 / 轴体可选 |\n\n🖥️ **其他机械键盘**\n\n| 型号 | 配列 | 核心特色 |\n|------|------|---------|\n| S99 | 98% | 三模客制化蓝牙机械键盘 |\n| N75 / N75 PRO | 75% | 客制化键盘 |\n| N75 V2 | 75% | 三模客制化机械键盘，149 元起 |\n| S87 | TKL | Gasket 结构，279 元 |\n| VXE75 | 75% | 旋钮设计 |"
+   },
+   {
+    "key": "5",
+    "title": "5. 联名与合作",
+    "content": "VGN 在 IP 联名方面表现活跃：\n\n| 合作方 | 产品 | 时间 |\n|-------|------|------|\n| 《艾尔登法环》 | 菈妮 / 褪色者定制键鼠 | 2024 |\n| 《JOJO 的奇妙冒险》 | F1 Pro Max 鼠标（徐伦 / 承太郎定制） | 2024 |\n| 蓝箭航天「蓝箭造办」 | 朱雀三号限定款磁轴键盘 | 2025 |\n| WPS | V98Pro V3 联名键盘 | 2025 |"
+   },
+   {
+    "key": "6",
+    "title": "6. 赛事影响力 (Esports Presence)",
+    "content": "VGN 凭借极致性价比和出色的产品力，在电竞外设市场快速崛起。\n\n### 6.1 市场表现\n\n| 数据维度 | 数据 |\n|---------|------|\n| 京东 618 键盘品牌销售额 | 2025 年 6 月 11 日冠军 |\n| 京东 618 鼠标品牌销售额 | 2025 年 6 月 11 日冠军 |\n| 外设办公新锐榜 | 上榜品牌 |\n| 行业地位 | 2023 年中国前五大键盘厂商之一 |\n\n### 6.2 展会亮相\n\n| 展会 | 年份 | 展示内容 |\n|------|------|---------|\n| ChinaJoy | 2023、2024 | 全系产品，《艾尔登法环》联名系列 |\n| BilibiliWorld | 2026 | 全系产品 |"
+   },
+   {
+    "key": "7",
+    "title": "7. 品牌荣誉",
+    "content": "| 荣誉 | 说明 |\n|------|------|\n| 京东 618 键盘品牌销售额冠军 | 2025 年 6 月 11 日 |\n| 京东 618 鼠标品牌销售额冠军 | 2025 年 6 月 11 日 |\n| 中国前五大键盘厂商 | 2023 年 |\n| 外设办公新锐榜 | 上榜品牌 |"
+   },
+   {
+    "key": "8",
+    "title": "8. 相关导航 (Navigation)",
+    "content": "**Categories：**\n\nBrands > Chinese Brands > Gaming Hardware\n\n**Key Technologies：**\n\nHall Effect | Magnetic Switch | Rapid Trigger | Adjustable Actuation | Gasket Mount | Hot Swap\n\n**See Also：**\n\n[VGN 闪电68](/keyboards/vgn--vgn-闪电68) | VGN 霓虹75 Air | [VGN V98Pro V4](/keyboards/vgn--vgn-v98pro-v4) | VGN A75\n\n**Tags：**\n\n`#VGN` `#微技` `#Mechanical` `#Magnetic` `#HallEffect` `#RapidTrigger` `#ChineseBrand` `#Budget` `#MidRange` `#HotSwap` `#Wireless` `#Esports`"
+   },
+   {
+    "key": "9",
+    "title": "9. 参考资料 (References)",
+    "content": "| 来源 | 访问日期 |\n|------|----------|\n| VGN - 百度百科 | 2026-08-02 |\n| VGN 官方旗舰店 - 百度百科 | 2026-08-02 |\n| VGN - IT之家 | 2026-08-02 |\n| VGN 霓虹 75 Air - 中关村在线 | 2026-08-02 |\n| VGN 闪电 68 - 中关村在线 | 2026-08-02 |\n| VGN A75 - IT之家 | 2026-08-02 |\n\n---"
+   }
+  ],
+  "info": {
+   "founded": "2022年",
+   "country": "中国（福州）",
+   "category": "电竞外设 / 游戏键盘 / 客制化外设",
+   "website": "",
+   "slogan": "电竞5平米，方寸之间自有天地",
+   "parent": "福州极客严选科技有限公司"
+  },
+  "excerpt": "VGN（微技）是福州极客严选科技有限公司旗下的游戏外设品牌，由吴刘驰于 2022 年创立。品牌定位为面向主机游戏玩家，提供客制化「电竞 5 平米」场景方案。核心团队由国内游戏媒体和工业设计领域的成员组成。 VGN 的品牌理念是「方寸之间，自有天地」，致力于让用户在有限的空间内沉浸式感受视听触觉多重感官交互的游戏体验。品牌以「卷王」形象著称，凭借极致性价比和出…",
+  "coreTech": [
+   "3.1 自研「破阵」方案",
+   "3.2 全自研「金字塔方案」",
+   "3.3 天霸 Air 磁轴",
+   "3.4 VGN 磁轴技术特性",
+   "3.5 Gasket 结构",
+   "3.6 VGN HUB 驱动"
+  ],
+  "esportsRows": [
+   [
+    "数据维度",
+    "数据"
+   ],
+   [
+    "京东 618 键盘品牌销售额",
+    "2025 年 6 月 11 日冠军"
+   ],
+   [
+    "京东 618 鼠标品牌销售额",
+    "2025 年 6 月 11 日冠军"
+   ],
+   [
+    "外设办公新锐榜",
+    "上榜品牌"
+   ],
+   [
+    "行业地位",
+    "2023 年中国前五大键盘厂商之一"
+   ],
+   [
+    "展会",
+    "年份",
+    "展示内容"
+   ],
+   [
+    "ChinaJoy",
+    "2023、2024",
+    "全系产品，《艾尔登法环》联名系列"
+   ],
+   [
+    "BilibiliWorld",
+    "2026",
+    "全系产品"
+   ]
+  ],
+  "searchText": "vgn（微技） 微技 undefined 3.1 自研「破阵」方案 3.2 全自研「金字塔方案」 3.3 天霸 air 磁轴 3.4 vgn 磁轴技术特性 3.5 gasket 结构 3.6 vgn hub 驱动",
+  "group": "国产品牌",
+  "productCount": 4,
+  "products": [
+   {
+    "id": "vgn--vgn-v98pro-v4",
+    "title": "VGN V98Pro V4",
+    "name": "VGN V98Pro V4",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.2,
+    "pollingHz": 0
+   },
+   {
+    "id": "vgn--vgn-v87pro",
+    "title": "VGN V87Pro",
+    "name": "VGN V87Pro",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 5,
+    "pollingHz": 1000
+   },
+   {
+    "id": "vgn--vgn-闪电68",
+    "title": "VGN 闪电68",
+    "name": "VGN 闪电68",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.8,
+    "pollingHz": 8000
+   },
+   {
+    "id": "vgn--vgn-霓虹-68",
+    "title": "VGN 霓虹 68",
+    "name": "VGN 霓虹 68",
+    "category": "其他",
+    "layoutGroup": "其他",
+    "overall": 4.6,
+    "pollingHz": 8000
+   }
+  ]
+ },
+ {
+  "id": "hyperx",
+  "title": "HyperX（极度未知）",
+  "name": "HyperX",
+  "chinese": "极度未知",
+  "infobox": [],
+  "sections": [
+   {
+    "key": "1",
+    "title": "1. 品牌概述 (Overview)",
+    "content": "HyperX（极度未知）是全球领先的电竞外设品牌，2002 年作为金士顿科技公司（Kingston Technology）旗下的高性能内存产品线创立。品牌名「HyperX」寓意「超越无极限」（Hyper 是超越，X 代表未知数）。\n\nHyperX 最初只有高性能内存一条产品线，经过二十余年发展，已成长为覆盖游戏耳机、键盘、鼠标、USB 麦克风、游戏主机周边等全品类外设的综合性电竞品牌。2021 年 6 月，惠普公司以 4.25 亿美元完成对 HyperX 游戏外设产品线的收购；2026 年 1 月，惠普在 CES 展会上宣布将旗下 OMEN 暗影精灵游戏 PC 品牌并入 HyperX，打造统一的游戏硬件主品牌。\n\nHyperX 秉持「WE'RE ALL GAMERS」（玩亦有道）的品牌理念，强调团队（Team）、勇气（Courage）与自信（Confidence）。品牌长期致力于电竞推广，在全球赞助超过 20 支职业电竞战队，并是英特尔极限大师赛（IEM）和 Dreamhack 等大型电竞赛事的主要赞助商。产品专为满足专业游戏玩家最严苛的需求而打造，旨在为玩家创造竞技优势。"
+   },
+   {
+    "key": "2",
+    "title": "2. 发展历史 (History)",
+    "content": "| 年份 | 里程碑事件 |\n|------|-----------|\n| 2002 | HyperX 品牌创立，作为金士顿科技公司旗下的高性能内存产品线推出 |\n| 2004 | 在中国成为第一家赞助电子竞技活动的游戏内存公司（ACON'04，上海） |\n| 2012 | HyperX 固态硬盘发布 |\n| 2013 | 推出高速 USB 闪存盘 |\n| 2014 | 推出首款游戏耳机——HyperX Cloud，开启外设产品线；创造当年超频世界纪录；签下国内顶级战队 Team WE 与 LGD |\n| 2016 | 游戏耳机销量突破 100 万副；推出首款机械键盘 Alloy FPS |\n| 2017 | 在 COMPUTEX 2017 和 ChinaJoy 2017 展出 Alloy FPS Pro 和 Alloy Elite 两款键盘新品并正式推出；键盘、鼠标产品线相继登场 |\n| 2018 | HyperX 耳机出货量突破 500 万套大关；赢得三项红点奖及多项 iF DESIGN 大奖 |\n| 2019 | 品牌定位从「电竞」向「泛娱乐」消费电子方向拓展 |\n| 2021 | 惠普公司以 4.25 亿美元完成对 HyperX 游戏外设产品线的收购；成为拳头游戏《Valorant》冠军巡回赛创始合作伙伴；电竞耳机出货量突破 2000 万套 |\n| 2022 | HyperX 举办 20 周年庆活动 |\n| 2025 | 作为英雄联盟 S15 全球总决赛官方合作伙伴 |\n| 2026 | 惠普在 CES 宣布将 OMEN 暗影精灵游戏 PC 品牌并入 HyperX，打造统一游戏硬件主品牌；发布 Origins 2 系列键盘新品，覆盖磁轴、机械轴、薄膜轴三大技术 |"
+   },
+   {
+    "key": "3",
+    "title": "3. 核心技术 (Key Technologies)",
+    "content": "HyperX 在键盘领域拥有从传统机械轴到磁轴的完整技术布局，尤其在自研轴体和热插拔设计方面具备显著优势。\n\n### 3.1 HyperX 机械轴 (HyperX Mechanical Switches)\n\nHyperX 自研的定制机械轴体系，针对游戏性能进行优化：\n\n| 轴体 | 类型 | 触发键程 | 特色 |\n|------|------|---------|------|\n| 线性红轴 | 线性轴 | 1.8mm | 迅速流畅的反馈 |\n| 青轴 | 段落轴 | — | 清脆段落手感 |\n| HyperX 轴体特色 | — | — | POM 半壁轴芯，稳定可靠 |\n| 按键寿命 | — | — | 8000 万次 |\n\n### 3.2 磁轴技术 (Magnetic Switches)\n\nHyperX 在 CES 2026 推出搭载线性磁轴的旗舰产品：\n\n- **Origins 2 Pro 65**：采用线性磁轴，支持 Rapid Trigger（快速触发）技术\n- 允许玩家自定义按键的触发与重置行程\n- 配合可调节的 8000Hz 回报率，为 FPS 和音游玩家提供极致的响应速度\n\n### 3.3 热插拔技术 (Hot-Swappable)\n\nHyperX 键盘支持热插拔设计：\n\n- 兼容大多数 3 针或 5 针机械键盘轴体\n- 玩家可自由更换轴体，实现个性化手感定制\n\n### 3.4 Gasket 结构\n\nHyperX 在高端型号中采用 Gasket 结构：\n\n- **O 型圈垫片结构（O-ring Mount）**：减少杂音与震动\n- 提供更软弹的手感和更纯净的按键声音\n- 部分型号配备板装卫星轴以优化大键手感\n\n### 3.5 8000Hz 回报率\n\nHyperX 最新键盘产品支持 8000Hz 轮询率：\n\n- 键盘每秒向电脑报告按键状态 8000 次\n- 显著降低输入延迟，提升竞技响应速度\n\n### 3.6 HyperX NGENUITY 软件\n\nHyperX 的统一配置平台：\n\n- 深度宏定义\n- 动态 RGB 控制\n- 2026 年推出全新重构版本，仅限 Windows 平台，拥有更现代化的 UI 界面\n- 预计将彻底取代旧版应用，成为 HyperX 生态的核心控制中心\n\n### 3.7 HyperX 布丁键帽 (Pudding Keycaps)\n\n- 半透明设计，让 RGB 灯光更加引人瞩目\n- 双色 PBT 键帽，印制辅助功能标识"
+   },
+   {
+    "key": "4",
+    "title": "4. 全系键盘型号 (Product Lineup)",
+    "content": "点击下方任意型号，即可进入该键盘的详细参数与评测页面。\n\n### 4.1 当前在产核心系列\n\n⚡ **Origins 2 系列 —— 新一代旗舰（CES 2026 发布）**\n\nHyperX 在 CES 2026 推出的全新键盘系列，覆盖多配列与轴体技术。\n\n| 型号 | 类型 | 配列 | 核心特色 | 发布年份 |\n|------|------|------|---------|---------|\n| Origins 2 65 | 机械轴 | 65% | HyperX 线性红轴，热插拔，O-ring 结构，8000Hz | 2026 |\n| Origins 2 Pro 65 | 磁轴 | 65% | 线性磁轴，Rapid Trigger，8000Hz | 2026 |\n| Origins 2 1800 | 机械轴 | 95%（1800 布局） | 紧凑全尺寸，98 键布局 | 2026 |\n\n🎯 **Alloy 系列 —— 经典电竞主力**\n\nHyperX 的经典电竞键盘系列，以 Alloy FPS 为起点。\n\n| 型号 | 类型 | 配列 | 核心特色 | 发布年份 |\n|------|------|------|---------|---------|\n| Alloy FPS | 机械轴 | 全尺寸 | HyperX 首款机械键盘 | 2016 |\n| Alloy FPS Pro | 机械轴 | TKL（87 键） | Cherry MX 轴 / 自研轴，红色背光，钢架结构 | 2017 |\n| Alloy Elite | 机械轴 | 全尺寸 | 精英版，多媒体控制 | 2017 |\n| Alloy Elite 2 | 机械轴 | 全尺寸 | HyperX 机械键轴，布丁键帽 | — |\n| Alloy Origins | 机械轴 | 全尺寸 / TKL | 全铝合金主体，8000 万次按键寿命 | — |\n| Alloy Origins 60% | 机械轴 | 60% | 紧凑设计，PBT 键帽 | — |\n| Alloy Rise | 机械轴 | 75% | 热插拔，Gasket 结构，光传感器 | 2025 |\n\n🖥️ **其他系列**\n\n| 型号 | 类型 | 配列 | 核心特色 |\n|------|------|------|---------|\n| Eve 1800 | 薄膜键盘 | 95% | 柔和按压，10 区 RGB，1000Hz 轮询率 |"
+   },
+   {
+    "key": "5",
+    "title": "5. 赛事影响力 (Esports Presence)",
+    "content": "HyperX 是全球电竞领域最具影响力的外设品牌之一，在全球赞助超过 20 支职业电竞战队。\n\n### 5.1 核心数据\n\n| 数据维度 | 数据 |\n|---------|------|\n| 全球赞助战队数 | 超过 20 支职业电竞战队 |\n| 电竞耳机累计出货量 | 突破 2000 万套 |\n| 游戏键盘累计销量 | 超过 100 万套 |\n\n### 5.2 赛事合作伙伴\n\n| 赛事 / 组织 | 合作内容 | 时间 |\n|------------|---------|------|\n| 英特尔极限大师赛（IEM） | 主赞助商 | 长期 |\n| Dreamhack | 主赞助商 | 长期 |\n| 拳头游戏《Valorant》冠军巡回赛 | 创始合作伙伴 | 2021 起 |\n| 英雄联盟 S15 全球总决赛 | 官方合作伙伴 | 2025 |\n| 拳头游戏 | 战略技术合作伙伴 | — |\n\n### 5.3 合作战队（部分）\n\n| 战队 | 项目 | 合作内容 |\n|------|------|---------|\n| Team Liquid | 全项目 | 限定版键帽合作 |\n| Dignitas | 全项目 | 深度合作 |\n| Team WE | 英雄联盟 | 主要赞助商（2014 年起） |\n| LGD | 英雄联盟 | 主要赞助商（2014 年起） |\n| Newbee | 英雄联盟 / Dota 2 | 主要赞助商（2015 年起） |\n| KING-ZONE DragonX | 英雄联盟 | 合作 |\n\n### 5.4 知名合作选手\n\n| 选手 | 项目 | 合作内容 |\n|------|------|---------|\n| Bonchan | 快打旋风 | 赞助 |\n| Gordon Hayward | NBA | 品牌大使 |\n| DeAaron Fox | NBA | 游戏耳机大使 |"
+   },
+   {
+    "key": "6",
+    "title": "6. 品牌荣誉",
+    "content": "| 荣誉 | 年份 | 说明 |\n|------|------|------|\n| 红点设计大奖 | 2018 | 赢得三项 |\n| iF DESIGN 大奖 | 2018 | 赢得多项 |\n| 全球电竞耳机领导品牌 | — | 累计出货量超 2000 万套 |"
+   },
+   {
+    "key": "7",
+    "title": "7. 相关导航 (Navigation)",
+    "content": "**Categories：**\n\nBrands > International Brands > American Brands\n\n**Key Technologies：**\n\nMechanical Switch | Magnetic Switch | Rapid Trigger | Hot Swap | Gasket Mount\n\n**See Also：**\n\nHyperX Alloy FPS Pro | HyperX Origins 2 65 | HyperX Origins 2 Pro 65\n\n**Tags：**\n\n`#HyperX` `#极度未知` `#Mechanical` `#Magnetic` `#HallEffect` `#RapidTrigger` `#HotSwap` `#Esports` `#Premium` `#International` `#American`"
+   },
+   {
+    "key": "8",
+    "title": "8. 参考资料 (References)",
+    "content": "| 来源 | 访问日期 |\n|------|----------|\n| HyperX 官方网站 | 2026-08-02 |\n| HyperX - 百度百科 | 2026-08-02 |\n| 品牌详情 - 什么值得买 | 2026-08-02 |\n| HyperX Alloy FPS Pro - 百度百科 | 2026-08-02 |\n| HyperX CES 2026 新品 - IT之家 | 2026-08-02 |\n| HyperX 发布四款新品键盘 - 中关村在线 | 2026-08-02 |\n\n---"
+   }
+  ],
+  "info": {
+   "founded": "2002年",
+   "country": "美国（加利福尼亚州）",
+   "category": "电竞外设 / 游戏硬件",
+   "website": "https://www.hyperx.com",
+   "slogan": "WE'RE ALL GAMERS（玩亦有道）",
+   "parent": "惠普公司（HP Inc.）"
+  },
+  "excerpt": "HyperX（极度未知）是全球领先的电竞外设品牌，2002 年作为金士顿科技公司（Kingston Technology）旗下的高性能内存产品线创立。品牌名「HyperX」寓意「超越无极限」（Hyper 是超越，X 代表未知数）。 HyperX 最初只有高性能内存一条产品线，经过二十余年发展，已成长为覆盖游戏耳机、键盘、鼠标、USB 麦克风、游戏主机周边等全…",
+  "coreTech": [
+   "3.1 HyperX 机械轴 (HyperX Mechanical Switches)",
+   "3.2 磁轴技术 (Magnetic Switches)",
+   "3.3 热插拔技术 (Hot-Swappable)",
+   "3.4 Gasket 结构",
+   "3.5 8000Hz 回报率",
+   "3.6 HyperX NGENUITY 软件",
+   "3.7 HyperX 布丁键帽 (Pudding Keycaps)"
+  ],
+  "esportsRows": [
+   [
+    "数据维度",
+    "数据"
+   ],
+   [
+    "全球赞助战队数",
+    "超过 20 支职业电竞战队"
+   ],
+   [
+    "电竞耳机累计出货量",
+    "突破 2000 万套"
+   ],
+   [
+    "游戏键盘累计销量",
+    "超过 100 万套"
+   ],
+   [
+    "赛事 / 组织",
+    "合作内容",
+    "时间"
+   ],
+   [
+    "英特尔极限大师赛（IEM）",
+    "主赞助商",
+    "长期"
+   ],
+   [
+    "Dreamhack",
+    "主赞助商",
+    "长期"
+   ],
+   [
+    "拳头游戏《Valorant》冠军巡回赛",
+    "创始合作伙伴",
+    "2021 起"
+   ],
+   [
+    "英雄联盟 S15 全球总决赛",
+    "官方合作伙伴",
+    "2025"
+   ],
+   [
+    "拳头游戏",
+    "战略技术合作伙伴",
+    "—"
+   ],
+   [
+    "战队",
+    "项目",
+    "合作内容"
+   ],
+   [
+    "Team Liquid",
+    "全项目",
+    "限定版键帽合作"
+   ],
+   [
+    "Dignitas",
+    "全项目",
+    "深度合作"
+   ],
+   [
+    "Team WE",
+    "英雄联盟",
+    "主要赞助商（2014 年起）"
+   ],
+   [
+    "LGD",
+    "英雄联盟",
+    "主要赞助商（2014 年起）"
+   ],
+   [
+    "Newbee",
+    "英雄联盟 / Dota 2",
+    "主要赞助商（2015 年起）"
+   ],
+   [
+    "KING-ZONE DragonX",
+    "英雄联盟",
+    "合作"
+   ],
+   [
+    "选手",
+    "项目",
+    "合作内容"
+   ],
+   [
+    "Bonchan",
+    "快打旋风",
+    "赞助"
+   ],
+   [
+    "Gordon Hayward",
+    "NBA",
+    "品牌大使"
+   ],
+   [
+    "DeAaron Fox",
+    "NBA",
+    "游戏耳机大使"
+   ]
+  ],
+  "searchText": "hyperx（极度未知） 极度未知 undefined 3.1 hyperx 机械轴 (hyperx mechanical switches) 3.2 磁轴技术 (magnetic switches) 3.3 热插拔技术 (hot-swappable) 3.4 gasket 结构 3.5 8000hz 回报率 3.6 hyperx ngenuity 软件 3.7 hyperx 布丁键帽 (pudding keycaps)",
+  "group": "国际品牌",
+  "productCount": 0,
+  "products": []
+ },
+ {
+  "id": "angry-miao",
+  "title": "Angry Miao（怒喵）",
+  "name": "Angry Miao",
+  "chinese": "怒喵",
+  "infobox": [],
+  "sections": [
+   {
+    "key": "1",
+    "title": "1. 品牌概述 (Overview)",
+    "content": "Angry Miao（怒喵） 是珠海市怒喵科技有限公司旗下的高端3C潮品品牌，由前魅族高级副总裁、魅蓝品牌创始人李楠于2019年9月创立。品牌总部位于珠海，定位于全球化的3C潮品品牌，聚焦无线化、客制化科技潮品设计，产品线涵盖机械键盘、无线充电设备及IP潮玩周边等。\n\n怒喵的品牌理念是 “Future Art Community”（社区驱动创新） ，通过紧密的社区互动，为消费者带来前沿科技与炸裂设计的融合产品。品牌采用 Community Driven Creation（社区共创） 模式，前期主要在Reddit、Discord等海外社区发布产品信息，根据用户反馈不断改进直到量产，50%的用户位于海外。\n\n怒喵的产品以赛博美学设计和极致的客制化体验著称，被媒体称为 “3C界爱马仕” 。品牌已获得真格基金、美团龙珠资本天使轮融资及龙珠资本A轮5000万人民币独家融资，估值近1亿美元。2022年，怒喵获联想创投数千万融资。公司已获科技型中小企业、专精特新企业等资质认证。"
+   },
+   {
+    "key": "2",
+    "title": "2. 发展历史 (History)",
+    "content": "| 年份 | 里程碑事件 |\n|------|------------|\n| 2019年7月 | 李楠宣布离开魅族科技 |\n| 2019年9月 | 珠海市怒喵科技有限公司正式成立 |\n| 2020年8月 | 举办首次线上发布会，推出CYBERBOARD客制化键盘、CYBERMAT无线充电鼠标垫及CYBERCOIN无线充电模块；CYBERBOARD售价3700元（海外410美元），限量1000套售罄 |\n| 2021年 | 推出CYBERBOARD R2及AM HATSU分体式人体工学键盘（售价1600美元）；获龙珠资本5000万A轮融资 |\n| 2022年 | 发布CYBERBOARD Terminal（套件3799元，成品5099元）；推出首款Alice配列客制化键盘AM AFA（套件4800元，成品5600元）；获联想创投数千万融资 |\n| 2023年 | 启动自研AIGC模型“AngryMiao AI” ，布局生成式人工智能领域 |\n| 2024年 | 推出PETBRICK 65机械键盘（1680元） |\n| 2025年 | 旗下电竞品牌DRY STUDIO GAMING首款产品ice ring 63 RT与联想拯救者联名发布 |\n| 2026年 | 发布Battleye R2磁轴键盘（1480元），搭载1.7英寸圆屏与74.5配列；发布Black Diamond 75 V2客制化键盘 |"
+   },
+   {
+    "key": "3",
+    "title": "3. 核心技术 (Key Technologies)",
+    "content": "怒喵在键盘领域拥有从客制化机械键盘到高性能磁轴键盘的完整技术布局，以极致设计和社区共创为核心竞争力。\n\n### 3.1 客制化键盘技术\n\n怒喵的客制化键盘以突破性设计和极致工艺著称：\n\n- **LED像素阵列**：CYBERBOARD系列标志性的背面LED矩阵屏，可自定义显示图案与动画\n- **三段式可调Leaf-Spring结构**：AM AFA全球首创，实现18种软硬度手感可调节\n- **3+2轴CNC高精机床加工**：镂空金属框架需7小时精铣加工，配合人工打磨、喷砂、阳极氧化等工艺\n- **透光一体式Gasket Mount**：CYBERBOARD Terminal创新结构\n- **分离式结构设计**：左右打字模块独立封装，可分别调节软弹度\n\n### 3.2 磁轴技术\n\n怒喵通过旗下电竞品牌DRY STUDIO GAMING及联名产品布局磁轴市场：\n\n| 性能参数 | 指标 |\n|----------|------|\n| 回报率 | 8KHz |\n| 单键扫描率 | 256KHz |\n| 全键扫描率 | 32KHz |\n| 延迟 | 低至0.1ms |\n| RT精度 | 0.001mm |\n\nice ring 63 RT搭载旗舰主控芯片，按键延迟低至0.125ms。\n\n### 3.3 定制轴体\n\n怒喵与TTC等轴体厂商合作推出多款定制轴体：\n\n| 轴体 | 特色 |\n|------|------|\n| 小青蛇万磁王轴 | 定制永磁铁，榫卯结构，带散热孔设计，每个轴体配有唯一编码 |\n| 八宝库里南轴 AngryMiao Ver. | 3.5mm行程，35g触发，45g触底 |\n\n### 3.4 AM Master 软件平台\n\n怒喵自研的键盘配置软件平台，用于键盘的个性化配置与固件管理。\n\n### 3.5 专有2.4GHz无线协议\n\n怒喵开发的低延迟无线技术，延迟低于2ms，用于旗下电竞键盘产品。"
+   },
+   {
+    "key": "4",
+    "title": "4. 全系键盘型号 (Product Lineup)",
+    "content": "点击下方任意型号，即可进入该键盘的详细参数与评测页面。\n\n### 4.1 客制化机械键盘系列\n\n🎨 **CYBERBOARD 系列 —— 标志性LED矩阵客制化键盘**\n\n怒喵的旗舰客制化键盘系列，以背面LED像素阵列为标志性设计。\n\n| 型号 | 配列 | 核心特色 | 参考价格 | 发布年份 |\n|------|------|----------|----------|----------|\n| CYBERBOARD（初代） | — | 全球首款LED灯阵机械键盘，限量1000套 | 3700元 | 2020 |\n| CYBERBOARD R2 | — | 迭代升级版 | — | 2021 |\n| CYBERBOARD R3 | — | 韦斯安德森配色（布达佩斯粉/水青/云白/玄墨） | 3600元 | 2021 |\n| CYBERBOARD Terminal | — | 透光一体式Gasket Mount，复古终端机气质 | 3799元（套件）/ 5099元（成品） | 2022 |\n| CYBERBOARD 冰川套装 | ANSI | 圣诞版复刻，LED像素阵列，Top Mount+硅胶减震垫 | — | — |\n\n🖥️ **AM 系列 —— 高端客制化**\n\n| 型号 | 配列 | 核心特色 | 参考价格 | 发布年份 |\n|------|------|----------|----------|----------|\n| AM HATSU | 分体式 | 无线立体曲面・分体式人体工学键盘 | 1600美元 | 2021 |\n| AM AFA | Alice | 首款Alice配列，三段式可调Leaf-Spring，18种手感 | 4800元（套件）/ 5600元（成品） | 2022 |\n| AM 65 Less R2 | 65% | 限定返场型号 | — | — |\n| AM Neon80 | — | 客制化键盘，钛合金白透双拼键帽 | — | — |\n\n🎯 **其他客制化型号**\n\n| 型号 | 配列 | 核心特色 | 参考价格 | 发布年份 |\n|------|------|----------|----------|----------|\n| PETBRICK 65 | 65% | 磁性快拆，三模无线 | 1680元 | 2024 |\n| Black Diamond 75 V2 | 75% | 超跑设计客制化键盘，专有2.4GHz协议 | — | 2026 |\n\n### 4.2 磁轴键盘系列\n\n⚡ **DRY STUDIO GAMING 系列 —— 电竞磁轴**\n\n怒喵旗下电竞品牌DRY STUDIO GAMING的磁轴键盘产品。\n\n| 型号 | 配列 | 核心特色 | 参考价格 | 发布年份 |\n|------|------|----------|----------|----------|\n| ice ring 63 RT（联想拯救者联名） | 63 | 行星齿轮切换4种RT配置，TTC轴体，青白配色 | 899元起 | 2025 |\n| ice ring 63 RT 蛇年限定款 | 63 | TTC小青蛇万磁王轴OG版 | — | 2025 |\n| Battleye R2 | 74.5 | 1.7英寸LCD圆屏，0.97秒切换驱动，碳银/大马士革材质 | 1480元 | 2026 |\n\n**Battleye R2 详细参数：**\n\n| 项目 | 参数 |\n|------|------|\n| 配列 | 74.5（融合63与75配列，保留完整F区） |\n| 材质 | 碳银（真银箔撒点碳纤维+铝合金）/ 大马士革（大马士革铝合金+铝合金） |\n| 轴体 | 定制八宝库里南轴 AngryMiao Ver.（3.5mm行程，35g触发，45g触底） |\n| 内胆 | 碳纤维定位板 + 六层消音（PCBA、Poron夹心棉、轴下垫、轴下PET垫、EPDM底棉） |\n| 回报率 | 8KHz |\n| RT精度 | 0.001mm |\n| 延迟 | 0.1ms |\n| 特色 | 1.7英寸LCD圆屏（自定义内容），0.97秒切换板载驱动 |\n\n### 4.3 联名与合作型号\n\n| 型号 | 合作方 | 核心特色 |\n|------|--------|----------|\n| ice ring 63 RT | 联想拯救者 | 行星齿轮RT配置切换 |\n| Yoga Creative Keyboard AngryMiao Edition | 联想Yoga | 95%配列，星环结构 |"
+   },
+   {
+    "key": "5",
+    "title": "5. 赛事影响力 (Esports Presence)",
+    "content": "怒喵通过旗下电竞品牌DRY STUDIO GAMING及联名产品布局电竞领域。\n\n### 5.1 电竞产品布局\n\n- **ice ring 63 RT**：与联想拯救者联名，内置4个RT配置（日常冲浪、瓦罗兰特、CSGO、LOL），行星齿轮可快速切换\n- **Battleye R2**：74.5配列专为FPS游戏优化，保留完整F区\n\n### 5.2 合作方\n\n| 合作方 | 合作内容 |\n|--------|----------|\n| 联想拯救者 | ice ring 63 RT联名磁轴键盘 |\n| 联想Yoga | Yoga Creative Keyboard联名款 |"
+   },
+   {
+    "key": "6",
+    "title": "6. 品牌荣誉",
+    "content": "| 荣誉 | 说明 |\n|------|------|\n| 科技型中小企业 | 资质认证 |\n| 专精特新企业 | 资质认证 |\n| HYPEBEAST报道 | AM HATSU获国际潮流媒体报道 |\n| TechCrunch等全球顶尖科技媒体报道 | 品牌国际影响力 |"
+   },
+   {
+    "key": "7",
+    "title": "7. 相关导航 (Navigation)",
+    "content": "Categories：\nBrands > Chinese Brands > Gaming Hardware\n\nKey Technologies：\nHall Effect | Magnetic Switch | Rapid Trigger | Gasket Mount | Hot Swap\n\nSee Also：\n[Angry Miao CYBERBOARD](/keyboards/angry-miao--angry-miao-cyberboard-r3) | Angry Miao Battleye R2 | Angry Miao AM AFA\n\nTags：\n#AngryMiao #怒喵 #Mechanical #Magnetic #HallEffect #RapidTrigger #ChineseBrand #Premium #Custom #Esports #Wireless"
+   },
+   {
+    "key": "8",
+    "title": "8. 参考资料 (References)",
+    "content": "| 来源 | 访问日期 |\n|------|----------|\n| Angry Miao 怒喵科技 - 百度百科 | 2026-08-02 |\n| 珠海市怒喵科技有限公司 - 百度百科 | 2026-08-02 |\n| 李楠 - 百度百科 | 2026-08-02 |\n| 怒喵科技 - 极客公园报道 | 2026-08-02 |\n| 36氪 - 怒喵科技A轮融资报道 | 2026-08-02 |\n| Battleye R2 - IT之家 | 2026-08-02 |\n| AM AFA - IT之家 | 2026-08-02 |\n| ice ring 63 RT - IT之家 | 2026-08-02 |"
+   }
+  ],
+  "info": {
+   "founded": "2019年9月",
+   "country": "中国（珠海）",
+   "category": "高端3C潮品 / 客制化键盘 / 科技潮牌",
+   "website": "https://www.angrymiao.com",
+   "slogan": "Future Art Community（社区驱动创新）",
+   "parent": "珠海市怒喵科技有限公司"
+  },
+  "excerpt": "Angry Miao（怒喵） 是珠海市怒喵科技有限公司旗下的高端3C潮品品牌，由前魅族高级副总裁、魅蓝品牌创始人李楠于2019年9月创立。品牌总部位于珠海，定位于全球化的3C潮品品牌，聚焦无线化、客制化科技潮品设计，产品线涵盖机械键盘、无线充电设备及IP潮玩周边等。 怒喵的品牌理念是 “Future Art Community”（社区驱动创新） ，通过紧密的…",
+  "coreTech": [
+   "3.1 客制化键盘技术",
+   "3.2 磁轴技术",
+   "3.3 定制轴体",
+   "3.4 AM Master 软件平台",
+   "3.5 专有2.4GHz无线协议"
+  ],
+  "esportsRows": [
+   [
+    "合作方",
+    "合作内容"
+   ],
+   [
+    "联想拯救者",
+    "ice ring 63 RT联名磁轴键盘"
+   ],
+   [
+    "联想Yoga",
+    "Yoga Creative Keyboard联名款"
+   ]
+  ],
+  "searchText": "angry miao（怒喵） 怒喵 undefined 3.1 客制化键盘技术 3.2 磁轴技术 3.3 定制轴体 3.4 am master 软件平台 3.5 专有2.4ghz无线协议",
+  "group": "国产品牌",
+  "productCount": 3,
+  "products": [
+   {
+    "id": "angry-miao--angry-miao-battleye-74-5",
+    "title": "Angry Miao Battleye 74.5",
+    "name": "Angry Miao Battleye 74.5",
+    "category": "磁轴",
+    "layoutGroup": "其他",
+    "overall": 4.8,
+    "pollingHz": 8000
+   },
+   {
+    "id": "angry-miao--dry-studio-black-diamond-75-v2",
+    "title": "Angry Miao Dry Studio Black Diamond 75 V2",
+    "name": "Dry Studio Black Diamond 75 V2",
+    "category": "机械",
+    "layoutGroup": "75%",
+    "overall": 4.8,
+    "pollingHz": 1000
+   },
+   {
+    "id": "angry-miao--angry-miao-cyberboard-r3",
+    "title": "Angry Miao CYBERBOARD R3",
+    "name": "Angry Miao CYBERBOARD R3",
+    "category": "机械",
+    "layoutGroup": "其他",
+    "overall": 4.2,
+    "pollingHz": 0
+   }
+  ]
+ },
+ {
+  "id": "razer",
+  "name": "Razer",
+  "chinese": "雷蛇",
+  "title": "Razer（雷蛇）",
+  "group": "国际品牌",
+  "info": {
+   "founded": "2005 年",
+   "country": "新加坡 / 美国",
+   "category": "游戏外设 / 电竞装备",
+   "website": "https://www.razer.com",
+   "slogan": "For Gamers. By Gamers.",
+   "parent": ""
+  },
+  "excerpt": "雷蛇是全球知名游戏外设品牌，在键盘领域布局光轴与磁轴技术，旗下 Huntsman 系列采用类比式光轴，并推出 Snap Tap 等竞技输入功能。",
+  "coreTech": [
+   "类比式光轴（Analog Optical）",
+   "Snap Tap",
+   "Rapid Trigger",
+   "Chroma RGB 生态",
+   "Synapse 软件"
+  ],
+  "esportsRows": [],
+  "sections": [],
+  "searchText": "razer 雷蛇 光轴 snap tap chroma rgb 游戏外设",
+  "sourceNote": "资料整理中，详细品牌档案待补充。",
+  "productCount": 3,
+  "products": [
+   {
+    "id": "razer--razer-huntsman-v3-pro-tkl",
+    "title": "Razer Huntsman V3 Pro TKL",
+    "name": "Razer Huntsman V3 Pro TKL",
+    "category": "光轴",
+    "layoutGroup": "TKL",
+    "overall": 4.4,
+    "pollingHz": 8000
+   },
+   {
+    "id": "razer--razer-blackwidow-系列",
+    "title": "Razer BlackWidow 系列",
+    "name": "Razer BlackWidow 系列",
+    "category": "机械",
+    "layoutGroup": "其他",
+    "overall": 0,
+    "pollingHz": 0
+   },
+   {
+    "id": "razer--razer-deathstalker-系列",
+    "title": "Razer DeathStalker 系列",
+    "name": "Razer DeathStalker 系列",
+    "category": "光轴",
+    "layoutGroup": "其他",
+    "overall": 0,
+    "pollingHz": 0
+   }
+  ]
+ },
+ {
+  "id": "logitech-g",
+  "name": "Logitech G",
+  "chinese": "罗技 G",
+  "title": "Logitech G（罗技 G）",
+  "group": "国际品牌",
+  "info": {
+   "founded": "2013 年",
+   "country": "瑞士 / 美国",
+   "category": "游戏外设 / 电竞装备",
+   "website": "https://www.logitechg.com",
+   "slogan": "Game. Set. Life.",
+   "parent": "Logitech 罗技"
+  },
+  "excerpt": "Logitech G 是罗技旗下的游戏装备品牌，以 LIGHTSPEED 低延迟无线技术闻名，键盘产品覆盖无线机械轴与 TMR 混合轴路线。",
+  "coreTech": [
+   "LIGHTSPEED 无线技术",
+   "TMR 混合轴",
+   "G HUB 软件"
+  ],
+  "esportsRows": [],
+  "sections": [],
+  "searchText": "logitech g 罗技 g lightspeed 无线 机械键盘",
+  "sourceNote": "资料整理中，详细品牌档案待补充。",
+  "productCount": 2,
+  "products": [
+   {
+    "id": "logitech-g--logitech-g-pro-x-tkl",
+    "title": "Logitech G PRO X TKL",
+    "name": "Logitech G PRO X TKL",
+    "category": "机械",
+    "layoutGroup": "TKL",
+    "overall": 4.1,
+    "pollingHz": 1000
+   },
+   {
+    "id": "logitech-g--logitech-g-g512-x-75-98",
+    "title": "Logitech G G512 X (75 / 98)",
+    "name": "Logitech G G512 X (75 / 98)",
+    "category": "混合",
+    "layoutGroup": "75%",
+    "overall": 4.2,
+    "pollingHz": 8000
+   }
+  ]
+ },
+ {
+  "id": "dry-studio",
+  "name": "DRY STUDIO",
+  "chinese": "",
+  "title": "DRY STUDIO",
+  "group": "国产品牌",
+  "info": {
+   "founded": "",
+   "country": "中国",
+   "category": "怒喵子品牌 / 高端客制化键盘",
+   "website": "",
+   "slogan": "",
+   "parent": "Angry Miao 怒喵"
+  },
+  "excerpt": "DRY STUDIO 是怒喵（Angry Miao）旗下子品牌，主打超跑设计语言的客制化键盘，代表作包括 Black Diamond 75 V2。",
+  "coreTech": [
+   "超跑设计语言",
+   "三模无线",
+   "客制化结构"
+  ],
+  "esportsRows": [],
+  "sections": [],
+  "searchText": "dry studio 怒喵子品牌 black diamond 客制化",
+  "sourceNote": "资料整理中，详细品牌档案待补充。",
+  "productCount": 1,
+  "products": [
+   {
+    "id": "angry-miao--dry-studio-black-diamond-75-v2",
+    "title": "Angry Miao Dry Studio Black Diamond 75 V2",
+    "name": "Dry Studio Black Diamond 75 V2",
+    "category": "机械",
+    "layoutGroup": "75%",
+    "overall": 4.8,
+    "pollingHz": 1000
+   }
+  ]
+ }
+]

@@ -1,0 +1,2147 @@
+[
+ {
+  "id": "rapid-trigger",
+  "name": "Rapid Trigger",
+  "category": "输入技术",
+  "priority": "P0",
+  "description": "将按键触发与重置绑定到动态行程，手指开始抬起即完成重置，实现极速连续触发，是磁轴键盘的核心竞技功能。",
+  "keywords": [
+   "Rapid Trigger",
+   "快速触发",
+   "RT"
+  ],
+  "related": [
+   {
+    "id": "wooting--wooting-60he",
+    "title": "Wooting 60HE+",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.13
+   },
+   {
+    "id": "wooting--wooting-60he-v2",
+    "title": "Wooting 60HE v2",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "wooting--wooting-80he",
+    "title": "Wooting 80HE",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "logitech-g--logitech-g-pro-x-tkl",
+    "title": "Logitech G PRO X TKL",
+    "brand": "Logitech G",
+    "category": "机械",
+    "overall": 4.1
+   },
+   {
+    "id": "logitech-g--logitech-g-g512-x-75-98",
+    "title": "Logitech G G512 X (75 / 98)",
+    "brand": "Logitech G",
+    "category": "混合",
+    "overall": 4.2
+   },
+   {
+    "id": "razer--razer-huntsman-v3-pro-tkl",
+    "title": "Razer Huntsman V3 Pro TKL",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 4.4
+   },
+   {
+    "id": "razer--razer-deathstalker-系列",
+    "title": "Razer DeathStalker 系列",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 0
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-gen-3",
+    "title": "SteelSeries Apex Pro Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.5
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-mini-gen-3",
+    "title": "SteelSeries Apex Pro Mini Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "steelseries--steelseries-apex-5",
+    "title": "SteelSeries Apex 5",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "asus-rog--rog-魔导士-ace-hfx",
+    "title": "ASUS ROG ROG 魔导士 Ace HFX",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.3
+   },
+   {
+    "id": "asus-rog--rog-夜魔-extreme",
+    "title": "ASUS ROG ROG 夜魔 EXTREME",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "asus-rog--rog-夜魔-98-he",
+    "title": "ASUS ROG ROG 夜魔 98 HE",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "asus-rog--rog-夜魔-标准版",
+    "title": "ASUS ROG ROG 夜魔 标准版",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.83
+   },
+   {
+    "id": "corsair--corsair-k70-pro-tkl",
+    "title": "Corsair K70 PRO TKL",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4
+   },
+   {
+    "id": "mchose--mchose-ace-75",
+    "title": "MCHOSE Ace 75",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "mchose--mchose-ace-60",
+    "title": "MCHOSE Ace 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 3.8
+   },
+   {
+    "id": "mchose--mchose-ace-68-turbo",
+    "title": "MCHOSE Ace 68 Turbo",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "mchose--mchose-god-60",
+    "title": "MCHOSE God 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "atk--atk-rs7-turbo",
+    "title": "ATK RS7 Turbo",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "atk--atk-rs7-v2",
+    "title": "ATK RS7 V2",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "atk--atk-rs6-ultra",
+    "title": "ATK RS6 Ultra+",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 5
+   },
+   {
+    "id": "iqunix--iqunix-aver80",
+    "title": "IQUNIX AVER80",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "iqunix--iqunix-ev63",
+    "title": "IQUNIX EV63",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez75",
+    "title": "IQUNIX EZ75",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez80",
+    "title": "IQUNIX EZ80",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "vgn--vgn-v87pro",
+    "title": "VGN V87Pro",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 5
+   },
+   {
+    "id": "vgn--vgn-闪电68",
+    "title": "VGN 闪电68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "vgn--vgn-霓虹-68",
+    "title": "VGN 霓虹 68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "angry-miao--angry-miao-battleye-74-5",
+    "title": "Angry Miao Battleye 74.5",
+    "brand": "Angry Miao",
+    "category": "磁轴",
+    "overall": 4.8
+   },
+   {
+    "id": "angry-miao--dry-studio-black-diamond-75-v2",
+    "title": "Angry Miao Dry Studio Black Diamond 75 V2",
+    "brand": "Angry Miao",
+    "category": "机械",
+    "overall": 4.8
+   }
+  ]
+ },
+ {
+  "id": "hall-effect",
+  "name": "Hall Effect（霍尔效应）",
+  "category": "轴体技术",
+  "priority": "P0",
+  "description": "通过磁铁与霍尔传感器实现非接触触发，可感知完整按键行程并输出模拟信号，是磁轴键盘的技术基础。",
+  "keywords": [
+   "Hall Effect",
+   "霍尔效应",
+   "磁轴",
+   "Magnetic",
+   "Lekker",
+   "OmniPoint",
+   "HFX",
+   "MGX"
+  ],
+  "related": [
+   {
+    "id": "wooting--wooting-60he",
+    "title": "Wooting 60HE+",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.13
+   },
+   {
+    "id": "wooting--wooting-60he-v2",
+    "title": "Wooting 60HE v2",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "wooting--wooting-80he",
+    "title": "Wooting 80HE",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "logitech-g--logitech-g-pro-x-tkl",
+    "title": "Logitech G PRO X TKL",
+    "brand": "Logitech G",
+    "category": "机械",
+    "overall": 4.1
+   },
+   {
+    "id": "logitech-g--logitech-g-g512-x-75-98",
+    "title": "Logitech G G512 X (75 / 98)",
+    "brand": "Logitech G",
+    "category": "混合",
+    "overall": 4.2
+   },
+   {
+    "id": "razer--razer-huntsman-v3-pro-tkl",
+    "title": "Razer Huntsman V3 Pro TKL",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 4.4
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-gen-3",
+    "title": "SteelSeries Apex Pro Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.5
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-mini-gen-3",
+    "title": "SteelSeries Apex Pro Mini Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "steelseries--steelseries-apex-5",
+    "title": "SteelSeries Apex 5",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "steelseries--steelseries-apex-9-系列",
+    "title": "SteelSeries Apex 9 系列",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.38
+   },
+   {
+    "id": "asus-rog--rog-魔导士-ace-hfx",
+    "title": "ASUS ROG ROG 魔导士 Ace HFX",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.3
+   },
+   {
+    "id": "asus-rog--rog-夜魔-extreme",
+    "title": "ASUS ROG ROG 夜魔 EXTREME",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "asus-rog--rog-夜魔-98-he",
+    "title": "ASUS ROG ROG 夜魔 98 HE",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "asus-rog--rog-夜魔-标准版",
+    "title": "ASUS ROG ROG 夜魔 标准版",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.83
+   },
+   {
+    "id": "corsair--corsair-galleon-100-sd",
+    "title": "Corsair GALLEON 100 SD",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "corsair--corsair-k70-pro-tkl",
+    "title": "Corsair K70 PRO TKL",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4
+   },
+   {
+    "id": "mchose--mchose-ace-75",
+    "title": "MCHOSE Ace 75",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "mchose--mchose-ace-60",
+    "title": "MCHOSE Ace 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 3.8
+   },
+   {
+    "id": "mchose--mchose-ace-68-turbo",
+    "title": "MCHOSE Ace 68 Turbo",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "mchose--mchose-god-60",
+    "title": "MCHOSE God 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "atk--atk-rs7-turbo",
+    "title": "ATK RS7 Turbo",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "atk--atk-rs7-v2",
+    "title": "ATK RS7 V2",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "atk--atk-rs6-ultra",
+    "title": "ATK RS6 Ultra+",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 5
+   },
+   {
+    "id": "iqunix--iqunix-ev63",
+    "title": "IQUNIX EV63",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez75",
+    "title": "IQUNIX EZ75",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez80",
+    "title": "IQUNIX EZ80",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "vgn--vgn-v98pro-v4",
+    "title": "VGN V98Pro V4",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "vgn--vgn-闪电68",
+    "title": "VGN 闪电68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "vgn--vgn-霓虹-68",
+    "title": "VGN 霓虹 68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "angry-miao--angry-miao-battleye-74-5",
+    "title": "Angry Miao Battleye 74.5",
+    "brand": "Angry Miao",
+    "category": "磁轴",
+    "overall": 4.8
+   },
+   {
+    "id": "angry-miao--dry-studio-black-diamond-75-v2",
+    "title": "Angry Miao Dry Studio Black Diamond 75 V2",
+    "brand": "Angry Miao",
+    "category": "机械",
+    "overall": 4.8
+   }
+  ]
+ },
+ {
+  "id": "socd",
+  "name": "SOCD",
+  "category": "输入技术",
+  "priority": "P0",
+  "description": "处理相反方向按键同时输入时的冲突，支持 Last Input Wins 等策略，帮助 FPS 玩家实现更稳定的急停操作。",
+  "keywords": [
+   "SOCD",
+   "Snap Tap",
+   "Rapid Tap",
+   "FlashTap"
+  ],
+  "related": [
+   {
+    "id": "wooting--wooting-60he",
+    "title": "Wooting 60HE+",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.13
+   },
+   {
+    "id": "wooting--wooting-60he-v2",
+    "title": "Wooting 60HE v2",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "wooting--wooting-80he",
+    "title": "Wooting 80HE",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "logitech-g--logitech-g-g512-x-75-98",
+    "title": "Logitech G G512 X (75 / 98)",
+    "brand": "Logitech G",
+    "category": "混合",
+    "overall": 4.2
+   },
+   {
+    "id": "razer--razer-huntsman-v3-pro-tkl",
+    "title": "Razer Huntsman V3 Pro TKL",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 4.4
+   },
+   {
+    "id": "razer--razer-blackwidow-系列",
+    "title": "Razer BlackWidow 系列",
+    "brand": "Razer",
+    "category": "机械",
+    "overall": 0
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-gen-3",
+    "title": "SteelSeries Apex Pro Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.5
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-mini-gen-3",
+    "title": "SteelSeries Apex Pro Mini Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "asus-rog--rog-魔导士-ace-hfx",
+    "title": "ASUS ROG ROG 魔导士 Ace HFX",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.3
+   },
+   {
+    "id": "asus-rog--rog-夜魔-98-he",
+    "title": "ASUS ROG ROG 夜魔 98 HE",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "corsair--corsair-galleon-100-sd",
+    "title": "Corsair GALLEON 100 SD",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "corsair--corsair-k70-pro-tkl",
+    "title": "Corsair K70 PRO TKL",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4
+   },
+   {
+    "id": "mchose--mchose-ace-75",
+    "title": "MCHOSE Ace 75",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "mchose--mchose-ace-60",
+    "title": "MCHOSE Ace 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 3.8
+   },
+   {
+    "id": "mchose--mchose-ace-68-turbo",
+    "title": "MCHOSE Ace 68 Turbo",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "mchose--mchose-god-60",
+    "title": "MCHOSE God 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "atk--atk-rs7-turbo",
+    "title": "ATK RS7 Turbo",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "atk--atk-rs7-v2",
+    "title": "ATK RS7 V2",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "atk--atk-rs6-ultra",
+    "title": "ATK RS6 Ultra+",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 5
+   },
+   {
+    "id": "iqunix--iqunix-ev63",
+    "title": "IQUNIX EV63",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez75",
+    "title": "IQUNIX EZ75",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez80",
+    "title": "IQUNIX EZ80",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "vgn--vgn-闪电68",
+    "title": "VGN 闪电68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "vgn--vgn-霓虹-68",
+    "title": "VGN 霓虹 68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "angry-miao--angry-miao-battleye-74-5",
+    "title": "Angry Miao Battleye 74.5",
+    "brand": "Angry Miao",
+    "category": "磁轴",
+    "overall": 4.8
+   }
+  ]
+ },
+ {
+  "id": "snap-tap",
+  "name": "Snap Tap",
+  "category": "输入技术",
+  "priority": "P1",
+  "description": "Razer 的相反按键冲突处理方案，自动优先最近一次按下的方向输入，减少急停失误。",
+  "keywords": [
+   "Snap Tap",
+   "Rapid Tap",
+   "Razer"
+  ],
+  "related": [
+   {
+    "id": "wooting--wooting-60he",
+    "title": "Wooting 60HE+",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.13
+   },
+   {
+    "id": "wooting--wooting-60he-v2",
+    "title": "Wooting 60HE v2",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "wooting--wooting-80he",
+    "title": "Wooting 80HE",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "logitech-g--logitech-g-pro-x-tkl",
+    "title": "Logitech G PRO X TKL",
+    "brand": "Logitech G",
+    "category": "机械",
+    "overall": 4.1
+   },
+   {
+    "id": "logitech-g--logitech-g-g512-x-75-98",
+    "title": "Logitech G G512 X (75 / 98)",
+    "brand": "Logitech G",
+    "category": "混合",
+    "overall": 4.2
+   },
+   {
+    "id": "razer--razer-huntsman-v3-pro-tkl",
+    "title": "Razer Huntsman V3 Pro TKL",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 4.4
+   },
+   {
+    "id": "razer--razer-blackwidow-系列",
+    "title": "Razer BlackWidow 系列",
+    "brand": "Razer",
+    "category": "机械",
+    "overall": 0
+   },
+   {
+    "id": "razer--razer-deathstalker-系列",
+    "title": "Razer DeathStalker 系列",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 0
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-gen-3",
+    "title": "SteelSeries Apex Pro Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.5
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-mini-gen-3",
+    "title": "SteelSeries Apex Pro Mini Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "steelseries--steelseries-apex-5",
+    "title": "SteelSeries Apex 5",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "steelseries--steelseries-apex-9-系列",
+    "title": "SteelSeries Apex 9 系列",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.38
+   },
+   {
+    "id": "asus-rog--rog-魔导士-ace-hfx",
+    "title": "ASUS ROG ROG 魔导士 Ace HFX",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.3
+   },
+   {
+    "id": "corsair--corsair-k70-pro-tkl",
+    "title": "Corsair K70 PRO TKL",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4
+   },
+   {
+    "id": "mchose--mchose-ace-75",
+    "title": "MCHOSE Ace 75",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.6
+   }
+  ]
+ },
+ {
+  "id": "omni-point",
+  "name": "OmniPoint",
+  "category": "轴体技术",
+  "priority": "P1",
+  "description": "SteelSeries 的可调磁轴方案，支持逐键调节触发点与双重触发功能。",
+  "keywords": [
+   "OmniPoint",
+   "Apex Pro"
+  ],
+  "related": [
+   {
+    "id": "wooting--wooting-60he",
+    "title": "Wooting 60HE+",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.13
+   },
+   {
+    "id": "wooting--wooting-60he-v2",
+    "title": "Wooting 60HE v2",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "wooting--wooting-80he",
+    "title": "Wooting 80HE",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "logitech-g--logitech-g-g512-x-75-98",
+    "title": "Logitech G G512 X (75 / 98)",
+    "brand": "Logitech G",
+    "category": "混合",
+    "overall": 4.2
+   },
+   {
+    "id": "razer--razer-huntsman-v3-pro-tkl",
+    "title": "Razer Huntsman V3 Pro TKL",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 4.4
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-gen-3",
+    "title": "SteelSeries Apex Pro Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.5
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-mini-gen-3",
+    "title": "SteelSeries Apex Pro Mini Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "steelseries--steelseries-apex-5",
+    "title": "SteelSeries Apex 5",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "steelseries--steelseries-apex-9-系列",
+    "title": "SteelSeries Apex 9 系列",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.38
+   },
+   {
+    "id": "asus-rog--rog-魔导士-ace-hfx",
+    "title": "ASUS ROG ROG 魔导士 Ace HFX",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.3
+   },
+   {
+    "id": "asus-rog--rog-夜魔-extreme",
+    "title": "ASUS ROG ROG 夜魔 EXTREME",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "asus-rog--rog-夜魔-98-he",
+    "title": "ASUS ROG ROG 夜魔 98 HE",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "corsair--corsair-galleon-100-sd",
+    "title": "Corsair GALLEON 100 SD",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "corsair--corsair-k70-pro-tkl",
+    "title": "Corsair K70 PRO TKL",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4
+   }
+  ]
+ },
+ {
+  "id": "lightspeed",
+  "name": "LIGHTSPEED",
+  "category": "无线技术",
+  "priority": "P1",
+  "description": "Logitech G 的低延迟 2.4GHz 无线传输技术，主打接近有线的稳定性与响应速度。",
+  "keywords": [
+   "LIGHTSPEED",
+   "Logitech G"
+  ],
+  "related": [
+   {
+    "id": "logitech-g--logitech-g-pro-x-tkl",
+    "title": "Logitech G PRO X TKL",
+    "brand": "Logitech G",
+    "category": "机械",
+    "overall": 4.1
+   },
+   {
+    "id": "logitech-g--logitech-g-g512-x-75-98",
+    "title": "Logitech G G512 X (75 / 98)",
+    "brand": "Logitech G",
+    "category": "混合",
+    "overall": 4.2
+   },
+   {
+    "id": "razer--razer-huntsman-v3-pro-tkl",
+    "title": "Razer Huntsman V3 Pro TKL",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 4.4
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-gen-3",
+    "title": "SteelSeries Apex Pro Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.5
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-mini-gen-3",
+    "title": "SteelSeries Apex Pro Mini Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "steelseries--steelseries-apex-5",
+    "title": "SteelSeries Apex 5",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "asus-rog--rog-夜魔-extreme",
+    "title": "ASUS ROG ROG 夜魔 EXTREME",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "asus-rog--rog-夜魔-标准版",
+    "title": "ASUS ROG ROG 夜魔 标准版",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.83
+   }
+  ]
+ },
+ {
+  "id": "gasket-mount",
+  "name": "Gasket Mount",
+  "category": "结构设计",
+  "priority": "P1",
+  "description": "通过硅胶/泡棉垫片悬浮固定定位板，让敲击手感更柔和、声音更均匀，是量产客制化键盘的主流结构。",
+  "keywords": [
+   "Gasket",
+   "结构"
+  ],
+  "related": [
+   {
+    "id": "wooting--wooting-60he-v2",
+    "title": "Wooting 60HE v2",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "wooting--wooting-80he",
+    "title": "Wooting 80HE",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "logitech-g--logitech-g-pro-x-tkl",
+    "title": "Logitech G PRO X TKL",
+    "brand": "Logitech G",
+    "category": "机械",
+    "overall": 4.1
+   },
+   {
+    "id": "logitech-g--logitech-g-g512-x-75-98",
+    "title": "Logitech G G512 X (75 / 98)",
+    "brand": "Logitech G",
+    "category": "混合",
+    "overall": 4.2
+   },
+   {
+    "id": "razer--razer-huntsman-v3-pro-tkl",
+    "title": "Razer Huntsman V3 Pro TKL",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 4.4
+   },
+   {
+    "id": "razer--razer-blackwidow-系列",
+    "title": "Razer BlackWidow 系列",
+    "brand": "Razer",
+    "category": "机械",
+    "overall": 0
+   },
+   {
+    "id": "razer--razer-deathstalker-系列",
+    "title": "Razer DeathStalker 系列",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 0
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-mini-gen-3",
+    "title": "SteelSeries Apex Pro Mini Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "steelseries--steelseries-apex-5",
+    "title": "SteelSeries Apex 5",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "steelseries--steelseries-apex-9-系列",
+    "title": "SteelSeries Apex 9 系列",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.38
+   },
+   {
+    "id": "asus-rog--rog-魔导士-ace-hfx",
+    "title": "ASUS ROG ROG 魔导士 Ace HFX",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.3
+   },
+   {
+    "id": "asus-rog--rog-夜魔-extreme",
+    "title": "ASUS ROG ROG 夜魔 EXTREME",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "asus-rog--rog-夜魔-98-he",
+    "title": "ASUS ROG ROG 夜魔 98 HE",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "asus-rog--rog-夜魔-标准版",
+    "title": "ASUS ROG ROG 夜魔 标准版",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.83
+   },
+   {
+    "id": "corsair--corsair-galleon-100-sd",
+    "title": "Corsair GALLEON 100 SD",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "corsair--corsair-k70-pro-tkl",
+    "title": "Corsair K70 PRO TKL",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4
+   },
+   {
+    "id": "mchose--mchose-ace-75",
+    "title": "MCHOSE Ace 75",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "mchose--mchose-ace-60",
+    "title": "MCHOSE Ace 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 3.8
+   },
+   {
+    "id": "mchose--mchose-ace-68-turbo",
+    "title": "MCHOSE Ace 68 Turbo",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "mchose--mchose-god-60",
+    "title": "MCHOSE God 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "atk--atk-rs7-turbo",
+    "title": "ATK RS7 Turbo",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "atk--atk-rs7-v2",
+    "title": "ATK RS7 V2",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "atk--atk-rs6-ultra",
+    "title": "ATK RS6 Ultra+",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 5
+   },
+   {
+    "id": "iqunix--iqunix-ev63",
+    "title": "IQUNIX EV63",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez75",
+    "title": "IQUNIX EZ75",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez80",
+    "title": "IQUNIX EZ80",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "keychron--keychron-k2-ultra-8k",
+    "title": "Keychron K2 Ultra 8K",
+    "brand": "Keychron",
+    "category": "其他",
+    "overall": 4.75
+   },
+   {
+    "id": "keychron--keychron-k8-ultra-8k",
+    "title": "Keychron K8 Ultra 8K",
+    "brand": "Keychron",
+    "category": "其他",
+    "overall": 89.7
+   },
+   {
+    "id": "keychron--keychron-v1-ultra-8k",
+    "title": "Keychron V1 Ultra 8K",
+    "brand": "Keychron",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "keychron--keychron-q1-ultra-8k",
+    "title": "Keychron Q1 Ultra 8K",
+    "brand": "Keychron",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "vgn--vgn-v98pro-v4",
+    "title": "VGN V98Pro V4",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "vgn--vgn-v87pro",
+    "title": "VGN V87Pro",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 5
+   },
+   {
+    "id": "vgn--vgn-闪电68",
+    "title": "VGN 闪电68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "vgn--vgn-霓虹-68",
+    "title": "VGN 霓虹 68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "angry-miao--angry-miao-battleye-74-5",
+    "title": "Angry Miao Battleye 74.5",
+    "brand": "Angry Miao",
+    "category": "磁轴",
+    "overall": 4.8
+   },
+   {
+    "id": "angry-miao--dry-studio-black-diamond-75-v2",
+    "title": "Angry Miao Dry Studio Black Diamond 75 V2",
+    "brand": "Angry Miao",
+    "category": "机械",
+    "overall": 4.8
+   },
+   {
+    "id": "angry-miao--angry-miao-cyberboard-r3",
+    "title": "Angry Miao CYBERBOARD R3",
+    "brand": "Angry Miao",
+    "category": "机械",
+    "overall": 4.2
+   }
+  ]
+ },
+ {
+  "id": "hot-swap",
+  "name": "Hot Swap（热插拔）",
+  "category": "结构设计",
+  "priority": "P2",
+  "description": "无需焊接即可更换轴体，降低客制化门槛并延长键盘寿命。",
+  "keywords": [
+   "Hot Swap",
+   "热插拔"
+  ],
+  "related": [
+   {
+    "id": "wooting--wooting-80he",
+    "title": "Wooting 80HE",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "logitech-g--logitech-g-pro-x-tkl",
+    "title": "Logitech G PRO X TKL",
+    "brand": "Logitech G",
+    "category": "机械",
+    "overall": 4.1
+   },
+   {
+    "id": "logitech-g--logitech-g-g512-x-75-98",
+    "title": "Logitech G G512 X (75 / 98)",
+    "brand": "Logitech G",
+    "category": "混合",
+    "overall": 4.2
+   },
+   {
+    "id": "razer--razer-huntsman-v3-pro-tkl",
+    "title": "Razer Huntsman V3 Pro TKL",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 4.4
+   },
+   {
+    "id": "razer--razer-blackwidow-系列",
+    "title": "Razer BlackWidow 系列",
+    "brand": "Razer",
+    "category": "机械",
+    "overall": 0
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-gen-3",
+    "title": "SteelSeries Apex Pro Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.5
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-mini-gen-3",
+    "title": "SteelSeries Apex Pro Mini Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "steelseries--steelseries-apex-5",
+    "title": "SteelSeries Apex 5",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "steelseries--steelseries-apex-9-系列",
+    "title": "SteelSeries Apex 9 系列",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.38
+   },
+   {
+    "id": "asus-rog--rog-魔导士-ace-hfx",
+    "title": "ASUS ROG ROG 魔导士 Ace HFX",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.3
+   },
+   {
+    "id": "asus-rog--rog-夜魔-extreme",
+    "title": "ASUS ROG ROG 夜魔 EXTREME",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "asus-rog--rog-夜魔-98-he",
+    "title": "ASUS ROG ROG 夜魔 98 HE",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "asus-rog--rog-夜魔-标准版",
+    "title": "ASUS ROG ROG 夜魔 标准版",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.83
+   },
+   {
+    "id": "corsair--corsair-galleon-100-sd",
+    "title": "Corsair GALLEON 100 SD",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "corsair--corsair-k70-pro-tkl",
+    "title": "Corsair K70 PRO TKL",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4
+   },
+   {
+    "id": "mchose--mchose-ace-60",
+    "title": "MCHOSE Ace 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 3.8
+   },
+   {
+    "id": "mchose--mchose-ace-68-turbo",
+    "title": "MCHOSE Ace 68 Turbo",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "mchose--mchose-god-60",
+    "title": "MCHOSE God 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "atk--atk-rs7-turbo",
+    "title": "ATK RS7 Turbo",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "atk--atk-rs7-v2",
+    "title": "ATK RS7 V2",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "atk--atk-rs6-ultra",
+    "title": "ATK RS6 Ultra+",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 5
+   },
+   {
+    "id": "iqunix--iqunix-aver80",
+    "title": "IQUNIX AVER80",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "iqunix--iqunix-ev63",
+    "title": "IQUNIX EV63",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez75",
+    "title": "IQUNIX EZ75",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez80",
+    "title": "IQUNIX EZ80",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "keychron--keychron-k2-ultra-8k",
+    "title": "Keychron K2 Ultra 8K",
+    "brand": "Keychron",
+    "category": "其他",
+    "overall": 4.75
+   },
+   {
+    "id": "keychron--keychron-k8-ultra-8k",
+    "title": "Keychron K8 Ultra 8K",
+    "brand": "Keychron",
+    "category": "其他",
+    "overall": 89.7
+   },
+   {
+    "id": "keychron--keychron-v1-ultra-8k",
+    "title": "Keychron V1 Ultra 8K",
+    "brand": "Keychron",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "keychron--keychron-q1-ultra-8k",
+    "title": "Keychron Q1 Ultra 8K",
+    "brand": "Keychron",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "vgn--vgn-v98pro-v4",
+    "title": "VGN V98Pro V4",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "vgn--vgn-v87pro",
+    "title": "VGN V87Pro",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 5
+   },
+   {
+    "id": "vgn--vgn-闪电68",
+    "title": "VGN 闪电68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "vgn--vgn-霓虹-68",
+    "title": "VGN 霓虹 68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "angry-miao--angry-miao-battleye-74-5",
+    "title": "Angry Miao Battleye 74.5",
+    "brand": "Angry Miao",
+    "category": "磁轴",
+    "overall": 4.8
+   },
+   {
+    "id": "angry-miao--dry-studio-black-diamond-75-v2",
+    "title": "Angry Miao Dry Studio Black Diamond 75 V2",
+    "brand": "Angry Miao",
+    "category": "机械",
+    "overall": 4.8
+   },
+   {
+    "id": "angry-miao--angry-miao-cyberboard-r3",
+    "title": "Angry Miao CYBERBOARD R3",
+    "brand": "Angry Miao",
+    "category": "机械",
+    "overall": 4.2
+   }
+  ]
+ },
+ {
+  "id": "analog-input",
+  "name": "模拟输入",
+  "category": "输入技术",
+  "priority": "P2",
+  "description": "依据按键行程输出连续模拟信号，可实现赛车油门、动态键程等传统数字开关无法实现的操作。",
+  "keywords": [
+   "模拟输入",
+   "Analog Input",
+   "DKS"
+  ],
+  "related": [
+   {
+    "id": "wooting--wooting-60he",
+    "title": "Wooting 60HE+",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.13
+   },
+   {
+    "id": "wooting--wooting-60he-v2",
+    "title": "Wooting 60HE v2",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "wooting--wooting-80he",
+    "title": "Wooting 80HE",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "logitech-g--logitech-g-g512-x-75-98",
+    "title": "Logitech G G512 X (75 / 98)",
+    "brand": "Logitech G",
+    "category": "混合",
+    "overall": 4.2
+   },
+   {
+    "id": "razer--razer-huntsman-v3-pro-tkl",
+    "title": "Razer Huntsman V3 Pro TKL",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 4.4
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-gen-3",
+    "title": "SteelSeries Apex Pro Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.5
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-mini-gen-3",
+    "title": "SteelSeries Apex Pro Mini Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "mchose--mchose-ace-75",
+    "title": "MCHOSE Ace 75",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "mchose--mchose-ace-60",
+    "title": "MCHOSE Ace 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 3.8
+   },
+   {
+    "id": "mchose--mchose-ace-68-turbo",
+    "title": "MCHOSE Ace 68 Turbo",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "mchose--mchose-god-60",
+    "title": "MCHOSE God 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "atk--atk-rs7-turbo",
+    "title": "ATK RS7 Turbo",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "atk--atk-rs7-v2",
+    "title": "ATK RS7 V2",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "atk--atk-rs6-ultra",
+    "title": "ATK RS6 Ultra+",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 5
+   },
+   {
+    "id": "iqunix--iqunix-ev63",
+    "title": "IQUNIX EV63",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez75",
+    "title": "IQUNIX EZ75",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez80",
+    "title": "IQUNIX EZ80",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "vgn--vgn-闪电68",
+    "title": "VGN 闪电68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "vgn--vgn-霓虹-68",
+    "title": "VGN 霓虹 68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "angry-miao--angry-miao-battleye-74-5",
+    "title": "Angry Miao Battleye 74.5",
+    "brand": "Angry Miao",
+    "category": "磁轴",
+    "overall": 4.8
+   }
+  ]
+ },
+ {
+  "id": "nkro",
+  "name": "NKRO 全键无冲",
+  "category": "性能参数",
+  "priority": "P2",
+  "description": "任意数量按键同时按下均可被正确识别，避免组合键冲突。",
+  "keywords": [
+   "NKRO",
+   "全键无冲"
+  ],
+  "related": [
+   {
+    "id": "wooting--wooting-60he",
+    "title": "Wooting 60HE+",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.13
+   },
+   {
+    "id": "wooting--wooting-60he-v2",
+    "title": "Wooting 60HE v2",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "wooting--wooting-80he",
+    "title": "Wooting 80HE",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "logitech-g--logitech-g-pro-x-tkl",
+    "title": "Logitech G PRO X TKL",
+    "brand": "Logitech G",
+    "category": "机械",
+    "overall": 4.1
+   },
+   {
+    "id": "logitech-g--logitech-g-g512-x-75-98",
+    "title": "Logitech G G512 X (75 / 98)",
+    "brand": "Logitech G",
+    "category": "混合",
+    "overall": 4.2
+   },
+   {
+    "id": "razer--razer-huntsman-v3-pro-tkl",
+    "title": "Razer Huntsman V3 Pro TKL",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 4.4
+   },
+   {
+    "id": "razer--razer-deathstalker-系列",
+    "title": "Razer DeathStalker 系列",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 0
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-gen-3",
+    "title": "SteelSeries Apex Pro Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.5
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-mini-gen-3",
+    "title": "SteelSeries Apex Pro Mini Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "steelseries--steelseries-apex-5",
+    "title": "SteelSeries Apex 5",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "steelseries--steelseries-apex-9-系列",
+    "title": "SteelSeries Apex 9 系列",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.38
+   },
+   {
+    "id": "asus-rog--rog-魔导士-ace-hfx",
+    "title": "ASUS ROG ROG 魔导士 Ace HFX",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.3
+   },
+   {
+    "id": "asus-rog--rog-夜魔-extreme",
+    "title": "ASUS ROG ROG 夜魔 EXTREME",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "asus-rog--rog-夜魔-98-he",
+    "title": "ASUS ROG ROG 夜魔 98 HE",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "asus-rog--rog-夜魔-标准版",
+    "title": "ASUS ROG ROG 夜魔 标准版",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.83
+   },
+   {
+    "id": "corsair--corsair-galleon-100-sd",
+    "title": "Corsair GALLEON 100 SD",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "corsair--corsair-k70-pro-tkl",
+    "title": "Corsair K70 PRO TKL",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4
+   },
+   {
+    "id": "mchose--mchose-ace-75",
+    "title": "MCHOSE Ace 75",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "mchose--mchose-ace-60",
+    "title": "MCHOSE Ace 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 3.8
+   },
+   {
+    "id": "mchose--mchose-ace-68-turbo",
+    "title": "MCHOSE Ace 68 Turbo",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "mchose--mchose-god-60",
+    "title": "MCHOSE God 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "atk--atk-rs7-turbo",
+    "title": "ATK RS7 Turbo",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "atk--atk-rs7-v2",
+    "title": "ATK RS7 V2",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "atk--atk-rs6-ultra",
+    "title": "ATK RS6 Ultra+",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 5
+   },
+   {
+    "id": "iqunix--iqunix-ev63",
+    "title": "IQUNIX EV63",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez75",
+    "title": "IQUNIX EZ75",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez80",
+    "title": "IQUNIX EZ80",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "vgn--vgn-闪电68",
+    "title": "VGN 闪电68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "vgn--vgn-霓虹-68",
+    "title": "VGN 霓虹 68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "angry-miao--angry-miao-battleye-74-5",
+    "title": "Angry Miao Battleye 74.5",
+    "brand": "Angry Miao",
+    "category": "磁轴",
+    "overall": 4.8
+   }
+  ]
+ },
+ {
+  "id": "high-polling",
+  "name": "高回报率（8KHz+）",
+  "category": "性能参数",
+  "priority": "P2",
+  "description": "回报率越高，键盘向电脑报告输入的频率越高，理论输入延迟越低；8KHz 已逐渐成为电竞键盘高端配置。",
+  "keywords": [
+   "8KHz",
+   "8000Hz",
+   "16KHz",
+   "8K Hz",
+   "回报率"
+  ],
+  "related": [
+   {
+    "id": "wooting--wooting-60he",
+    "title": "Wooting 60HE+",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.13
+   },
+   {
+    "id": "wooting--wooting-60he-v2",
+    "title": "Wooting 60HE v2",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "wooting--wooting-80he",
+    "title": "Wooting 80HE",
+    "brand": "Wooting",
+    "category": "磁轴",
+    "overall": 4.6
+   },
+   {
+    "id": "logitech-g--logitech-g-pro-x-tkl",
+    "title": "Logitech G PRO X TKL",
+    "brand": "Logitech G",
+    "category": "机械",
+    "overall": 4.1
+   },
+   {
+    "id": "logitech-g--logitech-g-g512-x-75-98",
+    "title": "Logitech G G512 X (75 / 98)",
+    "brand": "Logitech G",
+    "category": "混合",
+    "overall": 4.2
+   },
+   {
+    "id": "razer--razer-huntsman-v3-pro-tkl",
+    "title": "Razer Huntsman V3 Pro TKL",
+    "brand": "Razer",
+    "category": "光轴",
+    "overall": 4.4
+   },
+   {
+    "id": "razer--razer-blackwidow-系列",
+    "title": "Razer BlackWidow 系列",
+    "brand": "Razer",
+    "category": "机械",
+    "overall": 0
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-gen-3",
+    "title": "SteelSeries Apex Pro Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.5
+   },
+   {
+    "id": "steelseries--steelseries-apex-pro-mini-gen-3",
+    "title": "SteelSeries Apex Pro Mini Gen 3",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "steelseries--steelseries-apex-5",
+    "title": "SteelSeries Apex 5",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "steelseries--steelseries-apex-9-系列",
+    "title": "SteelSeries Apex 9 系列",
+    "brand": "SteelSeries",
+    "category": "其他",
+    "overall": 4.38
+   },
+   {
+    "id": "asus-rog--rog-魔导士-ace-hfx",
+    "title": "ASUS ROG ROG 魔导士 Ace HFX",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.3
+   },
+   {
+    "id": "asus-rog--rog-夜魔-extreme",
+    "title": "ASUS ROG ROG 夜魔 EXTREME",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "asus-rog--rog-夜魔-98-he",
+    "title": "ASUS ROG ROG 夜魔 98 HE",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "asus-rog--rog-夜魔-标准版",
+    "title": "ASUS ROG ROG 夜魔 标准版",
+    "brand": "ASUS ROG",
+    "category": "其他",
+    "overall": 4.83
+   },
+   {
+    "id": "corsair--corsair-galleon-100-sd",
+    "title": "Corsair GALLEON 100 SD",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "corsair--corsair-k70-pro-tkl",
+    "title": "Corsair K70 PRO TKL",
+    "brand": "Corsair",
+    "category": "其他",
+    "overall": 4
+   },
+   {
+    "id": "mchose--mchose-ace-75",
+    "title": "MCHOSE Ace 75",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "mchose--mchose-ace-60",
+    "title": "MCHOSE Ace 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 3.8
+   },
+   {
+    "id": "mchose--mchose-ace-68-turbo",
+    "title": "MCHOSE Ace 68 Turbo",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "mchose--mchose-god-60",
+    "title": "MCHOSE God 60",
+    "brand": "MCHOSE",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "atk--atk-rs7-turbo",
+    "title": "ATK RS7 Turbo",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "atk--atk-rs7-v2",
+    "title": "ATK RS7 V2",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "atk--atk-rs6-ultra",
+    "title": "ATK RS6 Ultra+",
+    "brand": "ATK",
+    "category": "其他",
+    "overall": 5
+   },
+   {
+    "id": "iqunix--iqunix-ev63",
+    "title": "IQUNIX EV63",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez75",
+    "title": "IQUNIX EZ75",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "iqunix--iqunix-ez80",
+    "title": "IQUNIX EZ80",
+    "brand": "IQUNIX",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "keychron--keychron-k2-ultra-8k",
+    "title": "Keychron K2 Ultra 8K",
+    "brand": "Keychron",
+    "category": "其他",
+    "overall": 4.75
+   },
+   {
+    "id": "keychron--keychron-k8-ultra-8k",
+    "title": "Keychron K8 Ultra 8K",
+    "brand": "Keychron",
+    "category": "其他",
+    "overall": 89.7
+   },
+   {
+    "id": "keychron--keychron-v1-ultra-8k",
+    "title": "Keychron V1 Ultra 8K",
+    "brand": "Keychron",
+    "category": "其他",
+    "overall": 4.4
+   },
+   {
+    "id": "keychron--keychron-q1-ultra-8k",
+    "title": "Keychron Q1 Ultra 8K",
+    "brand": "Keychron",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "vgn--vgn-v98pro-v4",
+    "title": "VGN V98Pro V4",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.2
+   },
+   {
+    "id": "vgn--vgn-v87pro",
+    "title": "VGN V87Pro",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 5
+   },
+   {
+    "id": "vgn--vgn-闪电68",
+    "title": "VGN 闪电68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.8
+   },
+   {
+    "id": "vgn--vgn-霓虹-68",
+    "title": "VGN 霓虹 68",
+    "brand": "VGN",
+    "category": "其他",
+    "overall": 4.6
+   },
+   {
+    "id": "angry-miao--angry-miao-battleye-74-5",
+    "title": "Angry Miao Battleye 74.5",
+    "brand": "Angry Miao",
+    "category": "磁轴",
+    "overall": 4.8
+   },
+   {
+    "id": "angry-miao--dry-studio-black-diamond-75-v2",
+    "title": "Angry Miao Dry Studio Black Diamond 75 V2",
+    "brand": "Angry Miao",
+    "category": "机械",
+    "overall": 4.8
+   }
+  ]
+ }
+]
