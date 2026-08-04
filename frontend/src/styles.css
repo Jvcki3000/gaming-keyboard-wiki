@@ -759,8 +759,9 @@ mark {
 }
 
 .product-card {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-rows: 150px 250px;
+  height: 400px;
   background: var(--milk);
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -777,9 +778,22 @@ mark {
 .product-card-visual {
   position: relative;
   display: block;
-  padding: 16px 18px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 14px;
   background: var(--muted);
   border-bottom: 1px solid var(--border);
+  overflow: hidden;
+}
+
+.product-card-visual .kbd-row {
+  gap: 3px;
+}
+
+.product-card-visual .kbd-key {
+  height: 13px;
+  font-size: 0;
 }
 
 .category-badge {
@@ -822,9 +836,11 @@ mark {
 .product-card-body {
   display: flex;
   flex-direction: column;
-  gap: 9px;
+  gap: 7px;
   flex: 1;
-  padding: 14px 16px 15px;
+  min-width: 0;
+  overflow: hidden;
+  padding: 12px 14px 14px;
 }
 
 .product-card-top {
