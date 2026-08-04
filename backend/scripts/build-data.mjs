@@ -704,7 +704,8 @@ const brandList = brands.map((b) => ({
 const fullBrands = [
   ...brandList.map((b) => {
     const curated = curatedBrands.find((c) => c.id === b.id);
-    return curated ? { ...b, ...curated, coreTech: b.coreTech.length ? b.coreTech : curated.coreTech } : b;
+    if (!curated || b.sections.length > 0) return b;
+    return { ...b, ...curated, coreTech: b.coreTech.length ? b.coreTech : curated.coreTech };
   }),
   ...curatedBrands.filter((c) => !brandList.some((b) => b.id === c.id)),
 ];

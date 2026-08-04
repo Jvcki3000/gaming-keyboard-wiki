@@ -11654,7 +11654,7 @@ Dry Studio Black Diamond 75 V2
 
 **Brand：**
 
-[[Dry Studio]] > [[Angry Miao]]
+[[Angry Miao]] > [[DRY STUDIO]]
 
 **Technologies：**
 

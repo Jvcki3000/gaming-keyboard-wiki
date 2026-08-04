@@ -16,6 +16,7 @@ import {
 import ProductCard from '../components/ProductCard';
 import FloatingTagBubbles from '../components/FloatingTagBubbles';
 import ScrollRevealHero from '../components/ScrollRevealHero';
+import SpecularButton from '../components/SpecularButton';
 import { featuredProducts, meta, products } from '../lib/data';
 
 const CATEGORIES = [
@@ -63,7 +64,28 @@ export default function Home() {
                   placeholder="搜索品牌、型号、技术词条…"
                   aria-label="全站搜索"
                 />
-                <button type="submit" className="btn btn-primary">搜索</button>
+                <SpecularButton
+                  type="submit"
+                  size="md"
+                  radius={12}
+                  tint="#D95A2F"
+                  tintOpacity={1}
+                  blur={0}
+                  textColor="#FFF4E6"
+                  lineColor="#FFD9B8"
+                  baseColor="#8F3A1F"
+                  intensity={1.15}
+                  shineSize={10}
+                  shineFade={40}
+                  thickness={1.2}
+                  speed={0.35}
+                  followMouse
+                  proximity={250}
+                  autoAnimate
+                  className="hero-search-btn"
+                >
+                  搜索
+                </SpecularButton>
               </form>
             </div>
             <div className="hero-stats">

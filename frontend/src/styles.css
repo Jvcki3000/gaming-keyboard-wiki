@@ -12,6 +12,7 @@
   --nav-bg: #ffffff;
   --nav-border: hsl(35 18% 86%);
   --header-h: 66px;
+  --milk: #fbf7ef;
   --success: hsl(142 71% 38%);
   --warning: hsl(38 92% 45%);
   --info: hsl(220 70% 50%);
@@ -36,6 +37,7 @@
   --border: hsl(38 10% 25%);
   --nav-bg: hsl(40 15% 10%);
   --nav-border: hsl(38 10% 23%);
+  --milk: hsl(38 12% 18%);
   --success: hsl(142 60% 50%);
   --warning: hsl(38 90% 58%);
   --info: hsl(220 75% 65%);
@@ -626,7 +628,7 @@ mark {
   gap: 10px;
   max-width: 620px;
   padding: 7px;
-  background: var(--card);
+  background: var(--milk);
   border: 1px solid var(--border);
   border-radius: 13px;
   box-shadow: var(--shadow);
@@ -657,7 +659,7 @@ mark {
 }
 
 .hero-stat {
-  background: var(--card);
+  background: var(--milk);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 18px 18px 14px;
@@ -708,7 +710,7 @@ mark {
   align-items: center;
   gap: 12px;
   padding: 15px 16px;
-  background: var(--card);
+  background: var(--milk);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
@@ -759,7 +761,7 @@ mark {
 .product-card {
   display: flex;
   flex-direction: column;
-  background: var(--card);
+  background: var(--milk);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   overflow: hidden;
@@ -1577,7 +1579,7 @@ textarea:focus {
   display: flex;
   flex-direction: column;
   gap: 9px;
-  background: var(--card);
+  background: var(--milk);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 14px;
@@ -2456,7 +2458,7 @@ textarea:focus {
   margin-top: 16px;
   border: 1px solid var(--border);
   border-radius: 14px;
-  background: color-mix(in srgb, var(--primary) 4%, var(--card));
+  background: var(--milk);
   overflow: hidden;
 }
 
@@ -2469,9 +2471,10 @@ textarea:focus {
   justify-content: center;
   border-radius: 50%;
   padding: 0 4px;
-  background: var(--primary-soft);
-  border: 1px solid color-mix(in srgb, var(--primary) 45%, var(--border));
-  color: var(--primary);
+  background: #ffffff;
+  border: 0;
+  color: #17130f;
+  box-shadow: 0 6px 18px -10px rgba(0, 0, 0, 0.25);
   font-weight: 700;
   text-align: center;
   line-height: 1.15;
@@ -2482,15 +2485,14 @@ textarea:focus {
 }
 
 .tag-bubble:hover {
-  background: var(--primary);
-  border-color: var(--primary);
-  color: var(--primary-fg);
-  box-shadow: 0 12px 26px -10px color-mix(in srgb, var(--primary) 60%, transparent);
+  background: #ffffff;
+  color: #17130f;
+  box-shadow: 0 10px 22px -10px rgba(0, 0, 0, 0.32);
 }
 
 .newest-panel {
   margin-top: 26px;
-  background: var(--card);
+  background: var(--milk);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 15px 16px;
@@ -2533,7 +2535,7 @@ textarea:focus {
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  background: var(--card);
+  background: var(--milk);
   border: 1px solid var(--border);
   border-radius: 14px;
   padding: 24px 26px;
@@ -2595,7 +2597,7 @@ textarea:focus {
   grid-template-rows: auto auto;
   gap: 2px 12px;
   align-items: center;
-  background: var(--card);
+  background: var(--milk);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 14px 16px;

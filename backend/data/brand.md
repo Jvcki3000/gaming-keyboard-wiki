@@ -16,6 +16,9 @@
 - [VGN（微技）](#vgn微技)
 - [HyperX（极度未知）](#hyperx极度未知)
 - [Angry Miao（怒喵）](#angry-miao怒喵)
+- [Razer（雷蛇）](#razer雷蛇)
+- [Logitech G（罗技 G）](#logitech-g罗技-g)
+- [DRY STUDIO](#dry-studio)
 
 ---
 
@@ -1114,7 +1117,7 @@ Brand:
   Name: "Keychron（渴创）"
   Logo: ""
   Founded: "2017年"
-  Country: "中国（香港总部，深圳仓库）"
+  Country: "中国（深圳）"
   Category: "高端外设 / 客制化机械键盘 / 电竞装备"
   Website: "https://www.keychron.com"
   Key_People: "Will Ye、Sven Zhu、Fab（联合创始人）"
@@ -1124,7 +1127,7 @@ Brand:
 
 ## 1. 品牌概述 (Overview)
 
-**Keychron（渴创）** 是渴创技术（深圳）有限公司旗下的数码外设品牌，成立于2017年，由三位资深程序员兼键盘爱好者 Will、Sven 和 Fab 共同创立。公司正式注册于2020年7月3日，注册资本1000万元，总部位于深圳市龙岗区。
+**Keychron（渴创）** 是渴创技术（深圳）有限公司旗下的数码外设品牌，成立于2017年，由三位资深程序员兼键盘爱好者 Will、Sven 和 Fab 共同创立。公司正式注册于2020年7月3日，注册资本1000万元（实缴200万元），总部位于深圳市龙岗区坂田街道大发埔社区。
 
 Keychron 的品牌故事始于三位 Mac 用户的烦恼——当时市面上适配 macOS 系统的机械键盘要么价格高昂、要么体验差，绝大多数产品仍偏向 Windows 系统。他们决定自己动手，打造真正适合 Mac 的高性能机械键盘。2017年，Keychron 在 Kickstarter 众筹平台上推出首款 Mac 机械键盘，原本仅1万美元的目标最终吸引了4000名支持者，筹得超30万美元，完成率高达3200%。
 
@@ -2435,3 +2438,310 @@ Tags：
 | Battleye R2 - IT之家 | 2026-08-02 |
 | AM AFA - IT之家 | 2026-08-02 |
 | ice ring 63 RT - IT之家 | 2026-08-02 |
+
+---
+
+# Razer（雷蛇）
+
+```yaml
+Brand:
+  Name: "Razer（雷蛇）"
+  Logo: ""
+  Founded: "2005年"
+  Country: "新加坡 / 美国"
+  Category: "游戏外设 / 电竞装备"
+  Website: "https://www.razer.com"
+  Key_People: ""
+  Slogan: "For Gamers. By Gamers."
+  Parent: ""
+```
+
+## 1. 品牌概述 (Overview)
+
+雷蛇（Razer）是全球知名的游戏外设与电竞装备品牌，产品覆盖键盘、鼠标、耳机、手柄与电竞笔记本等领域。在游戏键盘领域，雷蛇建立了 Huntsman（类比式光轴）、BlackWidow（机械轴）、DeathStalker（光学矮轴）三大产品线，并依托 Chroma RGB 生态、Synapse 驱动与 Snap Tap、Rapid Trigger 等竞技功能，长期占据职业赛场的主流地位。
+
+截至 2024 年 12 月，Razer Huntsman V3 Pro TKL 被 Prosettings.net 评为职业电竞选手使用率排名第一的键盘。
+
+## 2. 发展历史 (History)
+
+| 年份 | 里程碑事件 |
+|------|-----------|
+| 2010 | 雷蛇发布 BlackWidow（黑寡妇蜘蛛）系列机械键盘，采用 Cherry MX 青轴，是其首个机械键盘系列 |
+| 2012 | DeathStalker（噬魂金蝎）系列在德国科隆游戏展首次亮相 |
+| 2014 | BlackWidow 2014 系列采用雷蛇自研绿轴 / 橙轴 |
+| 2018 | Huntsman 系列首次亮相，搭载初代 Razer 光轴 |
+| 2021 | Huntsman 系列引入类比式光轴（Analog Optical Switches），实现深度感应；BlackWidow V3 Pro 无线旗舰发布 |
+| 2022 | DeathStalker V2 系列发布，首次采用 Razer™ 光学矮轴 |
+| 2023 | BlackWidow V4 系列发布；Huntsman V3 Pro 系列发布，提供全尺寸、TKL、Mini 三种版本 |
+| 2024 | Huntsman V3 Pro TKL 被 Prosettings.net 评为职业选手使用率第一的键盘 |
+| 2025 | Huntsman V3 Pro 推出 8KHz HyperPolling 升级版及白色版、电竞绿版、NiKo 联名版 |
+| 2026 | BlackWidow V4 系列推出《逃离鸭科夫》《三角洲行动》、EVA 2号机、《鸣潮》等联名特别版 |
+
+## 3. 核心技术 (Key Technologies)
+
+### 3.1 Razer™ 类比式光轴（Analog Optical Switches）
+
+Huntsman 系列核心轴体，通过光路变化实现深度感应：
+
+- 可调触发距离：0.1mm – 4.0mm
+- 第2代轴体出厂预润滑，手感更顺滑
+- 支持 Rapid Trigger 快速触发模式
+
+### 3.2 Razer™ 机械轴（Mechanical Switches）
+
+BlackWidow 系列自研机械轴，已迭代至 Gen-3：
+
+- 绿轴 / 黄轴 / 触感橙轴多种手感
+- 轴体寿命 8000 万次至 1 亿次敲击
+- V4 75% 起支持 3-pin / 5-pin 热插拔
+
+### 3.3 Razer™ 光学矮轴（Low-Profile Optical Switches）
+
+DeathStalker 系列采用超薄光学矮轴，总行程仅 2.8mm，提供线性红轴与段落紫轴两种选择。
+
+### 3.4 竞技功能与生态
+
+- Razer Snap Tap：方向冲突处理，自动优先最近按下的方向
+- HyperPolling：真 8000Hz 回报率
+- Razer Chroma RGB：跨设备灯效生态
+- Razer Synapse 4：统一驱动与配置文件管理
+
+## 4. 全系键盘型号 (Product Lineup)
+
+| 系列 | 代表型号 | 配列 | 核心特色 | 状态 |
+|------|---------|------|----------|------|
+| Huntsman | Huntsman V3 Pro TKL / Full / Mini | TKL / 全尺寸 / 60% | 类比式光轴、8KHz HyperPolling、Snap Tap | 在售 |
+| BlackWidow | V4 / V4 X / V4 75% / V4 Pro / V4 Pro 75% / V4 TKL HyperSpeed / V4 Low-profile | 全尺寸 / 75% / TKL | Razer 机械轴、热插拔、无线 | 在售 |
+| DeathStalker | V2 / V2 Pro / V2 Pro TKL | 全尺寸 / TKL | 光学矮轴、超薄设计、HyperSpeed 无线 | 在售 |
+
+各型号详细参数见产品数据库 `product.md` 对应章节。
+
+## 5. 赛事影响力 (Esports Presence)
+
+- Huntsman V3 Pro TKL 在 2024 年 12 月被评为职业选手使用率第一的键盘
+- BlackWidow 系列自 2010 年以来长期是职业赛场主流选择，在 CS2、Valorant 等赛事中广泛使用
+- 雷蛇与全球众多顶级战队保持合作关系
+
+联名与特别版：
+
+| 联名 / 特别版 | 基础型号 | 年份 |
+|-------------|---------|------|
+| 《逃离鸭科夫》限定版 | BlackWidow V4 | 2026 |
+| 《三角洲行动》联名版 | BlackWidow V4 Pro 75% | 2026 |
+| EVA 2号机联名款 | BlackWidow V4 TKL HyperSpeed | 2026 |
+| 《鸣潮》达妮娅联名 | BlackWidow V4 TKL HyperSpeed | 2026 |
+
+## 6. 相关导航 (Navigation)
+
+Categories：
+Gaming Keyboard > Razer Keyboards
+
+Technologies：
+Razer Analog Optical Switches | Razer Mechanical Switches | Razer Low-Profile Optical Switches | Snap Tap | Rapid Trigger | Chroma RGB | HyperPolling
+
+See Also：
+Razer Huntsman V3 Pro TKL、Razer BlackWidow 系列、Razer DeathStalker 系列
+
+## 7. 参考资料 (References)
+
+| 来源 | 访问日期 |
+|------|----------|
+| Razer 官方网站 | 2026-08-04 |
+| Razer Huntsman V3 Pro TKL 官方产品页 | 2026-08-04 |
+| Razer BlackWidow V4 官方支持页 | 2026-08-04 |
+| Razer DeathStalker V2 官方产品页 | 2026-08-04 |
+| Prosettings.net 职业选手设备统计 | 2026-08-04 |
+
+---
+
+# Logitech G（罗技 G）
+
+```yaml
+Brand:
+  Name: "Logitech G（罗技 G）"
+  Logo: ""
+  Founded: "2013年"
+  Country: "瑞士 / 美国"
+  Category: "游戏外设 / 电竞装备"
+  Website: "https://www.logitechg.com"
+  Key_People: ""
+  Slogan: "Game. Set. Life."
+  Parent: "Logitech 罗技"
+```
+
+## 1. 品牌概述 (Overview)
+
+Logitech G（罗技 G）是罗技旗下的游戏装备品牌，覆盖键盘、鼠标、耳机等电竞外设。在键盘领域，罗技 G 以 LIGHTSPEED 低延迟无线技术、GX 机械轴与 TMR 磁轴技术为核心，产品线涵盖 PRO 专业电竞系列与 G512 X 模块化性能系列。
+
+2024 年，Logitech G PRO X TKL 成为 CS2、Valorant 职业赛场上使用率最高的无线键盘之一；2026 年发布的 G512 X 则通过 Dual Swap 双轴兼容技术，首次在同一把键盘上实现 TMR 磁轴与标准机械轴的混合使用。
+
+## 2. 发展历史 (History)
+
+| 年份 | 里程碑事件 |
+|------|-----------|
+| 2013 | Logitech G 游戏装备品牌成立 |
+| 2018 | Logitech G PRO 有线机械键盘发布，采用 Romer-G 轴体 |
+| 2020 | Logitech G PRO X 发布，首次引入热插拔轴体设计 |
+| 2021 | 推出 PRO X LIGHTSPEED 无线版本 G PRO X Wireless |
+| 2023 | G PRO X TKL 正式发布，换用 GX 机械轴，支持三模连接 |
+| 2024 | PRO X TKL 成为 CS2、Valorant 职业赛场上使用率最高的无线键盘之一 |
+| 2025 | 推出 PRO X TKL MAGNETIC 磁轴版本 |
+| 2026 | G512 X 发布，搭载 TMR 磁轴与 Dual Swap 双轴兼容技术 |
+
+## 3. 核心技术 (Key Technologies)
+
+### 3.1 LIGHTSPEED 无线技术
+
+罗技 G 核心无线方案，通过数据包传输协议优化与射频干扰屏蔽实现亚毫秒级延迟，性能接近有线连接，PRO X TKL 无线续航最长 50 小时（RGB 关闭）。
+
+### 3.2 GX 机械轴
+
+PRO 系列自研机械轴，提供 GX Red（线性）、GX Brown（段落）、GX Blue（有声段落）三种手感，轴体寿命约 7000 万次。
+
+### 3.3 TMR 穿隧磁阻磁轴
+
+G512 X 搭载罗技首款 TMR（穿隧磁阻）磁轴技术，无物理触点，可精确感知按键行程，支持 0.1mm – 4.0mm 可调触发与 Rapid Trigger。
+
+### 3.4 Dual Swap 双轴兼容
+
+G512 X 提供 39 个热插拔混合轴座，可同时兼容 TMR 磁轴与标准 3/5 脚机械轴，是业内首款支持模拟与机械开关混合使用的键盘。
+
+### 3.5 G HUB 与 LIGHTSYNC RGB
+
+统一驱动与灯效生态，支持板载配置文件、每键 RGB 与 TMR 磁轴参数调节。
+
+## 4. 全系键盘型号 (Product Lineup)
+
+| 系列 | 代表型号 | 配列 | 核心特色 | 状态 |
+|------|---------|------|----------|------|
+| PRO | G PRO X TKL | TKL | GX 机械轴、三模、LIGHTSPEED | 在售 |
+| PRO | G PRO X TKL MAGNETIC | TKL | 磁轴版本 | 在售 |
+| G512 X | G512 X 75 / G512 X 98 | 75% / 98% | TMR 磁轴 + 机械轴混搭、真 8KHz | 在售 |
+| 历史型号 | G PRO / G PRO X / G PRO X Wireless | 全尺寸 / TKL | Romer-G、热插拔、无线迭代 | 停产 / 更新换代 |
+
+各型号详细参数见产品数据库 `product.md` 对应章节。
+
+## 5. 赛事影响力 (Esports Presence)
+
+- PRO 系列与全球顶级职业选手联合开发，面向专业电竞场景调校
+- G PRO X TKL 在 2024 年成为 CS2、Valorant 职业赛场上使用率最高的无线键盘之一
+- LIGHTSPEED 无线技术在职业赛场中广泛使用
+
+## 6. 相关导航 (Navigation)
+
+Categories：
+Gaming Keyboard > Logitech G Keyboards
+
+Technologies：
+LIGHTSPEED | GX Mechanical Switches | TMR 磁轴 | Dual Swap | G HUB | LIGHTSYNC RGB
+
+See Also：
+Logitech G PRO X TKL、Logitech G G512 X 系列
+
+## 7. 参考资料 (References)
+
+| 来源 | 访问日期 |
+|------|----------|
+| Logitech G 官方网站 | 2026-08-04 |
+| Logitech G PRO X TKL 官方产品页 | 2026-08-04 |
+| Logitech G G512 X 官方产品页 | 2026-08-04 |
+| Game Keyboard Wiki 工作报告 | 2026-08-04 |
+
+---
+
+# DRY STUDIO
+
+```yaml
+Brand:
+  Name: "DRY STUDIO"
+  Logo: ""
+  Founded: ""
+  Country: "中国"
+  Category: "怒喵子品牌 / 高端客制化键盘 / 电竞磁轴"
+  Website: ""
+  Key_People: ""
+  Slogan: ""
+  Parent: "Angry Miao 怒喵"
+```
+
+## 1. 品牌概述 (Overview)
+
+DRY STUDIO 是怒喵（Angry Miao）旗下子品牌，主打超跑设计语言与高端客制化键盘，同时以 DRY STUDIO GAMING 布局电竞磁轴市场。其代表作 Black Diamond 75 V2 以 MANSORY Carbonado（改装版兰博基尼 Aventador）为设计灵感，采用锻造碳纤维 / CNC 铝合金机身与 Leaf-Spring 叶簧悬挂结构。
+
+DRY STUDIO GAMING 电竞产品线包括与联想拯救者联名的 ice ring 63 RT 磁轴键盘，以及主打 FPS 场景的 Battleye R2（74.5 配列、8KHz、1.7 英寸圆屏）。
+
+## 2. 发展历史 (History)
+
+| 年份 | 里程碑事件 |
+|------|-----------|
+| 2024 | Black Diamond 75 V2 发布，超跑设计客制化三模无线键盘 |
+| 2025 | DRY STUDIO GAMING 首款电竞磁轴 ice ring 63 RT 与联想拯救者联名发布 |
+| 2026 | Battleye R2 磁轴键盘发布，搭载 1.7 英寸圆屏与 74.5 配列 |
+
+## 3. 核心技术 (Key Technologies)
+
+### 3.1 超跑设计语言
+
+- 锻造碳纤维 / CNC 铝合金机身，整备重量 2.8kg – 3.0kg
+- 高透 CNC 亚克力上盖，模拟超跑透明引擎盖
+- 一体式掌托设计，模拟前唇扰流板
+
+### 3.2 Leaf-Spring 叶簧悬挂结构
+
+通过叶簧悬挂实现软弹手感，配合 FR4 定位板与多层消音填充（IXPE 轴下垫、Poron 泡棉、蜂窝硅胶垫）。
+
+### 3.3 速冰轴（Dry Studio × Gateron）
+
+Dry Studio 与 Gateron 联合定制线性机械轴，1.0mm 快速触发行程，全键热插拔。
+
+### 3.4 怒喵专有 2.4G 无线协议
+
+Black Diamond 75 V2 采用怒喵专有 2.4G 协议，端到端延迟低于 2ms，内置 5000mAh 电池，高配版支持 Qi 无线充电。
+
+### 3.5 电竞磁轴技术
+
+DRY STUDIO GAMING 磁轴产品支持 8KHz 回报率、0.001mm RT 精度与低至 0.1ms 的延迟，并提供行星齿轮 RT 配置快速切换。
+
+## 4. 全系键盘型号 (Product Lineup)
+
+| 系列 | 型号 | 配列 | 核心特色 | 状态 |
+|------|------|------|----------|------|
+| Black Diamond | Black Diamond 75 V2 | 75% | 速冰轴、Leaf-Spring、三模无线 | 在售 |
+| DRY STUDIO GAMING | ice ring 63 RT（联想拯救者联名） | 63 | 行星齿轮切换 4 种 RT 配置、TTC 轴体 | 在售 |
+| DRY STUDIO GAMING | ice ring 63 RT 蛇年限定款 | 63 | TTC 小青蛇万磁王轴 OG 版 | 限定 |
+| DRY STUDIO GAMING | Battleye R2 | 74.5 | 8KHz、1.7 英寸圆屏、FPS 优化 | 在售 |
+
+各型号详细参数见产品数据库 `product.md` 对应章节。
+
+## 5. 赛事影响力 (Esports Presence)
+
+- DRY STUDIO GAMING 以 ice ring 63 RT 与 Battleye R2 布局电竞磁轴市场
+- ice ring 63 RT 内置 4 个 RT 配置（日常冲浪、瓦罗兰特、CSGO、LOL），可通过行星齿轮快速切换
+- Battleye R2 专为 FPS 优化，74.5 配列保留完整 F 区
+
+合作方：
+
+| 合作方 | 合作内容 |
+|--------|----------|
+| 联想拯救者 | ice ring 63 RT 联名磁轴键盘 |
+| 联想 Yoga | Yoga Creative Keyboard 联名款 |
+
+## 6. 相关导航 (Navigation)
+
+Categories：
+Gaming Keyboard > Angry Miao Ecosystem > DRY STUDIO
+
+Technologies：
+速冰轴 | Leaf-Spring | 怒喵 2.4G 无线协议 | 8KHz 磁轴 | 0.001mm RT
+
+See Also：
+Angry Miao Battleye 74.5、Angry Miao CYBERBOARD R3、Angry Miao（怒喵）
+
+## 7. 参考资料 (References)
+
+| 来源 | 访问日期 |
+|------|----------|
+| Angry Miao 怒喵科技 - 百度百科 | 2026-08-04 |
+| Black Diamond 75 V2 产品页资料 | 2026-08-04 |
+| Battleye R2 - IT之家 | 2026-08-04 |
+| ice ring 63 RT - IT之家 | 2026-08-04 |

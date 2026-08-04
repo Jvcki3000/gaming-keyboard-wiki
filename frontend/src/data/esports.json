@@ -605,5 +605,60 @@
    ]
   ],
   "hasData": true
+ },
+ {
+  "id": "razer",
+  "title": "Razer（雷蛇）",
+  "name": "Razer",
+  "chinese": "雷蛇",
+  "rows": [
+   [
+    "联名 / 特别版",
+    "基础型号",
+    "年份"
+   ],
+   [
+    "《逃离鸭科夫》限定版",
+    "BlackWidow V4",
+    "2026"
+   ],
+   [
+    "《三角洲行动》联名版",
+    "BlackWidow V4 Pro 75%",
+    "2026"
+   ],
+   [
+    "EVA 2号机联名款",
+    "BlackWidow V4 TKL HyperSpeed",
+    "2026"
+   ],
+   [
+    "《鸣潮》达妮娅联名",
+    "BlackWidow V4 TKL HyperSpeed",
+    "2026"
+   ]
+  ],
+  "hasData": true
+ },
+ {
+  "id": "dry-studio",
+  "title": "DRY STUDIO",
+  "name": "DRY STUDIO",
+  "chinese": "",
+  "rows": [
+   [
+    "合作方",
+    "合作内容"
+   ],
+   [
+    "联想拯救者",
+    "ice ring 63 RT 联名磁轴键盘"
+   ],
+   [
+    "联想 Yoga",
+    "Yoga Creative Keyboard 联名款"
+   ]
+  ],
+  "hasData": true
  }
 ]
