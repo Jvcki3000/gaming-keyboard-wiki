@@ -3,11 +3,12 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const root = path.resolve(__dirname, '..');
-const outDir = path.join(root, 'src', 'data');
+const backendRoot = path.resolve(__dirname, '..');
+const frontendRoot = path.resolve(backendRoot, '..', 'frontend');
+const outDir = path.join(frontendRoot, 'src', 'data');
 
 function read(name) {
-  return fs.readFileSync(path.join(root, name), 'utf8');
+  return fs.readFileSync(path.join(backendRoot, 'data', name), 'utf8');
 }
 
 function writeJson(name, data) {
@@ -386,6 +387,15 @@ function parseProducts() {
     const switchText = pickSwitchField(fields);
     const switchTags = extractSwitchTags(product, switchText, specsSection ? specsSection.content : '', techSection ? techSection.content : '');
     const allContent = product.sections.map((s) => s.content).join('\n');
+    const category = categoryLabel(categoryRaw);
+    const categoryAliases =
+      {
+        磁轴: ['磁轴', '磁轴键盘', 'magnetic'],
+        光轴: ['光轴', '光轴键盘', 'optical'],
+        机械: ['机械', '机械轴', '机械键盘', 'mechanical'],
+        混合: ['混合', '混合轴', '机械轴', '磁轴', 'hybrid'],
+        其他: ['键盘', 'keyboard'],
+      }[category] || [];
 
     return {
       ...product,
@@ -393,8 +403,9 @@ function parseProducts() {
       infobox: fields,
       excerpt: overviewSection ? excerptOf(overviewSection.content) : '',
       meta: {
-        category: categoryLabel(categoryRaw),
+        category,
         categoryRaw,
+        categoryAliases,
         layout: layoutRaw,
         layoutGroup: layoutGroup(layoutRaw),
         switchText,
@@ -413,7 +424,7 @@ function parseProducts() {
         tags,
         categories,
       },
-      searchText: `${product.brand} ${product.name} ${product.excerpt} ${technologies.join(' ')} ${tags.join(' ')} ${switchTags.join(' ')}`.toLowerCase(),
+      searchText: `${product.brand} ${product.name} ${product.excerpt} ${technologies.join(' ')} ${tags.join(' ')} ${switchTags.join(' ')} ${categoryAliases.join(' ')}`.toLowerCase(),
       containsText: allContent,
     };
   });
@@ -788,7 +799,7 @@ const meta = {
     { date: '2026-08-02', text: '41 个产品 / 系列页面完成' },
     { date: '2026-08-02', text: '总页面数突破 55 个' },
   ],
-  hotTags: ['Rapid Trigger', 'Hall Effect', 'SOCD', '磁轴', '8KHz', 'Gasket', '热插拔', '无线', '60%', 'TKL', '客制化', 'FPS'],
+  hotTags: ['Rapid Trigger', 'Hall Effect', 'SOCD', '磁轴', '机械轴', '8KHz', 'Gasket', '热插拔', '无线', '60%', 'TKL', '客制化', 'FPS', 'MOBA'],
   sourceFiles: ['brand.md', 'product.md', '工作报告.md'],
 };
 

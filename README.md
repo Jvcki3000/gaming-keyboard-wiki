@@ -16,6 +16,7 @@
 需要 Node.js 18+ 或本机 Codex 内置运行时（v24）。
 
 ```bash
+cd frontend
 pnpm install
 pnpm data   # 重新解析 brand.md / product.md 并生成 src/data/*.json
 pnpm dev    # 启动开发服务器
@@ -24,12 +25,14 @@ pnpm dev    # 启动开发服务器
 本机可使用内置 Node 直接运行 Vite：
 
 ```powershell
+cd frontend
 & "$env:USERPROFILE\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe" node_modules/vite/bin/vite.js
 ```
 
 生产构建：
 
 ```bash
+cd frontend
 pnpm build
 ```
 
@@ -37,7 +40,23 @@ pnpm build
 
 ## 数据维护
 
-- 品牌档案维护在 `brand.md`
-- 产品 / 系列参数维护在 `product.md`
-- 更新后运行 `pnpm data` 重新生成站点数据
+- 品牌档案维护在 `backend/data/brand.md`
+- 产品 / 系列参数维护在 `backend/data/product.md`
+- 数据管线：`backend/scripts/build-data.mjs` 解析 Markdown 并生成 `frontend/src/data/*.json`
+- 更新数据后，在 `frontend/` 运行 `pnpm data` 重新生成站点数据
 - 内容遵循「信息来源可靠、验证严格、更新及时、立场中立、来源可溯」的维护规则
+
+## 目录结构
+
+```text
+gkeyboardwiki/
+├── frontend/          # 前端（React + Vite 站点）
+│   ├── src/           # 页面、组件、样式、生成后的数据 JSON
+│   ├── public/
+│   └── dist/          # 构建产物
+├── backend/           # 数据层
+│   ├── data/          # brand.md / product.md 内容源
+│   └── scripts/       # Markdown → JSON 解析脚本
+├── 工作报告.md          # 项目进度报告
+└── README.md
+```

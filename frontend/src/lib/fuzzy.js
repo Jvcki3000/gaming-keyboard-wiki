@@ -75,6 +75,7 @@ function buildIndex() {
         product.brand,
         `${product.brand} ${product.name}`,
         product.meta.category,
+        ...product.meta.categoryAliases,
         product.meta.layoutGroup,
         ...product.meta.technologies,
         ...product.meta.switchTags,

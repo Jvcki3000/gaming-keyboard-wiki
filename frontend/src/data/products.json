@@ -134,6 +134,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "Magnetic Keyboard（磁轴键盘）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "60%",
    "layoutGroup": "60%",
    "switchText": "Lekker Hall Effect Switch（L45 / L60）",
@@ -252,7 +257,7 @@
     "Gaming Keyboard > Magnetic Keyboard > Hall Effect Keyboard"
    ]
   },
-  "searchText": "wooting wooting 60he+ undefined hall effect rapid trigger analog input adjustable actuation magnetic #halleffect #rapidtrigger #analog #60% #wired #fps #esports #premium #wooting lekker 磁轴"
+  "searchText": "wooting wooting 60he+ undefined hall effect rapid trigger analog input adjustable actuation magnetic #halleffect #rapidtrigger #analog #60% #wired #fps #esports #premium #wooting lekker 磁轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "Wooting",
@@ -393,6 +398,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "Magnetic Keyboard（磁轴键盘）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "60%（61 键）",
    "layoutGroup": "60%",
    "switchText": "Lekker Tikken（Hall Effect）",
@@ -495,7 +505,7 @@
     "Gaming Keyboard > Magnetic Keyboard > Hall Effect Keyboard"
    ]
   },
-  "searchText": "wooting wooting 60he v2 undefined hall effect rapid trigger analog input adjustable actuation magnetic #halleffect #rapidtrigger #analog #60% #wired #fps #esports #premium #wooting #8khz lekker tikken lekker 磁轴"
+  "searchText": "wooting wooting 60he v2 undefined hall effect rapid trigger analog input adjustable actuation magnetic #halleffect #rapidtrigger #analog #60% #wired #fps #esports #premium #wooting #8khz lekker tikken lekker 磁轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "Wooting",
@@ -636,6 +646,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "Magnetic Keyboard（磁轴键盘）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "80%（TKL，约 87 键）",
    "layoutGroup": "TKL",
    "switchText": "Lekker L45 V2 / L60 V2（Hall Effect）",
@@ -741,7 +756,7 @@
     "Gaming Keyboard > Magnetic Keyboard > Hall Effect Keyboard > TKL Keyboard"
    ]
   },
-  "searchText": "wooting wooting 80he undefined hall effect rapid trigger rappy snappy socd analog input adjustable actuation magnetic #halleffect #rapidtrigger #rappysnappy #analog #tkl #80% #wired #fps #esports #premium #wooting #8khz lekker v2 磁轴 lekker 磁轴 gateron he 磁轴"
+  "searchText": "wooting wooting 80he undefined hall effect rapid trigger rappy snappy socd analog input adjustable actuation magnetic #halleffect #rapidtrigger #rappysnappy #analog #tkl #80% #wired #fps #esports #premium #wooting #8khz lekker v2 磁轴 lekker 磁轴 gateron he 磁轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "Logitech G",
@@ -878,6 +893,12 @@
   "meta": {
    "category": "机械",
    "categoryRaw": "Mechanical Keyboard（机械键盘）",
+   "categoryAliases": [
+    "机械",
+    "机械轴",
+    "机械键盘",
+    "mechanical"
+   ],
    "layout": "TKL（87 键）",
    "layoutGroup": "TKL",
    "switchText": "GX Red / GX Brown / GX Blue（机械轴）",
@@ -968,7 +989,7 @@
     "Gaming Keyboard > Mechanical Keyboard > Wireless Keyboard"
    ]
   },
-  "searchText": "logitech g logitech g pro x tkl undefined lightspeed gx mechanical switches lightsync rgb mechanical #wireless #tkl #fps #moba #esports #premium #international #logitechg gx 机械轴"
+  "searchText": "logitech g logitech g pro x tkl undefined lightspeed gx mechanical switches lightsync rgb mechanical #wireless #tkl #fps #moba #esports #premium #international #logitechg gx 机械轴 机械 机械轴 机械键盘 mechanical"
  },
  {
   "brand": "Logitech G",
@@ -1105,6 +1126,13 @@
   "meta": {
    "category": "混合",
    "categoryRaw": "Hybrid Gaming Keyboard（TMR 模拟 + 机械混合）",
+   "categoryAliases": [
+    "混合",
+    "混合轴",
+    "机械轴",
+    "磁轴",
+    "hybrid"
+   ],
    "layout": "75% / 98%",
    "layoutGroup": "75%",
    "switchText": "出厂预装机械轴（线性 / 段落可选），兼容 TMR 磁轴与标准 3/5 脚机械轴",
@@ -1200,7 +1228,7 @@
     "Gaming Keyboard > Hybrid Keyboard > TMR Analog Keyboard"
    ]
   },
-  "searchText": "logitech g logitech g g512 x (75 / 98) undefined dual swap tmr sensor rapid trigger socd sapp rings lightspeed lightsync rgb logitechg #hybrid #tmr #magnetic #rapidtrigger #socd #8khz #gasket #hotswap #75% #98% #fps #esports #premium #wired gateron ks-20 tmr 磁轴 tmr 磁轴"
+  "searchText": "logitech g logitech g g512 x (75 / 98) undefined dual swap tmr sensor rapid trigger socd sapp rings lightspeed lightsync rgb logitechg #hybrid #tmr #magnetic #rapidtrigger #socd #8khz #gasket #hotswap #75% #98% #fps #esports #premium #wired gateron ks-20 tmr 磁轴 tmr 磁轴 混合 混合轴 机械轴 磁轴 hybrid"
  },
  {
   "brand": "Razer",
@@ -1341,6 +1369,11 @@
   "meta": {
    "category": "光轴",
    "categoryRaw": "Analog Optical Gaming Keyboard（类比式光轴键盘）",
+   "categoryAliases": [
+    "光轴",
+    "光轴键盘",
+    "optical"
+   ],
    "layout": "TKL（80%，87键）",
    "layoutGroup": "TKL",
    "switchText": "Razer™ 第2代类比式光轴（Analog Optical Switches Gen-2）",
@@ -1443,7 +1476,7 @@
     "Gaming Keyboard > Optical Keyboard > Analog Keyboard"
    ]
   },
-  "searchText": "razer razer huntsman v3 pro tkl undefined razer analog optical switches rapid trigger razer snap tap adjustable actuation hyperpolling razer #huntsman #optical #analog #rapidtrigger #snaptap #8khz #tkl #fps #esports #premium #wired razer 类比式光轴"
+  "searchText": "razer razer huntsman v3 pro tkl undefined razer analog optical switches rapid trigger razer snap tap adjustable actuation hyperpolling razer #huntsman #optical #analog #rapidtrigger #snaptap #8khz #tkl #fps #esports #premium #wired razer 类比式光轴 光轴 光轴键盘 optical"
  },
  {
   "brand": "Razer",
@@ -1536,6 +1569,12 @@
   "meta": {
    "category": "机械",
    "categoryRaw": "Mechanical Gaming Keyboard Series（机械游戏键盘系列）",
+   "categoryAliases": [
+    "机械",
+    "机械轴",
+    "机械键盘",
+    "mechanical"
+   ],
    "layout": "",
    "layoutGroup": "其他",
    "switchText": "",
@@ -1567,7 +1606,7 @@
     "Gaming Keyboard > Mechanical Keyboard > Razer Keyboards"
    ]
   },
-  "searchText": "razer razer blackwidow 系列 undefined razer mechanical switches razer chroma rgb hyperpolling hot swap gasket mount razer snap tap razer #blackwidow #mechanical #hotswap #rgb #esports #premium #international #tkl #75% #fullsize razer 机械轴"
+  "searchText": "razer razer blackwidow 系列 undefined razer mechanical switches razer chroma rgb hyperpolling hot swap gasket mount razer snap tap razer #blackwidow #mechanical #hotswap #rgb #esports #premium #international #tkl #75% #fullsize razer 机械轴 机械 机械轴 机械键盘 mechanical"
  },
  {
   "brand": "Razer",
@@ -1660,6 +1699,11 @@
   "meta": {
    "category": "光轴",
    "categoryRaw": "超薄光学矮轴游戏键盘系列",
+   "categoryAliases": [
+    "光轴",
+    "光轴键盘",
+    "optical"
+   ],
    "layout": "",
    "layoutGroup": "其他",
    "switchText": "",
@@ -1689,7 +1733,7 @@
     "Gaming Keyboard > Optical Keyboard > Low-Profile Keyboard"
    ]
   },
-  "searchText": "razer razer deathstalker 系列 undefined razer low-profile optical switches razer hyperspeed wireless razer chroma rgb razer synapse 4 razer #deathstalker #噬魂金蝎 #optical #lowprofile #slim #wireless #rgb #esports #premium #international #tkl #fullsize razer 光学矮轴"
+  "searchText": "razer razer deathstalker 系列 undefined razer low-profile optical switches razer hyperspeed wireless razer chroma rgb razer synapse 4 razer #deathstalker #噬魂金蝎 #optical #lowprofile #slim #wireless #rgb #esports #premium #international #tkl #fullsize razer 光学矮轴 光轴 光轴键盘 optical"
  },
  {
   "brand": "SteelSeries",
@@ -1830,6 +1874,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "Magnetic Gaming Keyboard（磁轴游戏键盘）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "全尺寸 / TKL / 60% (Mini)",
    "layoutGroup": "60%",
    "switchText": "OmniPoint 3.0 Adjustable HyperMagnetic Switches（可调磁轴）",
@@ -1924,7 +1973,7 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "steelseries steelseries apex pro gen 3 undefined   omnipoint 3.0 磁轴 omnipoint 磁轴"
+  "searchText": "steelseries steelseries apex pro gen 3 undefined   omnipoint 3.0 磁轴 omnipoint 磁轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "SteelSeries",
@@ -2073,6 +2122,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "Magnetic Gaming Keyboard（磁轴游戏键盘）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "60% (61键)",
    "layoutGroup": "60%",
    "switchText": "OmniPoint 3.0 Adjustable HyperMagnetic Switches",
@@ -2161,7 +2215,7 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "steelseries steelseries apex pro mini gen 3 undefined   omnipoint 3.0 磁轴 omnipoint 磁轴"
+  "searchText": "steelseries steelseries apex pro mini gen 3 undefined   omnipoint 3.0 磁轴 omnipoint 磁轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "SteelSeries",
@@ -2294,6 +2348,13 @@
   "meta": {
    "category": "混合",
    "categoryRaw": "Hybrid Mechanical Gaming Keyboard",
+   "categoryAliases": [
+    "混合",
+    "混合轴",
+    "机械轴",
+    "磁轴",
+    "hybrid"
+   ],
    "layout": "全尺寸 (104键，美式ANSI / ISO可选)",
    "layoutGroup": "全尺寸",
    "switchText": "SteelSeries Hybrid Mechanical RGB Switch (Blue tactile)",
@@ -2385,7 +2446,7 @@
     "[[Gaming Keyboard]] > [[Hybrid Mechanical Keyboard]]"
    ]
   },
-  "searchText": "steelseries steelseries apex 5 undefined [[hybrid mechanical switch]] [[oled smart display]] [[steelseries engine 3]] steelseries #赛睿 #hybrid #mechanical #oled #rgb #fullsize #midrange #wired #discontinued hybrid mechanical 混合机械轴 cherry mx 机械轴"
+  "searchText": "steelseries steelseries apex 5 undefined [[hybrid mechanical switch]] [[oled smart display]] [[steelseries engine 3]] steelseries #赛睿 #hybrid #mechanical #oled #rgb #fullsize #midrange #wired #discontinued hybrid mechanical 混合机械轴 cherry mx 机械轴 混合 混合轴 机械轴 磁轴 hybrid"
  },
  {
   "brand": "SteelSeries",
@@ -2494,6 +2555,11 @@
   "meta": {
    "category": "光轴",
    "categoryRaw": "光学开关游戏键盘系列",
+   "categoryAliases": [
+    "光轴",
+    "光轴键盘",
+    "optical"
+   ],
    "layout": "",
    "layoutGroup": "其他",
    "switchText": "",
@@ -2548,7 +2614,7 @@
     "[[Gaming Keyboard]] > [[Optical Keyboard]] > [[Hot-swappable Keyboard]]"
    ]
   },
-  "searchText": "steelseries steelseries apex 9 系列 undefined [[optipoint optical switches]] [[hot-swappable switches]] [[2-point actuation]] [[steelseries gg]] steelseries #赛睿 #apex9 #optical #optipoint #tkl #60% #hotswap #pbt #rgb #esports #midrange #wired optipoint 光学开关"
+  "searchText": "steelseries steelseries apex 9 系列 undefined [[optipoint optical switches]] [[hot-swappable switches]] [[2-point actuation]] [[steelseries gg]] steelseries #赛睿 #apex9 #optical #optipoint #tkl #60% #hotswap #pbt #rgb #esports #midrange #wired optipoint 光学开关 光轴 光轴键盘 optical"
  },
  {
   "brand": "ASUS ROG",
@@ -2685,6 +2751,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "磁轴电竞键盘（Magnetic Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "65%（68键）",
    "layoutGroup": "65%",
    "switchText": "ROG HFX 磁轴（预润滑）",
@@ -2778,7 +2849,7 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[65% Keyboard]]"
    ]
   },
-  "searchText": "asus rog rog 魔导士 ace hfx undefined [[rog hfx magnetic switch]] [[hall effect]] [[rapid trigger]] [[speed tap]] [[socd]] [[adjustable actuation]] asusrog #rog #魔导士 #falchion #magnetic #halleffect #rapidtrigger #speedtap #65% #fps #esports #premium #wired #8000hz rog hfx 磁轴"
+  "searchText": "asus rog rog 魔导士 ace hfx undefined [[rog hfx magnetic switch]] [[hall effect]] [[rapid trigger]] [[speed tap]] [[socd]] [[adjustable actuation]] asusrog #rog #魔导士 #falchion #magnetic #halleffect #rapidtrigger #speedtap #65% #fps #esports #premium #wired #8000hz rog hfx 磁轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "ASUS ROG",
@@ -2911,6 +2982,12 @@
   "meta": {
    "category": "机械",
    "categoryRaw": "客制化无线机械键盘",
+   "categoryAliases": [
+    "机械",
+    "机械轴",
+    "机械键盘",
+    "mechanical"
+   ],
    "layout": "75%（81键）",
    "layoutGroup": "75%",
    "switchText": "ROG NX 机械轴（雪武白轴 / 冰暴灰轴）",
@@ -3009,7 +3086,7 @@
     "[[Gaming Keyboard]] > [[Mechanical Keyboard]] > [[Wireless Keyboard]] > [[75% Keyboard]] > [[Custom Keyboard]]"
    ]
   },
-  "searchText": "asus rog rog 夜魔 extreme undefined [[rog nx mechanical switch]] [[gasket mount]] [[carbon fiber plate]] [[oled display]] [[rog speednova]] [[aura sync]] asusrog #rog #夜魔 #azoth #extreme #mechanical #wireless #75% #gasket #carbonfiber #oled #8khz #premium #custom #limitededition rog nx 机械轴"
+  "searchText": "asus rog rog 夜魔 extreme undefined [[rog nx mechanical switch]] [[gasket mount]] [[carbon fiber plate]] [[oled display]] [[rog speednova]] [[aura sync]] asusrog #rog #夜魔 #azoth #extreme #mechanical #wireless #75% #gasket #carbonfiber #oled #8khz #premium #custom #limitededition rog nx 机械轴 机械 机械轴 机械键盘 mechanical"
  },
  {
   "brand": "ASUS ROG",
@@ -3158,6 +3235,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "磁轴电竞键盘（Magnetic Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "98%（96% 紧凑配列）",
    "layoutGroup": "98%",
    "switchText": "ROG HFX V2 第二代磁轴",
@@ -3259,7 +3341,7 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[98% Keyboard]]"
    ]
   },
-  "searchText": "asus rog rog 夜魔 98 he undefined [[rog hfx magnetic switch]] [[hall effect]] [[rapid trigger]] [[speed tap]] [[socd]] [[adjustable actuation]] [[rog speednova]] [[aura sync]] asusrog #rog #夜魔 #azoth #98he #magnetic #halleffect #rapidtrigger #8khz #98% #fps #esports #premium #wireless #oled rog hfx v2 磁轴 rog hfx 磁轴"
+  "searchText": "asus rog rog 夜魔 98 he undefined [[rog hfx magnetic switch]] [[hall effect]] [[rapid trigger]] [[speed tap]] [[socd]] [[adjustable actuation]] [[rog speednova]] [[aura sync]] asusrog #rog #夜魔 #azoth #98he #magnetic #halleffect #rapidtrigger #8khz #98% #fps #esports #premium #wireless #oled rog hfx v2 磁轴 rog hfx 磁轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "ASUS ROG",
@@ -3392,6 +3474,12 @@
   "meta": {
    "category": "机械",
    "categoryRaw": "客制化无线机械键盘",
+   "categoryAliases": [
+    "机械",
+    "机械轴",
+    "机械键盘",
+    "mechanical"
+   ],
    "layout": "75%（81键）",
    "layoutGroup": "75%",
    "switchText": "ROG NX 机械轴（红轴 / 茶轴 / 青轴 / 雪武白轴）",
@@ -3496,7 +3584,7 @@
     "[[Gaming Keyboard]] > [[Mechanical Keyboard]] > [[Wireless Keyboard]] > [[75% Keyboard]] > [[Custom Keyboard]]"
    ]
   },
-  "searchText": "asus rog rog 夜魔 标准版 undefined [[rog nx mechanical switch]] [[gasket mount]] [[oled display]] [[rog speednova]] [[aura sync]] [[hot swap]] asusrog #rog #夜魔 #azoth #mechanical #wireless #75% #gasket #oled #hotswap #premium #custom #pbt rog nx 机械轴"
+  "searchText": "asus rog rog 夜魔 标准版 undefined [[rog nx mechanical switch]] [[gasket mount]] [[oled display]] [[rog speednova]] [[aura sync]] [[hot swap]] asusrog #rog #夜魔 #azoth #mechanical #wireless #75% #gasket #oled #hotswap #premium #custom #pbt rog nx 机械轴 机械 机械轴 机械键盘 mechanical"
  },
  {
   "brand": "Corsair",
@@ -3629,6 +3717,12 @@
   "meta": {
    "category": "机械",
    "categoryRaw": "Stream Deck 集成式机械键盘",
+   "categoryAliases": [
+    "机械",
+    "机械轴",
+    "机械键盘",
+    "mechanical"
+   ],
    "layout": "全尺寸（87+12键 / 88+12键 / 91+12键）",
    "layoutGroup": "全尺寸",
    "switchText": "Corsair MLX Pulse 线性机械轴（预润滑）",
@@ -3728,7 +3822,7 @@
     "[[Gaming Keyboard]] > [[Mechanical Keyboard]] > [[Stream Deck Keyboard]] > [[Full Size Keyboard]]"
    ]
   },
-  "searchText": "corsair corsair galleon 100 sd undefined [[stream deck]] [[axon hyper-processing]] [[flashtap]] [[socd]] [[gasket mount]] [[hot swap]] [[corsair web hub]] corsair #海盗船 #galleon100sd #streamdeck #mechanical #8khz #flashtap #gasket #hotswap #fullsize #fps #streaming #premium #wired mlx pulse 机械轴"
+  "searchText": "corsair corsair galleon 100 sd undefined [[stream deck]] [[axon hyper-processing]] [[flashtap]] [[socd]] [[gasket mount]] [[hot swap]] [[corsair web hub]] corsair #海盗船 #galleon100sd #streamdeck #mechanical #8khz #flashtap #gasket #hotswap #fullsize #fps #streaming #premium #wired mlx pulse 机械轴 机械 机械轴 机械键盘 mechanical"
  },
  {
   "brand": "Corsair",
@@ -3865,6 +3959,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "TKL（80%，87键）",
    "layoutGroup": "TKL",
    "switchText": "CORSAIR MGX Hyperdrive / MGX V2 磁轴",
@@ -3965,7 +4064,7 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[TKL Keyboard]]"
    ]
   },
-  "searchText": "corsair corsair k70 pro tkl undefined [[mgx hyperdrive]] [[hall effect]] [[rapid trigger]] [[flashtap]] [[socd]] [[axon]] [[adjustable actuation]] corsair #海盗船 #k70protkl #magnetic #halleffect #rapidtrigger #flashtap #socd #8khz #tkl #fps #esports #premium #wired corsair mgx 磁轴 mlx plasma 机械轴"
+  "searchText": "corsair corsair k70 pro tkl undefined [[mgx hyperdrive]] [[hall effect]] [[rapid trigger]] [[flashtap]] [[socd]] [[axon]] [[adjustable actuation]] corsair #海盗船 #k70protkl #magnetic #halleffect #rapidtrigger #flashtap #socd #8khz #tkl #fps #esports #premium #wired corsair mgx 磁轴 mlx plasma 机械轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "MCHOSE",
@@ -4106,6 +4205,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "75%（81键）",
    "layoutGroup": "75%",
    "switchText": "火影磁轴 / 狂暴磁轴 / 宝马磁轴（三款定制磁轴可选）",
@@ -4205,7 +4309,7 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[75% Keyboard]]"
    ]
   },
-  "searchText": "mchose mchose ace 75 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[m hub]] mchose #迈从 #ace75 #magnetic #halleffect #rapidtrigger #socd #8khz #75% #fps #esports #budget #wired 火影磁轴 狂暴磁轴 宝马磁轴"
+  "searchText": "mchose mchose ace 75 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[m hub]] mchose #迈从 #ace75 #magnetic #halleffect #rapidtrigger #socd #8khz #75% #fps #esports #budget #wired 火影磁轴 狂暴磁轴 宝马磁轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "MCHOSE",
@@ -4346,6 +4450,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "60%（61键）",
    "layoutGroup": "60%",
    "switchText": "冰玉磁轴 / KTEK磁轴 / TTC天王磁轴SE版 / TTC天王磁轴标准版",
@@ -4440,7 +4549,7 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[60% Keyboard]]"
    ]
   },
-  "searchText": "mchose mchose ace 60 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[m hub]] mchose #迈从 #ace60 #magnetic #halleffect #rapidtrigger #socd #8khz #60% #fps #esports #budget #wired 冰玉磁轴 ktek 磁轴 ttc 天王磁轴"
+  "searchText": "mchose mchose ace 60 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[m hub]] mchose #迈从 #ace60 #magnetic #halleffect #rapidtrigger #socd #8khz #60% #fps #esports #budget #wired 冰玉磁轴 ktek 磁轴 ttc 天王磁轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "MCHOSE",
@@ -4581,6 +4690,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "65%（68键）",
    "layoutGroup": "65%",
    "switchText": "北极星磁轴 / 泰山磁轴 GT / 粉泰山磁轴 GT",
@@ -4681,7 +4795,7 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[65% Keyboard]]"
    ]
   },
-  "searchText": "mchose mchose ace 68 turbo undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[16khz polling rate]] [[m hub]] mchose #迈从 #ace68turbo #magnetic #halleffect #rapidtrigger #socd #16khz #65% #fps #esports #midrange #wired #fullaluminum 粉泰山磁轴 gt 泰山磁轴 gt 北极星磁轴"
+  "searchText": "mchose mchose ace 68 turbo undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[16khz polling rate]] [[m hub]] mchose #迈从 #ace68turbo #magnetic #halleffect #rapidtrigger #socd #16khz #65% #fps #esports #midrange #wired #fullaluminum 粉泰山磁轴 gt 泰山磁轴 gt 北极星磁轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "MCHOSE",
@@ -4826,6 +4940,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "高端磁轴电竞键盘（High-end Hall Effect Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "60%（61键）",
    "layoutGroup": "60%",
    "switchText": "磁悬浮轴（Maglev Switch）",
@@ -4920,7 +5039,7 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[60% Keyboard]] > [[Premium Keyboard]]"
    ]
   },
-  "searchText": "mchose mchose god 60 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[16khz polling rate]] [[m hub]] [[maglev switch]] mchose #迈从 #god60 #magnetic #halleffect #rapidtrigger #socd #16khz #60% #fps #esports #premium #wired #fullaluminum #cnc #ip联名 #凡人修仙传 磁悬浮轴"
+  "searchText": "mchose mchose god 60 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[16khz polling rate]] [[m hub]] [[maglev switch]] mchose #迈从 #god60 #magnetic #halleffect #rapidtrigger #socd #16khz #60% #fps #esports #premium #wired #fullaluminum #cnc #ip联名 #凡人修仙传 磁悬浮轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "ATK",
@@ -5065,6 +5184,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "75%（80键）",
    "layoutGroup": "75%",
    "switchText": "混元轴 / TTC 万磁王轴",
@@ -5164,7 +5288,7 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[75% Keyboard]]"
    ]
   },
-  "searchText": "atk atk rs7 turbo undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[atk hub]] atk #艾泰克 #rs7turbo #magnetic #halleffect #rapidtrigger #socd #8khz #75% #fps #esports #midrange #wired #semialuminum 混元轴 ttc 万磁王轴 烈风 ultra 磁轴"
+  "searchText": "atk atk rs7 turbo undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[atk hub]] atk #艾泰克 #rs7turbo #magnetic #halleffect #rapidtrigger #socd #8khz #75% #fps #esports #midrange #wired #semialuminum 混元轴 ttc 万磁王轴 烈风 ultra 磁轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "ATK",
@@ -5313,6 +5437,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "75%（81键）",
    "layoutGroup": "75%",
    "switchText": "利维坦Ultra轴 / 凯华×ATK烈刃磁轴 / 雪刃轴 / 晶刃轴",
@@ -5414,7 +5543,7 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[75% Keyboard]]"
    ]
   },
-  "searchText": "atk atk rs7 v2 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[atk hub]] atk #艾泰克 #rs7v2 #magnetic #halleffect #rapidtrigger #socd #8khz #75% #fps #esports #premium #wired #fullaluminum #cnc 利维坦 ultra 轴 凯华×atk 烈刃磁轴 雪刃轴 晶刃轴 烈风 ultra 磁轴"
+  "searchText": "atk atk rs7 v2 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[atk hub]] atk #艾泰克 #rs7v2 #magnetic #halleffect #rapidtrigger #socd #8khz #75% #fps #esports #premium #wired #fullaluminum #cnc 利维坦 ultra 轴 凯华×atk 烈刃磁轴 雪刃轴 晶刃轴 烈风 ultra 磁轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "ATK",
@@ -5563,6 +5692,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "68键（65%配列）",
    "layoutGroup": "65%",
    "switchText": "冰刃轴 PRO / 雪刃轴 PRO",
@@ -5657,7 +5791,7 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[65% Keyboard]]"
    ]
   },
-  "searchText": "atk atk rs6 ultra+ undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[atk hub]] atk #艾泰克 #rs6ultra+ #magnetic #halleffect #rapidtrigger #socd #8khz #65% #68键 #fps #esports #midrange #wired #fullaluminum #cnc #fr4 雪刃轴 冰刃轴 pro 烈风 ultra 磁轴"
+  "searchText": "atk atk rs6 ultra+ undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[atk hub]] atk #艾泰克 #rs6ultra+ #magnetic #halleffect #rapidtrigger #socd #8khz #65% #68键 #fps #esports #midrange #wired #fullaluminum #cnc #fr4 雪刃轴 冰刃轴 pro 烈风 ultra 磁轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "IQUNIX",
@@ -5801,6 +5935,12 @@
   "meta": {
    "category": "机械",
    "categoryRaw": "三模无线机械键盘（复古设计）",
+   "categoryAliases": [
+    "机械",
+    "机械轴",
+    "机械键盘",
+    "mechanical"
+   ],
    "layout": "83键（68键主区 + F区）",
    "layoutGroup": "其他",
    "switchText": "CHERRY MX RGB轴 / 其他客制化轴体",
@@ -5861,7 +6001,7 @@
     "[[Gaming Keyboard]] > [[Mechanical Keyboard]] > [[Wireless Keyboard]] > [[83% Keyboard]]"
    ]
   },
-  "searchText": "iqunix iqunix aver80 undefined [[hot-swappable]] [[pbt keycaps]] [[balanced bar stabilizer]] iqunix #铝厂 #a80 #aver80 #mechanical #wireless #三模 #83键 #复古 #热插拔 #rgb #pbt #midrange #discontinued cherry mx rgb 轴 cherry mx 机械轴"
+  "searchText": "iqunix iqunix aver80 undefined [[hot-swappable]] [[pbt keycaps]] [[balanced bar stabilizer]] iqunix #铝厂 #a80 #aver80 #mechanical #wireless #三模 #83键 #复古 #热插拔 #rgb #pbt #midrange #discontinued cherry mx rgb 轴 cherry mx 机械轴 机械 机械轴 机械键盘 mechanical"
  },
  {
   "brand": "IQUNIX",
@@ -6010,6 +6150,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "旗舰磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "60% + 方向键（63键）",
    "layoutGroup": "60%",
    "switchText": "凯华磁轴 / 星轨磁轴 / 磁玉轴 Pro",
@@ -6100,7 +6245,7 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[60% Keyboard]]"
    ]
   },
-  "searchText": "iqunix iqunix ev63 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[ez driver 3.0]] iqunix #铝厂 #ev63 #magnetic #halleffect #rapidtrigger #socd #8khz #60% #fps #esports #premium #wired #cnc 凯华磁轴 星轨磁轴 磁玉轴 pro gateron magnetic jade"
+  "searchText": "iqunix iqunix ev63 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[ez driver 3.0]] iqunix #铝厂 #ev63 #magnetic #halleffect #rapidtrigger #socd #8khz #60% #fps #esports #premium #wired #cnc 凯华磁轴 星轨磁轴 磁玉轴 pro gateron magnetic jade 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "IQUNIX",
@@ -6249,6 +6394,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "旗舰磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "75%（81 键，含完整 F 区 + F13 Delete 键）",
    "layoutGroup": "75%",
    "switchText": "神秘 X 轴 Ultra（Magnetic X Ultra）/ 磁玉轴 Pro",
@@ -6338,7 +6488,7 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[75% Keyboard]]"
    ]
   },
-  "searchText": "iqunix iqunix ez75 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[gasket mount]] iqunix #铝厂 #ez75 #magnetic #halleffect #rapidtrigger #socd #8khz #16khz #75% #fps #esports #premium #wired #fullaluminum #cnc 磁玉轴 pro 神秘 x 轴 ultra gateron magnetic jade"
+  "searchText": "iqunix iqunix ez75 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[gasket mount]] iqunix #铝厂 #ez75 #magnetic #halleffect #rapidtrigger #socd #8khz #16khz #75% #fps #esports #premium #wired #fullaluminum #cnc 磁玉轴 pro 神秘 x 轴 ultra gateron magnetic jade 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "IQUNIX",
@@ -6491,6 +6641,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "旗舰磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "TKL（87键，标准 80% 配列）",
    "layoutGroup": "TKL",
    "switchText": "磁玉轴 Pro / 神秘 X 轴（IQUNIX 定制 X Magnetic Switch）",
@@ -6584,7 +6739,7 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[TKL Keyboard]]"
    ]
   },
-  "searchText": "iqunix iqunix ez80 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[gasket mount]] iqunix #铝厂 #ez80 #magnetic #halleffect #rapidtrigger #socd #8khz #tkl #fps #esports #premium #wired #fullaluminum #cnc #1.6kg 磁玉轴 pro 神秘 x 轴 ultra"
+  "searchText": "iqunix iqunix ez80 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[gasket mount]] iqunix #铝厂 #ez80 #magnetic #halleffect #rapidtrigger #socd #8khz #tkl #fps #esports #premium #wired #fullaluminum #cnc #1.6kg 磁玉轴 pro 神秘 x 轴 ultra 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "Keychron",
@@ -6717,6 +6872,12 @@
   "meta": {
    "category": "机械",
    "categoryRaw": "三模无线机械键盘（Wireless Mechanical Keyboard）",
+   "categoryAliases": [
+    "机械",
+    "机械轴",
+    "机械键盘",
+    "mechanical"
+   ],
    "layout": "75%（84键）",
    "layoutGroup": "75%",
    "switchText": "Keychron Apex 轴（红轴/茶轴/香蕉轴）",
@@ -6788,7 +6949,7 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "keychron keychron k2 ultra 8k undefined   keychron apex 轴"
+  "searchText": "keychron keychron k2 ultra 8k undefined   keychron apex 轴 机械 机械轴 机械键盘 mechanical"
  },
  {
   "brand": "Keychron",
@@ -6917,6 +7078,12 @@
   "meta": {
    "category": "机械",
    "categoryRaw": "三模无线机械键盘（Wireless Mechanical Keyboard）",
+   "categoryAliases": [
+    "机械",
+    "机械轴",
+    "机械键盘",
+    "mechanical"
+   ],
    "layout": "TKL（80%，87键）",
    "layoutGroup": "TKL",
    "switchText": "Keychron Apex 轴（红轴/茶轴/香蕉轴）",
@@ -6988,7 +7155,7 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "keychron keychron k8 ultra 8k undefined   keychron apex 轴"
+  "searchText": "keychron keychron k8 ultra 8k undefined   keychron apex 轴 机械 机械轴 机械键盘 mechanical"
  },
  {
   "brand": "Keychron",
@@ -7121,6 +7288,12 @@
   "meta": {
    "category": "机械",
    "categoryRaw": "三模无线机械键盘（Wireless Mechanical Keyboard）",
+   "categoryAliases": [
+    "机械",
+    "机械轴",
+    "机械键盘",
+    "mechanical"
+   ],
    "layout": "75%（81键，含旋钮）",
    "layoutGroup": "75%",
    "switchText": "Keychron Silk POM 轴（红轴/茶轴/香蕉轴）",
@@ -7198,7 +7371,7 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "keychron keychron v1 ultra 8k undefined   keychron silk pom 轴"
+  "searchText": "keychron keychron v1 ultra 8k undefined   keychron silk pom 轴 机械 机械轴 机械键盘 mechanical"
  },
  {
   "brand": "Keychron",
@@ -7335,6 +7508,12 @@
   "meta": {
    "category": "机械",
    "categoryRaw": "三模无线机械键盘（Wireless Custom Mechanical Keyboard）",
+   "categoryAliases": [
+    "机械",
+    "机械轴",
+    "机械键盘",
+    "mechanical"
+   ],
    "layout": "75%（81键，含独立音量旋钮）",
    "layoutGroup": "75%",
    "switchText": "Keychron Silk POM 系列轴体（红轴/茶轴/香蕉轴）",
@@ -7423,7 +7602,7 @@
     "[[Gaming Keyboard]] > [[Mechanical Keyboard]] > [[Wireless Keyboard]] > [[75% Keyboard]]"
    ]
   },
-  "searchText": "keychron keychron q1 ultra 8k undefined [[zmk firmware]] [[8000hz polling rate]] [[keychron launcher]] [[keychron silk pom switch]] [[gasket mount]] [[6-layer damping]] keychron #渴创 #q1ultra #8khz #zmk #75% #三模 #无线 #机械键盘 #rgb #hotswap #pbt #premium #全铝 #cnc keychron silk pom 轴"
+  "searchText": "keychron keychron q1 ultra 8k undefined [[zmk firmware]] [[8000hz polling rate]] [[keychron launcher]] [[keychron silk pom switch]] [[gasket mount]] [[6-layer damping]] keychron #渴创 #q1ultra #8khz #zmk #75% #三模 #无线 #机械键盘 #rgb #hotswap #pbt #premium #全铝 #cnc keychron silk pom 轴 机械 机械轴 机械键盘 mechanical"
  },
  {
   "brand": "VGN",
@@ -7560,6 +7739,12 @@
   "meta": {
    "category": "机械",
    "categoryRaw": "三模无线机械键盘（客制化机械键盘）",
+   "categoryAliases": [
+    "机械",
+    "机械轴",
+    "机械键盘",
+    "mechanical"
+   ],
    "layout": "98%（100键）",
    "layoutGroup": "98%",
    "switchText": "极地狐轴 / 冰川Pro轴 / 奶牛Pro轴 / 动力金Pro轴 / 夜魔Pro轴 / 风信子Pro轴 / 闪电金轴",
@@ -7652,7 +7837,7 @@
     "[[Gaming Keyboard]] > [[Mechanical Keyboard]] > [[Wireless Keyboard]] > [[98% Keyboard]]"
    ]
   },
-  "searchText": "vgn vgn v98pro v4 undefined [[gasket mount]] [[hot-swappable]] [[5-layer damping]] [[v hub]] vgn #微技 #v98prov4 #mechanical #wireless #三模 #98% #100键 #gasket #热插拔 #rgb #pbt #点阵屏 #10000mah #midrange 极地狐轴 冰川 pro 轴 奶牛 pro 轴 动力金 pro 轴 夜魔 pro 轴 风信子 pro 轴 闪电金轴"
+  "searchText": "vgn vgn v98pro v4 undefined [[gasket mount]] [[hot-swappable]] [[5-layer damping]] [[v hub]] vgn #微技 #v98prov4 #mechanical #wireless #三模 #98% #100键 #gasket #热插拔 #rgb #pbt #点阵屏 #10000mah #midrange 极地狐轴 冰川 pro 轴 奶牛 pro 轴 动力金 pro 轴 夜魔 pro 轴 风信子 pro 轴 闪电金轴 机械 机械轴 机械键盘 mechanical"
  },
  {
   "brand": "VGN",
@@ -7785,6 +7970,12 @@
   "meta": {
    "category": "机械",
    "categoryRaw": "三模无线机械键盘（客制化机械键盘）",
+   "categoryAliases": [
+    "机械",
+    "机械轴",
+    "机械键盘",
+    "mechanical"
+   ],
    "layout": "TKL（87键）",
    "layoutGroup": "TKL",
    "switchText": "阿尼亚轴（提前线性轴）",
@@ -7872,7 +8063,7 @@
     "[[Gaming Keyboard]] > [[Mechanical Keyboard]] > [[Wireless Keyboard]] > [[TKL Keyboard]]"
    ]
   },
-  "searchText": "vgn vgn v87pro undefined [[gasket mount]] [[hot-swappable]] [[5-layer damping]] [[smart speed]] [[vgn hub]] vgn #微技 #v87pro #mechanical #wireless #三模 #tkl #87键 #gasket #热插拔 #rgb #pbt #阿尼亚轴 #8000mah #midrange 阿尼亚轴"
+  "searchText": "vgn vgn v87pro undefined [[gasket mount]] [[hot-swappable]] [[5-layer damping]] [[smart speed]] [[vgn hub]] vgn #微技 #v87pro #mechanical #wireless #三模 #tkl #87键 #gasket #热插拔 #rgb #pbt #阿尼亚轴 #8000mah #midrange 阿尼亚轴 机械 机械轴 机械键盘 mechanical"
  },
  {
   "brand": "VGN",
@@ -8017,6 +8208,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "磁轴电竞键盘（Magnetic Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "68键（65%配列）",
    "layoutGroup": "65%",
    "switchText": "天霸轴 / 烈焰黄万磁王轴（TTC定制）",
@@ -8110,7 +8306,7 @@
     "[[Gaming Keyboard]] > [[Magnetic Keyboard]] > [[Hall Effect Keyboard]] > [[65% Keyboard]]"
    ]
   },
-  "searchText": "vgn vgn 闪电68 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[vhub 4.0]] vgn #微技 #闪电68 #magnetic #halleffect #rapidtrigger #socd #8khz #65% #68键 #fps #esports #midrange #wired #fullaluminum #cnc 天霸磁轴 ttc 烈焰黄万磁王轴"
+  "searchText": "vgn vgn 闪电68 undefined [[hall effect]] [[rapid trigger]] [[socd]] [[adjustable actuation]] [[vhub 4.0]] vgn #微技 #闪电68 #magnetic #halleffect #rapidtrigger #socd #8khz #65% #68键 #fps #esports #midrange #wired #fullaluminum #cnc 天霸磁轴 ttc 烈焰黄万磁王轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "VGN",
@@ -8255,6 +8451,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "磁轴电竞键盘（Magnetic Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "65%（68键）",
    "layoutGroup": "65%",
    "switchText": "天霸轴 / 神启轴 / 昆仑轴",
@@ -8340,7 +8541,7 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "vgn vgn 霓虹 68 undefined   cherry mx 机械轴 天霸磁轴 神启轴 昆仑轴"
+  "searchText": "vgn vgn 霓虹 68 undefined   cherry mx 机械轴 天霸磁轴 神启轴 昆仑轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "Angry Miao",
@@ -8489,6 +8690,11 @@
   "meta": {
    "category": "磁轴",
    "categoryRaw": "磁轴电竞键盘（Hall Effect Gaming Keyboard）",
+   "categoryAliases": [
+    "磁轴",
+    "磁轴键盘",
+    "magnetic"
+   ],
    "layout": "74.5%（63键 + 完整F区）",
    "layoutGroup": "其他",
    "switchText": "定制八宝库里南轴（AngryMiao Ver.）",
@@ -8571,7 +8777,7 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "angry miao angry miao battleye 74.5 undefined   八宝库里南轴"
+  "searchText": "angry miao angry miao battleye 74.5 undefined   八宝库里南轴 磁轴 磁轴键盘 magnetic"
  },
  {
   "brand": "Angry Miao",
@@ -8724,6 +8930,12 @@
   "meta": {
    "category": "机械",
    "categoryRaw": "客制化三模无线机械键盘（Custom Wireless Mechanical Keyboard）",
+   "categoryAliases": [
+    "机械",
+    "机械轴",
+    "机械键盘",
+    "mechanical"
+   ],
    "layout": "75%（81键）",
    "layoutGroup": "75%",
    "switchText": "速冰轴（Dry Studio × Gateron 联合定制）",
@@ -8801,7 +9013,7 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "angry miao dry studio black diamond 75 v2 undefined   速冰轴"
+  "searchText": "angry miao dry studio black diamond 75 v2 undefined   速冰轴 机械 机械轴 机械键盘 mechanical"
  },
  {
   "brand": "Angry Miao",
@@ -8934,6 +9146,12 @@
   "meta": {
    "category": "机械",
    "categoryRaw": "客制化无线机械键盘（Custom Wireless Mechanical Keyboard）",
+   "categoryAliases": [
+    "机械",
+    "机械轴",
+    "机械键盘",
+    "mechanical"
+   ],
    "layout": "标准 64 键 / 87 键 / 104 键",
    "layoutGroup": "其他",
    "switchText": "",
@@ -9009,6 +9227,6 @@
    "tags": [],
    "categories": []
   },
-  "searchText": "angry miao angry miao cyberboard r3 undefined   "
+  "searchText": "angry miao angry miao cyberboard r3 undefined    机械 机械轴 机械键盘 mechanical"
  }
 ]

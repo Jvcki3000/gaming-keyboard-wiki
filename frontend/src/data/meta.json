@@ -58,6 +58,7 @@
   "Hall Effect",
   "SOCD",
   "磁轴",
+  "机械轴",
   "8KHz",
   "Gasket",
   "热插拔",
@@ -65,7 +66,8 @@
   "60%",
   "TKL",
   "客制化",
-  "FPS"
+  "FPS",
+  "MOBA"
  ],
  "sourceFiles": [
   "brand.md",
