@@ -22,6 +22,8 @@ pnpm data   # 重新解析 brand.md / product.md 并生成 src/data/*.json
 pnpm dev    # 启动开发服务器
 ```
 
+也可以在项目根目录直接运行 `pnpm dev`、`pnpm data`、`pnpm build`（已配置转发到 `frontend/`）。
+
 本机可使用内置 Node 直接运行 Vite：
 
 ```powershell

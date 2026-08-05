@@ -1,0 +1,10 @@
+{
+  "name": "gkeyboardwiki",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --dir frontend dev",
+    "build": "pnpm --dir frontend build",
+    "preview": "pnpm --dir frontend preview",
+    "data": "pnpm --dir frontend data"
+  }
+}
