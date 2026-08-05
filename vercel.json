@@ -1,0 +1,7 @@
+{
+  "rootDirectory": "frontend",
+  "framework": "vite",
+  "installCommand": "pnpm install",
+  "buildCommand": "pnpm build",
+  "outputDirectory": "dist"
+}
